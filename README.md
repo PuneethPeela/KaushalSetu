@@ -1,6 +1,8 @@
 # KaushalSetu — Predictive Skill Demand & Training Recommendation Platform
 *"From Skill Gaps to Future-Ready Workforce."*
 
+🌐 **Live Deployment Link:** [https://261d432402c9cce0-122-179-43-162.serveousercontent.com](https://261d432402c9cce0-122-179-43-162.serveousercontent.com)
+
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PuneethPeela/KaushalSetu)
 
 **New here / not a programmer? Read `SETUP.md` instead of this file — it's the plain-language version.**

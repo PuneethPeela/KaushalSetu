@@ -1,0 +1,1097 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KaushalSetu — AI-Powered Skill Intelligence & Demand Forecasting</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root, [data-theme="dark"]{
+    --ink:#0B1220;
+    --surface:#101a30;
+    --surface-2:#131c33;
+    --line:#25314A;
+    --line-soft:#1b2740;
+    --paper:#F5F3EE;
+    --muted:#8D97AF;
+    --muted-2:#5f6a85;
+    --amber:#F2A93B;
+    --coral:#F2545B;
+    --teal:#2FBF9F;
+    --radius-lg: 18px;
+    --radius-sm: 10px;
+  }
+  [data-theme="light"]{
+    --ink:#F4F2ED;
+    --surface:#FFFFFF;
+    --surface-2:#F7F5F0;
+    --line:#DDD8CC;
+    --line-soft:#E7E3D9;
+    --paper:#1C1A15;
+    --muted:#6B6558;
+    --muted-2:#948D7C;
+    --amber:#B8791F;
+    --coral:#C43B44;
+    --teal:#1E8A6F;
+    --radius-lg: 18px;
+    --radius-sm: 10px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--ink);
+    color:var(--paper);
+    font-family:'Inter',sans-serif;
+    -webkit-font-smoothing:antialiased;
+    min-height:100vh;
+    transition: background .2s ease, color .2s ease;
+  }
+  body, body *{ transition: background-color .2s ease, border-color .2s ease, color .2s ease; }
+  h1,h2,h3,.serif{font-family:'Fraunces',serif;}
+  a{color:inherit;}
+
+  .app{display:flex; min-height:100vh;}
+
+  /* ---------- SIDEBAR ---------- */
+  .rail{
+    width:230px; flex-shrink:0;
+    border-right:1px solid var(--line-soft);
+    padding:28px 18px;
+    display:flex; flex-direction:column;
+    gap:34px;
+  }
+  .brand{padding:0 6px;}
+  .brand .mark{
+    font-family:'Fraunces',serif; font-weight:600; font-size:19px; letter-spacing:-0.01em;
+    white-space:nowrap;
+  }
+  .brand .mark span{color:var(--amber);}
+  .brand .tag{color:var(--muted-2); font-size:11.5px; margin-top:4px; line-height:1.4;}
+
+  .pipeline{display:flex; flex-direction:column; gap:2px;}
+  .pipeline .step{
+    display:flex; align-items:center; gap:11px;
+    padding:10px 8px; border-radius:var(--radius-sm);
+    cursor:pointer; position:relative;
+    color:var(--muted); font-size:13.5px; font-weight:500;
+    transition:background .15s ease, color .15s ease;
+  }
+  .pipeline .step:hover{background:var(--surface-2); color:var(--paper);}
+  .pipeline .step.active{background:var(--surface-2); color:var(--paper);}
+  .pipeline .step.active .dot{background:var(--amber); box-shadow:0 0 0 3px rgba(242,169,59,0.18);}
+  .pipeline .step .num{
+    width:20px; height:20px; border-radius:50%;
+    border:1px solid var(--line); display:flex; align-items:center; justify-content:center;
+    font-size:10.5px; color:var(--muted-2); flex-shrink:0;
+  }
+  .pipeline .step.active .num{border-color:var(--amber); color:var(--amber);}
+  .pipeline .connector{width:1px; height:10px; background:var(--line); margin-left:19px;}
+
+  .rail-footer{margin-top:auto; padding:0 6px;}
+  .rail-footer .loc{
+    font-size:12px; color:var(--muted-2); border-top:1px solid var(--line-soft); padding-top:16px;
+    line-height:1.6;
+  }
+  .rail-footer .loc b{color:var(--muted); font-weight:600;}
+
+  /* ---------- MAIN ---------- */
+  .main{flex:1; min-width:0; padding:32px 44px 60px;}
+  .topbar{
+    display:flex; justify-content:space-between; align-items:flex-end;
+    margin-bottom:32px; gap:24px; flex-wrap:wrap;
+  }
+  .topbar h1{font-size:28px; font-weight:600; margin:0 0 6px; letter-spacing:-0.01em;}
+  .topbar .sub{color:var(--muted); font-size:14px; max-width:520px; line-height:1.55;}
+  .horizon{
+    display:flex; gap:6px; background:var(--surface); border:1px solid var(--line-soft);
+    padding:4px; border-radius:999px;
+  }
+  .horizon button{
+    border:none; background:transparent; color:var(--muted); font-family:'Inter'; font-size:12.5px;
+    font-weight:600; padding:7px 14px; border-radius:999px; cursor:pointer;
+  }
+  .horizon button.active{background:var(--amber); color:#20150a;}
+
+  .theme-toggle{
+    display:flex; gap:4px; background:var(--surface-2); border:1px solid var(--line-soft);
+    padding:3px; border-radius:999px; margin:0 6px 18px;
+  }
+  .theme-toggle button{
+    flex:1; border:none; background:transparent; color:var(--muted); font-family:'Inter'; font-size:11.5px;
+    font-weight:600; padding:6px 4px; border-radius:999px; cursor:pointer;
+  }
+  .theme-toggle button.active{background:var(--amber); color:#20150a;}
+
+  .diff-strip{
+    display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin-bottom:22px;
+  }
+  .diff-card{
+    border:1px solid var(--line-soft); border-radius:var(--radius-sm); padding:16px;
+    background:var(--surface);
+  }
+  .diff-card .diff-title{font-size:13px; font-weight:600; margin-bottom:6px; color:var(--paper);}
+  .diff-card .diff-body{font-size:12px; color:var(--muted); line-height:1.5;}
+  @media (max-width:980px){ .diff-strip{grid-template-columns:1fr 1fr;} }
+
+  .axis-label{
+    font-size:11px; color:var(--muted-2); letter-spacing:0.02em;
+  }
+  .axis-label.y-axis{
+    writing-mode:vertical-rl; transform:rotate(180deg); position:absolute; left:-2px; top:10px; bottom:10px;
+    display:flex; align-items:center;
+  }
+  .chart-frame{position:relative; padding-left:16px;}
+  .chart-x-label{text-align:center; margin-top:6px;}
+
+  .modeled-badge{
+    display:inline-block; font-size:10.5px; font-weight:600; color:var(--muted-2);
+    border:1px dashed var(--line); border-radius:6px; padding:2px 8px; margin-left:8px;
+  }
+
+  .skill-search-wrap{position:relative; margin-bottom:16px;}
+  .skill-search-wrap input{
+    width:100%; background:var(--surface); color:var(--paper); border:1px solid var(--line-soft);
+    border-radius:10px; padding:11px 14px; font-family:'Inter'; font-size:13.5px;
+  }
+  .skill-search-wrap .hint{font-size:11.5px; color:var(--muted-2); margin-top:6px;}
+  .skill-dropdown{
+    position:absolute; top:calc(100% + 4px); left:0; right:0; max-height:240px; overflow-y:auto;
+    background:var(--surface-2); border:1px solid var(--line-soft); border-radius:10px; z-index:20;
+    display:none;
+  }
+  .skill-dropdown.open{display:block;}
+  .skill-dropdown div{padding:9px 14px; font-size:13px; cursor:pointer;}
+  .skill-dropdown div:hover{background:var(--line-soft);}
+
+  .view{display:none;}
+  .view.active{display:block;}
+
+  /* ---------- CARD PRIMITIVES ---------- */
+  .card{
+    background:var(--surface); border:1px solid var(--line-soft); border-radius:var(--radius-lg);
+    padding:24px;
+  }
+  .card-flat{
+    background:transparent; border:1px solid var(--line-soft); border-radius:var(--radius-sm);
+    padding:18px;
+  }
+  .label{
+    font-size:11.5px; color:var(--muted-2); font-weight:600; letter-spacing:0.02em;
+  }
+  .grid-2{display:grid; grid-template-columns:1.35fr 1fr; gap:20px;}
+  .grid-3{display:grid; grid-template-columns:repeat(3,1fr); gap:16px;}
+  @media (max-width:980px){ .grid-2{grid-template-columns:1fr;} .grid-3{grid-template-columns:1fr;} }
+
+  /* ---------- OVERVIEW: HERO TIMELINE ---------- */
+  .hero{
+    border:1px solid var(--line-soft); border-radius:var(--radius-lg);
+    background:linear-gradient(180deg, #101a30 0%, #0d1526 100%);
+    padding:30px 32px 22px; margin-bottom:22px; position:relative; overflow:hidden;
+  }
+  .hero-top{display:flex; justify-content:space-between; align-items:flex-start; gap:20px; margin-bottom:26px;}
+  .hero-skill{font-size:26px; font-weight:600;}
+  .hero-skill .place{color:var(--muted); font-weight:400; font-size:15px; margin-top:4px; font-family:'Inter';}
+  .conf-badge{
+    text-align:right;
+  }
+  .conf-badge .num{font-family:'Fraunces'; font-size:30px; color:var(--amber); font-weight:600; line-height:1;}
+  .conf-badge .lbl{color:var(--muted-2); font-size:11.5px; margin-top:4px;}
+
+  .timeline{position:relative; height:140px; margin:0 4px 8px;}
+  .timeline svg{width:100%; height:100%; overflow:visible;}
+  .tl-labels{display:flex; justify-content:space-between; margin-top:10px; padding:0 2px;}
+  .tl-labels .pt{text-align:center; font-size:11.5px; color:var(--muted-2); width:70px;}
+  .tl-labels .pt b{display:block; color:var(--paper); font-size:13px; margin-top:3px; font-weight:600;}
+  .tl-labels .pt.now b{color:var(--paper);}
+  .tl-labels .pt.future b{color:var(--amber);}
+
+  .status-pill{
+    display:inline-flex; align-items:center; gap:6px; padding:5px 12px; border-radius:999px;
+    font-size:12px; font-weight:600; border:1px solid;
+  }
+  .status-pill.critical{color:var(--coral); border-color:rgba(242,84,91,0.4); background:rgba(242,84,91,0.08);}
+  .status-pill.shortage{color:var(--amber); border-color:rgba(242,169,59,0.4); background:rgba(242,169,59,0.08);}
+  .status-pill.balanced{color:var(--teal); border-color:rgba(47,191,159,0.4); background:rgba(47,191,159,0.08);}
+  .status-pill.over{color:var(--muted); border-color:var(--line); background:rgba(255,255,255,0.02);}
+  .status-pill .d{width:6px; height:6px; border-radius:50%; background:currentColor;}
+
+  /* ---------- RANK LIST ---------- */
+  .rank-row{
+    display:grid; grid-template-columns:22px 1fr auto 90px; align-items:center; gap:14px;
+    padding:13px 4px; border-bottom:1px solid var(--line-soft); cursor:pointer;
+  }
+  .rank-row:last-child{border-bottom:none;}
+  .rank-row:hover{background:rgba(255,255,255,0.015);}
+  .rank-row .idx{color:var(--muted-2); font-size:12px;}
+  .rank-row .name{font-size:14px; font-weight:500;}
+  .rank-row .name small{display:block; color:var(--muted-2); font-size:11.5px; font-weight:400; margin-top:2px;}
+  .rank-row .trend{font-size:12.5px; font-weight:600;}
+  .rank-row .trend.up{color:var(--teal);}
+  .rank-row .trend.down{color:var(--coral);}
+  .bar-track{height:5px; background:var(--line-soft); border-radius:4px; overflow:hidden;}
+  .bar-fill{height:100%; border-radius:4px;}
+
+  /* ---------- FORECAST VIEW ---------- */
+
+
+  .chart-wrap{padding:8px 6px 0;}
+  .why-list{display:flex; flex-direction:column; gap:0;}
+  .why-row{
+    display:flex; justify-content:space-between; align-items:center; padding:11px 0;
+    border-bottom:1px solid var(--line-soft); font-size:13.5px;
+  }
+  .why-row:last-child{border-bottom:none;}
+  .why-row .k{color:var(--muted);}
+  .why-row .v{font-weight:600;}
+  .why-row .v.pos{color:var(--teal);}
+  .why-row .v.neg{color:var(--coral);}
+
+  /* ---------- GAP VIEW ---------- */
+  .gap-row{
+    display:grid; grid-template-columns:200px 1fr 140px; gap:20px; align-items:center;
+    padding:16px 0; border-bottom:1px solid var(--line-soft);
+  }
+  .gap-row:last-child{border-bottom:none;}
+  .gap-row .skill-name{font-weight:600; font-size:14px;}
+  .gap-row .skill-name small{display:block; color:var(--muted-2); font-weight:400; font-size:11.5px; margin-top:3px;}
+  .gap-bars{display:flex; flex-direction:column; gap:6px;}
+  .gap-bars .row{display:flex; align-items:center; gap:10px;}
+  .gap-bars .tag{width:64px; font-size:11px; color:var(--muted-2); flex-shrink:0;}
+  .gap-bars .track{flex:1; height:9px; background:var(--line-soft); border-radius:5px; overflow:hidden;}
+  .gap-bars .fill{height:100%; border-radius:5px;}
+  .gap-bars .val{width:52px; text-align:right; font-size:12px; color:var(--muted); flex-shrink:0;}
+
+  /* ---------- RECOMMENDATION CARD ---------- */
+  .rec-card{
+    border:1px solid rgba(242,84,91,0.35); border-radius:var(--radius-lg);
+    background:linear-gradient(135deg, rgba(242,84,91,0.06), rgba(242,169,59,0.04));
+    padding:28px; margin-bottom:20px;
+  }
+  .rec-head{display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:22px; flex-wrap:wrap; gap:12px;}
+  .rec-head h2{font-size:22px; margin:0 0 6px; font-weight:600;}
+  .rec-head .where{color:var(--muted); font-size:13.5px;}
+  .rec-stats{display:grid; grid-template-columns:repeat(4,1fr); gap:0; border-top:1px solid var(--line-soft); border-bottom:1px solid var(--line-soft); margin-bottom:22px;}
+  .rec-stat{padding:16px 18px; border-right:1px solid var(--line-soft);}
+  .rec-stat:last-child{border-right:none;}
+  .rec-stat .n{font-family:'Fraunces'; font-size:26px; font-weight:600;}
+  .rec-stat .l{color:var(--muted-2); font-size:11.5px; margin-top:4px;}
+  .rec-body{display:grid; grid-template-columns:1fr 1fr; gap:24px;}
+  .rec-body .col .h{font-size:12.5px; font-weight:600; color:var(--muted); margin-bottom:10px;}
+  .chip-list{display:flex; flex-wrap:wrap; gap:8px;}
+  .chip{
+    padding:6px 12px; border-radius:8px; font-size:12.5px; border:1px solid var(--line-soft); background:var(--surface-2);
+  }
+  .chip.add::before{content:"+ "; color:var(--teal);}
+
+  /* ---------- DISTRICTS ---------- */
+  .district-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(210px,1fr)); gap:14px;}
+  .district-card{
+    border:1px solid var(--line-soft); border-radius:var(--radius-sm); padding:18px; cursor:pointer;
+    transition:border-color .15s ease, background .15s ease;
+  }
+  .district-card:hover{border-color:var(--muted-2);}
+  .district-card.selected{border-color:var(--amber); background:rgba(242,169,59,0.05);}
+  .district-card .dn{font-weight:600; font-size:15px; margin-bottom:2px;}
+  .district-card .dr{color:var(--muted-2); font-size:11.5px; margin-bottom:14px;}
+  .district-card .metric{display:flex; justify-content:space-between; font-size:12px; margin-bottom:6px; color:var(--muted);}
+  .district-card .metric b{color:var(--paper);}
+
+  .detail-panel{margin-top:24px;}
+  .top-skill-line{
+    display:flex; justify-content:space-between; align-items:center; padding:10px 0; border-bottom:1px solid var(--line-soft); font-size:13.5px;
+  }
+  .top-skill-line:last-child{border-bottom:none;}
+
+  footer.note{
+    margin-top:40px; padding-top:18px; border-top:1px solid var(--line-soft);
+    color:var(--muted-2); font-size:12px; line-height:1.6;
+  }
+</style>
+</head>
+<body>
+<div class="app">
+
+  <!-- SIDEBAR -->
+  <div class="rail">
+    <div class="brand">
+      <div class="mark">Kaushal<span>Setu</span></div>
+      <div class="tag">"From Skill Gaps to<br>Future-Ready Workforce"</div>
+    </div>
+
+    <div class="pipeline">
+      <div class="step active" data-view="overview"><div class="num">1</div>Demand Overview</div>
+      <div class="connector"></div>
+      <div class="step" data-view="differentiation"><div class="num">2</div>Differentiation</div>
+      <div class="connector"></div>
+      <div class="step" data-view="forecast"><div class="num">3</div>Future Prediction</div>
+      <div class="connector"></div>
+      <div class="step" data-view="gap"><div class="num">4</div>Skill Gap</div>
+      <div class="connector"></div>
+      <div class="step" data-view="recommend"><div class="num">5</div>Recommendation</div>
+      <div class="connector"></div>
+      <div class="step" data-view="curriculum"><div class="num">6</div>Curriculum</div>
+      <div class="connector"></div>
+      <div class="step" data-view="districts"><div class="num">7</div>Districts</div>
+      <div class="connector"></div>
+      <div class="step" data-view="simulator"><div class="num">8</div>What-If Simulator</div>
+    </div>
+
+    <div class="rail-footer">
+      <div class="theme-toggle" id="theme-toggle">
+        <button data-theme-choice="dark">Dark</button>
+        <button data-theme-choice="light">Light</button>
+        <button data-theme-choice="system">System</button>
+      </div>
+      <div class="loc" id="rail-footer-text"><b>Live dataset</b><br>Maharashtra · loading…</div>
+    </div>
+  </div>
+
+  <!-- MAIN -->
+  <div class="main">
+
+    <!-- ============ OVERVIEW ============ -->
+    <div class="view active" id="view-overview">
+      <div class="topbar">
+        <div>
+          <h1>Demand overview</h1>
+          <div class="sub">What the market is asking for right now, and where it's heading. Every number below is drawn from extracted job-posting skills, not a static list.</div>
+        </div>
+      </div>
+
+      <div class="hero">
+        <div class="hero-top">
+          <div>
+            <div class="hero-skill" id="hero-skill-name">—</div>
+            <div class="place" id="hero-place">—</div>
+          </div>
+          <div class="conf-badge">
+            <div class="num" id="hero-confidence">—</div>
+            <div class="lbl">Prediction confidence</div>
+          </div>
+        </div>
+
+        <div style="margin-bottom:18px;">
+          <select id="hero-skill-select" style="width:100%; max-width:340px; background:var(--surface-2); color:var(--paper); border:1px solid var(--line-soft); border-radius:8px; padding:9px 12px; font-family:'Inter'; font-size:13px;"></select>
+          <span style="color:var(--muted-2); font-size:12px; margin-left:10px;">Pick any of the skills found in your data to see its own demand graph</span>
+        </div>
+
+        <div class="chart-frame">
+          <div class="axis-label y-axis">Relative demand index (0–100+)</div>
+          <div class="timeline">
+            <svg id="hero-svg" viewBox="0 0 900 140" preserveAspectRatio="none"></svg>
+          </div>
+        </div>
+        <div class="tl-labels" id="hero-labels"></div>
+        <div class="axis-label chart-x-label">Time — weekly postings (solid) → predicted horizon (dashed)</div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <div class="label" style="margin-bottom:14px;">CURRENT DEMAND RANKING — MAHARASHTRA</div>
+          <div id="rank-list"></div>
+        </div>
+
+        <div class="card">
+          <div class="label" style="margin-bottom:14px;">PIPELINE, RUN ON YOUR 8 DATASETS</div>
+          <div style="display:flex; flex-direction:column; gap:14px; font-size:13px; color:var(--muted); line-height:1.5;" id="pipeline-stats">
+          </div>
+        </div>
+      </div>
+
+      <div class="card" style="margin-top:16px;">
+        <div class="label" style="margin-bottom:4px;">SKILL GROWTH LEADERS — MULTI-YEAR TREND (SKILLS TAXONOMY)</div>
+        <div style="font-size:12px; color:var(--muted-2); margin-bottom:14px; line-height:1.5;">
+          Sourced from the national skills taxonomy's own tracked growth rate, not your 90-day job-posting
+          window — so it also surfaces skills like <b style="color:var(--paper);">C++</b> and
+          <b style="color:var(--paper);">Machine Learning</b> that haven't appeared in a Maharashtra posting
+          yet but are tracked as growing nationally. Bars marked "no local postings yet" have zero presence
+          in your current job-posting data.
+        </div>
+        <div id="growth-overview-list"></div>
+      </div>
+    </div>
+
+    <!-- ============ DIFFERENTIATION ============ -->
+    <div class="view" id="view-differentiation">
+      <div class="topbar">
+        <div>
+          <h1>What makes this different</h1>
+          <div class="sub">Most workforce dashboards report what's already short-staffed. This system is built around one different question: what will be short-staffed next, and what do we do about it today?</div>
+        </div>
+      </div>
+
+      <div class="diff-strip">
+        <div class="diff-card">
+          <div class="diff-title">Predicts, doesn't just report</div>
+          <div class="diff-body">Combines skill-level growth, district sector growth, employer-reported gaps, and emerging-tech signals into one forward-looking score at 6/12/24-month horizons — instead of only counting today's job postings.</div>
+        </div>
+        <div class="diff-card">
+          <div class="diff-title">Ends in an action, not a chart</div>
+          <div class="diff-body">Every flagged shortage converts into a concrete number: additional seats, trainers, and labs, plus whether the skill needs a brand-new curriculum module or just more capacity in an existing course.</div>
+        </div>
+        <div class="diff-card">
+          <div class="diff-title">Explainable by design</div>
+          <div class="diff-body">Every prediction traces back to the real signals that produced it — growth rate, sector growth, skills gap, obsolescence risk — visible in the "Why this prediction" panel. No black-box score.</div>
+        </div>
+        <div class="diff-card">
+          <div class="diff-title">Curriculum checked against reality</div>
+          <div class="diff-body">Alignment is measured against skills that actually co-occur with a course's content in real job postings — not against someone's guess at an "ideal" syllabus.</div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="label" style="margin-bottom:14px;">TRADITIONAL SKILL-GAP DASHBOARD vs THIS SYSTEM</div>
+        <div class="gap-row" style="grid-template-columns:1fr 1fr; border-bottom:1px solid var(--line-soft); padding-bottom:12px; margin-bottom:4px;">
+          <div style="font-size:11.5px; font-weight:600; color:var(--muted-2);">TYPICAL DASHBOARD</div>
+          <div style="font-size:11.5px; font-weight:600; color:var(--amber);">THIS SYSTEM</div>
+        </div>
+        <div class="gap-row" style="grid-template-columns:1fr 1fr;">
+          <div style="font-size:13.5px; color:var(--muted);">Shows which skills are short-staffed right now</div>
+          <div style="font-size:13.5px; color:var(--paper);">Predicts which skills will be short-staffed in 6–24 months</div>
+        </div>
+        <div class="gap-row" style="grid-template-columns:1fr 1fr;">
+          <div style="font-size:13.5px; color:var(--muted);">Ends at a chart or a ranked list</div>
+          <div style="font-size:13.5px; color:var(--paper);">Ends at seats, trainers, labs, and a curriculum decision</div>
+        </div>
+        <div class="gap-row" style="grid-template-columns:1fr 1fr;">
+          <div style="font-size:13.5px; color:var(--muted);">A single "demand score" with no explanation</div>
+          <div style="font-size:13.5px; color:var(--paper);">Every score is traceable to the six signals behind it</div>
+        </div>
+        <div class="gap-row" style="grid-template-columns:1fr 1fr;">
+          <div style="font-size:13.5px; color:var(--muted);">Curriculum reviewed manually, occasionally</div>
+          <div style="font-size:13.5px; color:var(--paper);">Curriculum alignment recomputed automatically against live postings</div>
+        </div>
+        <div class="gap-row" style="grid-template-columns:1fr 1fr; border-bottom:none;">
+          <div style="font-size:13.5px; color:var(--muted);">Policy changes tested only after rollout</div>
+          <div style="font-size:13.5px; color:var(--paper);">What-if simulator tests a seat increase before committing budget</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ FORECAST ============ -->
+    <div class="view" id="view-forecast">
+      <div class="topbar">
+        <div>
+          <h1>Future demand prediction</h1>
+          <div class="sub">Forecast model output per skill, with the underlying signals shown — not a black box.</div>
+        </div>
+        <div class="horizon">
+          <button class="active" data-h="6">6 mo</button>
+          <button data-h="12">12 mo</button>
+          <button data-h="24">24 mo</button>
+        </div>
+      </div>
+
+      <div class="skill-search-wrap">
+        <input type="text" id="skill-search" placeholder="Search a skill — e.g. Java, TensorFlow, PyTorch, Deep Learning, SQL, Communication…" autocomplete="off">
+        <div class="skill-dropdown" id="skill-dropdown"></div>
+        <div class="hint" id="skill-search-hint"></div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <div class="label" style="margin-bottom:6px;">DEMAND TREND — <span id="fc-skill-name"></span></div>
+          <div class="chart-frame">
+            <div class="axis-label y-axis">Demand score (0–100+ scale)</div>
+            <div class="chart-wrap">
+              <svg viewBox="0 0 640 220" width="100%" style="overflow:visible;">
+                <line x1="0" y1="190" x2="640" y2="190" stroke="#25314A"/>
+                <polyline id="fc-hist" points="" fill="none" stroke="#F5F3EE" stroke-width="2.5"/>
+                <polyline id="fc-fut" points="" fill="none" stroke="#F2A93B" stroke-width="2.5" stroke-dasharray="6,6"/>
+              </svg>
+            </div>
+          </div>
+          <div class="axis-label chart-x-label">Time — real weekly postings (solid white) → predicted horizon (dashed amber)</div>
+        </div>
+        <div class="card">
+          <div class="label" style="margin-bottom:10px;">WHY THIS PREDICTION</div>
+          <div class="why-list" id="why-list"></div>
+        </div>
+      </div>
+
+      <div class="card" style="margin-top:16px;">
+        <div class="label" style="margin-bottom:4px;">
+          3-YEAR DEMAND TRAJECTORY <span class="modeled-badge">MODELED, NOT MEASURED</span>
+        </div>
+        <div style="font-size:12px; color:var(--muted-2); margin-bottom:14px; line-height:1.5;">
+          Your source data only covers ~90 days of real job postings — there is no genuine 3-4 year
+          history to plot. This chart instead back-calculates what the trend would look like if the
+          skill's current stated annual growth rate had held constant for the last 3 years. Treat it as
+          illustrative context, not a measured historical record.
+        </div>
+        <div class="chart-frame">
+          <div class="axis-label y-axis">Modeled demand score</div>
+          <div class="chart-wrap">
+            <svg viewBox="0 0 640 140" width="100%" style="overflow:visible;">
+              <line x1="0" y1="120" x2="640" y2="120" stroke="#25314A"/>
+              <polyline id="traj-line" points="" fill="none" stroke="#8D97AF" stroke-width="2.5" stroke-dasharray="4,4"/>
+            </svg>
+          </div>
+        </div>
+        <div class="tl-labels" id="traj-labels" style="margin-top:8px;"></div>
+      </div>
+    </div>
+
+    <!-- ============ GAP ============ -->
+    <div class="view" id="view-gap">
+      <div class="topbar">
+        <div>
+          <h1>Skill gap</h1>
+          <div class="sub">Predicted demand set against current training capacity. This is the comparison that decides where seats open next.</div>
+        </div>
+      </div>
+      <div class="card">
+        <div id="gap-list"></div>
+      </div>
+    </div>
+
+    <!-- ============ RECOMMEND ============ -->
+    <div class="view" id="view-recommend">
+      <div class="topbar">
+        <div>
+          <h1>Training recommendation</h1>
+          <div class="sub">Turning the predicted gap into a concrete, fundable action.</div>
+        </div>
+      </div>
+
+      <div class="rec-card">
+        <div class="rec-head">
+          <div>
+            <h2 id="rec-title">—</h2>
+            <div class="where" id="rec-where">—</div>
+          </div>
+          <span class="status-pill critical" id="rec-pill"><span class="d"></span>—</span>
+        </div>
+        <div class="rec-stats">
+          <div class="rec-stat"><div class="n" id="rec-seats">—</div><div class="l">ADDITIONAL SEATS</div></div>
+          <div class="rec-stat"><div class="n" id="rec-trainers">—</div><div class="l">TRAINERS</div></div>
+          <div class="rec-stat"><div class="n" id="rec-labs">—</div><div class="l">PRACTICAL LABS</div></div>
+          <div class="rec-stat"><div class="n" id="rec-conf">—</div><div class="l">CONFIDENCE</div></div>
+        </div>
+        <div class="rec-body" style="grid-template-columns:1fr;">
+          <div class="col">
+            <div class="h">CURRICULUM STATUS</div>
+            <div id="rec-curriculum" style="font-size:13.5px; color:var(--muted); line-height:1.6;"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card" style="margin-bottom:16px;">
+        <div class="label" style="margin-bottom:14px;">OTHER HIGH-PRIORITY RECOMMENDATIONS THIS CYCLE</div>
+        <div id="rec-other-list"></div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <div class="label" style="margin-bottom:12px;">HOW THE SEAT NUMBER WAS CALCULATED</div>
+          <div style="font-size:13.5px; line-height:1.7; color:var(--muted);">
+            Estimated demand (headcount) is derived from real posting volume scaled by the predicted
+            12-month growth multiplier, compared against actual available seats
+            (<code>total_capacity − current_enrollment</code>) at training centres offering a mapped course
+            for this skill. Trainers and labs use a placeholder ratio (60 seats/trainer, 300 seats/lab) —
+            tune this in <code>config.py</code> once real ratios are available.
+          </div>
+        </div>
+        <div class="card">
+          <div class="label" style="margin-bottom:12px;">A REAL OVERSUPPLY EXAMPLE FROM YOUR DATA</div>
+          <div style="font-size:14px; line-height:1.7; color:var(--muted);" id="rec-oversupply"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ CURRICULUM ============ -->
+    <div class="view" id="view-curriculum">
+      <div class="topbar">
+        <div>
+          <h1>Curriculum alignment</h1>
+          <div class="sub">Does each course actually teach what employers ask for alongside it? Alignment is measured against real co-occurring skills in job postings, not guessed.</div>
+        </div>
+      </div>
+      <div class="card">
+        <div id="curriculum-list"></div>
+      </div>
+      <footer class="note" id="curriculum-note"></footer>
+    </div>
+
+    <!-- ============ DISTRICTS ============ -->
+    <div class="view" id="view-districts">
+      <div class="topbar">
+        <div>
+          <h1>District intelligence</h1>
+          <div class="sub">Same pipeline, applied per district. Select one to see its priority skills and recommended action.</div>
+        </div>
+      </div>
+      <div class="district-grid" id="district-grid"></div>
+      <div class="card detail-panel" id="district-detail"></div>
+
+      <footer class="note">
+        Every number on this screen is computed from your 8 uploaded datasets by the KaushalSetu pipeline (M1–M4) — nothing here is placeholder. To refresh with new data: run <code>python run_pipeline.py</code>, then re-generate this dashboard from the new outputs.
+      </footer>
+    </div>
+
+    <!-- ============ SIMULATOR ============ -->
+    <div class="view" id="view-simulator">
+      <div class="topbar">
+        <div>
+          <h1>What-if simulator</h1>
+          <div class="sub">Test a capacity decision before making it. This recalculates live in your browser using the same gap logic as Module 3 — no server, no re-run needed.</div>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="card">
+          <div class="label" style="margin-bottom:14px;">CHOOSE A SKILL &amp; DISTRICT</div>
+          <select id="sim-select" style="width:100%; background:var(--surface-2); color:var(--paper); border:1px solid var(--line-soft); border-radius:8px; padding:10px 12px; font-family:'Inter'; font-size:13.5px; margin-bottom:20px;"></select>
+
+          <div class="label" style="margin-bottom:10px;">ADDITIONAL SEATS TO ADD</div>
+          <input type="range" id="sim-slider" min="0" max="1000" step="10" value="0" style="width:100%; accent-color:#F2A93B;">
+          <div style="display:flex; justify-content:space-between; margin-top:8px; font-size:12.5px; color:var(--muted);">
+            <span>0</span><span id="sim-slider-val" style="color:var(--paper); font-weight:600;">+0 seats</span><span>1000</span>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="label" style="margin-bottom:14px;">PROJECTED OUTCOME</div>
+          <div class="rec-stats" style="border:none;">
+            <div class="rec-stat" style="border-right:1px solid var(--line-soft); padding-left:0;"><div class="n" id="sim-before">—</div><div class="l">GAP BEFORE</div></div>
+            <div class="rec-stat"><div class="n" id="sim-after" style="color:var(--teal);">—</div><div class="l">GAP AFTER</div></div>
+            <div class="rec-stat"><div class="n" id="sim-trainers">—</div><div class="l">EXTRA TRAINERS NEEDED</div></div>
+            <div class="rec-stat"><div class="n" id="sim-labs">—</div><div class="l">EXTRA LABS NEEDED</div></div>
+          </div>
+          <div style="margin-top:16px;">
+            <span class="status-pill" id="sim-status"><span class="d"></span>—</span>
+          </div>
+        </div>
+      </div>
+
+      <footer class="note">
+        This uses the same thresholds as <code>config.py</code> (GAP_CRITICAL_RATIO, GAP_SHORTAGE_RATIO, SEATS_PER_TRAINER, SEATS_PER_LAB) applied client-side to the gap list already computed by the pipeline. It's a what-if on today's numbers, not a new forecast.
+      </footer>
+    </div>
+
+  </div>
+</div>
+
+<script id="kaushalsetu-data" type="application/json">__KAUSHALSETU_DATA_PLACEHOLDER__</script>
+<script>
+const DATA = JSON.parse(document.getElementById('kaushalsetu-data').textContent);
+
+const statusMeta = {
+  critical:{label:"Critical Shortage", color:"var(--coral)"},
+  shortage:{label:"Shortage", color:"var(--amber)"},
+  balanced:{label:"Balanced", color:"var(--teal)"},
+  over:{label:"Oversupply", color:"var(--muted-2)"}
+};
+
+let selectedSkillIdx = 0;
+let selectedDistrict = 0;
+let selectedHorizon = 6;
+
+// ---------------- OVERVIEW ----------------
+function renderPipelineStats(){
+  const s = DATA.stats;
+  document.getElementById('pipeline-stats').innerHTML = `
+    <div class="card-flat"><b style="color:var(--paper)">${s.postings.toLocaleString()}</b> job postings ingested &amp; deduplicated</div>
+    <div class="card-flat"><b style="color:var(--paper)">${s.skills}</b> distinct skills parsed from postings</div>
+    <div class="card-flat"><b style="color:var(--paper)">${s.districts}</b> districts with training-supply data</div>
+    <div class="card-flat"><b style="color:var(--coral)">${s.critical}</b> (skill, district) rows flagged critical shortage</div>
+  `;
+}
+
+function populateHeroSkillSelect(){
+  const sel = document.getElementById('hero-skill-select');
+  const names = DATA.forecast_skills.map(f => f.name).slice().sort((a,b)=>a.localeCompare(b));
+  sel.innerHTML = names.map(n => `<option value="${n}">${n}</option>`).join('');
+  sel.value = DATA.recommendation.skill;
+  sel.addEventListener('change', () => renderHero(sel.value));
+}
+
+function renderHero(skillName){
+  const name = skillName || DATA.recommendation.skill;
+  const primary = DATA.forecast_skills.find(f => f.name === name) || DATA.forecast_skills[0];
+
+  // find a real gap-list entry for this skill, if it's flagged anywhere (for status badge + district)
+  const gapMatch = DATA.gap_list.find(g => g.name === primary.name);
+  const isTopPick = primary.name === DATA.recommendation.skill;
+  const statusClass = gapMatch ? gapMatch.status : 'balanced';
+  const statusLabel = gapMatch ? statusMeta[gapMatch.status].label : 'No critical shortage flagged';
+  const placeText = gapMatch ? `${gapMatch.district} district` : 'across Maharashtra';
+
+  document.getElementById('hero-skill-name').innerHTML =
+    `${primary.name} <span class="status-pill ${statusClass}" style="margin-left:10px; vertical-align:middle;"><span class="d"></span>${statusLabel}</span>`;
+  document.getElementById('hero-place').textContent =
+    isTopPick ? `Highest-priority skill this cycle · ${placeText}` : `Selected skill · ${placeText}`;
+  document.getElementById('hero-confidence').textContent = primary.confidence + '%';
+
+  // build the timeline svg from real weekly history + 3 future points
+  const hist = primary.hist;
+  const futures = [primary.fut6, primary.fut12, primary.fut24];
+  const allVals = hist.concat(futures);
+  const maxV = Math.max(...allVals), minV = Math.min(...allVals);
+  const W = 900, H = 140, PAD = 10;
+  const totalPts = hist.length + futures.length;
+  const xStep = W / (totalPts - 1);
+  const yFor = v => PAD + (H - PAD*2) * (1 - (v - minV) / (maxV - minV + 1e-9));
+
+  const histPts = hist.map((v,i)=>`${(i*xStep).toFixed(1)},${yFor(v).toFixed(1)}`);
+  const futStartX = (hist.length-1)*xStep;
+  const futPts = [`${futStartX.toFixed(1)},${yFor(hist[hist.length-1]).toFixed(1)}`,
+    ...futures.map((v,i)=>`${((hist.length+i)*xStep).toFixed(1)},${yFor(v).toFixed(1)}`)];
+
+  const svg = document.getElementById('hero-svg');
+  svg.innerHTML = `
+    <defs><linearGradient id="fadeArea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F2A93B" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#F2A93B" stop-opacity="0"/>
+    </linearGradient></defs>
+    <line x1="0" y1="${H-10}" x2="${W}" y2="${H-10}" stroke="#25314A" stroke-width="1"/>
+    <polyline points="${histPts.join(' ')}" fill="none" stroke="#F5F3EE" stroke-width="2.5"/>
+    <polyline points="${futPts.join(' ')}" fill="none" stroke="#F2A93B" stroke-width="2.5" stroke-dasharray="6,6"/>
+    <polygon points="${futPts.join(' ')} ${W},${H-10} ${futStartX.toFixed(1)},${H-10}" fill="url(#fadeArea)"/>
+    <line x1="${futStartX.toFixed(1)}" y1="0" x2="${futStartX.toFixed(1)}" y2="${H-10}" stroke="#8D97AF" stroke-width="1" stroke-dasharray="3,4"/>
+    <circle cx="${futStartX.toFixed(1)}" cy="${yFor(hist[hist.length-1]).toFixed(1)}" r="5" fill="#F5F3EE"/>
+    <circle cx="${W}" cy="${yFor(futures[2]).toFixed(1)}" r="5" fill="#F2A93B"/>
+  `;
+
+  const bandFor = v => v>=90?'Very High':v>=65?'High':v>=35?'Medium':'Low';
+  document.getElementById('hero-labels').innerHTML = `
+    <div class="pt">${primary.periods[0]}<b>${bandFor(hist[0])}</b></div>
+    <div class="pt">${primary.periods[Math.floor(primary.periods.length/2)]}<b>${bandFor(hist[Math.floor(hist.length/2)])}</b></div>
+    <div class="pt now">Today<b>${bandFor(hist[hist.length-1])}</b></div>
+    <div class="pt">+6 mo<b style="color:#F2A93B">${bandFor(primary.fut6)}</b></div>
+    <div class="pt">+12 mo<b style="color:#F2A93B">${bandFor(primary.fut12)}</b></div>
+    <div class="pt future">+24 mo<b style="color:#F2A93B">${bandFor(primary.fut24)}</b></div>
+  `;
+}
+
+function renderRankList(){
+  const el = document.getElementById('rank-list');
+  const colorFor = t => t==='up' ? '#2FBF9F' : '#F2545B';
+  el.innerHTML = DATA.rank_list.map((s,i)=>`
+    <div class="rank-row">
+      <div class="idx">${i+1}</div>
+      <div class="name">${s.name}</div>
+      <div class="trend ${s.trend}">${s.trend==='up'?'↑':'↓'} ${s.trendVal}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${s.demand}%; background:${colorFor(s.trend)};"></div></div>
+    </div>
+  `).join('');
+}
+
+function renderGrowthOverview(){
+  const el = document.getElementById('growth-overview-list');
+  const rows = DATA.growth_overview || [];
+  if (!rows.length){ el.innerHTML = '<div style="color:var(--muted); font-size:13px;">No taxonomy growth data available.</div>'; return; }
+  const maxAbs = Math.max(...rows.map(r=>Math.abs(r.growth)), 1);
+  el.innerHTML = rows.map(r=>{
+    const isPos = r.growth >= 0;
+    const color = isPos ? 'var(--teal)' : 'var(--coral)';
+    const widthPct = Math.abs(r.growth)/maxAbs*100;
+    const badge = r.has_real_postings
+      ? `<span style="color:var(--muted-2); font-size:11px;">${r.postings} local postings</span>`
+      : `<span style="color:var(--amber); font-size:11px;">no local postings yet</span>`;
+    return `
+    <div class="rank-row" style="grid-template-columns:150px 1fr 70px;">
+      <div class="name">${r.skill}<small>${badge}</small></div>
+      <div class="bar-track"><div class="bar-fill" style="width:${widthPct}%; background:${color};"></div></div>
+      <div class="trend" style="color:${color}; text-align:right;">${isPos?'+':''}${r.growth}%</div>
+    </div>`;
+  }).join('');
+}
+
+// ---------------- FORECAST ----------------
+function populateSkillSearch(){
+  const input = document.getElementById('skill-search');
+  const dropdown = document.getElementById('skill-dropdown');
+  const hint = document.getElementById('skill-search-hint');
+
+  const missingTags = ['ai/ml','artificial intelligence','machine learning','c++'];
+  hint.textContent = `${DATA.forecast_skills.length} skills available from your data. Note: your dataset doesn't use the exact tags "AI/ML" or "C++" — for AI/ML work, try Deep Learning, TensorFlow, PyTorch, NLP, or Scikit-learn instead.`;
+
+  function showMatches(query){
+    const q = query.trim().toLowerCase();
+    const matches = DATA.forecast_skills
+      .map(s => s.name)
+      .filter(n => n.toLowerCase().includes(q))
+      .slice(0, 12);
+    if (!matches.length){
+      dropdown.innerHTML = `<div style="color:var(--muted-2); cursor:default;">No skill matching "${query}" in your data.</div>`;
+    } else {
+      dropdown.innerHTML = matches.map(n => `<div data-name="${n}">${n}</div>`).join('');
+      dropdown.querySelectorAll('div[data-name]').forEach(d => {
+        d.addEventListener('click', () => {
+          selectSkillByName(d.dataset.name);
+          dropdown.classList.remove('open');
+          input.value = d.dataset.name;
+        });
+      });
+    }
+    dropdown.classList.add('open');
+  }
+
+  input.addEventListener('focus', () => showMatches(input.value));
+  input.addEventListener('input', () => showMatches(input.value));
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.skill-search-wrap')) dropdown.classList.remove('open');
+  });
+
+  const first = DATA.forecast_skills[selectedSkillIdx];
+  input.value = first.name;
+}
+
+function selectSkillByName(name){
+  const idx = DATA.forecast_skills.findIndex(s => s.name === name);
+  if (idx >= 0){ selectedSkillIdx = idx; renderForecastChart(); }
+}
+
+function renderForecastChart(){
+  const s = DATA.forecast_skills[selectedSkillIdx];
+  document.getElementById('fc-skill-name').textContent = s.name;
+  const futKey = selectedHorizon===6 ? 'fut6' : selectedHorizon===12 ? 'fut12' : 'fut24';
+  const hist = s.hist;
+  const maxV = Math.max(...hist, s[futKey]), minV = Math.min(...hist, s[futKey], 0);
+  const yFor = v => 190 - 170 * (v - minV) / (maxV - minV + 1e-9);
+  const xStep = 640 / hist.length;
+
+  const histPts = hist.map((v,i)=>`${(i*xStep).toFixed(1)},${yFor(v).toFixed(1)}`).join(' ');
+  const futPts = `${((hist.length-1)*xStep).toFixed(1)},${yFor(hist[hist.length-1]).toFixed(1)} ${(hist.length*xStep).toFixed(1)},${yFor(s[futKey]).toFixed(1)}`;
+  document.getElementById('fc-hist').setAttribute('points', histPts);
+  document.getElementById('fc-fut').setAttribute('points', futPts);
+
+  const why = document.getElementById('why-list');
+  const taxonomyNote = s.in_taxonomy
+    ? ''
+    : `<div class="why-row"><span class="k">Taxonomy match</span><span class="v neg">Not in skills_taxonomy_india.csv — growth rate defaulted to neutral</span></div>`;
+  why.innerHTML = taxonomyNote + s.why.map(([k,v,cls])=>`
+    <div class="why-row"><span class="k">${k}</span><span class="v ${cls}">${v}</span></div>
+  `).join('') + `<div class="why-row"><span class="k">Predicted score, ${selectedHorizon}mo</span><span class="v pos">${s[futKey]} (${s.confidence}% confidence)</span></div>`;
+
+  renderTrajectory(s);
+}
+
+function renderTrajectory(s){
+  const traj = s.trajectory_3yr; // [3yr ago, 2yr ago, 1yr ago, today]
+  const maxV = Math.max(...traj), minV = Math.min(...traj, 0);
+  const yFor = v => 120 - 100 * (v - minV) / (maxV - minV + 1e-9);
+  const xStep = 640 / (traj.length - 1);
+  const pts = traj.map((v,i)=>`${(i*xStep).toFixed(1)},${yFor(v).toFixed(1)}`).join(' ');
+  document.getElementById('traj-line').setAttribute('points', pts);
+
+  const labels = ['3 years ago','2 years ago','1 year ago','Today'];
+  document.getElementById('traj-labels').innerHTML = traj.map((v,i)=>
+    `<div class="pt">${labels[i]}<b>${v}</b></div>`
+  ).join('');
+}
+
+// ---------------- GAP ----------------
+function renderGapList(){
+  const el = document.getElementById('gap-list');
+  el.innerHTML = DATA.gap_list.map(g=>{
+    const meta = statusMeta[g.status];
+    const max = Math.max(g.demand, g.supply, 1);
+    return `
+    <div class="gap-row">
+      <div class="skill-name">${g.name}<small>${g.district}</small></div>
+      <div class="gap-bars">
+        <div class="row"><div class="tag">Demand</div><div class="track"><div class="fill" style="width:${g.demand/max*100}%; background:#F5F3EE;"></div></div><div class="val">${g.demand}</div></div>
+        <div class="row"><div class="tag">Supply</div><div class="track"><div class="fill" style="width:${g.supply/max*100}%; background:#8D97AF;"></div></div><div class="val">${g.supply}</div></div>
+      </div>
+      <div style="text-align:right;">
+        <span class="status-pill ${g.status}"><span class="d"></span>${meta.label}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ---------------- RECOMMENDATION ----------------
+function renderRecommendation(){
+  const r = DATA.recommendation;
+  document.getElementById('rec-title').textContent = `${r.skill} — expand training capacity`;
+  document.getElementById('rec-where').innerHTML = `${r.district} district · Priority: <b style="color:var(--coral)">${r.priority}</b>`;
+  document.getElementById('rec-pill').innerHTML = `<span class="d"></span>${r.seats} seat gap`;
+  document.getElementById('rec-seats').textContent = '+' + r.seats;
+  document.getElementById('rec-trainers').textContent = '+' + r.trainers;
+  document.getElementById('rec-labs').textContent = '+' + r.labs;
+  document.getElementById('rec-conf').textContent = r.confidence + '%';
+  document.getElementById('rec-curriculum').innerHTML =
+    r.curriculum_status.includes('existing')
+      ? `<span class="chip add" style="display:inline-block;">${r.skill}</span> already appears in a mapped course — recommendation is to expand seats, not build new curriculum.`
+      : `<span class="chip" style="display:inline-block; border-color:var(--coral);">${r.skill}</span> is not taught in any currently-mapped course — this needs a new module, not just more seats.`;
+
+  document.getElementById('rec-other-list').innerHTML = DATA.other_recommendations.map(o => {
+    const priorityColor = o.priority === 'High' ? 'var(--coral)' : 'var(--amber)';
+    const curriculumNote = o.curriculum_status.includes('existing')
+      ? 'Expand existing course'
+      : 'Needs new curriculum module';
+    return `
+    <div class="gap-row" style="grid-template-columns:200px 1fr 90px 90px 90px 150px; align-items:center;">
+      <div class="skill-name">${o.skill}<small>${o.district}</small></div>
+      <div><span class="status-pill ${o.gap_status.includes('Critical') ? 'critical' : 'shortage'}"><span class="d"></span>${o.gap_status}</span></div>
+      <div style="text-align:center;"><b>+${o.seats}</b><br><span style="font-size:10.5px; color:var(--muted-2);">seats</span></div>
+      <div style="text-align:center;"><b>+${o.trainers}</b><br><span style="font-size:10.5px; color:var(--muted-2);">trainers</span></div>
+      <div style="text-align:center;"><b>+${o.labs}</b><br><span style="font-size:10.5px; color:var(--muted-2);">labs</span></div>
+      <div style="text-align:right; font-size:12px; color:${priorityColor};">${o.priority} priority<br><span style="color:var(--muted-2); font-size:11px;">${curriculumNote}</span></div>
+    </div>`;
+  }).join('');
+
+  const os = DATA.oversupply_example;
+  document.getElementById('rec-oversupply').innerHTML =
+    `<b style="color:var(--paper)">${os.skill}</b> in <b style="color:var(--paper)">${os.district}</b> —
+     estimated demand (${os.demand}) is well below available training seats (${os.supply}).
+     <span class="status-pill over" style="margin-top:8px;"><span class="d"></span>Oversupplied</span>`;
+}
+
+// ---------------- DISTRICTS ----------------
+function renderDistricts(){
+  const grid = document.getElementById('district-grid');
+  grid.innerHTML = DATA.districts.map((d,i)=>{
+    const meta = statusMeta[d.status];
+    return `
+    <div class="district-card ${i===selectedDistrict?'selected':''}" data-i="${i}">
+      <div class="dn">${d.name}</div>
+      <div class="dr">&nbsp;</div>
+      <div class="metric"><span>Top priority</span><b>${d.topSkill}</b></div>
+      <div class="metric"><span>Seat gap</span><b style="color:${meta.color}">+${d.gapSeats}</b></div>
+      <div class="metric"><span>Trainers / Labs needed</span><b>+${d.trainers} / +${d.labs}</b></div>
+    </div>`;
+  }).join('');
+  grid.querySelectorAll('.district-card').forEach(card=>{
+    card.addEventListener('click', ()=>{ selectedDistrict = parseInt(card.dataset.i); renderDistricts(); renderDistrictDetail(); });
+  });
+  renderDistrictDetail();
+}
+
+function renderDistrictDetail(){
+  const d = DATA.districts[selectedDistrict];
+  const meta = statusMeta[d.status];
+  const panel = document.getElementById('district-detail');
+  panel.innerHTML = `
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
+      <div class="label">${d.name.toUpperCase()} — PRIORITY SKILLS</div>
+      <span class="status-pill ${d.status}"><span class="d"></span>${meta.label} · +${d.gapSeats} seats</span>
+    </div>
+    ${d.priorities.map(([n,lvl])=>`<div class="top-skill-line"><span>${n}</span><span style="color:var(--muted);">${lvl}</span></div>`).join('')}
+  `;
+}
+
+// ---------------- CURRICULUM ----------------
+function renderCurriculum(){
+  const el = document.getElementById('curriculum-list');
+  const rows = DATA.curriculum_alignment || [];
+  if (!rows.length){
+    el.innerHTML = `<div style="color:var(--muted); font-size:13.5px;">No curriculum alignment data available — run <code>python src/m6_curriculum_alignment.py</code> to generate it.</div>`;
+    document.getElementById('curriculum-note').textContent = '';
+    return;
+  }
+  el.innerHTML = rows.map(r => {
+    const color = r.alignment < 30 ? 'var(--coral)' : r.alignment < 60 ? 'var(--amber)' : 'var(--teal)';
+    return `
+    <div class="gap-row" style="grid-template-columns:220px 1fr 90px;">
+      <div class="skill-name">${r.course}<small>${r.matched_postings} matching postings</small></div>
+      <div>
+        <div class="bar-track" style="margin-bottom:8px;"><div class="bar-fill" style="width:${r.alignment}%; background:${color};"></div></div>
+        <div class="chip-list">${r.missing.slice(0,6).map(m=>`<span class="chip" style="font-size:11.5px; padding:4px 9px;">${m}</span>`).join('')}</div>
+      </div>
+      <div style="text-align:right; font-family:'Fraunces'; font-size:20px; font-weight:600; color:${color};">${r.alignment}%</div>
+    </div>`;
+  }).join('');
+  document.getElementById('curriculum-note').innerHTML =
+    `Alignment = share of a course's real "in-demand skill bundle" (the skills most often requested alongside its taught skills in actual postings) that the course actually teaches. Chips show what's missing. Only courses with a curriculum mapping can be scored — see README for which ones lack this data.`;
+}
+
+// ---------------- SIMULATOR ----------------
+function populateSimSelect(){
+  const sel = document.getElementById('sim-select');
+  sel.innerHTML = DATA.gap_list.map((g,i) => `<option value="${i}">${g.name} — ${g.district}</option>`).join('');
+  sel.addEventListener('change', runSimulation);
+  document.getElementById('sim-slider').addEventListener('input', runSimulation);
+  runSimulation();
+}
+
+function runSimulation(){
+  const idx = parseInt(document.getElementById('sim-select').value || 0);
+  const addSeats = parseInt(document.getElementById('sim-slider').value || 0);
+  document.getElementById('sim-slider-val').textContent = `+${addSeats} seats`;
+
+  const g = DATA.gap_list[idx];
+  const before = g.demand - g.supply;
+  const newSupply = g.supply + addSeats;
+  const after = g.demand - newSupply;
+  const ratio = g.demand / Math.max(newSupply, 1);
+
+  let status, statusClass;
+  if (ratio >= 1.8) { status = 'Critical Shortage'; statusClass = 'critical'; }
+  else if (ratio >= 1.15) { status = 'Shortage'; statusClass = 'shortage'; }
+  else if (ratio <= 0.7) { status = 'Oversupply'; statusClass = 'over'; }
+  else { status = 'Balanced'; statusClass = 'balanced'; }
+
+  document.getElementById('sim-before').textContent = Math.max(before,0);
+  document.getElementById('sim-after').textContent = Math.max(after,0);
+  document.getElementById('sim-trainers').textContent = '+' + Math.max(1, Math.round(addSeats/60));
+  document.getElementById('sim-labs').textContent = addSeats > 0 ? Math.max(1, Math.round(addSeats/300)) : 0;
+  const pill = document.getElementById('sim-status');
+  pill.className = 'status-pill ' + statusClass;
+  pill.innerHTML = `<span class="d"></span>${status} after adding ${addSeats} seats`;
+}
+
+// ---------------- NAV ----------------
+document.querySelectorAll('.pipeline .step').forEach(step=>{
+  step.addEventListener('click', ()=>{
+    document.querySelectorAll('.pipeline .step').forEach(s=>s.classList.remove('active'));
+    document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
+    step.classList.add('active');
+    document.getElementById('view-'+step.dataset.view).classList.add('active');
+  });
+});
+
+document.querySelectorAll('.horizon button').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    document.querySelectorAll('.horizon button').forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    selectedHorizon = parseInt(btn.dataset.h);
+    renderForecastChart();
+  });
+});
+
+function renderRailFooter(){
+  const s = DATA.stats;
+  document.getElementById('rail-footer-text').innerHTML =
+    `<b>Live dataset</b><br>Maharashtra · ${s.districts} districts flagged<br>${s.postings.toLocaleString()} postings analyzed`;
+}
+
+// ---------------- THEME ----------------
+function applyTheme(choice){
+  const root = document.documentElement;
+  if (choice === 'system'){
+    const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    root.setAttribute('data-theme', prefersDark ? 'dark' : 'light');
+  } else {
+    root.setAttribute('data-theme', choice);
+  }
+  document.querySelectorAll('#theme-toggle button').forEach(b=>{
+    b.classList.toggle('active', b.dataset.themeChoice === choice);
+  });
+}
+
+document.querySelectorAll('#theme-toggle button').forEach(btn=>{
+  btn.addEventListener('click', ()=> applyTheme(btn.dataset.themeChoice));
+});
+
+applyTheme('dark'); // default on open — no persistence between sessions by design (see note in README)
+
+renderPipelineStats();
+populateHeroSkillSelect();
+renderHero();
+renderRankList();
+renderGrowthOverview();
+populateSkillSearch();
+renderForecastChart();
+renderGapList();
+renderRecommendation();
+renderCurriculum();
+renderDistricts();
+populateSimSelect();
+renderRailFooter();
+</script>
+</body>
+</html>

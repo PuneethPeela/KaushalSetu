@@ -1,0 +1,89 @@
+skill_name,district,gap_status,priority,estimated_demand_headcount,available_seats,additional_seats,additional_trainers,additional_labs,curriculum_status,confidence_12m,demand_band_12m
+Communication,Akola,Critical Shortage,High,220.0,8.0,212.0,4,1,Add to existing course,77,Very High
+Communication,Osmanabad,Critical Shortage,High,198.0,24.0,174.0,3,1,Add to existing course,77,Very High
+Communication,Latur,Critical Shortage,High,187.0,30.0,157.0,3,1,Add to existing course,77,Very High
+Communication,Bhiwandi,Critical Shortage,High,172.0,19.0,153.0,3,1,Add to existing course,77,Very High
+SQL,Parbhani,Critical Shortage,High,161.0,10.0,151.0,3,1,Add to existing course,85,High
+Communication,Solapur,Critical Shortage,High,201.0,64.0,137.0,2,1,Add to existing course,77,Very High
+Python,Parbhani,Critical Shortage,High,127.0,10.0,117.0,2,1,Add to existing course,78,Medium
+Tableau,Parbhani,Critical Shortage,High,122.0,10.0,112.0,2,1,Add to existing course,52,Low
+Safety Standards,Aurangabad,Critical Shortage,High,133.0,25.0,108.0,2,1,Add to existing course,77,High
+Excel,Parbhani,Critical Shortage,High,117.0,10.0,107.0,2,1,Add to existing course,77,Medium
+SQL,Pune,Critical Shortage,High,146.0,46.0,100.0,2,1,Add to existing course,85,Very High
+Safety Standards,Pune,Critical Shortage,High,117.0,24.0,93.0,2,1,Add to existing course,77,High
+Safety Standards,Parbhani,Critical Shortage,High,106.0,15.0,91.0,2,1,Add to existing course,77,Medium
+Safety Standards,Jalna,Critical Shortage,High,123.0,34.0,89.0,1,1,Add to existing course,77,Medium
+Power BI,Parbhani,Critical Shortage,High,93.0,10.0,83.0,1,1,Add to existing course,64,Medium
+Safety Standards,Solapur,Critical Shortage,High,142.0,59.0,83.0,1,1,Add to existing course,77,High
+Troubleshooting,Beed,Critical Shortage,High,94.0,12.0,82.0,1,1,Add to existing course,76,Medium
+Blueprint Reading,Aurangabad,Critical Shortage,High,106.0,25.0,81.0,1,1,Add to existing course,85,Medium
+Troubleshooting,Sangli,Critical Shortage,High,86.0,5.0,81.0,1,1,Add to existing course,74,Medium
+Docker,Nashik,Critical Shortage,High,79.0,2.0,77.0,1,1,Add to existing course,70,Medium
+Safety Standards,Beed,Critical Shortage,High,122.0,46.0,76.0,1,1,Add to existing course,77,High
+Customer Service,Osmanabad,Critical Shortage,High,84.0,9.0,75.0,1,1,Add to existing course,70,Medium
+Inventory Management,Jalna,Critical Shortage,High,108.0,34.0,74.0,1,1,Add to existing course,77,Medium
+Inventory Management,Osmanabad,Critical Shortage,High,127.0,55.0,72.0,1,1,Add to existing course,77,High
+Excel,Pune,Critical Shortage,High,117.0,46.0,71.0,1,1,Add to existing course,77,High
+Inventory Management,Aurangabad,Critical Shortage,High,137.0,69.0,68.0,1,1,Add to existing course,77,High
+Python,Pune,Critical Shortage,High,113.0,46.0,67.0,1,1,Add to existing course,80,High
+SEO,Dhule,Critical Shortage,High,94.0,27.0,67.0,1,1,Add to existing course,82,High
+Blueprint Reading,Pune,Critical Shortage,High,90.0,24.0,66.0,1,1,Add to existing course,82,Medium
+Blueprint Reading,Parbhani,Critical Shortage,High,80.0,15.0,65.0,1,1,Add to existing course,72,Medium
+Customer Service,Sangli,Critical Shortage,High,70.0,5.0,65.0,1,1,Add to existing course,66,Medium
+Customer Service,Beed,Critical Shortage,High,75.0,12.0,63.0,1,1,Add to existing course,66,Medium
+Statistics,Parbhani,Critical Shortage,High,73.0,10.0,63.0,1,1,Add to existing course,46,Low
+React,Nashik,Critical Shortage,High,64.0,2.0,62.0,1,1,Add to existing course,54,Low
+Safety Standards,Osmanabad,Critical Shortage,High,107.0,46.0,61.0,1,1,Add to existing course,77,Medium
+Customer Service,Nagpur,Critical Shortage,High,96.0,37.0,59.0,1,1,Add to existing course,74,Medium
+Problem Solving,Akola,Critical Shortage,High,67.0,8.0,59.0,1,1,Add to existing course,68,Low
+Terraform,Osmanabad,Critical Shortage,High,95.0,37.0,58.0,1,1,Add to existing course,54,Low
+Pandas,Parbhani,Critical Shortage,High,65.0,10.0,55.0,1,1,Add to existing course,44,Low
+REST API,Nashik,Critical Shortage,High,57.0,2.0,55.0,1,1,Add to existing course,64,Low
+TIG Welding,Parbhani,Critical Shortage,High,65.0,15.0,50.0,1,1,Add to existing course,56,Low
+Git,Nashik,Critical Shortage,High,50.0,2.0,48.0,1,1,Add to existing course,52,Low
+HTML/CSS,Nashik,Critical Shortage,High,49.0,2.0,47.0,1,1,Add to existing course,58,Low
+MIG Welding,Parbhani,Critical Shortage,High,62.0,15.0,47.0,1,1,Add to existing course,54,Low
+MongoDB,Nashik,Critical Shortage,High,49.0,2.0,47.0,1,1,Add to existing course,58,Low
+Cash Handling,Osmanabad,Critical Shortage,High,55.0,9.0,46.0,1,1,Add to existing course,54,Low
+Content Marketing,Dhule,Critical Shortage,High,73.0,27.0,46.0,1,1,Add to existing course,68,Medium
+Arc Welding,Parbhani,Critical Shortage,High,60.0,15.0,45.0,1,1,Add to existing course,52,Low
+Google Analytics,Dhule,Critical Shortage,High,72.0,27.0,45.0,1,1,Add to existing course,70,Medium
+JavaScript,Nashik,Critical Shortage,High,46.0,2.0,44.0,1,1,Add to existing course,66,Low
+Arc Welding,Pune,Critical Shortage,High,67.0,24.0,43.0,1,1,Add to existing course,62,Medium
+Customer Service,Solapur,Critical Shortage,High,87.0,44.0,43.0,1,1,Add to existing course,70,Medium
+Terraform,Jalgaon,Critical Shortage,High,90.0,47.0,43.0,1,1,Add to existing course,54,Low
+AWS,Osmanabad,Critical Shortage,High,77.0,37.0,40.0,1,1,Add to existing course,68,Medium
+MIG Welding,Pune,Critical Shortage,High,63.0,24.0,39.0,1,1,Add to existing course,60,Medium
+TIG Welding,Pune,Critical Shortage,High,63.0,24.0,39.0,1,1,Add to existing course,60,Medium
+Arc Welding,Aurangabad,Critical Shortage,High,63.0,25.0,38.0,1,1,Add to existing course,60,Medium
+Docker,Osmanabad,Critical Shortage,High,75.0,37.0,38.0,1,1,Add to existing course,66,Medium
+Node.js,Nashik,Critical Shortage,High,40.0,2.0,38.0,1,1,Add to existing course,56,Low
+Linux,Osmanabad,Critical Shortage,High,73.0,37.0,36.0,1,1,Add to existing course,60,Low
+MIG Welding,Aurangabad,Critical Shortage,High,59.0,25.0,34.0,1,1,Add to existing course,58,Low
+Problem Solving,Osmanabad,Critical Shortage,High,58.0,24.0,34.0,1,1,Add to existing course,64,Low
+TIG Welding,Aurangabad,Critical Shortage,High,59.0,25.0,34.0,1,1,Add to existing course,58,Low
+Problem Solving,Bhiwandi,Critical Shortage,High,48.0,19.0,29.0,1,1,Add to existing course,58,Low
+Social Media Marketing,Dhule,Critical Shortage,High,51.0,27.0,24.0,1,1,Add to existing course,70,Medium
+Customer Service,Aurangabad,Shortage,Medium,113.0,69.0,44.0,1,1,Add to existing course,77,High
+Power BI,Pune,Shortage,Medium,82.0,46.0,36.0,1,1,Add to existing course,68,Medium
+SQL,Latur,Shortage,Medium,138.0,102.0,36.0,1,1,Add to existing course,85,High
+Linux,Jalgaon,Shortage,Medium,80.0,47.0,33.0,1,1,Add to existing course,68,Medium
+Tableau,Pune,Shortage,Medium,76.0,46.0,30.0,1,1,Add to existing course,58,Medium
+Troubleshooting,Nagpur,Shortage,Medium,63.0,37.0,26.0,1,1,Add to existing course,56,Low
+Customer Service,Chandrapur,Shortage,Medium,91.0,66.0,25.0,1,1,Add to existing course,74,Medium
+Kubernetes,Jalgaon,Shortage,Medium,72.0,47.0,25.0,1,1,Add to existing course,68,Medium
+Kubernetes,Osmanabad,Shortage,Medium,62.0,37.0,25.0,1,1,Add to existing course,58,Low
+AWS,Jalgaon,Shortage,Medium,70.0,47.0,23.0,1,1,Add to existing course,66,Medium
+Docker,Jalgaon,Shortage,Medium,69.0,47.0,22.0,1,1,Add to existing course,64,Medium
+Problem Solving,Latur,Shortage,Medium,51.0,30.0,21.0,1,1,Add to existing course,58,Low
+Blueprint Reading,Jalna,Shortage,Medium,77.0,57.0,20.0,1,1,Add to existing course,74,Medium
+WMS,Jalna,Shortage,Medium,53.0,34.0,19.0,1,1,Add to existing course,52,Low
+Blueprint Reading,Beed,Shortage,Medium,64.0,46.0,18.0,1,1,Add to existing course,68,Medium
+SEM,Dhule,Shortage,Medium,43.0,27.0,16.0,1,1,Add to existing course,66,Low
+Safety Standards,Raigad,Shortage,Medium,101.0,85.0,16.0,1,1,Add to existing course,77,High
+WMS,Osmanabad,Shortage,Medium,61.0,46.0,15.0,1,1,Add to existing course,58,Low
+SEO,Kolhapur,Shortage,Medium,78.0,65.0,13.0,1,1,Add to existing course,70,Medium
+Safety,Aurangabad,Shortage,Medium,78.0,66.0,12.0,1,1,Add to existing course,68,Medium
+Quality Control,Satara,Shortage,Medium,58.0,47.0,11.0,1,1,Add to existing course,72,Low
+Cash Handling,Solapur,Shortage,Medium,54.0,44.0,10.0,1,1,Add to existing course,50,Low
+TIG Welding,Beed,Shortage,Medium,56.0,46.0,10.0,1,1,Add to existing course,46,Low

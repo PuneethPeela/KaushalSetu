@@ -1,0 +1,20 @@
+district,skills_flagged,total_additional_seats,total_additional_trainers,total_additional_labs,high_priority_skills,top_priority_skill
+Parbhani,12,986.0,18,12,12,SQL
+Osmanabad,12,674.0,14,12,10,Communication
+Pune,10,584.0,12,10,8,SQL
+Aurangabad,8,419.0,9,8,6,Safety Standards
+Nashik,8,418.0,8,8,8,Docker
+Solapur,4,273.0,5,4,3,Communication
+Akola,2,271.0,5,2,2,Communication
+Beed,5,249.0,5,5,3,Troubleshooting
+Latur,3,214.0,5,3,1,Communication
+Jalna,4,202.0,4,4,2,Safety Standards
+Dhule,5,198.0,5,5,4,SEO
+Bhiwandi,2,182.0,4,2,2,Communication
+Sangli,2,146.0,2,2,2,Troubleshooting
+Jalgaon,5,146.0,5,5,1,Terraform
+Nagpur,2,85.0,2,2,1,Customer Service
+Chandrapur,1,25.0,1,1,0,Customer Service
+Raigad,1,16.0,1,1,0,Safety Standards
+Kolhapur,1,13.0,1,1,0,SEO
+Satara,1,11.0,1,1,0,Quality Control

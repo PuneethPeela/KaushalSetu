@@ -1,0 +1,409 @@
+skill_id,skill_name,skill_category,proficiency_level,demand_score,growth_rate_percent,demand_trend,num_job_postings,avg_salary_min,avg_salary_max,num_training_centers,avg_training_hours,has_certification,certifying_body,obsolescence_risk,future_outlook,related_emerging_skills,last_updated
+SKILL_0001,Python,Technical - Programming,Beginner,84,15.41,Growing,1954,30000,200000,59,161,Yes,NASSCOM,Medium,Uncertain,"['Swift', 'Java', 'Rust']",2026-09-05
+SKILL_0002,Python,Technical - Programming,Intermediate,74,17.91,Growing,392,30000,200000,39,195,No,N/A,Medium,Positive,"['Swift', 'JavaScript', 'Kotlin']",2026-09-05
+SKILL_0003,Python,Technical - Programming,Advanced,76,6.82,Growing,1462,30000,200000,67,188,No,N/A,Low,Positive,"['Rust', 'Kotlin', 'JavaScript']",2026-09-05
+SKILL_0004,Python,Technical - Programming,Expert,55,19.64,Growing,77,30000,200000,64,91,No,N/A,Medium,Uncertain,"['JavaScript', 'C++', 'Python']",2026-09-05
+SKILL_0005,Java,Technical - Programming,Beginner,72,13.69,Growing,643,30000,200000,40,116,Yes,Google,Low,Neutral,"['C++', 'Kotlin', 'Python']",2026-09-05
+SKILL_0006,Java,Technical - Programming,Intermediate,76,15.6,Growing,687,30000,200000,42,147,Yes,Google,High,Uncertain,"['Kotlin', 'JavaScript', 'Python']",2026-09-05
+SKILL_0007,Java,Technical - Programming,Advanced,54,15.25,Growing,207,30000,200000,8,59,No,N/A,High,Positive,"['Python', 'Rust', 'C++']",2026-09-05
+SKILL_0008,Java,Technical - Programming,Expert,54,6.61,Growing,229,30000,200000,42,150,Yes,Industry Body,Low,Positive,"['JavaScript', 'Kotlin', 'Rust']",2026-09-05
+SKILL_0009,JavaScript,Technical - Programming,Beginner,82,10.95,Growing,1372,30000,200000,85,150,Yes,NSDC,High,Uncertain,"['Java', 'JavaScript', 'Go']",2026-09-05
+SKILL_0010,JavaScript,Technical - Programming,Intermediate,69,13.12,Growing,1337,30000,200000,44,119,No,N/A,Medium,Positive,"['Java', 'Kotlin', 'JavaScript']",2026-09-05
+SKILL_0011,JavaScript,Technical - Programming,Advanced,61,19.46,Growing,1325,30000,200000,57,35,No,N/A,High,Positive,"['C++', 'Swift', 'Go']",2026-09-05
+SKILL_0012,JavaScript,Technical - Programming,Expert,61,16.76,Growing,345,30000,200000,65,60,No,N/A,Low,Uncertain,"['Java', 'Go', 'C++']",2026-09-05
+SKILL_0013,C++,Technical - Programming,Beginner,77,11.65,Growing,1840,30000,200000,23,74,No,N/A,Medium,Neutral,"['Swift', 'Rust', 'C++']",2026-09-05
+SKILL_0014,C++,Technical - Programming,Intermediate,76,15.62,Growing,1297,30000,200000,42,195,No,N/A,Low,Neutral,"['Kotlin', 'Swift', 'Rust']",2026-09-05
+SKILL_0015,C++,Technical - Programming,Advanced,83,10.24,Growing,1307,30000,200000,97,133,Yes,Industry Body,Low,Uncertain,"['Kotlin', 'Rust', 'Java']",2026-09-05
+SKILL_0016,C++,Technical - Programming,Expert,68,15.74,Growing,1938,30000,200000,19,155,No,N/A,Low,Neutral,"['C++', 'Java', 'Kotlin']",2026-09-05
+SKILL_0017,Go,Technical - Programming,Beginner,84,17.58,Growing,635,30000,200000,61,59,No,N/A,Medium,Uncertain,"['C++', 'Java', 'Kotlin']",2026-09-05
+SKILL_0018,Go,Technical - Programming,Intermediate,83,6.64,Growing,953,30000,200000,13,106,Yes,Google,Medium,Positive,"['Kotlin', 'Rust', 'C++']",2026-09-05
+SKILL_0019,Go,Technical - Programming,Advanced,58,5.69,Growing,332,30000,200000,27,192,Yes,Industry Body,High,Positive,"['Kotlin', 'JavaScript', 'Rust']",2026-09-05
+SKILL_0020,Go,Technical - Programming,Expert,70,15.65,Growing,936,30000,200000,28,91,Yes,State Government,Low,Positive,"['Go', 'JavaScript', 'Kotlin']",2026-09-05
+SKILL_0021,Rust,Technical - Programming,Beginner,56,15.88,Growing,132,30000,200000,91,38,No,N/A,High,Uncertain,"['Java', 'JavaScript', 'Kotlin']",2026-09-05
+SKILL_0022,Rust,Technical - Programming,Intermediate,55,17.17,Growing,276,30000,200000,23,107,No,N/A,Medium,Uncertain,"['Java', 'JavaScript', 'Kotlin']",2026-09-05
+SKILL_0023,Rust,Technical - Programming,Advanced,69,8.27,Growing,403,30000,200000,49,35,Yes,AWS,High,Neutral,"['JavaScript', 'Python', 'Kotlin']",2026-09-05
+SKILL_0024,Rust,Technical - Programming,Expert,54,5.9,Growing,138,30000,200000,93,39,No,N/A,High,Neutral,"['JavaScript', 'Rust', 'Go']",2026-09-05
+SKILL_0025,Swift,Technical - Programming,Beginner,62,9.24,Growing,680,30000,200000,24,152,Yes,Microsoft,Low,Neutral,"['Python', 'C++', 'Kotlin']",2026-09-05
+SKILL_0026,Swift,Technical - Programming,Intermediate,78,12.24,Growing,1589,30000,200000,88,39,No,N/A,High,Neutral,"['Swift', 'JavaScript', 'Java']",2026-09-05
+SKILL_0027,Swift,Technical - Programming,Advanced,64,10.93,Growing,1355,30000,200000,18,146,Yes,NASSCOM,Low,Neutral,"['JavaScript', 'Java', 'Swift']",2026-09-05
+SKILL_0028,Swift,Technical - Programming,Expert,68,6.04,Growing,1041,30000,200000,88,137,Yes,Industry Body,High,Uncertain,"['Java', 'Rust', 'Python']",2026-09-05
+SKILL_0029,Kotlin,Technical - Programming,Beginner,79,5.89,Growing,847,30000,200000,25,93,No,N/A,High,Neutral,"['Python', 'Go', 'Kotlin']",2026-09-05
+SKILL_0030,Kotlin,Technical - Programming,Intermediate,56,7.39,Growing,251,30000,200000,20,143,Yes,Industry Body,Low,Uncertain,"['Go', 'Python', 'Java']",2026-09-05
+SKILL_0031,Kotlin,Technical - Programming,Advanced,78,16.63,Growing,1416,30000,200000,78,89,Yes,NSDC,Medium,Positive,"['Java', 'Python', 'Go']",2026-09-05
+SKILL_0032,Kotlin,Technical - Programming,Expert,81,6.84,Growing,1170,30000,200000,58,66,No,N/A,High,Neutral,"['Java', 'JavaScript', 'C++']",2026-09-05
+SKILL_0033,Machine Learning,Technical - Data & AI,Beginner,82,23.46,Rapidly Growing,1211,40000,250000,56,89,No,N/A,High,Uncertain,"['Power BI', 'Computer Vision', 'Machine Learning']",2026-09-05
+SKILL_0034,Machine Learning,Technical - Data & AI,Intermediate,84,30.19,Rapidly Growing,869,40000,250000,78,119,Yes,Industry Body,High,Neutral,"['Data Analysis', 'Tableau', 'Computer Vision']",2026-09-05
+SKILL_0035,Machine Learning,Technical - Data & AI,Advanced,82,22.72,Rapidly Growing,1775,40000,250000,85,188,No,N/A,Medium,Uncertain,"['Data Analysis', 'Tableau', 'Power BI']",2026-09-05
+SKILL_0036,Machine Learning,Technical - Data & AI,Expert,100,16.34,Rapidly Growing,1062,40000,250000,14,38,Yes,State Government,Medium,Positive,"['Power BI', 'NLP', 'Data Analysis']",2026-09-05
+SKILL_0037,Deep Learning,Technical - Data & AI,Beginner,81,34.43,Rapidly Growing,576,40000,250000,36,50,Yes,State Government,Low,Uncertain,"['Computer Vision', 'Power BI', 'Machine Learning']",2026-09-05
+SKILL_0038,Deep Learning,Technical - Data & AI,Intermediate,88,29.41,Rapidly Growing,685,40000,250000,45,99,No,N/A,High,Positive,"['Machine Learning', 'Data Analysis', 'Tableau']",2026-09-05
+SKILL_0039,Deep Learning,Technical - Data & AI,Advanced,90,27.14,Rapidly Growing,283,40000,250000,7,81,Yes,State Government,Low,Positive,"['Computer Vision', 'Tableau', 'NLP']",2026-09-05
+SKILL_0040,Deep Learning,Technical - Data & AI,Expert,78,23.09,Rapidly Growing,1151,40000,250000,47,20,Yes,AWS,Medium,Neutral,"['Computer Vision', 'Machine Learning', 'SQL']",2026-09-05
+SKILL_0041,Data Analysis,Technical - Data & AI,Beginner,83,20.65,Rapidly Growing,112,40000,250000,81,73,Yes,State Government,Medium,Neutral,"['Computer Vision', 'SQL', 'Power BI']",2026-09-05
+SKILL_0042,Data Analysis,Technical - Data & AI,Intermediate,95,16.74,Rapidly Growing,125,40000,250000,54,169,Yes,Google,Low,Positive,"['Power BI', 'Data Analysis', 'Deep Learning']",2026-09-05
+SKILL_0043,Data Analysis,Technical - Data & AI,Advanced,92,23.28,Rapidly Growing,811,40000,250000,67,91,Yes,Industry Body,High,Uncertain,"['Power BI', 'Machine Learning', 'SQL']",2026-09-05
+SKILL_0044,Data Analysis,Technical - Data & AI,Expert,84,20.31,Rapidly Growing,694,40000,250000,14,82,Yes,Microsoft,High,Uncertain,"['Data Analysis', 'Power BI', 'Deep Learning']",2026-09-05
+SKILL_0045,SQL,Technical - Data & AI,Beginner,99,28.22,Rapidly Growing,803,40000,250000,23,120,Yes,Google,Low,Positive,"['Machine Learning', 'NLP', 'SQL']",2026-09-05
+SKILL_0046,SQL,Technical - Data & AI,Intermediate,99,17.0,Rapidly Growing,1080,40000,250000,84,173,Yes,Microsoft,Low,Uncertain,"['Deep Learning', 'Machine Learning', 'NLP']",2026-09-05
+SKILL_0047,SQL,Technical - Data & AI,Advanced,87,19.31,Rapidly Growing,105,40000,250000,45,172,No,N/A,Low,Neutral,"['NLP', 'Machine Learning', 'Data Analysis']",2026-09-05
+SKILL_0048,SQL,Technical - Data & AI,Expert,75,28.42,Rapidly Growing,1153,40000,250000,59,149,No,N/A,Low,Uncertain,"['NLP', 'Tableau', 'Machine Learning']",2026-09-05
+SKILL_0049,Tableau,Technical - Data & AI,Beginner,90,33.79,Rapidly Growing,594,40000,250000,33,162,Yes,Industry Body,Low,Positive,"['Data Analysis', 'Machine Learning', 'NLP']",2026-09-05
+SKILL_0050,Tableau,Technical - Data & AI,Intermediate,94,17.15,Rapidly Growing,671,40000,250000,82,154,Yes,NSDC,High,Neutral,"['Power BI', 'Machine Learning', 'Tableau']",2026-09-05
+SKILL_0051,Tableau,Technical - Data & AI,Advanced,91,31.8,Rapidly Growing,672,40000,250000,64,179,Yes,AWS,High,Uncertain,"['SQL', 'Power BI', 'Computer Vision']",2026-09-05
+SKILL_0052,Tableau,Technical - Data & AI,Expert,83,33.08,Rapidly Growing,1332,40000,250000,6,180,No,N/A,High,Positive,"['Machine Learning', 'Tableau', 'SQL']",2026-09-05
+SKILL_0053,Power BI,Technical - Data & AI,Beginner,76,19.42,Rapidly Growing,579,40000,250000,71,59,Yes,State Government,Low,Uncertain,"['Data Analysis', 'Deep Learning', 'NLP']",2026-09-05
+SKILL_0054,Power BI,Technical - Data & AI,Intermediate,86,19.24,Rapidly Growing,748,40000,250000,46,193,No,N/A,Low,Neutral,"['Machine Learning', 'Data Analysis', 'Tableau']",2026-09-05
+SKILL_0055,Power BI,Technical - Data & AI,Advanced,79,30.09,Rapidly Growing,749,40000,250000,8,186,Yes,AWS,High,Uncertain,"['Computer Vision', 'Deep Learning', 'Machine Learning']",2026-09-05
+SKILL_0056,Power BI,Technical - Data & AI,Expert,88,27.33,Rapidly Growing,837,40000,250000,61,147,No,N/A,Medium,Uncertain,"['Computer Vision', 'Tableau', 'NLP']",2026-09-05
+SKILL_0057,NLP,Technical - Data & AI,Beginner,90,17.46,Rapidly Growing,1848,40000,250000,6,151,No,N/A,High,Positive,"['Computer Vision', 'Deep Learning', 'Machine Learning']",2026-09-05
+SKILL_0058,NLP,Technical - Data & AI,Intermediate,76,22.84,Rapidly Growing,970,40000,250000,32,53,No,N/A,Medium,Uncertain,"['NLP', 'Data Analysis', 'SQL']",2026-09-05
+SKILL_0059,NLP,Technical - Data & AI,Advanced,84,25.03,Rapidly Growing,1682,40000,250000,80,82,No,N/A,Medium,Uncertain,"['Machine Learning', 'SQL', 'Power BI']",2026-09-05
+SKILL_0060,NLP,Technical - Data & AI,Expert,77,26.35,Rapidly Growing,1838,40000,250000,100,146,No,N/A,Low,Positive,"['SQL', 'Tableau', 'Machine Learning']",2026-09-05
+SKILL_0061,Computer Vision,Technical - Data & AI,Beginner,100,29.4,Rapidly Growing,711,40000,250000,87,34,No,N/A,Low,Uncertain,"['Machine Learning', 'Computer Vision', 'Data Analysis']",2026-09-05
+SKILL_0062,Computer Vision,Technical - Data & AI,Intermediate,81,16.4,Rapidly Growing,1978,40000,250000,5,22,No,N/A,High,Uncertain,"['SQL', 'Data Analysis', 'Power BI']",2026-09-05
+SKILL_0063,Computer Vision,Technical - Data & AI,Advanced,81,21.05,Rapidly Growing,1209,40000,250000,46,187,No,N/A,Low,Neutral,"['Power BI', 'SQL', 'Machine Learning']",2026-09-05
+SKILL_0064,Computer Vision,Technical - Data & AI,Expert,83,33.31,Rapidly Growing,1968,40000,250000,13,133,No,N/A,Low,Neutral,"['NLP', 'Machine Learning', 'Computer Vision']",2026-09-05
+SKILL_0065,AWS,Technical - Cloud & DevOps,Beginner,99,25.43,Rapidly Growing,505,35000,220000,28,111,No,N/A,High,Uncertain,"['Azure', 'CI/CD', 'Docker']",2026-09-05
+SKILL_0066,AWS,Technical - Cloud & DevOps,Intermediate,94,22.1,Rapidly Growing,1466,35000,220000,34,185,No,N/A,Low,Neutral,"['Terraform', 'Linux', 'Kubernetes']",2026-09-05
+SKILL_0067,AWS,Technical - Cloud & DevOps,Advanced,81,30.13,Rapidly Growing,975,35000,220000,11,86,Yes,Microsoft,High,Uncertain,"['AWS', 'GCP', 'CI/CD']",2026-09-05
+SKILL_0068,AWS,Technical - Cloud & DevOps,Expert,100,28.61,Rapidly Growing,1555,35000,220000,5,37,Yes,AWS,Medium,Uncertain,"['Azure', 'CI/CD', 'Terraform']",2026-09-05
+SKILL_0069,Azure,Technical - Cloud & DevOps,Beginner,91,29.55,Rapidly Growing,583,35000,220000,96,67,No,N/A,Medium,Neutral,"['Linux', 'CI/CD', 'GCP']",2026-09-05
+SKILL_0070,Azure,Technical - Cloud & DevOps,Intermediate,82,21.24,Rapidly Growing,474,35000,220000,45,171,No,N/A,High,Positive,"['GCP', 'Azure', 'Kubernetes']",2026-09-05
+SKILL_0071,Azure,Technical - Cloud & DevOps,Advanced,87,30.17,Rapidly Growing,783,35000,220000,23,169,Yes,Industry Body,High,Uncertain,"['GCP', 'AWS', 'Terraform']",2026-09-05
+SKILL_0072,Azure,Technical - Cloud & DevOps,Expert,88,18.08,Rapidly Growing,881,35000,220000,75,108,Yes,NSDC,High,Positive,"['AWS', 'CI/CD', 'Docker']",2026-09-05
+SKILL_0073,GCP,Technical - Cloud & DevOps,Beginner,82,21.72,Rapidly Growing,166,35000,220000,14,71,Yes,State Government,High,Neutral,"['Linux', 'AWS', 'CI/CD']",2026-09-05
+SKILL_0074,GCP,Technical - Cloud & DevOps,Intermediate,99,21.08,Rapidly Growing,1735,35000,220000,15,86,Yes,NASSCOM,Medium,Positive,"['AWS', 'Azure', 'GCP']",2026-09-05
+SKILL_0075,GCP,Technical - Cloud & DevOps,Advanced,94,21.49,Rapidly Growing,1169,35000,220000,76,113,No,N/A,Medium,Positive,"['Docker', 'Kubernetes', 'Linux']",2026-09-05
+SKILL_0076,GCP,Technical - Cloud & DevOps,Expert,83,18.37,Rapidly Growing,916,35000,220000,5,159,No,N/A,Medium,Positive,"['GCP', 'CI/CD', 'Docker']",2026-09-05
+SKILL_0077,Docker,Technical - Cloud & DevOps,Beginner,80,30.22,Rapidly Growing,867,35000,220000,80,176,Yes,Microsoft,High,Positive,"['CI/CD', 'Azure', 'Kubernetes']",2026-09-05
+SKILL_0078,Docker,Technical - Cloud & DevOps,Intermediate,86,33.94,Rapidly Growing,1744,35000,220000,45,124,Yes,Google,Low,Positive,"['Linux', 'AWS', 'Azure']",2026-09-05
+SKILL_0079,Docker,Technical - Cloud & DevOps,Advanced,88,29.05,Rapidly Growing,1366,35000,220000,76,148,Yes,Google,Low,Neutral,"['Docker', 'Terraform', 'AWS']",2026-09-05
+SKILL_0080,Docker,Technical - Cloud & DevOps,Expert,78,21.9,Rapidly Growing,1435,35000,220000,28,140,No,N/A,Low,Neutral,"['Kubernetes', 'CI/CD', 'Linux']",2026-09-05
+SKILL_0081,Kubernetes,Technical - Cloud & DevOps,Beginner,100,32.97,Rapidly Growing,351,35000,220000,73,97,No,N/A,High,Neutral,"['AWS', 'GCP', 'Azure']",2026-09-05
+SKILL_0082,Kubernetes,Technical - Cloud & DevOps,Intermediate,93,17.02,Rapidly Growing,1839,35000,220000,41,94,Yes,AWS,Low,Positive,"['GCP', 'Linux', 'Terraform']",2026-09-05
+SKILL_0083,Kubernetes,Technical - Cloud & DevOps,Advanced,91,24.14,Rapidly Growing,412,35000,220000,46,138,Yes,NSDC,Low,Positive,"['GCP', 'Azure', 'AWS']",2026-09-05
+SKILL_0084,Kubernetes,Technical - Cloud & DevOps,Expert,82,24.05,Rapidly Growing,1796,35000,220000,36,181,No,N/A,Medium,Positive,"['CI/CD', 'Linux', 'Azure']",2026-09-05
+SKILL_0085,CI/CD,Technical - Cloud & DevOps,Beginner,81,28.73,Rapidly Growing,617,35000,220000,5,44,No,N/A,Medium,Uncertain,"['Linux', 'Kubernetes', 'CI/CD']",2026-09-05
+SKILL_0086,CI/CD,Technical - Cloud & DevOps,Intermediate,86,28.29,Rapidly Growing,1779,35000,220000,95,126,Yes,AWS,High,Positive,"['Docker', 'Linux', 'AWS']",2026-09-05
+SKILL_0087,CI/CD,Technical - Cloud & DevOps,Advanced,94,25.72,Rapidly Growing,823,35000,220000,69,101,Yes,NSDC,Low,Uncertain,"['Azure', 'Terraform', 'CI/CD']",2026-09-05
+SKILL_0088,CI/CD,Technical - Cloud & DevOps,Expert,84,23.01,Rapidly Growing,632,35000,220000,73,46,Yes,NASSCOM,Low,Positive,"['Terraform', 'AWS', 'GCP']",2026-09-05
+SKILL_0089,Terraform,Technical - Cloud & DevOps,Beginner,80,28.69,Rapidly Growing,1860,35000,220000,8,40,Yes,Google,Medium,Uncertain,"['Linux', 'Kubernetes', 'GCP']",2026-09-05
+SKILL_0090,Terraform,Technical - Cloud & DevOps,Intermediate,75,31.94,Rapidly Growing,712,35000,220000,64,183,Yes,NSDC,Medium,Positive,"['GCP', 'Linux', 'AWS']",2026-09-05
+SKILL_0091,Terraform,Technical - Cloud & DevOps,Advanced,77,33.74,Rapidly Growing,1767,35000,220000,68,105,Yes,Google,High,Neutral,"['AWS', 'Kubernetes', 'Azure']",2026-09-05
+SKILL_0092,Terraform,Technical - Cloud & DevOps,Expert,81,31.94,Rapidly Growing,1709,35000,220000,33,124,Yes,State Government,Medium,Uncertain,"['Kubernetes', 'Docker', 'AWS']",2026-09-05
+SKILL_0093,Linux,Technical - Cloud & DevOps,Beginner,89,34.45,Rapidly Growing,1641,35000,220000,85,24,No,N/A,Medium,Positive,"['CI/CD', 'Docker', 'Kubernetes']",2026-09-05
+SKILL_0094,Linux,Technical - Cloud & DevOps,Intermediate,87,32.92,Rapidly Growing,362,35000,220000,65,72,Yes,NSDC,High,Positive,"['GCP', 'CI/CD', 'Linux']",2026-09-05
+SKILL_0095,Linux,Technical - Cloud & DevOps,Advanced,93,25.07,Rapidly Growing,425,35000,220000,22,41,No,N/A,Low,Positive,"['Terraform', 'Azure', 'CI/CD']",2026-09-05
+SKILL_0096,Linux,Technical - Cloud & DevOps,Expert,84,28.69,Rapidly Growing,650,35000,220000,49,38,No,N/A,High,Neutral,"['Azure', 'Linux', 'Docker']",2026-09-05
+SKILL_0097,Network Security,Technical - Cybersecurity,Beginner,75,19.87,Rapidly Growing,160,40000,300000,74,191,No,N/A,High,Neutral,"['Firewall Management', 'Ethical Hacking', 'Penetration Testing']",2026-09-05
+SKILL_0098,Network Security,Technical - Cybersecurity,Intermediate,78,21.35,Rapidly Growing,190,40000,300000,22,180,No,N/A,High,Neutral,"['Penetration Testing', 'Firewall Management', 'Risk Assessment']",2026-09-05
+SKILL_0099,Network Security,Technical - Cybersecurity,Advanced,94,29.28,Rapidly Growing,337,40000,300000,77,45,No,N/A,Medium,Neutral,"['Ethical Hacking', 'Firewall Management', 'Risk Assessment']",2026-09-05
+SKILL_0100,Network Security,Technical - Cybersecurity,Expert,92,15.48,Rapidly Growing,375,40000,300000,12,167,No,N/A,Low,Uncertain,"['SIEM', 'Firewall Management', 'Ethical Hacking']",2026-09-05
+SKILL_0101,Penetration Testing,Technical - Cybersecurity,Beginner,91,33.75,Rapidly Growing,1777,40000,300000,55,35,No,N/A,Low,Neutral,"['Network Security', 'Firewall Management', 'Penetration Testing']",2026-09-05
+SKILL_0102,Penetration Testing,Technical - Cybersecurity,Intermediate,81,27.73,Rapidly Growing,1463,40000,300000,96,76,Yes,NASSCOM,Low,Neutral,"['Firewall Management', 'Penetration Testing', 'Risk Assessment']",2026-09-05
+SKILL_0103,Penetration Testing,Technical - Cybersecurity,Advanced,75,21.42,Rapidly Growing,1709,40000,300000,70,92,No,N/A,Low,Uncertain,"['Network Security', 'Penetration Testing', 'Ethical Hacking']",2026-09-05
+SKILL_0104,Penetration Testing,Technical - Cybersecurity,Expert,93,24.37,Rapidly Growing,748,40000,300000,62,101,Yes,Industry Body,Low,Positive,"['SIEM', 'Risk Assessment', 'Network Security']",2026-09-05
+SKILL_0105,Ethical Hacking,Technical - Cybersecurity,Beginner,76,19.2,Rapidly Growing,418,40000,300000,19,50,No,N/A,Low,Positive,"['Ethical Hacking', 'Network Security', 'Penetration Testing']",2026-09-05
+SKILL_0106,Ethical Hacking,Technical - Cybersecurity,Intermediate,86,30.86,Rapidly Growing,753,40000,300000,13,82,Yes,AWS,High,Uncertain,"['Firewall Management', 'SIEM', 'Penetration Testing']",2026-09-05
+SKILL_0107,Ethical Hacking,Technical - Cybersecurity,Advanced,94,20.94,Rapidly Growing,1703,40000,300000,90,124,No,N/A,High,Uncertain,"['SIEM', 'Risk Assessment', 'Network Security']",2026-09-05
+SKILL_0108,Ethical Hacking,Technical - Cybersecurity,Expert,90,15.41,Rapidly Growing,697,40000,300000,48,116,Yes,NSDC,Medium,Neutral,"['Ethical Hacking', 'Penetration Testing', 'SIEM']",2026-09-05
+SKILL_0109,SIEM,Technical - Cybersecurity,Beginner,83,18.06,Rapidly Growing,1846,40000,300000,19,122,Yes,AWS,Medium,Neutral,"['Ethical Hacking', 'Firewall Management', 'Risk Assessment']",2026-09-05
+SKILL_0110,SIEM,Technical - Cybersecurity,Intermediate,78,28.26,Rapidly Growing,1594,40000,300000,6,84,No,N/A,Medium,Uncertain,"['Network Security', 'SIEM', 'Ethical Hacking']",2026-09-05
+SKILL_0111,SIEM,Technical - Cybersecurity,Advanced,84,29.38,Rapidly Growing,1117,40000,300000,72,57,Yes,Microsoft,Low,Uncertain,"['Firewall Management', 'Risk Assessment', 'SIEM']",2026-09-05
+SKILL_0112,SIEM,Technical - Cybersecurity,Expert,100,23.55,Rapidly Growing,251,40000,300000,89,47,No,N/A,Low,Positive,"['SIEM', 'Ethical Hacking', 'Network Security']",2026-09-05
+SKILL_0113,Firewall Management,Technical - Cybersecurity,Beginner,75,23.31,Rapidly Growing,1227,40000,300000,10,59,Yes,NASSCOM,Low,Neutral,"['Ethical Hacking', 'SIEM', 'Firewall Management']",2026-09-05
+SKILL_0114,Firewall Management,Technical - Cybersecurity,Intermediate,89,32.21,Rapidly Growing,749,40000,300000,28,49,No,N/A,Low,Neutral,"['Firewall Management', 'Penetration Testing', 'Ethical Hacking']",2026-09-05
+SKILL_0115,Firewall Management,Technical - Cybersecurity,Advanced,98,20.61,Rapidly Growing,1699,40000,300000,50,27,No,N/A,Medium,Neutral,"['Ethical Hacking', 'SIEM', 'Network Security']",2026-09-05
+SKILL_0116,Firewall Management,Technical - Cybersecurity,Expert,100,21.33,Rapidly Growing,860,40000,300000,84,81,No,N/A,Medium,Neutral,"['Risk Assessment', 'Network Security', 'Ethical Hacking']",2026-09-05
+SKILL_0117,Risk Assessment,Technical - Cybersecurity,Beginner,79,21.38,Rapidly Growing,1569,40000,300000,69,25,No,N/A,High,Neutral,"['Penetration Testing', 'Risk Assessment', 'Network Security']",2026-09-05
+SKILL_0118,Risk Assessment,Technical - Cybersecurity,Intermediate,80,15.03,Rapidly Growing,493,40000,300000,65,74,No,N/A,Low,Positive,"['Network Security', 'Ethical Hacking', 'Firewall Management']",2026-09-05
+SKILL_0119,Risk Assessment,Technical - Cybersecurity,Advanced,80,33.64,Rapidly Growing,462,40000,300000,36,53,Yes,Industry Body,Medium,Positive,"['Risk Assessment', 'Network Security', 'Ethical Hacking']",2026-09-05
+SKILL_0120,Risk Assessment,Technical - Cybersecurity,Expert,99,17.01,Rapidly Growing,1304,40000,300000,32,166,No,N/A,Low,Uncertain,"['Ethical Hacking', 'Penetration Testing', 'Network Security']",2026-09-05
+SKILL_0121,HTML/CSS,Technical - Web Development,Beginner,60,-3.94,Stable,271,25000,150000,43,125,No,N/A,Low,Very Positive,"['HTML/CSS', 'Node.js', 'REST API']",2026-09-05
+SKILL_0122,HTML/CSS,Technical - Web Development,Intermediate,45,5.74,Stable,66,25000,150000,88,88,Yes,State Government,Low,Very Positive,"['Vue.js', 'React', 'MongoDB']",2026-09-05
+SKILL_0123,HTML/CSS,Technical - Web Development,Advanced,36,-1.29,Stable,109,25000,150000,53,29,No,N/A,Low,Very Positive,"['REST API', 'React', 'Django']",2026-09-05
+SKILL_0124,HTML/CSS,Technical - Web Development,Expert,33,5.2,Stable,113,25000,150000,16,38,No,N/A,Low,Very Positive,"['MongoDB', 'Vue.js', 'REST API']",2026-09-05
+SKILL_0125,React,Technical - Web Development,Beginner,41,9.0,Stable,267,25000,150000,59,111,Yes,Google,Low,Positive,"['React', 'Django', 'Vue.js']",2026-09-05
+SKILL_0126,React,Technical - Web Development,Intermediate,34,2.56,Stable,106,25000,150000,9,191,Yes,AWS,Medium,Uncertain,"['Node.js', 'React', 'Vue.js']",2026-09-05
+SKILL_0127,React,Technical - Web Development,Advanced,43,5.12,Stable,154,25000,150000,5,110,No,N/A,Medium,Neutral,"['Django', 'HTML/CSS', 'Angular']",2026-09-05
+SKILL_0128,React,Technical - Web Development,Expert,55,4.33,Stable,125,25000,150000,25,67,Yes,State Government,High,Positive,"['Angular', 'Node.js', 'Django']",2026-09-05
+SKILL_0129,Angular,Technical - Web Development,Beginner,30,4.13,Stable,44,25000,150000,77,41,No,N/A,Medium,Uncertain,"['HTML/CSS', 'REST API', 'Node.js']",2026-09-05
+SKILL_0130,Angular,Technical - Web Development,Intermediate,63,-2.2,Stable,1098,25000,150000,64,185,Yes,Google,High,Neutral,"['MongoDB', 'Vue.js', 'Node.js']",2026-09-05
+SKILL_0131,Angular,Technical - Web Development,Advanced,51,9.32,Stable,297,25000,150000,61,121,No,N/A,Low,Positive,"['React', 'Django', 'Vue.js']",2026-09-05
+SKILL_0132,Angular,Technical - Web Development,Expert,61,5.72,Stable,1618,25000,150000,41,86,No,N/A,Low,Neutral,"['MongoDB', 'Angular', 'Vue.js']",2026-09-05
+SKILL_0133,Vue.js,Technical - Web Development,Beginner,48,-1.78,Stable,465,25000,150000,66,105,Yes,Microsoft,High,Positive,"['Vue.js', 'React', 'Node.js']",2026-09-05
+SKILL_0134,Vue.js,Technical - Web Development,Intermediate,37,2.59,Stable,17,25000,150000,17,66,No,N/A,Medium,Uncertain,"['Node.js', 'Django', 'Angular']",2026-09-05
+SKILL_0135,Vue.js,Technical - Web Development,Advanced,50,1.71,Stable,106,25000,150000,46,62,No,N/A,Medium,Positive,"['REST API', 'HTML/CSS', 'Django']",2026-09-05
+SKILL_0136,Vue.js,Technical - Web Development,Expert,49,7.76,Stable,485,25000,150000,78,41,Yes,NSDC,Low,Neutral,"['MongoDB', 'Django', 'Angular']",2026-09-05
+SKILL_0137,Node.js,Technical - Web Development,Beginner,39,2.48,Stable,38,25000,150000,98,87,No,N/A,Medium,Neutral,"['Django', 'Angular', 'React']",2026-09-05
+SKILL_0138,Node.js,Technical - Web Development,Intermediate,34,4.5,Stable,304,25000,150000,12,80,Yes,Google,Medium,Positive,"['Angular', 'MongoDB', 'Node.js']",2026-09-05
+SKILL_0139,Node.js,Technical - Web Development,Advanced,46,1.76,Stable,303,25000,150000,79,53,No,N/A,Low,Positive,"['REST API', 'HTML/CSS', 'Django']",2026-09-05
+SKILL_0140,Node.js,Technical - Web Development,Expert,32,3.99,Stable,72,25000,150000,13,75,Yes,State Government,Low,Positive,"['Angular', 'Vue.js', 'Django']",2026-09-05
+SKILL_0141,Django,Technical - Web Development,Beginner,57,-3.52,Stable,293,25000,150000,37,58,No,N/A,High,Positive,"['React', 'Node.js', 'Vue.js']",2026-09-05
+SKILL_0142,Django,Technical - Web Development,Intermediate,48,8.95,Stable,90,25000,150000,35,50,No,N/A,High,Positive,"['React', 'Django', 'REST API']",2026-09-05
+SKILL_0143,Django,Technical - Web Development,Advanced,40,4.35,Stable,189,25000,150000,67,26,Yes,Microsoft,Low,Uncertain,"['REST API', 'MongoDB', 'HTML/CSS']",2026-09-05
+SKILL_0144,Django,Technical - Web Development,Expert,64,-3.6,Stable,1793,25000,150000,73,114,No,N/A,Low,Neutral,"['Angular', 'Django', 'Vue.js']",2026-09-05
+SKILL_0145,MongoDB,Technical - Web Development,Beginner,47,2.81,Stable,499,25000,150000,98,47,No,N/A,Low,Positive,"['REST API', 'Django', 'Node.js']",2026-09-05
+SKILL_0146,MongoDB,Technical - Web Development,Intermediate,50,-2.98,Stable,255,25000,150000,60,94,Yes,Industry Body,High,Neutral,"['MongoDB', 'Node.js', 'Angular']",2026-09-05
+SKILL_0147,MongoDB,Technical - Web Development,Advanced,37,3.86,Stable,216,25000,150000,13,144,No,N/A,High,Uncertain,"['MongoDB', 'REST API', 'Node.js']",2026-09-05
+SKILL_0148,MongoDB,Technical - Web Development,Expert,39,1.76,Stable,374,25000,150000,41,61,Yes,Industry Body,High,Positive,"['Vue.js', 'Node.js', 'HTML/CSS']",2026-09-05
+SKILL_0149,REST API,Technical - Web Development,Beginner,55,-3.18,Stable,80,25000,150000,70,40,Yes,NSDC,Low,Neutral,"['HTML/CSS', 'Angular', 'REST API']",2026-09-05
+SKILL_0150,REST API,Technical - Web Development,Intermediate,48,5.67,Stable,264,25000,150000,74,187,No,N/A,Low,Neutral,"['Node.js', 'REST API', 'HTML/CSS']",2026-09-05
+SKILL_0151,REST API,Technical - Web Development,Advanced,53,-2.96,Stable,381,25000,150000,92,138,Yes,NASSCOM,Low,Neutral,"['Vue.js', 'Node.js', 'REST API']",2026-09-05
+SKILL_0152,REST API,Technical - Web Development,Expert,33,4.43,Stable,223,25000,150000,91,78,Yes,Google,Low,Uncertain,"['Django', 'Node.js', 'HTML/CSS']",2026-09-05
+SKILL_0153,Android Development,Technical - Mobile Development,Beginner,53,17.46,Growing,241,30000,180000,66,48,No,N/A,High,Neutral,"['React Native', 'Mobile UI/UX', 'Flutter']",2026-09-05
+SKILL_0154,Android Development,Technical - Mobile Development,Intermediate,66,5.99,Growing,924,30000,180000,54,33,No,N/A,Medium,Uncertain,"['Flutter', 'Mobile UI/UX', 'React Native']",2026-09-05
+SKILL_0155,Android Development,Technical - Mobile Development,Advanced,69,8.99,Growing,378,30000,180000,41,107,Yes,Microsoft,High,Uncertain,"['Mobile UI/UX', 'React Native', 'iOS Development']",2026-09-05
+SKILL_0156,Android Development,Technical - Mobile Development,Expert,72,8.33,Growing,966,30000,180000,76,94,No,N/A,Low,Positive,"['React Native', 'Flutter', 'Android Development']",2026-09-05
+SKILL_0157,iOS Development,Technical - Mobile Development,Beginner,81,18.38,Growing,963,30000,180000,61,80,Yes,Microsoft,Medium,Positive,"['Flutter', 'Mobile UI/UX', 'Android Development']",2026-09-05
+SKILL_0158,iOS Development,Technical - Mobile Development,Intermediate,79,17.45,Growing,535,30000,180000,28,42,Yes,NASSCOM,Medium,Uncertain,"['Android Development', 'React Native', 'Flutter']",2026-09-05
+SKILL_0159,iOS Development,Technical - Mobile Development,Advanced,73,5.36,Growing,900,30000,180000,32,96,No,N/A,High,Uncertain,"['Flutter', 'React Native', 'Mobile UI/UX']",2026-09-05
+SKILL_0160,iOS Development,Technical - Mobile Development,Expert,81,18.78,Growing,229,30000,180000,5,93,No,N/A,High,Neutral,"['Mobile UI/UX', 'iOS Development', 'React Native']",2026-09-05
+SKILL_0161,Flutter,Technical - Mobile Development,Beginner,65,9.54,Growing,1772,30000,180000,43,66,Yes,Microsoft,High,Positive,"['Mobile UI/UX', 'React Native', 'Android Development']",2026-09-05
+SKILL_0162,Flutter,Technical - Mobile Development,Intermediate,51,9.98,Growing,188,30000,180000,15,73,No,N/A,Low,Neutral,"['iOS Development', 'Flutter', 'React Native']",2026-09-05
+SKILL_0163,Flutter,Technical - Mobile Development,Advanced,75,6.76,Growing,476,30000,180000,17,36,No,N/A,Low,Uncertain,"['Mobile UI/UX', 'Flutter', 'React Native']",2026-09-05
+SKILL_0164,Flutter,Technical - Mobile Development,Expert,82,12.01,Growing,417,30000,180000,57,49,No,N/A,High,Neutral,"['React Native', 'Android Development', 'Mobile UI/UX']",2026-09-05
+SKILL_0165,React Native,Technical - Mobile Development,Beginner,54,16.52,Growing,202,30000,180000,21,140,No,N/A,Medium,Uncertain,"['iOS Development', 'Mobile UI/UX', 'Flutter']",2026-09-05
+SKILL_0166,React Native,Technical - Mobile Development,Intermediate,61,19.65,Growing,150,30000,180000,58,44,Yes,Industry Body,High,Uncertain,"['Mobile UI/UX', 'iOS Development', 'React Native']",2026-09-05
+SKILL_0167,React Native,Technical - Mobile Development,Advanced,85,14.15,Growing,418,30000,180000,83,197,No,N/A,Medium,Uncertain,"['Android Development', 'iOS Development', 'Flutter']",2026-09-05
+SKILL_0168,React Native,Technical - Mobile Development,Expert,62,8.47,Growing,1820,30000,180000,50,60,Yes,Microsoft,High,Uncertain,"['Flutter', 'Mobile UI/UX', 'React Native']",2026-09-05
+SKILL_0169,Mobile UI/UX,Technical - Mobile Development,Beginner,77,8.53,Growing,1243,30000,180000,32,190,No,N/A,Medium,Positive,"['React Native', 'Flutter', 'Mobile UI/UX']",2026-09-05
+SKILL_0170,Mobile UI/UX,Technical - Mobile Development,Intermediate,54,10.9,Growing,322,30000,180000,71,51,No,N/A,Medium,Neutral,"['React Native', 'Android Development', 'Mobile UI/UX']",2026-09-05
+SKILL_0171,Mobile UI/UX,Technical - Mobile Development,Advanced,77,16.29,Growing,205,30000,180000,90,99,No,N/A,High,Neutral,"['Android Development', 'Mobile UI/UX', 'iOS Development']",2026-09-05
+SKILL_0172,Mobile UI/UX,Technical - Mobile Development,Expert,61,9.03,Growing,380,30000,180000,46,162,No,N/A,Medium,Neutral,"['Mobile UI/UX', 'iOS Development', 'Android Development']",2026-09-05
+SKILL_0173,CNC Operation,Technical - Manufacturing,Beginner,45,6.88,Stable,183,15000,60000,66,43,No,N/A,Medium,Uncertain,"['CAD/CAM', 'Blueprint Reading', 'Fitting']",2026-09-05
+SKILL_0174,CNC Operation,Technical - Manufacturing,Intermediate,42,2.62,Stable,459,15000,60000,39,171,No,N/A,Low,Uncertain,"['Blueprint Reading', 'Fitting', 'Machine Operation']",2026-09-05
+SKILL_0175,CNC Operation,Technical - Manufacturing,Advanced,59,9.59,Stable,250,15000,60000,83,135,Yes,AWS,Low,Uncertain,"['CAD/CAM', 'Welding', 'Machine Operation']",2026-09-05
+SKILL_0176,CNC Operation,Technical - Manufacturing,Expert,59,6.18,Stable,47,15000,60000,43,20,Yes,Industry Body,High,Neutral,"['CAD/CAM', 'Machine Operation', 'Fitting']",2026-09-05
+SKILL_0177,Welding,Technical - Manufacturing,Beginner,33,2.92,Stable,317,15000,60000,74,45,No,N/A,Low,Neutral,"['CNC Operation', 'Quality Control', 'Blueprint Reading']",2026-09-05
+SKILL_0178,Welding,Technical - Manufacturing,Intermediate,51,1.75,Stable,185,15000,60000,24,89,No,N/A,Low,Positive,"['Machine Operation', 'Fitting', 'Welding']",2026-09-05
+SKILL_0179,Welding,Technical - Manufacturing,Advanced,32,5.39,Stable,57,15000,60000,19,152,Yes,AWS,Low,Uncertain,"['CAD/CAM', 'Blueprint Reading', 'Quality Control']",2026-09-05
+SKILL_0180,Welding,Technical - Manufacturing,Expert,50,-1.22,Stable,297,15000,60000,88,101,Yes,NSDC,High,Positive,"['Blueprint Reading', 'Welding', 'CNC Operation']",2026-09-05
+SKILL_0181,Fitting,Technical - Manufacturing,Beginner,53,3.65,Stable,169,15000,60000,59,82,Yes,NASSCOM,High,Positive,"['CAD/CAM', 'Blueprint Reading', 'Machine Operation']",2026-09-05
+SKILL_0182,Fitting,Technical - Manufacturing,Intermediate,64,-1.21,Stable,996,15000,60000,58,171,Yes,NSDC,Medium,Neutral,"['CNC Operation', 'Machine Operation', 'Quality Control']",2026-09-05
+SKILL_0183,Fitting,Technical - Manufacturing,Advanced,33,5.36,Stable,178,15000,60000,34,70,No,N/A,Low,Uncertain,"['CNC Operation', 'Quality Control', 'Welding']",2026-09-05
+SKILL_0184,Fitting,Technical - Manufacturing,Expert,54,-1.59,Stable,402,15000,60000,99,176,No,N/A,High,Neutral,"['CNC Operation', 'Fitting', 'Welding']",2026-09-05
+SKILL_0185,Machine Operation,Technical - Manufacturing,Beginner,56,-1.24,Stable,104,15000,60000,77,117,Yes,Microsoft,Medium,Uncertain,"['Fitting', 'Welding', 'CNC Operation']",2026-09-05
+SKILL_0186,Machine Operation,Technical - Manufacturing,Intermediate,32,6.74,Stable,95,15000,60000,55,141,Yes,NASSCOM,Medium,Uncertain,"['CAD/CAM', 'Fitting', 'CNC Operation']",2026-09-05
+SKILL_0187,Machine Operation,Technical - Manufacturing,Advanced,48,6.99,Stable,222,15000,60000,12,149,Yes,Industry Body,High,Positive,"['Machine Operation', 'Welding', 'Fitting']",2026-09-05
+SKILL_0188,Machine Operation,Technical - Manufacturing,Expert,47,1.3,Stable,17,15000,60000,100,144,No,N/A,High,Neutral,"['CNC Operation', 'Blueprint Reading', 'Machine Operation']",2026-09-05
+SKILL_0189,Quality Control,Technical - Manufacturing,Beginner,57,2.74,Stable,398,15000,60000,53,89,No,N/A,High,Uncertain,"['Welding', 'Fitting', 'Blueprint Reading']",2026-09-05
+SKILL_0190,Quality Control,Technical - Manufacturing,Intermediate,44,-1.3,Stable,282,15000,60000,69,117,No,N/A,Medium,Neutral,"['Quality Control', 'CNC Operation', 'Blueprint Reading']",2026-09-05
+SKILL_0191,Quality Control,Technical - Manufacturing,Advanced,38,-2.34,Stable,17,15000,60000,90,176,No,N/A,Medium,Neutral,"['Machine Operation', 'Fitting', 'Welding']",2026-09-05
+SKILL_0192,Quality Control,Technical - Manufacturing,Expert,34,5.62,Stable,264,15000,60000,90,115,No,N/A,High,Neutral,"['Welding', 'Blueprint Reading', 'Machine Operation']",2026-09-05
+SKILL_0193,Blueprint Reading,Technical - Manufacturing,Beginner,46,-3.08,Stable,120,15000,60000,34,96,Yes,Industry Body,Low,Uncertain,"['Blueprint Reading', 'Welding', 'Fitting']",2026-09-05
+SKILL_0194,Blueprint Reading,Technical - Manufacturing,Intermediate,45,4.55,Stable,250,15000,60000,7,81,No,N/A,Medium,Positive,"['Machine Operation', 'Quality Control', 'CAD/CAM']",2026-09-05
+SKILL_0195,Blueprint Reading,Technical - Manufacturing,Advanced,62,0.62,Stable,829,15000,60000,34,172,Yes,Google,High,Uncertain,"['CNC Operation', 'Welding', 'Quality Control']",2026-09-05
+SKILL_0196,Blueprint Reading,Technical - Manufacturing,Expert,46,0.7,Stable,410,15000,60000,82,79,Yes,NASSCOM,Medium,Neutral,"['Machine Operation', 'CNC Operation', 'CAD/CAM']",2026-09-05
+SKILL_0197,CAD/CAM,Technical - Manufacturing,Beginner,43,4.34,Stable,153,15000,60000,72,46,Yes,Google,Low,Positive,"['Fitting', 'CNC Operation', 'Welding']",2026-09-05
+SKILL_0198,CAD/CAM,Technical - Manufacturing,Intermediate,50,2.21,Stable,275,15000,60000,20,109,Yes,NASSCOM,Medium,Neutral,"['Blueprint Reading', 'CNC Operation', 'Machine Operation']",2026-09-05
+SKILL_0199,CAD/CAM,Technical - Manufacturing,Advanced,44,4.08,Stable,65,15000,60000,85,154,Yes,AWS,Medium,Neutral,"['Fitting', 'Welding', 'CNC Operation']",2026-09-05
+SKILL_0200,CAD/CAM,Technical - Manufacturing,Expert,55,-4.97,Stable,331,15000,60000,82,83,No,N/A,Low,Positive,"['Blueprint Reading', 'Machine Operation', 'Quality Control']",2026-09-05
+SKILL_0201,Vehicle Maintenance,Technical - Automotive,Beginner,46,3.65,Stable,399,12000,50000,32,106,Yes,Google,Low,Neutral,"['Denting', 'Auto Electrical', 'Painting']",2026-09-05
+SKILL_0202,Vehicle Maintenance,Technical - Automotive,Intermediate,62,-2.99,Stable,1033,12000,50000,49,38,Yes,NASSCOM,Medium,Uncertain,"['Denting', 'Engine Repair', 'Diagnostics']",2026-09-05
+SKILL_0203,Vehicle Maintenance,Technical - Automotive,Advanced,56,5.6,Stable,295,12000,50000,19,23,Yes,NASSCOM,Low,Positive,"['Auto Electrical', 'Engine Repair', 'Vehicle Maintenance']",2026-09-05
+SKILL_0204,Vehicle Maintenance,Technical - Automotive,Expert,36,2.3,Stable,357,12000,50000,25,163,Yes,Microsoft,High,Uncertain,"['Diagnostics', 'Engine Repair', 'Painting']",2026-09-05
+SKILL_0205,Auto Electrical,Technical - Automotive,Beginner,43,9.09,Stable,83,12000,50000,38,182,No,N/A,Medium,Neutral,"['Vehicle Maintenance', 'Diagnostics', 'Engine Repair']",2026-09-05
+SKILL_0206,Auto Electrical,Technical - Automotive,Intermediate,30,9.77,Stable,134,12000,50000,62,160,Yes,Industry Body,Medium,Positive,"['Vehicle Maintenance', 'Painting', 'Engine Repair']",2026-09-05
+SKILL_0207,Auto Electrical,Technical - Automotive,Advanced,63,2.01,Stable,1998,12000,50000,33,127,Yes,Google,High,Positive,"['Engine Repair', 'Vehicle Maintenance', 'Diagnostics']",2026-09-05
+SKILL_0208,Auto Electrical,Technical - Automotive,Expert,35,8.33,Stable,28,12000,50000,10,109,No,N/A,Low,Positive,"['Painting', 'Engine Repair', 'Auto Electrical']",2026-09-05
+SKILL_0209,Engine Repair,Technical - Automotive,Beginner,41,1.78,Stable,299,12000,50000,19,149,Yes,NASSCOM,Low,Positive,"['Denting', 'Diagnostics', 'Vehicle Maintenance']",2026-09-05
+SKILL_0210,Engine Repair,Technical - Automotive,Intermediate,56,9.81,Stable,316,12000,50000,79,126,Yes,State Government,Medium,Neutral,"['Engine Repair', 'Painting', 'Vehicle Maintenance']",2026-09-05
+SKILL_0211,Engine Repair,Technical - Automotive,Advanced,48,-0.58,Stable,76,12000,50000,88,83,Yes,Microsoft,Low,Uncertain,"['Vehicle Maintenance', 'Engine Repair', 'Denting']",2026-09-05
+SKILL_0212,Engine Repair,Technical - Automotive,Expert,33,-2.89,Stable,353,12000,50000,86,63,No,N/A,Medium,Neutral,"['Denting', 'Painting', 'Diagnostics']",2026-09-05
+SKILL_0213,Denting,Technical - Automotive,Beginner,38,9.29,Stable,53,12000,50000,75,109,No,N/A,High,Positive,"['Auto Electrical', 'Denting', 'Vehicle Maintenance']",2026-09-05
+SKILL_0214,Denting,Technical - Automotive,Intermediate,43,5.54,Stable,373,12000,50000,99,168,No,N/A,High,Neutral,"['Painting', 'Vehicle Maintenance', 'Denting']",2026-09-05
+SKILL_0215,Denting,Technical - Automotive,Advanced,62,4.51,Stable,693,12000,50000,17,137,No,N/A,Medium,Uncertain,"['Diagnostics', 'Auto Electrical', 'Painting']",2026-09-05
+SKILL_0216,Denting,Technical - Automotive,Expert,57,3.94,Stable,302,12000,50000,43,172,No,N/A,Medium,Positive,"['Vehicle Maintenance', 'Auto Electrical', 'Diagnostics']",2026-09-05
+SKILL_0217,Painting,Technical - Automotive,Beginner,43,8.42,Stable,93,12000,50000,20,35,No,N/A,High,Positive,"['Vehicle Maintenance', 'Engine Repair', 'Denting']",2026-09-05
+SKILL_0218,Painting,Technical - Automotive,Intermediate,63,4.49,Stable,596,12000,50000,73,170,Yes,NASSCOM,Low,Positive,"['Painting', 'Denting', 'Auto Electrical']",2026-09-05
+SKILL_0219,Painting,Technical - Automotive,Advanced,48,3.62,Stable,120,12000,50000,46,197,Yes,State Government,Medium,Uncertain,"['Auto Electrical', 'Denting', 'Vehicle Maintenance']",2026-09-05
+SKILL_0220,Painting,Technical - Automotive,Expert,32,8.64,Stable,60,12000,50000,64,121,Yes,Industry Body,High,Neutral,"['Diagnostics', 'Vehicle Maintenance', 'Painting']",2026-09-05
+SKILL_0221,Diagnostics,Technical - Automotive,Beginner,45,4.75,Stable,489,12000,50000,14,125,No,N/A,Low,Uncertain,"['Engine Repair', 'Vehicle Maintenance', 'Auto Electrical']",2026-09-05
+SKILL_0222,Diagnostics,Technical - Automotive,Intermediate,59,6.3,Stable,346,12000,50000,56,53,Yes,NSDC,High,Uncertain,"['Vehicle Maintenance', 'Denting', 'Diagnostics']",2026-09-05
+SKILL_0223,Diagnostics,Technical - Automotive,Advanced,47,-1.33,Stable,478,12000,50000,69,170,Yes,NSDC,Medium,Uncertain,"['Painting', 'Auto Electrical', 'Vehicle Maintenance']",2026-09-05
+SKILL_0224,Diagnostics,Technical - Automotive,Expert,37,-2.46,Stable,202,12000,50000,23,84,No,N/A,Low,Uncertain,"['Engine Repair', 'Vehicle Maintenance', 'Painting']",2026-09-05
+SKILL_0225,Patient Care,Technical - Healthcare,Beginner,76,16.7,Growing,1598,15000,80000,42,191,Yes,Microsoft,Low,Uncertain,"['Emergency Care', 'Pharmacy Operations', 'Vital Signs Monitoring']",2026-09-05
+SKILL_0226,Patient Care,Technical - Healthcare,Intermediate,71,10.79,Growing,1792,15000,80000,16,38,Yes,Microsoft,Low,Positive,"['Pharmacy Operations', 'Medical Lab Testing', 'Emergency Care']",2026-09-05
+SKILL_0227,Patient Care,Technical - Healthcare,Advanced,64,17.65,Growing,630,15000,80000,79,79,Yes,State Government,High,Uncertain,"['Medical Lab Testing', 'Medical Equipment', 'Emergency Care']",2026-09-05
+SKILL_0228,Patient Care,Technical - Healthcare,Expert,73,15.56,Growing,1840,15000,80000,56,82,No,N/A,High,Neutral,"['Medical Lab Testing', 'Vital Signs Monitoring', 'Medical Equipment']",2026-09-05
+SKILL_0229,Medical Lab Testing,Technical - Healthcare,Beginner,67,17.56,Growing,313,15000,80000,81,79,Yes,Google,Medium,Positive,"['Vital Signs Monitoring', 'Medical Equipment', 'Medical Lab Testing']",2026-09-05
+SKILL_0230,Medical Lab Testing,Technical - Healthcare,Intermediate,50,13.16,Growing,369,15000,80000,22,192,No,N/A,Low,Positive,"['Vital Signs Monitoring', 'Pharmacy Operations', 'Patient Care']",2026-09-05
+SKILL_0231,Medical Lab Testing,Technical - Healthcare,Advanced,50,18.27,Growing,94,15000,80000,90,110,No,N/A,Low,Neutral,"['Medical Equipment', 'Pharmacy Operations', 'Vital Signs Monitoring']",2026-09-05
+SKILL_0232,Medical Lab Testing,Technical - Healthcare,Expert,79,11.34,Growing,232,15000,80000,67,57,No,N/A,High,Neutral,"['Medical Equipment', 'Pharmacy Operations', 'Medical Lab Testing']",2026-09-05
+SKILL_0233,Pharmacy Operations,Technical - Healthcare,Beginner,60,13.67,Growing,77,15000,80000,31,182,No,N/A,Medium,Uncertain,"['Pharmacy Operations', 'Vital Signs Monitoring', 'Medical Equipment']",2026-09-05
+SKILL_0234,Pharmacy Operations,Technical - Healthcare,Intermediate,66,6.63,Growing,1301,15000,80000,30,21,Yes,NSDC,High,Neutral,"['Emergency Care', 'Patient Care', 'Medical Lab Testing']",2026-09-05
+SKILL_0235,Pharmacy Operations,Technical - Healthcare,Advanced,85,7.74,Growing,125,15000,80000,35,32,Yes,NASSCOM,High,Uncertain,"['Medical Lab Testing', 'Pharmacy Operations', 'Medical Equipment']",2026-09-05
+SKILL_0236,Pharmacy Operations,Technical - Healthcare,Expert,74,9.08,Growing,715,15000,80000,52,118,No,N/A,Low,Positive,"['Emergency Care', 'Patient Care', 'Vital Signs Monitoring']",2026-09-05
+SKILL_0237,Vital Signs Monitoring,Technical - Healthcare,Beginner,77,13.56,Growing,1225,15000,80000,11,93,No,N/A,Low,Neutral,"['Vital Signs Monitoring', 'Pharmacy Operations', 'Emergency Care']",2026-09-05
+SKILL_0238,Vital Signs Monitoring,Technical - Healthcare,Intermediate,76,17.76,Growing,236,15000,80000,47,138,Yes,Google,High,Uncertain,"['Medical Lab Testing', 'Medical Equipment', 'Patient Care']",2026-09-05
+SKILL_0239,Vital Signs Monitoring,Technical - Healthcare,Advanced,50,19.78,Growing,279,15000,80000,69,71,No,N/A,High,Uncertain,"['Medical Lab Testing', 'Emergency Care', 'Pharmacy Operations']",2026-09-05
+SKILL_0240,Vital Signs Monitoring,Technical - Healthcare,Expert,68,9.98,Growing,1646,15000,80000,10,141,No,N/A,High,Positive,"['Emergency Care', 'Medical Equipment', 'Medical Lab Testing']",2026-09-05
+SKILL_0241,Emergency Care,Technical - Healthcare,Beginner,84,5.3,Growing,1557,15000,80000,67,168,No,N/A,Medium,Positive,"['Patient Care', 'Medical Equipment', 'Emergency Care']",2026-09-05
+SKILL_0242,Emergency Care,Technical - Healthcare,Intermediate,50,18.26,Growing,178,15000,80000,60,155,No,N/A,Medium,Uncertain,"['Patient Care', 'Medical Lab Testing', 'Vital Signs Monitoring']",2026-09-05
+SKILL_0243,Emergency Care,Technical - Healthcare,Advanced,66,18.56,Growing,1347,15000,80000,53,97,No,N/A,Low,Uncertain,"['Medical Lab Testing', 'Patient Care', 'Vital Signs Monitoring']",2026-09-05
+SKILL_0244,Emergency Care,Technical - Healthcare,Expert,76,17.46,Growing,1171,15000,80000,82,63,No,N/A,High,Neutral,"['Emergency Care', 'Vital Signs Monitoring', 'Medical Lab Testing']",2026-09-05
+SKILL_0245,Medical Equipment,Technical - Healthcare,Beginner,68,12.5,Growing,754,15000,80000,84,130,Yes,Industry Body,Medium,Neutral,"['Medical Lab Testing', 'Medical Equipment', 'Emergency Care']",2026-09-05
+SKILL_0246,Medical Equipment,Technical - Healthcare,Intermediate,55,9.74,Growing,406,15000,80000,91,123,Yes,Microsoft,High,Neutral,"['Emergency Care', 'Pharmacy Operations', 'Patient Care']",2026-09-05
+SKILL_0247,Medical Equipment,Technical - Healthcare,Advanced,70,11.86,Growing,1185,15000,80000,20,26,Yes,NSDC,High,Neutral,"['Pharmacy Operations', 'Medical Equipment', 'Vital Signs Monitoring']",2026-09-05
+SKILL_0248,Medical Equipment,Technical - Healthcare,Expert,73,5.95,Growing,634,15000,80000,52,145,Yes,Google,High,Uncertain,"['Medical Equipment', 'Emergency Care', 'Pharmacy Operations']",2026-09-05
+SKILL_0249,PCB Design,Technical - Electronics,Beginner,82,17.29,Growing,1541,15000,70000,12,57,Yes,Industry Body,High,Positive,"['Embedded Systems', 'Consumer Electronics', 'Mobile Repair']",2026-09-05
+SKILL_0250,PCB Design,Technical - Electronics,Intermediate,53,11.63,Growing,277,15000,70000,78,118,Yes,Google,High,Uncertain,"['Embedded Systems', 'Circuit Design', 'Consumer Electronics']",2026-09-05
+SKILL_0251,PCB Design,Technical - Electronics,Advanced,73,14.98,Growing,1325,15000,70000,95,46,No,N/A,High,Neutral,"['Mobile Repair', 'Embedded Systems', 'Consumer Electronics']",2026-09-05
+SKILL_0252,PCB Design,Technical - Electronics,Expert,61,19.12,Growing,477,15000,70000,36,199,Yes,Google,Low,Positive,"['Mobile Repair', 'IoT', 'Consumer Electronics']",2026-09-05
+SKILL_0253,Embedded Systems,Technical - Electronics,Beginner,59,10.9,Growing,500,15000,70000,98,155,Yes,NASSCOM,Low,Uncertain,"['Consumer Electronics', 'PCB Design', 'Embedded Systems']",2026-09-05
+SKILL_0254,Embedded Systems,Technical - Electronics,Intermediate,67,7.24,Growing,736,15000,70000,75,68,Yes,State Government,Medium,Positive,"['Circuit Design', 'Consumer Electronics', 'IoT']",2026-09-05
+SKILL_0255,Embedded Systems,Technical - Electronics,Advanced,71,11.08,Growing,1540,15000,70000,66,56,No,N/A,High,Neutral,"['Mobile Repair', 'Embedded Systems', 'PCB Design']",2026-09-05
+SKILL_0256,Embedded Systems,Technical - Electronics,Expert,58,15.61,Growing,376,15000,70000,31,189,No,N/A,High,Neutral,"['Mobile Repair', 'Circuit Design', 'PCB Design']",2026-09-05
+SKILL_0257,IoT,Technical - Electronics,Beginner,67,10.91,Growing,578,15000,70000,31,185,Yes,AWS,Low,Positive,"['Embedded Systems', 'Mobile Repair', 'PCB Design']",2026-09-05
+SKILL_0258,IoT,Technical - Electronics,Intermediate,57,12.83,Growing,433,15000,70000,25,144,No,N/A,Low,Positive,"['PCB Design', 'Mobile Repair', 'IoT']",2026-09-05
+SKILL_0259,IoT,Technical - Electronics,Advanced,80,16.97,Growing,595,15000,70000,38,41,Yes,Industry Body,Medium,Uncertain,"['Mobile Repair', 'Circuit Design', 'IoT']",2026-09-05
+SKILL_0260,IoT,Technical - Electronics,Expert,55,10.61,Growing,41,15000,70000,23,44,No,N/A,Medium,Neutral,"['Consumer Electronics', 'Circuit Design', 'Embedded Systems']",2026-09-05
+SKILL_0261,Mobile Repair,Technical - Electronics,Beginner,55,13.63,Growing,69,15000,70000,51,41,No,N/A,Medium,Positive,"['Consumer Electronics', 'Mobile Repair', 'PCB Design']",2026-09-05
+SKILL_0262,Mobile Repair,Technical - Electronics,Intermediate,85,14.81,Growing,155,15000,70000,75,109,No,N/A,Low,Uncertain,"['Embedded Systems', 'PCB Design', 'Circuit Design']",2026-09-05
+SKILL_0263,Mobile Repair,Technical - Electronics,Advanced,59,19.65,Growing,123,15000,70000,52,102,No,N/A,High,Uncertain,"['Circuit Design', 'IoT', 'Embedded Systems']",2026-09-05
+SKILL_0264,Mobile Repair,Technical - Electronics,Expert,78,7.72,Growing,1675,15000,70000,95,198,No,N/A,Medium,Positive,"['PCB Design', 'Mobile Repair', 'IoT']",2026-09-05
+SKILL_0265,Consumer Electronics,Technical - Electronics,Beginner,58,5.03,Growing,98,15000,70000,23,112,No,N/A,Low,Uncertain,"['Mobile Repair', 'Circuit Design', 'PCB Design']",2026-09-05
+SKILL_0266,Consumer Electronics,Technical - Electronics,Intermediate,78,17.05,Growing,1857,15000,70000,16,30,No,N/A,High,Positive,"['PCB Design', 'Circuit Design', 'Embedded Systems']",2026-09-05
+SKILL_0267,Consumer Electronics,Technical - Electronics,Advanced,50,8.36,Growing,93,15000,70000,32,190,Yes,NASSCOM,Medium,Uncertain,"['IoT', 'Embedded Systems', 'Consumer Electronics']",2026-09-05
+SKILL_0268,Consumer Electronics,Technical - Electronics,Expert,81,15.81,Growing,631,15000,70000,45,73,No,N/A,High,Neutral,"['Mobile Repair', 'PCB Design', 'Embedded Systems']",2026-09-05
+SKILL_0269,Circuit Design,Technical - Electronics,Beginner,74,12.13,Growing,738,15000,70000,17,64,Yes,Industry Body,Medium,Positive,"['Consumer Electronics', 'Embedded Systems', 'IoT']",2026-09-05
+SKILL_0270,Circuit Design,Technical - Electronics,Intermediate,70,13.76,Growing,883,15000,70000,28,62,Yes,AWS,High,Neutral,"['Embedded Systems', 'IoT', 'Consumer Electronics']",2026-09-05
+SKILL_0271,Circuit Design,Technical - Electronics,Advanced,63,13.58,Growing,1581,15000,70000,99,199,Yes,AWS,High,Neutral,"['Circuit Design', 'PCB Design', 'Mobile Repair']",2026-09-05
+SKILL_0272,Circuit Design,Technical - Electronics,Expert,62,13.71,Growing,262,15000,70000,5,109,Yes,Microsoft,High,Positive,"['Circuit Design', 'Mobile Repair', 'PCB Design']",2026-09-05
+SKILL_0273,Verbal Communication,Soft Skills - Communication,Beginner,33,9.05,Stable,281,0,0,14,125,No,N/A,Low,Uncertain,"['Presentation Skills', 'Public Speaking', 'Active Listening']",2026-09-05
+SKILL_0274,Verbal Communication,Soft Skills - Communication,Intermediate,34,6.61,Stable,339,0,0,30,180,Yes,NSDC,High,Uncertain,"['Written Communication', 'Public Speaking', 'Presentation Skills']",2026-09-05
+SKILL_0275,Verbal Communication,Soft Skills - Communication,Advanced,53,-1.44,Stable,87,0,0,88,90,No,N/A,Low,Uncertain,"['Verbal Communication', 'Presentation Skills', 'Public Speaking']",2026-09-05
+SKILL_0276,Verbal Communication,Soft Skills - Communication,Expert,64,9.42,Stable,208,0,0,98,126,No,N/A,High,Neutral,"['Verbal Communication', 'Presentation Skills', 'Written Communication']",2026-09-05
+SKILL_0277,Written Communication,Soft Skills - Communication,Beginner,59,6.91,Stable,307,0,0,32,193,Yes,Microsoft,Medium,Uncertain,"['Public Speaking', 'Active Listening', 'Presentation Skills']",2026-09-05
+SKILL_0278,Written Communication,Soft Skills - Communication,Intermediate,47,4.08,Stable,97,0,0,71,170,No,N/A,Low,Uncertain,"['Public Speaking', 'Active Listening', 'Presentation Skills']",2026-09-05
+SKILL_0279,Written Communication,Soft Skills - Communication,Advanced,30,-3.45,Stable,373,0,0,58,116,Yes,Industry Body,Low,Positive,"['Presentation Skills', 'Public Speaking', 'Written Communication']",2026-09-05
+SKILL_0280,Written Communication,Soft Skills - Communication,Expert,55,-0.81,Stable,472,0,0,26,93,No,N/A,Medium,Positive,"['Public Speaking', 'Written Communication', 'Presentation Skills']",2026-09-05
+SKILL_0281,Presentation Skills,Soft Skills - Communication,Beginner,35,8.46,Stable,466,0,0,29,59,No,N/A,Medium,Positive,"['Written Communication', 'Active Listening', 'Public Speaking']",2026-09-05
+SKILL_0282,Presentation Skills,Soft Skills - Communication,Intermediate,34,2.27,Stable,284,0,0,28,132,Yes,AWS,Medium,Positive,"['Verbal Communication', 'Written Communication', 'Active Listening']",2026-09-05
+SKILL_0283,Presentation Skills,Soft Skills - Communication,Advanced,31,3.35,Stable,229,0,0,7,63,Yes,AWS,Medium,Positive,"['Verbal Communication', 'Active Listening', 'Written Communication']",2026-09-05
+SKILL_0284,Presentation Skills,Soft Skills - Communication,Expert,33,-3.24,Stable,102,0,0,40,35,No,N/A,High,Positive,"['Written Communication', 'Presentation Skills', 'Verbal Communication']",2026-09-05
+SKILL_0285,Active Listening,Soft Skills - Communication,Beginner,60,1.27,Stable,350,0,0,91,177,No,N/A,Low,Positive,"['Active Listening', 'Public Speaking', 'Written Communication']",2026-09-05
+SKILL_0286,Active Listening,Soft Skills - Communication,Intermediate,43,2.8,Stable,162,0,0,7,87,No,N/A,Low,Neutral,"['Written Communication', 'Verbal Communication', 'Presentation Skills']",2026-09-05
+SKILL_0287,Active Listening,Soft Skills - Communication,Advanced,64,9.18,Stable,967,0,0,56,96,No,N/A,High,Uncertain,"['Active Listening', 'Written Communication', 'Public Speaking']",2026-09-05
+SKILL_0288,Active Listening,Soft Skills - Communication,Expert,47,-1.26,Stable,369,0,0,94,39,Yes,NASSCOM,Medium,Uncertain,"['Presentation Skills', 'Verbal Communication', 'Written Communication']",2026-09-05
+SKILL_0289,Public Speaking,Soft Skills - Communication,Beginner,45,4.87,Stable,138,0,0,30,51,No,N/A,Low,Uncertain,"['Presentation Skills', 'Verbal Communication', 'Public Speaking']",2026-09-05
+SKILL_0290,Public Speaking,Soft Skills - Communication,Intermediate,65,7.28,Stable,1954,0,0,23,36,No,N/A,Low,Uncertain,"['Presentation Skills', 'Written Communication', 'Verbal Communication']",2026-09-05
+SKILL_0291,Public Speaking,Soft Skills - Communication,Advanced,41,-0.88,Stable,371,0,0,71,95,Yes,State Government,Medium,Neutral,"['Public Speaking', 'Written Communication', 'Presentation Skills']",2026-09-05
+SKILL_0292,Public Speaking,Soft Skills - Communication,Expert,45,-1.03,Stable,50,0,0,57,55,Yes,Industry Body,Low,Neutral,"['Written Communication', 'Active Listening', 'Public Speaking']",2026-09-05
+SKILL_0293,Team Management,Soft Skills - Leadership,Beginner,69,19.08,Growing,152,0,0,22,165,Yes,NASSCOM,Low,Positive,"['Decision Making', 'Conflict Resolution', 'Strategic Thinking']",2026-09-05
+SKILL_0294,Team Management,Soft Skills - Leadership,Intermediate,51,17.92,Growing,310,0,0,28,51,Yes,Google,Medium,Uncertain,"['Team Management', 'Conflict Resolution', 'Decision Making']",2026-09-05
+SKILL_0295,Team Management,Soft Skills - Leadership,Advanced,63,18.59,Growing,1148,0,0,52,104,Yes,NASSCOM,High,Uncertain,"['Strategic Thinking', 'Conflict Resolution', 'Decision Making']",2026-09-05
+SKILL_0296,Team Management,Soft Skills - Leadership,Expert,65,17.82,Growing,1158,0,0,92,27,No,N/A,High,Positive,"['Team Management', 'Conflict Resolution', 'Decision Making']",2026-09-05
+SKILL_0297,Decision Making,Soft Skills - Leadership,Beginner,51,16.78,Growing,161,0,0,53,71,No,N/A,Low,Neutral,"['Conflict Resolution', 'Decision Making', 'Problem Solving']",2026-09-05
+SKILL_0298,Decision Making,Soft Skills - Leadership,Intermediate,56,13.21,Growing,284,0,0,48,179,Yes,Industry Body,Medium,Neutral,"['Problem Solving', 'Decision Making', 'Team Management']",2026-09-05
+SKILL_0299,Decision Making,Soft Skills - Leadership,Advanced,72,13.93,Growing,1521,0,0,37,183,Yes,AWS,Medium,Uncertain,"['Decision Making', 'Strategic Thinking', 'Team Management']",2026-09-05
+SKILL_0300,Decision Making,Soft Skills - Leadership,Expert,67,15.19,Growing,1613,0,0,36,70,No,N/A,Low,Neutral,"['Strategic Thinking', 'Problem Solving', 'Decision Making']",2026-09-05
+SKILL_0301,Problem Solving,Soft Skills - Leadership,Beginner,65,8.27,Growing,1159,0,0,84,25,Yes,Microsoft,Medium,Neutral,"['Team Management', 'Decision Making', 'Conflict Resolution']",2026-09-05
+SKILL_0302,Problem Solving,Soft Skills - Leadership,Intermediate,84,5.07,Growing,1708,0,0,55,116,No,N/A,Medium,Uncertain,"['Problem Solving', 'Conflict Resolution', 'Decision Making']",2026-09-05
+SKILL_0303,Problem Solving,Soft Skills - Leadership,Advanced,85,15.35,Growing,871,0,0,70,172,Yes,Google,High,Uncertain,"['Problem Solving', 'Strategic Thinking', 'Team Management']",2026-09-05
+SKILL_0304,Problem Solving,Soft Skills - Leadership,Expert,59,12.2,Growing,461,0,0,11,44,Yes,AWS,High,Positive,"['Conflict Resolution', 'Team Management', 'Decision Making']",2026-09-05
+SKILL_0305,Conflict Resolution,Soft Skills - Leadership,Beginner,64,16.99,Growing,1882,0,0,97,147,Yes,Industry Body,High,Uncertain,"['Problem Solving', 'Strategic Thinking', 'Decision Making']",2026-09-05
+SKILL_0306,Conflict Resolution,Soft Skills - Leadership,Intermediate,72,11.14,Growing,789,0,0,18,105,No,N/A,High,Positive,"['Problem Solving', 'Decision Making', 'Team Management']",2026-09-05
+SKILL_0307,Conflict Resolution,Soft Skills - Leadership,Advanced,84,11.27,Growing,726,0,0,45,25,No,N/A,Low,Positive,"['Strategic Thinking', 'Decision Making', 'Team Management']",2026-09-05
+SKILL_0308,Conflict Resolution,Soft Skills - Leadership,Expert,72,16.58,Growing,231,0,0,39,28,Yes,State Government,Low,Positive,"['Team Management', 'Strategic Thinking', 'Decision Making']",2026-09-05
+SKILL_0309,Strategic Thinking,Soft Skills - Leadership,Beginner,52,14.96,Growing,382,0,0,44,63,Yes,Google,Medium,Neutral,"['Strategic Thinking', 'Team Management', 'Problem Solving']",2026-09-05
+SKILL_0310,Strategic Thinking,Soft Skills - Leadership,Intermediate,83,6.64,Growing,1396,0,0,98,121,Yes,Microsoft,Medium,Positive,"['Strategic Thinking', 'Conflict Resolution', 'Team Management']",2026-09-05
+SKILL_0311,Strategic Thinking,Soft Skills - Leadership,Advanced,75,7.86,Growing,1551,0,0,39,111,No,N/A,Medium,Neutral,"['Strategic Thinking', 'Decision Making', 'Conflict Resolution']",2026-09-05
+SKILL_0312,Strategic Thinking,Soft Skills - Leadership,Expert,81,11.27,Growing,378,0,0,93,100,No,N/A,Medium,Uncertain,"['Conflict Resolution', 'Decision Making', 'Team Management']",2026-09-05
+SKILL_0313,Project Management,Soft Skills - Business,Beginner,53,10.56,Growing,71,30000,180000,92,41,No,N/A,Low,Positive,"['Business Analysis', 'Process Improvement', 'Requirements Gathering']",2026-09-05
+SKILL_0314,Project Management,Soft Skills - Business,Intermediate,69,15.12,Growing,993,30000,180000,65,137,No,N/A,Medium,Uncertain,"['Project Management', 'Business Analysis', 'Agile/Scrum']",2026-09-05
+SKILL_0315,Project Management,Soft Skills - Business,Advanced,58,13.69,Growing,248,30000,180000,56,83,No,N/A,Medium,Neutral,"['Requirements Gathering', 'Agile/Scrum', 'Process Improvement']",2026-09-05
+SKILL_0316,Project Management,Soft Skills - Business,Expert,78,14.34,Growing,708,30000,180000,97,79,Yes,State Government,High,Uncertain,"['Business Analysis', 'Process Improvement', 'Agile/Scrum']",2026-09-05
+SKILL_0317,Business Analysis,Soft Skills - Business,Beginner,78,18.2,Growing,287,30000,180000,56,62,No,N/A,Low,Neutral,"['Business Analysis', 'Agile/Scrum', 'Requirements Gathering']",2026-09-05
+SKILL_0318,Business Analysis,Soft Skills - Business,Intermediate,64,19.58,Growing,1244,30000,180000,55,62,Yes,AWS,Medium,Uncertain,"['Agile/Scrum', 'Business Analysis', 'Requirements Gathering']",2026-09-05
+SKILL_0319,Business Analysis,Soft Skills - Business,Advanced,79,10.1,Growing,1680,30000,180000,36,180,No,N/A,High,Positive,"['Process Improvement', 'Requirements Gathering', 'Project Management']",2026-09-05
+SKILL_0320,Business Analysis,Soft Skills - Business,Expert,63,6.17,Growing,1875,30000,180000,46,153,No,N/A,Low,Positive,"['Process Improvement', 'Project Management', 'Agile/Scrum']",2026-09-05
+SKILL_0321,Requirements Gathering,Soft Skills - Business,Beginner,83,13.58,Growing,615,30000,180000,65,190,No,N/A,High,Uncertain,"['Requirements Gathering', 'Agile/Scrum', 'Process Improvement']",2026-09-05
+SKILL_0322,Requirements Gathering,Soft Skills - Business,Intermediate,53,11.66,Growing,143,30000,180000,49,83,Yes,Microsoft,Low,Positive,"['Business Analysis', 'Agile/Scrum', 'Process Improvement']",2026-09-05
+SKILL_0323,Requirements Gathering,Soft Skills - Business,Advanced,69,17.34,Growing,1519,30000,180000,28,185,No,N/A,Low,Neutral,"['Agile/Scrum', 'Process Improvement', 'Business Analysis']",2026-09-05
+SKILL_0324,Requirements Gathering,Soft Skills - Business,Expert,59,15.8,Growing,13,30000,180000,55,88,No,N/A,Medium,Positive,"['Requirements Gathering', 'Agile/Scrum', 'Process Improvement']",2026-09-05
+SKILL_0325,Process Improvement,Soft Skills - Business,Beginner,51,8.36,Growing,171,30000,180000,6,51,No,N/A,Low,Neutral,"['Requirements Gathering', 'Process Improvement', 'Agile/Scrum']",2026-09-05
+SKILL_0326,Process Improvement,Soft Skills - Business,Intermediate,52,9.16,Growing,255,30000,180000,70,134,Yes,NASSCOM,Low,Neutral,"['Business Analysis', 'Process Improvement', 'Requirements Gathering']",2026-09-05
+SKILL_0327,Process Improvement,Soft Skills - Business,Advanced,65,10.42,Growing,920,30000,180000,71,111,No,N/A,Medium,Positive,"['Agile/Scrum', 'Process Improvement', 'Business Analysis']",2026-09-05
+SKILL_0328,Process Improvement,Soft Skills - Business,Expert,63,16.36,Growing,1366,30000,180000,79,187,Yes,AWS,Medium,Neutral,"['Process Improvement', 'Project Management', 'Business Analysis']",2026-09-05
+SKILL_0329,Agile/Scrum,Soft Skills - Business,Beginner,78,17.02,Growing,1900,30000,180000,98,44,No,N/A,High,Neutral,"['Process Improvement', 'Requirements Gathering', 'Agile/Scrum']",2026-09-05
+SKILL_0330,Agile/Scrum,Soft Skills - Business,Intermediate,67,12.88,Growing,1368,30000,180000,55,50,No,N/A,Low,Uncertain,"['Process Improvement', 'Project Management', 'Agile/Scrum']",2026-09-05
+SKILL_0331,Agile/Scrum,Soft Skills - Business,Advanced,85,5.18,Growing,681,30000,180000,31,113,Yes,Industry Body,Medium,Uncertain,"['Project Management', 'Agile/Scrum', 'Process Improvement']",2026-09-05
+SKILL_0332,Agile/Scrum,Soft Skills - Business,Expert,76,15.04,Growing,1064,30000,180000,9,134,No,N/A,Low,Positive,"['Requirements Gathering', 'Agile/Scrum', 'Project Management']",2026-09-05
+SKILL_0333,SEO,Digital Marketing,Beginner,51,5.47,Growing,424,20000,120000,94,137,Yes,Microsoft,Low,Neutral,"['SEM', 'Content Marketing', 'Social Media Marketing']",2026-09-05
+SKILL_0334,SEO,Digital Marketing,Intermediate,59,16.11,Growing,82,20000,120000,73,51,Yes,NASSCOM,Low,Uncertain,"['Social Media Marketing', 'SEM', 'Google Analytics']",2026-09-05
+SKILL_0335,SEO,Digital Marketing,Advanced,53,6.8,Growing,290,20000,120000,12,158,No,N/A,High,Neutral,"['Influencer Marketing', 'SEM', 'Content Marketing']",2026-09-05
+SKILL_0336,SEO,Digital Marketing,Expert,69,6.6,Growing,456,20000,120000,97,126,Yes,NSDC,Low,Neutral,"['Email Marketing', 'Influencer Marketing', 'Content Marketing']",2026-09-05
+SKILL_0337,SEM,Digital Marketing,Beginner,67,10.14,Growing,1640,20000,120000,70,118,Yes,Industry Body,High,Uncertain,"['Email Marketing', 'Influencer Marketing', 'Social Media Marketing']",2026-09-05
+SKILL_0338,SEM,Digital Marketing,Intermediate,58,16.35,Growing,206,20000,120000,24,95,No,N/A,High,Positive,"['Email Marketing', 'SEO', 'SEM']",2026-09-05
+SKILL_0339,SEM,Digital Marketing,Advanced,85,7.15,Growing,499,20000,120000,59,109,No,N/A,Low,Positive,"['SEO', 'Social Media Marketing', 'SEM']",2026-09-05
+SKILL_0340,SEM,Digital Marketing,Expert,84,9.31,Growing,1172,20000,120000,12,79,Yes,NASSCOM,Medium,Positive,"['Social Media Marketing', 'Content Marketing', 'SEO']",2026-09-05
+SKILL_0341,Social Media Marketing,Digital Marketing,Beginner,75,17.42,Growing,1716,20000,120000,13,174,No,N/A,High,Neutral,"['Content Marketing', 'Influencer Marketing', 'SEM']",2026-09-05
+SKILL_0342,Social Media Marketing,Digital Marketing,Intermediate,62,13.96,Growing,1658,20000,120000,89,93,No,N/A,Low,Uncertain,"['Social Media Marketing', 'Email Marketing', 'SEO']",2026-09-05
+SKILL_0343,Social Media Marketing,Digital Marketing,Advanced,78,6.05,Growing,1645,20000,120000,14,73,Yes,Industry Body,High,Uncertain,"['Social Media Marketing', 'SEO', 'Influencer Marketing']",2026-09-05
+SKILL_0344,Social Media Marketing,Digital Marketing,Expert,77,8.7,Growing,695,20000,120000,64,122,No,N/A,High,Neutral,"['Google Analytics', 'Email Marketing', 'Influencer Marketing']",2026-09-05
+SKILL_0345,Content Marketing,Digital Marketing,Beginner,70,18.3,Growing,1678,20000,120000,95,137,No,N/A,Low,Positive,"['Content Marketing', 'Google Analytics', 'SEM']",2026-09-05
+SKILL_0346,Content Marketing,Digital Marketing,Intermediate,68,16.7,Growing,1896,20000,120000,54,144,Yes,Google,Low,Uncertain,"['SEM', 'SEO', 'Google Analytics']",2026-09-05
+SKILL_0347,Content Marketing,Digital Marketing,Advanced,80,10.88,Growing,347,20000,120000,66,86,Yes,NASSCOM,Medium,Neutral,"['Email Marketing', 'SEO', 'Content Marketing']",2026-09-05
+SKILL_0348,Content Marketing,Digital Marketing,Expert,60,17.0,Growing,104,20000,120000,51,112,Yes,Microsoft,Medium,Uncertain,"['Influencer Marketing', 'Google Analytics', 'Social Media Marketing']",2026-09-05
+SKILL_0349,Google Analytics,Digital Marketing,Beginner,51,6.86,Growing,102,20000,120000,79,169,Yes,AWS,Low,Positive,"['SEO', 'Influencer Marketing', 'SEM']",2026-09-05
+SKILL_0350,Google Analytics,Digital Marketing,Intermediate,74,8.68,Growing,1293,20000,120000,92,30,Yes,State Government,Low,Uncertain,"['Google Analytics', 'SEO', 'Content Marketing']",2026-09-05
+SKILL_0351,Google Analytics,Digital Marketing,Advanced,64,13.51,Growing,657,20000,120000,76,162,Yes,Microsoft,Low,Positive,"['Google Analytics', 'SEO', 'Content Marketing']",2026-09-05
+SKILL_0352,Google Analytics,Digital Marketing,Expert,50,11.79,Growing,253,20000,120000,13,156,No,N/A,Low,Uncertain,"['Content Marketing', 'SEO', 'SEM']",2026-09-05
+SKILL_0353,Email Marketing,Digital Marketing,Beginner,66,9.72,Growing,1484,20000,120000,52,159,Yes,State Government,Low,Positive,"['Social Media Marketing', 'Influencer Marketing', 'Content Marketing']",2026-09-05
+SKILL_0354,Email Marketing,Digital Marketing,Intermediate,68,14.42,Growing,1783,20000,120000,31,177,No,N/A,Medium,Positive,"['SEM', 'Social Media Marketing', 'Content Marketing']",2026-09-05
+SKILL_0355,Email Marketing,Digital Marketing,Advanced,81,13.9,Growing,1591,20000,120000,70,76,Yes,Microsoft,High,Positive,"['SEO', 'Social Media Marketing', 'Email Marketing']",2026-09-05
+SKILL_0356,Email Marketing,Digital Marketing,Expert,63,12.62,Growing,1744,20000,120000,30,81,Yes,NSDC,Low,Uncertain,"['SEO', 'Influencer Marketing', 'Google Analytics']",2026-09-05
+SKILL_0357,Influencer Marketing,Digital Marketing,Beginner,63,13.24,Growing,886,20000,120000,86,151,Yes,NASSCOM,Medium,Neutral,"['SEM', 'Influencer Marketing', 'Social Media Marketing']",2026-09-05
+SKILL_0358,Influencer Marketing,Digital Marketing,Intermediate,76,6.51,Growing,1323,20000,120000,41,69,No,N/A,Low,Neutral,"['Content Marketing', 'Social Media Marketing', 'Influencer Marketing']",2026-09-05
+SKILL_0359,Influencer Marketing,Digital Marketing,Advanced,58,13.8,Growing,295,20000,120000,74,58,Yes,Microsoft,Medium,Positive,"['SEO', 'Google Analytics', 'Social Media Marketing']",2026-09-05
+SKILL_0360,Influencer Marketing,Digital Marketing,Expert,68,18.11,Growing,1546,20000,120000,54,173,Yes,Microsoft,High,Uncertain,"['SEM', 'Social Media Marketing', 'Content Marketing']",2026-09-05
+SKILL_0361,Graphic Design,Design & Creative,Beginner,62,19.23,Growing,1100,20000,150000,17,130,Yes,NSDC,Medium,Neutral,"['Graphic Design', 'Adobe Creative Suite', 'Photography']",2026-09-05
+SKILL_0362,Graphic Design,Design & Creative,Intermediate,77,19.85,Growing,903,20000,150000,51,86,Yes,Google,Medium,Positive,"['Graphic Design', 'UI/UX Design', 'Figma']",2026-09-05
+SKILL_0363,Graphic Design,Design & Creative,Advanced,73,11.04,Growing,720,20000,150000,15,96,Yes,Google,Medium,Positive,"['Adobe Creative Suite', 'Video Editing', 'UI/UX Design']",2026-09-05
+SKILL_0364,Graphic Design,Design & Creative,Expert,55,15.66,Growing,21,20000,150000,45,98,Yes,Microsoft,High,Positive,"['UI/UX Design', 'Animation', 'Graphic Design']",2026-09-05
+SKILL_0365,UI/UX Design,Design & Creative,Beginner,82,8.51,Growing,634,20000,150000,80,181,No,N/A,High,Uncertain,"['Photography', 'UI/UX Design', 'Figma']",2026-09-05
+SKILL_0366,UI/UX Design,Design & Creative,Intermediate,56,5.88,Growing,465,20000,150000,74,30,No,N/A,Medium,Uncertain,"['Adobe Creative Suite', 'Video Editing', 'Photography']",2026-09-05
+SKILL_0367,UI/UX Design,Design & Creative,Advanced,70,14.14,Growing,1386,20000,150000,81,41,Yes,AWS,High,Uncertain,"['Figma', 'UI/UX Design', 'Graphic Design']",2026-09-05
+SKILL_0368,UI/UX Design,Design & Creative,Expert,79,11.5,Growing,1810,20000,150000,80,129,Yes,NASSCOM,High,Positive,"['Video Editing', 'Animation', 'Photography']",2026-09-05
+SKILL_0369,Video Editing,Design & Creative,Beginner,77,7.24,Growing,662,20000,150000,59,41,No,N/A,Low,Neutral,"['Figma', 'Adobe Creative Suite', 'Graphic Design']",2026-09-05
+SKILL_0370,Video Editing,Design & Creative,Intermediate,54,12.98,Growing,21,20000,150000,48,23,Yes,Microsoft,Low,Uncertain,"['Adobe Creative Suite', 'Photography', 'Graphic Design']",2026-09-05
+SKILL_0371,Video Editing,Design & Creative,Advanced,81,13.01,Growing,931,20000,150000,13,44,No,N/A,Low,Uncertain,"['Animation', 'Adobe Creative Suite', 'Figma']",2026-09-05
+SKILL_0372,Video Editing,Design & Creative,Expert,51,8.47,Growing,346,20000,150000,64,25,Yes,AWS,Low,Neutral,"['UI/UX Design', 'Animation', 'Video Editing']",2026-09-05
+SKILL_0373,Animation,Design & Creative,Beginner,76,16.86,Growing,868,20000,150000,24,54,No,N/A,Low,Uncertain,"['Animation', 'Video Editing', 'Adobe Creative Suite']",2026-09-05
+SKILL_0374,Animation,Design & Creative,Intermediate,77,7.52,Growing,1254,20000,150000,75,166,Yes,State Government,High,Uncertain,"['UI/UX Design', 'Figma', 'Video Editing']",2026-09-05
+SKILL_0375,Animation,Design & Creative,Advanced,64,5.2,Growing,904,20000,150000,69,85,No,N/A,Low,Neutral,"['Graphic Design', 'Photography', 'Figma']",2026-09-05
+SKILL_0376,Animation,Design & Creative,Expert,58,10.42,Growing,177,20000,150000,20,46,No,N/A,Low,Neutral,"['Video Editing', 'Figma', 'Graphic Design']",2026-09-05
+SKILL_0377,Photography,Design & Creative,Beginner,62,9.28,Growing,1199,20000,150000,63,101,No,N/A,Medium,Positive,"['Figma', 'Graphic Design', 'Adobe Creative Suite']",2026-09-05
+SKILL_0378,Photography,Design & Creative,Intermediate,53,6.87,Growing,206,20000,150000,54,20,Yes,Google,High,Positive,"['Figma', 'UI/UX Design', 'Animation']",2026-09-05
+SKILL_0379,Photography,Design & Creative,Advanced,54,10.16,Growing,28,20000,150000,84,151,No,N/A,Medium,Uncertain,"['Adobe Creative Suite', 'Graphic Design', 'Figma']",2026-09-05
+SKILL_0380,Photography,Design & Creative,Expert,64,13.85,Growing,513,20000,150000,43,163,Yes,NSDC,Low,Positive,"['UI/UX Design', 'Video Editing', 'Figma']",2026-09-05
+SKILL_0381,Figma,Design & Creative,Beginner,63,16.53,Growing,486,20000,150000,19,182,No,N/A,Medium,Uncertain,"['UI/UX Design', 'Adobe Creative Suite', 'Graphic Design']",2026-09-05
+SKILL_0382,Figma,Design & Creative,Intermediate,77,10.43,Growing,1293,20000,150000,69,44,Yes,Microsoft,High,Uncertain,"['Adobe Creative Suite', 'Animation', 'Photography']",2026-09-05
+SKILL_0383,Figma,Design & Creative,Advanced,55,19.08,Growing,208,20000,150000,91,133,No,N/A,Low,Neutral,"['Photography', 'UI/UX Design', 'Adobe Creative Suite']",2026-09-05
+SKILL_0384,Figma,Design & Creative,Expert,53,10.85,Growing,133,20000,150000,84,117,Yes,Microsoft,High,Positive,"['Animation', 'Figma', 'UI/UX Design']",2026-09-05
+SKILL_0385,Adobe Creative Suite,Design & Creative,Beginner,81,6.56,Growing,238,20000,150000,16,194,No,N/A,High,Uncertain,"['Adobe Creative Suite', 'UI/UX Design', 'Video Editing']",2026-09-05
+SKILL_0386,Adobe Creative Suite,Design & Creative,Intermediate,53,13.08,Growing,419,20000,150000,32,91,Yes,NSDC,High,Positive,"['UI/UX Design', 'Graphic Design', 'Photography']",2026-09-05
+SKILL_0387,Adobe Creative Suite,Design & Creative,Advanced,61,13.07,Growing,1631,20000,150000,26,170,Yes,Microsoft,Medium,Neutral,"['Adobe Creative Suite', 'Animation', 'Graphic Design']",2026-09-05
+SKILL_0388,Adobe Creative Suite,Design & Creative,Expert,70,18.82,Growing,678,20000,150000,36,73,Yes,NSDC,Low,Neutral,"['Photography', 'Figma', 'Video Editing']",2026-09-05
+SKILL_0389,Sales Techniques,Sales & Customer Service,Beginner,48,-2.12,Stable,476,15000,100000,94,90,No,N/A,High,Positive,"['Lead Generation', 'Negotiation', 'Sales Techniques']",2026-09-05
+SKILL_0390,Sales Techniques,Sales & Customer Service,Intermediate,33,9.84,Stable,273,15000,100000,88,184,Yes,Industry Body,Low,Neutral,"['Sales Techniques', 'Customer Relationship Management', 'CRM Software']",2026-09-05
+SKILL_0391,Sales Techniques,Sales & Customer Service,Advanced,33,6.16,Stable,362,15000,100000,99,41,No,N/A,High,Neutral,"['Negotiation', 'Lead Generation', 'Sales Techniques']",2026-09-05
+SKILL_0392,Sales Techniques,Sales & Customer Service,Expert,55,3.77,Stable,200,15000,100000,17,31,No,N/A,Low,Uncertain,"['Customer Relationship Management', 'Sales Techniques', 'Negotiation']",2026-09-05
+SKILL_0393,Negotiation,Sales & Customer Service,Beginner,43,-0.67,Stable,118,15000,100000,51,128,No,N/A,High,Neutral,"['Sales Techniques', 'Customer Relationship Management', 'Negotiation']",2026-09-05
+SKILL_0394,Negotiation,Sales & Customer Service,Intermediate,30,8.34,Stable,164,15000,100000,58,44,No,N/A,Medium,Neutral,"['Customer Relationship Management', 'CRM Software', 'Sales Techniques']",2026-09-05
+SKILL_0395,Negotiation,Sales & Customer Service,Advanced,61,3.33,Stable,178,15000,100000,20,153,No,N/A,Low,Uncertain,"['Customer Relationship Management', 'Sales Techniques', 'CRM Software']",2026-09-05
+SKILL_0396,Negotiation,Sales & Customer Service,Expert,30,-4.92,Stable,106,15000,100000,42,29,No,N/A,Low,Positive,"['Lead Generation', 'Negotiation', 'CRM Software']",2026-09-05
+SKILL_0397,Customer Relationship Management,Sales & Customer Service,Beginner,39,5.26,Stable,414,15000,100000,34,119,Yes,AWS,Low,Neutral,"['CRM Software', 'Lead Generation', 'Negotiation']",2026-09-05
+SKILL_0398,Customer Relationship Management,Sales & Customer Service,Intermediate,56,9.14,Stable,483,15000,100000,21,71,No,N/A,High,Uncertain,"['Lead Generation', 'Customer Relationship Management', 'Sales Techniques']",2026-09-05
+SKILL_0399,Customer Relationship Management,Sales & Customer Service,Advanced,58,8.71,Stable,371,15000,100000,8,184,No,N/A,Medium,Neutral,"['Customer Relationship Management', 'Negotiation', 'Sales Techniques']",2026-09-05
+SKILL_0400,Customer Relationship Management,Sales & Customer Service,Expert,30,6.71,Stable,437,15000,100000,31,197,No,N/A,High,Positive,"['Sales Techniques', 'Negotiation', 'Lead Generation']",2026-09-05
+SKILL_0401,CRM Software,Sales & Customer Service,Beginner,40,3.54,Stable,432,15000,100000,11,46,Yes,State Government,Low,Neutral,"['Lead Generation', 'Negotiation', 'CRM Software']",2026-09-05
+SKILL_0402,CRM Software,Sales & Customer Service,Intermediate,36,4.45,Stable,191,15000,100000,92,149,Yes,NASSCOM,Low,Positive,"['Sales Techniques', 'Customer Relationship Management', 'Lead Generation']",2026-09-05
+SKILL_0403,CRM Software,Sales & Customer Service,Advanced,36,-4.34,Stable,286,15000,100000,5,199,No,N/A,Low,Neutral,"['CRM Software', 'Customer Relationship Management', 'Lead Generation']",2026-09-05
+SKILL_0404,CRM Software,Sales & Customer Service,Expert,44,0.13,Stable,436,15000,100000,17,89,Yes,NSDC,High,Uncertain,"['Sales Techniques', 'Customer Relationship Management', 'CRM Software']",2026-09-05
+SKILL_0405,Lead Generation,Sales & Customer Service,Beginner,52,-3.07,Stable,338,15000,100000,75,120,Yes,Google,High,Uncertain,"['Negotiation', 'Sales Techniques', 'Lead Generation']",2026-09-05
+SKILL_0406,Lead Generation,Sales & Customer Service,Intermediate,49,-1.07,Stable,380,15000,100000,7,143,No,N/A,High,Uncertain,"['Customer Relationship Management', 'Negotiation', 'Sales Techniques']",2026-09-05
+SKILL_0407,Lead Generation,Sales & Customer Service,Advanced,48,4.11,Stable,326,15000,100000,38,189,No,N/A,Medium,Positive,"['Lead Generation', 'Sales Techniques', 'Negotiation']",2026-09-05
+SKILL_0408,Lead Generation,Sales & Customer Service,Expert,31,-4.29,Stable,212,15000,100000,77,93,Yes,State Government,Medium,Neutral,"['Lead Generation', 'CRM Software', 'Sales Techniques']",2026-09-05

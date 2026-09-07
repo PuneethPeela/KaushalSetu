@@ -1,0 +1,3193 @@
+skill_name,district,posting_count,avg_salary,in_taxonomy,current_demand_score
+AWS,Ahmednagar,7,151373.42857142858,True,14.0
+AWS,Akola,5,144408.0,True,8.5
+AWS,Amravati,9,158613.88888888888,True,25.8
+AWS,Aurangabad,8,187561.625,True,17.9
+AWS,Beed,11,132714.27272727274,True,28.6
+AWS,Bhiwandi,6,129777.5,True,13.9
+AWS,Chandrapur,7,151851.85714285713,True,14.3
+AWS,Dhule,6,147324.83333333334,True,15.2
+AWS,Jalgaon,8,85285.625,True,18.4
+AWS,Jalna,6,86901.33333333333,True,10.9
+AWS,Kolhapur,6,62672.833333333336,True,12.5
+AWS,Latur,4,263650.75,True,7.7
+AWS,Mumbai,9,172780.33333333334,True,25.9
+AWS,Nagpur,8,157405.375,True,15.2
+AWS,Nanded,3,188357.66666666666,True,4.4
+AWS,Nashik,11,74955.72727272728,True,26.3
+AWS,Osmanabad,9,131051.33333333333,True,19.0
+AWS,Parbhani,9,158001.66666666666,True,16.3
+AWS,Pune,6,97594.83333333333,True,13.9
+AWS,Raigad,11,116614.54545454546,True,28.6
+AWS,Sangli,4,107710.0,True,9.4
+AWS,Satara,3,141915.0,True,5.0
+AWS,Solapur,12,126781.58333333333,True,26.2
+AWS,Yavatmal,7,124385.57142857143,True,14.3
+Accounting,Ahmednagar,2,117811.0,False,2.3
+Accounting,Akola,6,92855.5,False,10.6
+Accounting,Amravati,6,195596.5,False,16.1
+Accounting,Aurangabad,8,61024.75,False,17.9
+Accounting,Beed,4,117846.5,False,8.6
+Accounting,Bhiwandi,1,239431.0,False,0.0
+Accounting,Chandrapur,11,106144.54545454546,False,23.8
+Accounting,Dhule,5,186447.4,False,12.1
+Accounting,Jalgaon,5,181518.8,False,10.5
+Accounting,Jalna,3,89411.66666666667,False,4.3
+Accounting,Kolhapur,2,114896.5,False,2.5
+Accounting,Latur,4,225317.25,False,7.7
+Accounting,Mumbai,5,37881.2,False,11.1
+Accounting,Nagpur,7,116345.0,False,13.0
+Accounting,Nanded,4,159742.0,False,6.7
+Accounting,Nashik,4,52277.0,False,7.9
+Accounting,Osmanabad,2,149323.5,False,2.4
+Accounting,Parbhani,6,182521.66666666666,False,10.2
+Accounting,Pune,6,85083.0,False,13.9
+Accounting,Raigad,3,170127.66666666666,False,5.7
+Accounting,Sangli,5,115741.2,False,12.5
+Accounting,Satara,2,94114.5,False,2.5
+Accounting,Yavatmal,4,203150.5,False,7.1
+Adobe XD,Ahmednagar,8,131740.75,False,16.3
+Adobe XD,Akola,3,235412.66666666666,False,4.3
+Adobe XD,Amravati,2,122545.5,False,3.2
+Adobe XD,Aurangabad,5,125888.4,False,10.3
+Adobe XD,Beed,5,66868.2,False,11.4
+Adobe XD,Bhiwandi,5,269293.0,False,11.1
+Adobe XD,Chandrapur,3,132672.33333333334,False,4.8
+Adobe XD,Dhule,4,106478.5,False,9.1
+Adobe XD,Jalgaon,3,127938.33333333333,False,5.3
+Adobe XD,Jalna,3,144592.33333333334,False,4.3
+Adobe XD,Kolhapur,1,47702.0,False,0.0
+Adobe XD,Latur,4,161813.5,False,7.7
+Adobe XD,Mumbai,5,189802.0,False,11.1
+Adobe XD,Nagpur,10,123540.3,False,19.6
+Adobe XD,Nanded,2,55221.5,False,2.2
+Adobe XD,Nashik,5,78835.6,False,10.5
+Adobe XD,Osmanabad,7,78517.14285714286,False,14.3
+Adobe XD,Parbhani,5,63450.6,False,8.2
+Adobe XD,Pune,3,75122.0,False,5.6
+Adobe XD,Raigad,2,69560.5,False,2.9
+Adobe XD,Sangli,3,119835.33333333333,False,6.2
+Adobe XD,Satara,7,129123.57142857143,False,15.0
+Adobe XD,Solapur,4,281561.5,False,7.1
+Adobe XD,Yavatmal,5,188347.6,False,9.5
+Agile,Ahmednagar,21,129547.71428571429,False,46.5
+Agile,Akola,15,99264.46666666666,False,29.8
+Agile,Amravati,20,146501.7,False,61.3
+Agile,Aurangabad,17,163586.23529411765,False,41.0
+Agile,Beed,17,189582.41176470587,False,45.7
+Agile,Bhiwandi,17,156952.29411764705,False,44.4
+Agile,Chandrapur,24,107798.45833333333,False,54.8
+Agile,Dhule,18,78578.72222222222,False,51.5
+Agile,Jalgaon,21,118699.90476190476,False,52.6
+Agile,Jalna,22,119216.59090909091,False,45.7
+Agile,Kolhapur,15,114386.06666666667,False,35.0
+Agile,Latur,14,212413.7857142857,False,33.3
+Agile,Mumbai,18,138167.66666666666,False,59.3
+Agile,Nagpur,17,124723.35294117648,False,34.8
+Agile,Nanded,16,173644.4375,False,33.3
+Agile,Nashik,13,107570.76923076923,False,31.6
+Agile,Osmanabad,17,121822.76470588235,False,38.1
+Agile,Parbhani,22,111301.63636363637,False,42.9
+Agile,Pune,18,116420.94444444444,False,47.2
+Agile,Raigad,10,160407.4,False,25.7
+Agile,Sangli,21,155227.42857142858,False,62.5
+Agile,Satara,25,114798.24,False,60.0
+Agile,Solapur,13,138460.61538461538,False,28.6
+Agile,Yavatmal,20,109562.8,False,45.2
+Ansible,Ahmednagar,4,96323.0,False,7.0
+Ansible,Akola,6,138964.83333333334,False,10.6
+Ansible,Amravati,4,147724.0,False,9.7
+Ansible,Aurangabad,5,314266.8,False,10.3
+Ansible,Beed,3,88994.33333333333,False,5.7
+Ansible,Bhiwandi,3,157336.0,False,5.6
+Ansible,Chandrapur,2,240313.0,False,2.4
+Ansible,Dhule,3,113927.66666666667,False,6.1
+Ansible,Jalgaon,3,77196.66666666667,False,5.3
+Ansible,Jalna,2,70063.5,False,2.2
+Ansible,Kolhapur,4,275810.0,False,7.5
+Ansible,Mumbai,3,118340.66666666667,False,3.7
+Ansible,Nagpur,1,189268.0,False,0.0
+Ansible,Nanded,4,263193.5,False,6.7
+Ansible,Nashik,3,89856.33333333333,False,5.3
+Ansible,Osmanabad,5,79148.2,False,9.5
+Ansible,Parbhani,5,157742.0,False,8.2
+Ansible,Pune,2,22991.5,False,2.8
+Ansible,Raigad,3,83103.0,False,5.7
+Ansible,Sangli,5,158245.2,False,12.5
+Ansible,Satara,3,203889.66666666666,False,5.0
+Ansible,Solapur,6,54742.833333333336,False,11.9
+Ansible,Yavatmal,5,74764.6,False,9.5
+Arc Welding,Ahmednagar,4,82404.75,False,7.0
+Arc Welding,Akola,3,128419.0,False,4.3
+Arc Welding,Amravati,4,127474.5,False,9.7
+Arc Welding,Aurangabad,9,184182.44444444444,False,20.5
+Arc Welding,Beed,4,36127.0,False,8.6
+Arc Welding,Bhiwandi,7,112998.57142857143,False,16.7
+Arc Welding,Chandrapur,3,127916.0,False,4.8
+Arc Welding,Dhule,7,127475.28571428571,False,18.2
+Arc Welding,Jalgaon,6,236133.33333333334,False,13.2
+Arc Welding,Jalna,9,151731.88888888888,False,17.4
+Arc Welding,Kolhapur,7,206608.7142857143,False,15.0
+Arc Welding,Latur,8,128883.375,False,17.9
+Arc Welding,Mumbai,3,85360.66666666667,False,3.7
+Arc Welding,Nagpur,8,328264.25,False,15.2
+Arc Welding,Nanded,2,21373.0,False,2.2
+Arc Welding,Nashik,10,168129.2,False,23.7
+Arc Welding,Osmanabad,6,51349.666666666664,False,11.9
+Arc Welding,Parbhani,5,200253.8,False,8.2
+Arc Welding,Pune,10,188080.9,False,25.0
+Arc Welding,Raigad,6,126262.66666666667,False,14.3
+Arc Welding,Sangli,3,86965.66666666667,False,6.2
+Arc Welding,Satara,4,359306.5,False,7.5
+Arc Welding,Solapur,9,98349.11111111111,False,19.0
+Arc Welding,Yavatmal,5,142796.4,False,9.5
+Assembly,Ahmednagar,5,231174.0,False,9.3
+Assembly,Akola,2,34164.0,False,2.1
+Assembly,Amravati,5,155299.0,False,12.9
+Assembly,Aurangabad,9,160590.11111111112,False,20.5
+Assembly,Beed,4,128134.0,False,8.6
+Assembly,Bhiwandi,6,130961.0,False,13.9
+Assembly,Chandrapur,4,163210.0,False,7.1
+Assembly,Dhule,4,252959.75,False,9.1
+Assembly,Jalgaon,4,79835.0,False,7.9
+Assembly,Jalna,5,223216.2,False,8.7
+Assembly,Kolhapur,9,165402.77777777778,False,20.0
+Assembly,Latur,3,43545.333333333336,False,5.1
+Assembly,Mumbai,5,194122.6,False,11.1
+Assembly,Nagpur,5,108399.6,False,8.7
+Assembly,Nanded,7,153572.2857142857,False,13.3
+Assembly,Nashik,10,100734.7,False,23.7
+Assembly,Osmanabad,4,223632.75,False,7.1
+Assembly,Parbhani,4,90841.25,False,6.1
+Assembly,Pune,7,146861.42857142858,False,16.7
+Assembly,Raigad,2,190338.0,False,2.9
+Assembly,Sangli,8,129092.375,False,21.9
+Assembly,Satara,1,249695.0,False,0.0
+Assembly,Solapur,4,167568.5,False,7.1
+Assembly,Yavatmal,5,199577.0,False,9.5
+Assessment,Ahmednagar,15,139683.86666666667,False,32.6
+Assessment,Akola,9,111753.33333333333,False,17.0
+Assessment,Amravati,11,167432.72727272726,False,32.3
+Assessment,Aurangabad,12,201975.25,False,28.2
+Assessment,Beed,15,214239.6,False,40.0
+Assessment,Bhiwandi,15,127317.73333333334,False,38.9
+Assessment,Chandrapur,12,135501.83333333334,False,26.2
+Assessment,Dhule,9,230983.11111111112,False,24.2
+Assessment,Jalgaon,11,140573.0,False,26.3
+Assessment,Jalna,11,127484.63636363637,False,21.7
+Assessment,Kolhapur,6,142101.33333333334,False,12.5
+Assessment,Latur,12,134715.66666666666,False,28.2
+Assessment,Mumbai,6,169888.5,False,14.8
+Assessment,Nagpur,12,162120.16666666666,False,23.9
+Assessment,Nanded,13,144134.61538461538,False,26.7
+Assessment,Nashik,13,118990.38461538461,False,31.6
+Assessment,Osmanabad,3,202954.33333333334,False,4.8
+Assessment,Parbhani,13,163404.6923076923,False,24.5
+Assessment,Pune,6,69943.66666666667,False,13.9
+Assessment,Raigad,6,130329.83333333333,False,14.3
+Assessment,Sangli,8,103289.0,False,21.9
+Assessment,Satara,15,123355.06666666667,False,35.0
+Assessment,Solapur,13,153260.92307692306,False,28.6
+Assessment,Yavatmal,11,127386.45454545454,False,23.8
+Azure,Ahmednagar,3,215792.0,True,4.7
+Azure,Akola,4,132399.0,True,6.4
+Azure,Amravati,5,196519.0,True,12.9
+Azure,Aurangabad,3,96107.0,True,5.1
+Azure,Beed,6,130372.83333333333,True,14.3
+Azure,Bhiwandi,7,229746.0,True,16.7
+Azure,Chandrapur,5,91362.4,True,9.5
+Azure,Dhule,2,195646.0,True,3.0
+Azure,Jalgaon,2,58801.5,True,2.6
+Azure,Jalna,5,164434.2,True,8.7
+Azure,Kolhapur,3,68483.0,True,5.0
+Azure,Latur,3,166100.33333333334,True,5.1
+Azure,Mumbai,3,115682.33333333333,True,3.7
+Azure,Nagpur,6,239110.16666666666,True,10.9
+Azure,Nashik,11,95509.45454545454,True,26.3
+Azure,Osmanabad,2,86830.0,True,2.4
+Azure,Parbhani,5,88232.2,True,8.2
+Azure,Pune,5,159012.2,True,11.1
+Azure,Raigad,5,60766.6,True,11.4
+Azure,Sangli,1,181858.0,True,0.0
+Azure,Satara,2,54032.5,True,2.5
+Azure,Solapur,6,89572.0,True,11.9
+Azure,Yavatmal,2,56439.5,True,2.4
+Blueprint Reading,Ahmednagar,9,192308.0,True,18.6
+Blueprint Reading,Akola,8,105644.0,True,14.9
+Blueprint Reading,Amravati,10,121358.7,True,29.0
+Blueprint Reading,Aurangabad,20,177633.3,True,48.7
+Blueprint Reading,Beed,9,80842.22222222222,True,22.9
+Blueprint Reading,Bhiwandi,12,103235.5,True,30.6
+Blueprint Reading,Chandrapur,8,142844.0,True,16.7
+Blueprint Reading,Dhule,14,172467.7857142857,True,39.4
+Blueprint Reading,Jalgaon,8,227787.25,True,18.4
+Blueprint Reading,Jalna,12,188223.83333333334,True,23.9
+Blueprint Reading,Kolhapur,15,182041.8,True,35.0
+Blueprint Reading,Latur,8,149167.875,True,17.9
+Blueprint Reading,Mumbai,5,167255.4,True,11.1
+Blueprint Reading,Nagpur,13,200335.46153846153,True,26.1
+Blueprint Reading,Nanded,10,95177.0,True,20.0
+Blueprint Reading,Nashik,17,140196.82352941178,True,42.1
+Blueprint Reading,Osmanabad,9,125232.55555555556,True,19.0
+Blueprint Reading,Parbhani,11,155778.0909090909,True,20.4
+Blueprint Reading,Pune,16,154166.0,True,41.7
+Blueprint Reading,Raigad,9,169378.44444444444,True,22.9
+Blueprint Reading,Sangli,10,137357.4,True,28.1
+Blueprint Reading,Satara,6,359426.5,True,12.5
+Blueprint Reading,Solapur,11,159929.45454545456,True,23.8
+Blueprint Reading,Yavatmal,9,134481.0,True,19.0
+Bug Tracking,Ahmednagar,4,233358.75,False,7.0
+Bug Tracking,Akola,5,121836.4,False,8.5
+Bug Tracking,Amravati,1,23057.0,False,0.0
+Bug Tracking,Aurangabad,6,97434.83333333333,False,12.8
+Bug Tracking,Beed,3,235767.33333333334,False,5.7
+Bug Tracking,Bhiwandi,5,173158.2,False,11.1
+Bug Tracking,Chandrapur,1,23498.0,False,0.0
+Bug Tracking,Dhule,3,148699.0,False,6.1
+Bug Tracking,Jalgaon,7,181252.14285714287,False,15.8
+Bug Tracking,Jalna,3,46065.333333333336,False,4.3
+Bug Tracking,Kolhapur,3,125172.66666666667,False,5.0
+Bug Tracking,Latur,2,415800.0,False,2.6
+Bug Tracking,Mumbai,4,125469.0,False,7.4
+Bug Tracking,Nagpur,3,123124.0,False,4.3
+Bug Tracking,Nanded,5,169505.8,False,8.9
+Bug Tracking,Nashik,4,40150.0,False,7.9
+Bug Tracking,Osmanabad,5,174314.6,False,9.5
+Bug Tracking,Parbhani,5,85152.2,False,8.2
+Bug Tracking,Pune,3,122180.33333333333,False,5.6
+Bug Tracking,Sangli,2,155537.5,False,3.1
+Bug Tracking,Satara,5,99544.0,False,10.0
+Bug Tracking,Solapur,2,184573.5,False,2.4
+Bug Tracking,Yavatmal,6,106866.33333333333,False,11.9
+CI/CD,Ahmednagar,5,130466.0,True,9.3
+CI/CD,Akola,5,131192.0,True,8.5
+CI/CD,Amravati,3,93380.66666666667,True,6.5
+CI/CD,Aurangabad,5,200086.4,True,10.3
+CI/CD,Beed,2,73420.0,True,2.9
+CI/CD,Bhiwandi,3,157336.0,True,5.6
+CI/CD,Chandrapur,2,240313.0,True,2.4
+CI/CD,Dhule,3,111059.66666666667,True,6.1
+CI/CD,Jalgaon,5,67265.8,True,10.5
+CI/CD,Jalna,5,205386.0,True,8.7
+CI/CD,Kolhapur,4,134842.25,True,7.5
+CI/CD,Mumbai,5,126631.2,True,11.1
+CI/CD,Nagpur,2,97252.5,True,2.2
+CI/CD,Nanded,1,22032.0,True,0.0
+CI/CD,Nashik,4,86826.0,True,7.9
+CI/CD,Osmanabad,6,82635.33333333333,True,11.9
+CI/CD,Parbhani,7,101833.42857142857,True,12.2
+CI/CD,Pune,1,20132.0,True,0.0
+CI/CD,Raigad,2,42758.5,True,2.9
+CI/CD,Sangli,6,171988.5,True,15.6
+CI/CD,Satara,3,179866.0,True,5.0
+CI/CD,Solapur,5,125098.4,True,9.5
+CI/CD,Yavatmal,5,104871.6,True,9.5
+CNC Operation,Ahmednagar,5,90117.6,True,9.3
+CNC Operation,Akola,4,85518.5,True,6.4
+CNC Operation,Amravati,7,107904.14285714286,True,19.4
+CNC Operation,Aurangabad,5,58711.2,True,10.3
+CNC Operation,Beed,7,172192.57142857142,True,17.1
+CNC Operation,Bhiwandi,2,242677.5,True,2.8
+CNC Operation,Chandrapur,7,136727.0,True,14.3
+CNC Operation,Dhule,4,121040.5,True,9.1
+CNC Operation,Jalgaon,5,30732.6,True,10.5
+CNC Operation,Jalna,3,104951.0,True,4.3
+CNC Operation,Kolhapur,6,173970.33333333334,True,12.5
+CNC Operation,Latur,6,138855.83333333334,True,12.8
+CNC Operation,Mumbai,5,189204.8,True,11.1
+CNC Operation,Nagpur,8,71096.25,True,15.2
+CNC Operation,Nanded,1,53324.0,True,0.0
+CNC Operation,Nashik,6,193832.66666666666,True,13.2
+CNC Operation,Osmanabad,3,90207.66666666667,True,4.8
+CNC Operation,Parbhani,10,111440.5,True,18.4
+CNC Operation,Pune,3,112391.66666666667,True,5.6
+CNC Operation,Raigad,6,80624.0,True,14.3
+CNC Operation,Sangli,3,135199.33333333334,True,6.2
+CNC Operation,Satara,5,127397.2,True,10.0
+CNC Operation,Solapur,4,185999.75,True,7.1
+CNC Operation,Yavatmal,8,98536.125,True,16.7
+CRM,Ahmednagar,10,109391.5,False,20.9
+CRM,Akola,12,119920.75,False,23.4
+CRM,Amravati,13,162171.53846153847,False,38.7
+CRM,Aurangabad,12,96907.16666666667,False,28.2
+CRM,Beed,7,68348.28571428571,False,17.1
+CRM,Bhiwandi,11,198854.0909090909,False,27.8
+CRM,Chandrapur,9,147206.33333333334,False,19.0
+CRM,Dhule,9,94283.77777777778,False,24.2
+CRM,Jalgaon,10,158900.3,False,23.7
+CRM,Jalna,7,101933.71428571429,False,13.0
+CRM,Kolhapur,11,113105.36363636363,False,25.0
+CRM,Latur,9,105610.88888888889,False,20.5
+CRM,Mumbai,4,135444.5,False,7.4
+CRM,Nagpur,9,104876.33333333333,False,17.4
+CRM,Nanded,10,118660.5,False,20.0
+CRM,Nashik,7,201065.2857142857,False,15.8
+CRM,Osmanabad,14,116873.35714285714,False,31.0
+CRM,Parbhani,10,218412.6,False,18.4
+CRM,Pune,10,92277.9,False,25.0
+CRM,Raigad,8,82834.875,False,20.0
+CRM,Sangli,7,146366.42857142858,False,18.7
+CRM,Satara,7,91712.85714285714,False,15.0
+CRM,Solapur,13,83814.0,False,28.6
+CRM,Yavatmal,11,84080.09090909091,False,23.8
+Cash Handling,Ahmednagar,4,198994.75,False,7.0
+Cash Handling,Akola,6,239413.83333333334,False,10.6
+Cash Handling,Amravati,6,67798.0,False,16.1
+Cash Handling,Aurangabad,8,132157.75,False,17.9
+Cash Handling,Beed,4,112778.5,False,8.6
+Cash Handling,Bhiwandi,7,202077.0,False,16.7
+Cash Handling,Chandrapur,3,116544.66666666667,False,4.8
+Cash Handling,Dhule,4,28208.5,False,9.1
+Cash Handling,Jalgaon,4,210436.75,False,7.9
+Cash Handling,Jalna,4,226853.0,False,6.5
+Cash Handling,Kolhapur,6,216547.5,False,12.5
+Cash Handling,Latur,3,285765.3333333333,False,5.1
+Cash Handling,Mumbai,7,115438.71428571429,False,18.5
+Cash Handling,Nagpur,8,152944.75,False,15.2
+Cash Handling,Nanded,4,135513.75,False,6.7
+Cash Handling,Nashik,5,156882.6,False,10.5
+Cash Handling,Osmanabad,6,95209.66666666667,False,11.9
+Cash Handling,Parbhani,7,72178.42857142857,False,12.2
+Cash Handling,Pune,4,131919.25,False,8.3
+Cash Handling,Raigad,1,143757.0,False,0.0
+Cash Handling,Sangli,2,46144.5,False,3.1
+Cash Handling,Satara,2,172707.0,False,2.5
+Cash Handling,Solapur,4,158786.0,False,7.1
+Cash Handling,Yavatmal,3,103327.0,False,4.8
+Circuit Design,Ahmednagar,5,92993.2,True,9.3
+Circuit Design,Akola,8,109836.875,True,14.9
+Circuit Design,Amravati,4,133833.25,True,9.7
+Circuit Design,Aurangabad,8,179606.5,True,17.9
+Circuit Design,Beed,7,71818.42857142857,True,17.1
+Circuit Design,Bhiwandi,4,88095.5,True,8.3
+Circuit Design,Chandrapur,5,159290.8,True,9.5
+Circuit Design,Dhule,5,215466.8,True,12.1
+Circuit Design,Jalgaon,4,127659.75,True,7.9
+Circuit Design,Jalna,7,130254.0,True,13.0
+Circuit Design,Kolhapur,6,160011.16666666666,True,12.5
+Circuit Design,Latur,3,125502.0,True,5.1
+Circuit Design,Mumbai,6,144866.5,True,14.8
+Circuit Design,Nagpur,3,359443.3333333333,True,4.3
+Circuit Design,Nanded,2,269812.5,True,2.2
+Circuit Design,Nashik,7,165558.57142857142,True,15.8
+Circuit Design,Osmanabad,6,180922.0,True,11.9
+Circuit Design,Parbhani,4,110085.25,True,6.1
+Circuit Design,Pune,5,160784.4,True,11.1
+Circuit Design,Raigad,5,131243.6,True,11.4
+Circuit Design,Sangli,4,172898.25,True,9.4
+Circuit Design,Satara,3,211917.33333333334,True,5.0
+Circuit Design,Solapur,5,81584.0,True,9.5
+Circuit Design,Yavatmal,5,73209.6,True,9.5
+Classroom Management,Ahmednagar,7,126386.14285714286,False,14.0
+Classroom Management,Akola,5,78751.6,False,8.5
+Classroom Management,Amravati,4,97171.0,False,9.7
+Classroom Management,Aurangabad,6,254919.16666666666,False,12.8
+Classroom Management,Beed,7,110805.14285714286,False,17.1
+Classroom Management,Bhiwandi,5,130577.2,False,11.1
+Classroom Management,Chandrapur,3,94185.33333333333,False,4.8
+Classroom Management,Dhule,2,343893.0,False,3.0
+Classroom Management,Jalgaon,4,146876.25,False,7.9
+Classroom Management,Jalna,6,201262.33333333334,False,10.9
+Classroom Management,Kolhapur,4,192746.5,False,7.5
+Classroom Management,Latur,9,146293.77777777778,False,20.5
+Classroom Management,Mumbai,2,211071.5,False,0.0
+Classroom Management,Nagpur,6,219270.66666666666,False,10.9
+Classroom Management,Nanded,6,192980.0,False,11.1
+Classroom Management,Nashik,9,113353.11111111111,False,21.1
+Classroom Management,Osmanabad,1,40848.0,False,0.0
+Classroom Management,Parbhani,7,85715.0,False,12.2
+Classroom Management,Pune,1,202443.0,False,0.0
+Classroom Management,Raigad,4,117528.75,False,8.6
+Classroom Management,Sangli,8,148909.25,False,21.9
+Classroom Management,Satara,6,174777.0,False,12.5
+Classroom Management,Solapur,6,176417.5,False,11.9
+Classroom Management,Yavatmal,3,101559.0,False,4.8
+Communication,Ahmednagar,44,129340.27272727272,False,100.0
+Communication,Akola,48,118156.66666666667,False,100.0
+Communication,Amravati,32,167354.96875,False,100.0
+Communication,Aurangabad,40,155519.85,False,100.0
+Communication,Beed,36,130808.19444444444,False,100.0
+Communication,Bhiwandi,37,137429.64864864864,False,100.0
+Communication,Chandrapur,43,150382.88372093023,False,100.0
+Communication,Dhule,34,114131.44117647059,False,100.0
+Communication,Jalgaon,39,127109.7435897436,False,100.0
+Communication,Jalna,47,127125.12765957447,False,100.0
+Communication,Kolhapur,41,115722.73170731707,False,100.0
+Communication,Latur,40,114901.675,False,100.0
+Communication,Mumbai,29,139332.41379310345,False,100.0
+Communication,Nagpur,47,134904.40425531915,False,100.0
+Communication,Nanded,46,132812.84782608695,False,100.0
+Communication,Nashik,39,161969.97435897434,False,100.0
+Communication,Osmanabad,43,144119.48837209304,False,100.0
+Communication,Parbhani,50,134724.26,False,100.0
+Communication,Pune,37,119659.72972972973,False,100.0
+Communication,Raigad,36,107098.91666666667,False,100.0
+Communication,Sangli,31,89631.58064516129,False,93.7
+Communication,Satara,41,132496.60975609755,False,100.0
+Communication,Solapur,43,142387.6976744186,False,100.0
+Communication,Yavatmal,43,116666.69767441861,False,100.0
+Compliance,Ahmednagar,10,169769.5,False,20.9
+Compliance,Akola,7,167370.7142857143,False,12.8
+Compliance,Amravati,8,131680.75,False,22.6
+Compliance,Aurangabad,11,193225.0,False,25.6
+Compliance,Beed,10,71795.1,False,25.7
+Compliance,Bhiwandi,11,131586.36363636365,False,27.8
+Compliance,Chandrapur,9,164552.44444444444,False,19.0
+Compliance,Dhule,8,80091.125,False,21.2
+Compliance,Jalgaon,10,182248.4,False,23.7
+Compliance,Jalna,9,83294.0,False,17.4
+Compliance,Kolhapur,9,110312.33333333333,False,20.0
+Compliance,Latur,13,87079.38461538461,False,30.8
+Compliance,Mumbai,7,189251.42857142858,False,18.5
+Compliance,Nagpur,8,129762.75,False,15.2
+Compliance,Nanded,8,143777.5,False,15.6
+Compliance,Nashik,13,131488.0,False,31.6
+Compliance,Osmanabad,19,111535.52631578948,False,42.9
+Compliance,Parbhani,5,138746.0,False,8.2
+Compliance,Pune,16,150791.5,False,41.7
+Compliance,Raigad,15,86839.26666666666,False,40.0
+Compliance,Sangli,14,96430.42857142857,False,40.6
+Compliance,Satara,9,99228.33333333333,False,20.0
+Compliance,Solapur,8,66361.375,False,16.7
+Compliance,Yavatmal,6,90578.33333333333,False,11.9
+Content Marketing,Ahmednagar,4,56547.5,True,7.0
+Content Marketing,Akola,3,200105.66666666666,True,4.3
+Content Marketing,Amravati,6,181911.33333333334,True,16.1
+Content Marketing,Aurangabad,7,127203.42857142857,True,15.4
+Content Marketing,Beed,6,164917.0,True,14.3
+Content Marketing,Bhiwandi,5,135832.4,True,11.1
+Content Marketing,Chandrapur,8,268148.25,True,16.7
+Content Marketing,Dhule,9,139857.66666666666,True,24.2
+Content Marketing,Jalgaon,6,97226.0,True,13.2
+Content Marketing,Jalna,3,104686.0,True,4.3
+Content Marketing,Kolhapur,3,165449.0,True,5.0
+Content Marketing,Latur,6,111410.83333333333,True,12.8
+Content Marketing,Mumbai,4,151780.25,True,7.4
+Content Marketing,Nagpur,3,43526.333333333336,True,4.3
+Content Marketing,Nanded,9,194736.33333333334,True,17.8
+Content Marketing,Nashik,7,195894.7142857143,True,15.8
+Content Marketing,Osmanabad,6,199871.16666666666,True,11.9
+Content Marketing,Parbhani,3,264403.3333333333,True,4.1
+Content Marketing,Pune,7,235711.57142857142,True,16.7
+Content Marketing,Raigad,6,241803.5,True,14.3
+Content Marketing,Sangli,5,104084.8,True,12.5
+Content Marketing,Satara,10,126660.8,True,22.5
+Content Marketing,Solapur,4,59377.75,True,7.1
+Content Marketing,Yavatmal,6,172532.33333333334,True,11.9
+Content Writing,Ahmednagar,6,287880.1666666667,False,11.6
+Content Writing,Akola,8,186061.375,False,14.9
+Content Writing,Amravati,4,126989.75,False,9.7
+Content Writing,Aurangabad,5,41299.6,False,10.3
+Content Writing,Beed,6,297340.5,False,14.3
+Content Writing,Bhiwandi,3,63247.666666666664,False,5.6
+Content Writing,Chandrapur,14,152695.64285714287,False,31.0
+Content Writing,Dhule,6,215787.66666666666,False,15.2
+Content Writing,Jalgaon,6,53173.833333333336,False,13.2
+Content Writing,Jalna,4,138203.75,False,6.5
+Content Writing,Kolhapur,7,184929.85714285713,False,15.0
+Content Writing,Latur,3,57858.0,False,5.1
+Content Writing,Mumbai,8,130609.125,False,22.2
+Content Writing,Nagpur,2,36839.5,False,2.2
+Content Writing,Nanded,3,114167.0,False,4.4
+Content Writing,Nashik,5,61252.4,False,10.5
+Content Writing,Osmanabad,7,190975.57142857142,False,14.3
+Content Writing,Parbhani,3,102669.33333333333,False,4.1
+Content Writing,Pune,8,226666.25,False,19.4
+Content Writing,Raigad,7,168967.2857142857,False,17.1
+Content Writing,Sangli,6,35220.333333333336,False,15.6
+Content Writing,Satara,4,70729.75,False,7.5
+Content Writing,Solapur,4,242667.0,False,7.1
+Content Writing,Yavatmal,9,190606.33333333334,False,19.0
+Coordination,Ahmednagar,9,102539.55555555556,False,18.6
+Coordination,Akola,17,113088.23529411765,False,34.0
+Coordination,Amravati,10,158467.1,False,29.0
+Coordination,Aurangabad,4,141217.5,False,7.7
+Coordination,Beed,10,119578.3,False,25.7
+Coordination,Bhiwandi,9,145405.66666666666,False,22.2
+Coordination,Chandrapur,17,135184.29411764705,False,38.1
+Coordination,Dhule,10,85339.9,False,27.3
+Coordination,Jalgaon,7,114039.14285714286,False,15.8
+Coordination,Jalna,12,171855.08333333334,False,23.9
+Coordination,Kolhapur,10,101782.4,False,22.5
+Coordination,Latur,9,132676.11111111112,False,20.5
+Coordination,Mumbai,7,138660.42857142858,False,18.5
+Coordination,Nagpur,9,97620.33333333333,False,17.4
+Coordination,Nanded,11,98160.0,False,22.2
+Coordination,Nashik,9,150379.66666666666,False,21.1
+Coordination,Osmanabad,13,124699.69230769231,False,28.6
+Coordination,Parbhani,14,98970.07142857143,False,26.5
+Coordination,Pune,9,120796.55555555556,False,22.2
+Coordination,Raigad,10,114230.0,False,25.7
+Coordination,Sangli,8,77202.5,False,21.9
+Coordination,Satara,8,150375.875,False,17.5
+Coordination,Solapur,8,140972.125,False,16.7
+Coordination,Yavatmal,8,132512.5,False,16.7
+Copywriting,Ahmednagar,9,224648.88888888888,False,18.6
+Copywriting,Akola,7,220344.7142857143,False,12.8
+Copywriting,Amravati,7,137554.14285714287,False,19.4
+Copywriting,Aurangabad,4,44506.0,False,7.7
+Copywriting,Beed,5,222070.6,False,11.4
+Copywriting,Bhiwandi,4,76977.75,False,8.3
+Copywriting,Chandrapur,11,112707.72727272728,False,23.8
+Copywriting,Dhule,6,132797.0,False,15.2
+Copywriting,Jalgaon,7,60760.71428571428,False,15.8
+Copywriting,Jalna,5,116841.2,False,8.7
+Copywriting,Kolhapur,5,228438.8,False,10.0
+Copywriting,Latur,3,57858.0,False,5.1
+Copywriting,Mumbai,6,139391.33333333334,False,14.8
+Copywriting,Nagpur,1,25975.0,False,0.0
+Copywriting,Nanded,4,155101.75,False,6.7
+Copywriting,Nashik,4,60267.0,False,7.9
+Copywriting,Osmanabad,7,190975.57142857142,False,14.3
+Copywriting,Parbhani,4,106753.5,False,6.1
+Copywriting,Pune,5,320524.4,False,11.1
+Copywriting,Raigad,6,172614.33333333334,False,14.3
+Copywriting,Sangli,6,82386.83333333333,False,15.6
+Copywriting,Satara,6,71374.5,False,12.5
+Copywriting,Solapur,4,173658.0,False,7.1
+Copywriting,Yavatmal,10,170915.3,False,21.4
+Curriculum Design,Ahmednagar,9,104145.55555555556,False,18.6
+Curriculum Design,Akola,6,136429.83333333334,False,10.6
+Curriculum Design,Amravati,8,204957.875,False,22.6
+Curriculum Design,Aurangabad,7,169874.14285714287,False,15.4
+Curriculum Design,Beed,4,331319.25,False,8.6
+Curriculum Design,Bhiwandi,9,131466.66666666666,False,22.2
+Curriculum Design,Chandrapur,8,143299.375,False,16.7
+Curriculum Design,Dhule,5,171920.4,False,12.1
+Curriculum Design,Jalgaon,4,163071.25,False,7.9
+Curriculum Design,Jalna,4,105369.75,False,6.5
+Curriculum Design,Kolhapur,2,64566.5,False,2.5
+Curriculum Design,Latur,5,80470.2,False,10.3
+Curriculum Design,Mumbai,5,123917.6,False,11.1
+Curriculum Design,Nagpur,5,57710.6,False,8.7
+Curriculum Design,Nanded,8,108031.625,False,15.6
+Curriculum Design,Nashik,8,134236.875,False,18.4
+Curriculum Design,Osmanabad,1,342639.0,False,0.0
+Curriculum Design,Parbhani,9,184830.66666666666,False,16.3
+Curriculum Design,Pune,5,78014.0,False,11.1
+Curriculum Design,Raigad,2,75489.5,False,2.9
+Curriculum Design,Sangli,2,73071.5,False,3.1
+Curriculum Design,Satara,6,158595.16666666666,False,12.5
+Curriculum Design,Solapur,8,104146.5,False,16.7
+Curriculum Design,Yavatmal,7,145303.85714285713,False,14.3
+Curriculum Development,Ahmednagar,6,117347.83333333333,False,11.6
+Curriculum Development,Akola,5,78751.6,False,8.5
+Curriculum Development,Amravati,3,84819.33333333333,False,6.5
+Curriculum Development,Aurangabad,7,233138.2857142857,False,15.4
+Curriculum Development,Beed,8,110918.25,False,20.0
+Curriculum Development,Bhiwandi,3,170797.0,False,5.6
+Curriculum Development,Chandrapur,3,37451.0,False,4.8
+Curriculum Development,Dhule,2,111544.0,False,3.0
+Curriculum Development,Jalgaon,6,158443.33333333334,False,13.2
+Curriculum Development,Jalna,7,175170.0,False,13.0
+Curriculum Development,Kolhapur,4,192746.5,False,7.5
+Curriculum Development,Latur,7,151268.0,False,15.4
+Curriculum Development,Mumbai,2,211071.5,False,0.0
+Curriculum Development,Nagpur,5,199259.6,False,8.7
+Curriculum Development,Nanded,7,197494.7142857143,False,13.3
+Curriculum Development,Nashik,7,110452.14285714286,False,15.8
+Curriculum Development,Osmanabad,2,133112.0,False,2.4
+Curriculum Development,Parbhani,4,110404.5,False,6.1
+Curriculum Development,Pune,2,160277.0,False,2.8
+Curriculum Development,Raigad,5,132700.4,False,11.4
+Curriculum Development,Sangli,5,88148.2,False,12.5
+Curriculum Development,Satara,7,161972.2857142857,False,15.0
+Curriculum Development,Solapur,5,183386.2,False,9.5
+Curriculum Development,Yavatmal,6,79879.0,False,11.9
+Customer Relationship,Ahmednagar,8,43099.875,False,16.3
+Customer Relationship,Akola,6,112918.16666666667,False,10.6
+Customer Relationship,Amravati,7,175298.85714285713,False,19.4
+Customer Relationship,Aurangabad,6,86290.83333333333,False,12.8
+Customer Relationship,Beed,4,89808.0,False,8.6
+Customer Relationship,Bhiwandi,8,145718.25,False,19.4
+Customer Relationship,Chandrapur,5,159165.0,False,9.5
+Customer Relationship,Dhule,5,51447.4,False,12.1
+Customer Relationship,Jalgaon,7,157502.14285714287,False,15.8
+Customer Relationship,Jalna,3,221345.66666666666,False,4.3
+Customer Relationship,Kolhapur,5,147771.2,False,10.0
+Customer Relationship,Latur,3,96878.66666666667,False,5.1
+Customer Relationship,Mumbai,2,199528.0,False,0.0
+Customer Relationship,Nagpur,5,187895.4,False,8.7
+Customer Relationship,Nashik,6,242507.83333333334,False,13.2
+Customer Relationship,Osmanabad,8,96733.0,False,16.7
+Customer Relationship,Parbhani,4,91365.5,False,6.1
+Customer Relationship,Pune,5,84757.4,False,11.1
+Customer Relationship,Raigad,5,74873.2,False,11.4
+Customer Relationship,Sangli,3,252361.0,False,6.2
+Customer Relationship,Satara,4,84878.0,False,7.5
+Customer Relationship,Solapur,7,59261.28571428572,False,14.3
+Customer Relationship,Yavatmal,6,90934.5,False,11.9
+Customer Service,Ahmednagar,17,193690.41176470587,False,37.2
+Customer Service,Akola,24,167591.29166666666,False,48.9
+Customer Service,Amravati,14,126444.07142857143,False,41.9
+Customer Service,Aurangabad,22,133402.45454545456,False,53.8
+Customer Service,Beed,12,94335.91666666667,False,31.4
+Customer Service,Bhiwandi,16,166078.5,False,41.7
+Customer Service,Chandrapur,16,162086.1875,False,35.7
+Customer Service,Dhule,13,72810.15384615384,False,36.4
+Customer Service,Jalgaon,21,134228.95238095237,False,52.6
+Customer Service,Jalna,17,100077.05882352941,False,34.8
+Customer Service,Kolhapur,15,144998.53333333333,False,35.0
+Customer Service,Latur,13,130682.30769230769,False,30.8
+Customer Service,Mumbai,14,115871.28571428571,False,44.4
+Customer Service,Nagpur,16,148620.1875,False,32.6
+Customer Service,Nanded,19,128354.31578947368,False,40.0
+Customer Service,Nashik,16,111547.0,False,39.5
+Customer Service,Osmanabad,14,145210.2857142857,False,31.0
+Customer Service,Parbhani,20,146118.1,False,38.8
+Customer Service,Pune,16,133423.875,False,41.7
+Customer Service,Raigad,9,157995.66666666666,False,22.9
+Customer Service,Sangli,12,63481.333333333336,False,34.4
+Customer Service,Satara,12,88836.33333333333,False,27.5
+Customer Service,Solapur,14,126642.0,False,31.0
+Customer Service,Yavatmal,14,113259.92857142857,False,31.0
+Data Analysis,Ahmednagar,5,132042.4,True,9.3
+Data Analysis,Akola,4,119839.5,True,6.4
+Data Analysis,Amravati,5,198966.0,True,12.9
+Data Analysis,Aurangabad,3,29876.666666666668,True,5.1
+Data Analysis,Beed,10,159863.9,True,25.7
+Data Analysis,Bhiwandi,5,71372.8,True,11.1
+Data Analysis,Chandrapur,1,224062.0,True,0.0
+Data Analysis,Dhule,5,110767.8,True,12.1
+Data Analysis,Jalgaon,6,125796.0,True,13.2
+Data Analysis,Jalna,5,42378.0,True,8.7
+Data Analysis,Kolhapur,6,176389.5,True,12.5
+Data Analysis,Latur,4,58705.5,True,7.7
+Data Analysis,Mumbai,5,134019.0,True,11.1
+Data Analysis,Nagpur,5,205783.4,True,8.7
+Data Analysis,Nanded,3,212252.0,True,4.4
+Data Analysis,Nashik,8,124961.625,True,18.4
+Data Analysis,Osmanabad,9,135814.55555555556,True,19.0
+Data Analysis,Parbhani,9,204604.0,True,16.3
+Data Analysis,Pune,9,157613.11111111112,True,22.2
+Data Analysis,Raigad,2,277333.0,True,2.9
+Data Analysis,Sangli,8,172801.625,True,21.9
+Data Analysis,Satara,7,155253.57142857142,True,15.0
+Data Analysis,Solapur,6,124204.5,True,11.9
+Data Analysis,Yavatmal,4,108902.5,True,7.1
+Deep Learning,Ahmednagar,2,35308.5,True,2.3
+Deep Learning,Akola,3,138902.0,True,4.3
+Deep Learning,Amravati,1,489095.0,True,0.0
+Deep Learning,Aurangabad,6,164449.5,True,12.8
+Deep Learning,Beed,8,146252.0,True,20.0
+Deep Learning,Bhiwandi,5,57750.8,True,11.1
+Deep Learning,Chandrapur,11,179356.0,True,23.8
+Deep Learning,Dhule,3,181468.0,True,6.1
+Deep Learning,Jalgaon,2,192872.5,True,2.6
+Deep Learning,Jalna,6,80060.16666666667,True,10.9
+Deep Learning,Kolhapur,7,85509.28571428571,True,15.0
+Deep Learning,Latur,5,78718.6,True,10.3
+Deep Learning,Mumbai,7,145017.85714285713,True,18.5
+Deep Learning,Nagpur,4,110343.0,True,6.5
+Deep Learning,Nanded,5,138717.6,True,8.9
+Deep Learning,Nashik,5,273016.6,True,10.5
+Deep Learning,Osmanabad,6,213772.66666666666,True,11.9
+Deep Learning,Parbhani,3,93250.0,True,4.1
+Deep Learning,Pune,9,200158.55555555556,True,22.2
+Deep Learning,Raigad,5,160372.8,True,11.4
+Deep Learning,Sangli,4,111642.0,True,9.4
+Deep Learning,Satara,5,114871.8,True,10.0
+Deep Learning,Solapur,4,43742.75,True,7.1
+Deep Learning,Yavatmal,2,127835.5,True,2.4
+Docker,Ahmednagar,3,141251.0,True,4.7
+Docker,Akola,10,173957.4,True,19.1
+Docker,Amravati,6,111220.0,True,16.1
+Docker,Aurangabad,5,227875.8,True,10.3
+Docker,Beed,9,111145.22222222222,True,22.9
+Docker,Bhiwandi,10,226815.2,True,25.0
+Docker,Chandrapur,3,161344.66666666666,True,4.8
+Docker,Dhule,6,63772.666666666664,True,15.2
+Docker,Jalgaon,7,75199.14285714286,True,15.8
+Docker,Jalna,9,166088.0,True,17.4
+Docker,Kolhapur,9,122234.22222222222,True,20.0
+Docker,Latur,4,197832.75,True,7.7
+Docker,Mumbai,6,131882.33333333334,True,14.8
+Docker,Nagpur,10,185117.7,True,19.6
+Docker,Nanded,3,297245.0,True,4.4
+Docker,Nashik,10,78497.0,True,23.7
+Docker,Osmanabad,8,88080.25,True,16.7
+Docker,Parbhani,9,148253.77777777778,True,16.3
+Docker,Pune,5,148798.0,True,11.1
+Docker,Raigad,10,114976.5,True,25.7
+Docker,Sangli,6,81162.5,True,15.6
+Docker,Satara,5,128088.0,True,10.0
+Docker,Solapur,8,119965.875,True,16.7
+Docker,Yavatmal,8,112064.75,True,16.7
+Documentation,Ahmednagar,7,107481.42857142857,False,14.0
+Documentation,Akola,15,128247.2,False,29.8
+Documentation,Amravati,10,172391.0,False,29.0
+Documentation,Aurangabad,5,137393.6,False,10.3
+Documentation,Beed,10,118039.7,False,25.7
+Documentation,Bhiwandi,7,156794.57142857142,False,16.7
+Documentation,Chandrapur,16,124063.9375,False,35.7
+Documentation,Dhule,10,86583.3,False,27.3
+Documentation,Jalgaon,9,111432.55555555556,False,21.1
+Documentation,Jalna,14,130891.07142857143,False,28.3
+Documentation,Kolhapur,14,133301.92857142858,False,32.5
+Documentation,Latur,7,139789.85714285713,False,15.4
+Documentation,Mumbai,8,180293.125,False,22.2
+Documentation,Nagpur,11,106511.18181818182,False,21.7
+Documentation,Nanded,13,106040.15384615384,False,26.7
+Documentation,Nashik,10,169278.4,False,23.7
+Documentation,Osmanabad,12,100128.5,False,26.2
+Documentation,Parbhani,16,140886.1875,False,30.6
+Documentation,Pune,9,135704.66666666666,False,22.2
+Documentation,Raigad,11,114314.63636363637,False,28.6
+Documentation,Sangli,6,80080.66666666667,False,15.6
+Documentation,Satara,8,136726.25,False,17.5
+Documentation,Solapur,8,165707.25,False,16.7
+Documentation,Yavatmal,6,55430.166666666664,False,11.9
+Editing,Ahmednagar,9,180035.0,False,18.6
+Editing,Akola,7,149514.0,False,12.8
+Editing,Amravati,4,119924.5,False,9.7
+Editing,Aurangabad,3,53176.666666666664,False,5.1
+Editing,Beed,7,213316.85714285713,False,17.1
+Editing,Bhiwandi,3,97183.0,False,5.6
+Editing,Chandrapur,11,121714.27272727272,False,23.8
+Editing,Dhule,7,119894.42857142857,False,18.2
+Editing,Jalgaon,4,50176.0,False,7.9
+Editing,Jalna,6,101600.66666666667,False,10.9
+Editing,Kolhapur,4,184090.75,False,7.5
+Editing,Latur,1,105243.0,False,0.0
+Editing,Mumbai,5,121507.8,False,11.1
+Editing,Nagpur,2,36839.5,False,2.2
+Editing,Nanded,6,129465.16666666667,False,11.1
+Editing,Nashik,6,93123.33333333333,False,13.2
+Editing,Osmanabad,6,196003.0,False,11.9
+Editing,Parbhani,4,106753.5,False,6.1
+Editing,Pune,8,226666.25,False,19.4
+Editing,Raigad,7,114442.85714285714,False,17.1
+Editing,Sangli,8,131734.875,False,21.9
+Editing,Satara,4,48104.0,False,7.5
+Editing,Solapur,3,199208.0,False,4.8
+Editing,Yavatmal,10,154130.4,False,21.4
+Electrical Systems,Ahmednagar,4,84735.5,False,7.0
+Electrical Systems,Akola,6,79734.83333333333,False,10.6
+Electrical Systems,Amravati,4,200790.25,False,9.7
+Electrical Systems,Aurangabad,9,142924.55555555556,False,20.5
+Electrical Systems,Beed,8,129538.75,False,20.0
+Electrical Systems,Bhiwandi,7,125338.71428571429,False,16.7
+Electrical Systems,Chandrapur,5,166900.4,False,9.5
+Electrical Systems,Dhule,7,45020.0,False,18.2
+Electrical Systems,Jalgaon,4,164184.5,False,7.9
+Electrical Systems,Jalna,2,109810.0,False,2.2
+Electrical Systems,Kolhapur,6,85709.5,False,12.5
+Electrical Systems,Latur,11,133966.54545454544,False,25.6
+Electrical Systems,Mumbai,8,223746.125,False,22.2
+Electrical Systems,Nagpur,6,98524.33333333333,False,10.9
+Electrical Systems,Nanded,1,411097.0,False,0.0
+Electrical Systems,Nashik,3,55513.666666666664,False,5.3
+Electrical Systems,Osmanabad,7,152033.14285714287,False,14.3
+Electrical Systems,Parbhani,7,110102.14285714286,False,12.2
+Electrical Systems,Pune,2,66358.5,False,2.8
+Electrical Systems,Raigad,5,151800.0,False,11.4
+Electrical Systems,Sangli,13,147077.6923076923,False,37.5
+Electrical Systems,Satara,5,109806.4,False,10.0
+Electrical Systems,Solapur,5,184541.8,False,9.5
+Electrical Systems,Yavatmal,6,89592.0,False,11.9
+Electrical Wiring,Ahmednagar,5,150445.4,False,9.3
+Electrical Wiring,Akola,6,116490.33333333333,False,10.6
+Electrical Wiring,Amravati,8,152673.0,False,22.6
+Electrical Wiring,Aurangabad,8,183717.75,False,17.9
+Electrical Wiring,Beed,6,127911.33333333333,False,14.3
+Electrical Wiring,Bhiwandi,5,88161.0,False,11.1
+Electrical Wiring,Chandrapur,5,84632.4,False,9.5
+Electrical Wiring,Dhule,6,169043.16666666666,False,15.2
+Electrical Wiring,Jalgaon,5,188870.2,False,10.5
+Electrical Wiring,Jalna,4,172501.25,False,6.5
+Electrical Wiring,Kolhapur,6,160011.16666666666,False,12.5
+Electrical Wiring,Latur,3,125502.0,False,5.1
+Electrical Wiring,Mumbai,6,115954.83333333333,False,14.8
+Electrical Wiring,Nagpur,3,359443.3333333333,False,4.3
+Electrical Wiring,Nanded,1,398074.0,False,0.0
+Electrical Wiring,Nashik,5,188071.4,False,10.5
+Electrical Wiring,Osmanabad,6,165686.83333333334,False,11.9
+Electrical Wiring,Parbhani,6,136466.5,False,10.2
+Electrical Wiring,Pune,4,141115.5,False,8.3
+Electrical Wiring,Raigad,4,141407.0,False,8.6
+Electrical Wiring,Sangli,4,163013.5,False,9.4
+Electrical Wiring,Satara,3,211917.33333333334,False,5.0
+Electrical Wiring,Solapur,6,111593.5,False,11.9
+Electrical Wiring,Yavatmal,6,67495.33333333333,False,11.9
+Email Marketing,Ahmednagar,3,64408.666666666664,True,4.7
+Email Marketing,Akola,3,200105.66666666666,True,4.3
+Email Marketing,Amravati,8,206823.875,True,22.6
+Email Marketing,Aurangabad,9,106247.88888888889,True,20.5
+Email Marketing,Beed,5,188417.6,True,11.4
+Email Marketing,Bhiwandi,6,211084.16666666666,True,13.9
+Email Marketing,Chandrapur,10,261604.6,True,21.4
+Email Marketing,Dhule,7,149080.7142857143,True,18.2
+Email Marketing,Jalgaon,7,137462.85714285713,True,15.8
+Email Marketing,Jalna,3,27853.333333333332,True,4.3
+Email Marketing,Kolhapur,5,177911.2,True,10.0
+Email Marketing,Latur,5,207458.0,True,10.3
+Email Marketing,Mumbai,3,159064.0,True,3.7
+Email Marketing,Nagpur,3,43526.333333333336,True,4.3
+Email Marketing,Nanded,7,122545.57142857143,True,13.3
+Email Marketing,Nashik,4,177395.75,True,7.9
+Email Marketing,Osmanabad,8,205524.375,True,16.7
+Email Marketing,Parbhani,2,273227.5,True,2.0
+Email Marketing,Pune,4,187793.0,True,8.3
+Email Marketing,Raigad,6,241803.5,True,14.3
+Email Marketing,Sangli,5,102635.4,True,12.5
+Email Marketing,Satara,6,159280.5,True,12.5
+Email Marketing,Solapur,2,74038.5,True,2.4
+Email Marketing,Yavatmal,5,190410.6,True,9.5
+Emergency Care,Ahmednagar,6,111035.33333333333,True,11.6
+Emergency Care,Akola,7,104660.57142857143,True,12.8
+Emergency Care,Amravati,4,178253.25,True,9.7
+Emergency Care,Aurangabad,6,89926.5,True,12.8
+Emergency Care,Beed,2,38246.0,True,2.9
+Emergency Care,Bhiwandi,6,166009.33333333334,True,13.9
+Emergency Care,Chandrapur,4,156295.0,True,7.1
+Emergency Care,Dhule,6,84544.83333333333,True,15.2
+Emergency Care,Jalgaon,5,157410.4,True,10.5
+Emergency Care,Jalna,1,17540.0,True,0.0
+Emergency Care,Kolhapur,4,148175.0,True,7.5
+Emergency Care,Latur,2,47639.0,True,2.6
+Emergency Care,Mumbai,6,191885.5,True,14.8
+Emergency Care,Nagpur,9,147480.22222222222,True,17.4
+Emergency Care,Nanded,4,264527.75,True,6.7
+Emergency Care,Nashik,4,144877.25,True,7.9
+Emergency Care,Osmanabad,4,44817.0,True,7.1
+Emergency Care,Parbhani,8,173830.375,True,14.3
+Emergency Care,Pune,5,59305.4,True,11.1
+Emergency Care,Raigad,6,71924.33333333333,True,14.3
+Emergency Care,Sangli,6,69919.5,True,15.6
+Emergency Care,Satara,7,158153.42857142858,True,15.0
+Emergency Care,Solapur,5,156898.0,True,9.5
+Emergency Care,Yavatmal,7,144749.7142857143,True,14.3
+Employee Relations,Ahmednagar,6,177384.0,False,11.6
+Employee Relations,Akola,4,133562.75,False,6.4
+Employee Relations,Amravati,4,127096.0,False,9.7
+Employee Relations,Aurangabad,2,255986.5,False,2.6
+Employee Relations,Beed,4,140591.75,False,8.6
+Employee Relations,Bhiwandi,5,126124.8,False,11.1
+Employee Relations,Chandrapur,3,326491.3333333333,False,4.8
+Employee Relations,Dhule,4,68370.5,False,9.1
+Employee Relations,Jalgaon,6,102907.66666666667,False,13.2
+Employee Relations,Jalna,7,87177.28571428571,False,13.0
+Employee Relations,Kolhapur,4,102929.25,False,7.5
+Employee Relations,Latur,5,37062.8,False,10.3
+Employee Relations,Nagpur,3,92934.0,False,4.3
+Employee Relations,Nanded,6,133763.33333333334,False,11.1
+Employee Relations,Nashik,9,166683.33333333334,False,21.1
+Employee Relations,Osmanabad,11,121153.18181818182,False,23.8
+Employee Relations,Pune,7,167443.85714285713,False,16.7
+Employee Relations,Raigad,11,71255.90909090909,False,28.6
+Employee Relations,Sangli,2,29877.0,False,3.1
+Employee Relations,Satara,9,140980.33333333334,False,20.0
+Employee Relations,Solapur,6,59999.333333333336,False,11.9
+Employee Relations,Yavatmal,3,98048.33333333333,False,4.8
+Equipment Maintenance,Ahmednagar,8,105820.375,False,16.3
+Equipment Maintenance,Akola,11,74278.90909090909,False,21.3
+Equipment Maintenance,Amravati,13,158487.07692307694,False,38.7
+Equipment Maintenance,Aurangabad,17,135315.76470588235,False,41.0
+Equipment Maintenance,Beed,17,144505.35294117648,False,45.7
+Equipment Maintenance,Bhiwandi,8,143461.25,False,19.4
+Equipment Maintenance,Chandrapur,14,116104.07142857143,False,31.0
+Equipment Maintenance,Dhule,14,102070.92857142857,False,39.4
+Equipment Maintenance,Jalgaon,7,232754.85714285713,False,15.8
+Equipment Maintenance,Jalna,8,137007.5,False,15.2
+Equipment Maintenance,Kolhapur,11,145530.9090909091,False,25.0
+Equipment Maintenance,Latur,15,166381.73333333334,False,35.9
+Equipment Maintenance,Mumbai,10,166685.3,False,29.6
+Equipment Maintenance,Nagpur,9,210222.77777777778,False,17.4
+Equipment Maintenance,Nanded,5,159250.0,False,8.9
+Equipment Maintenance,Nashik,11,133934.81818181818,False,26.3
+Equipment Maintenance,Osmanabad,15,154809.13333333333,False,33.3
+Equipment Maintenance,Parbhani,12,110345.0,False,22.4
+Equipment Maintenance,Pune,8,112780.0,False,19.4
+Equipment Maintenance,Raigad,11,114177.63636363637,False,28.6
+Equipment Maintenance,Sangli,15,176515.6,False,43.7
+Equipment Maintenance,Satara,7,164382.85714285713,False,15.0
+Equipment Maintenance,Solapur,8,100704.5,False,16.7
+Equipment Maintenance,Yavatmal,13,110504.23076923077,False,28.6
+Equipment Operation,Ahmednagar,8,133782.25,False,16.3
+Equipment Operation,Akola,7,192951.14285714287,False,12.8
+Equipment Operation,Amravati,5,173712.8,False,12.9
+Equipment Operation,Aurangabad,5,81062.8,False,10.3
+Equipment Operation,Beed,3,155501.33333333334,False,5.7
+Equipment Operation,Bhiwandi,2,71192.0,False,2.8
+Equipment Operation,Chandrapur,6,148017.0,False,11.9
+Equipment Operation,Dhule,4,164613.25,False,9.1
+Equipment Operation,Jalgaon,5,106866.6,False,10.5
+Equipment Operation,Jalna,4,141772.0,False,6.5
+Equipment Operation,Kolhapur,6,126145.33333333333,False,12.5
+Equipment Operation,Latur,5,297027.6,False,10.3
+Equipment Operation,Mumbai,10,94248.8,False,29.6
+Equipment Operation,Nagpur,5,60132.4,False,8.7
+Equipment Operation,Nanded,6,103459.83333333333,False,11.1
+Equipment Operation,Nashik,5,243487.0,False,10.5
+Equipment Operation,Osmanabad,4,50935.5,False,7.1
+Equipment Operation,Parbhani,9,188513.11111111112,False,16.3
+Equipment Operation,Pune,9,95886.44444444444,False,22.2
+Equipment Operation,Raigad,3,191378.66666666666,False,5.7
+Equipment Operation,Sangli,5,76575.0,False,12.5
+Equipment Operation,Satara,5,152028.4,False,10.0
+Equipment Operation,Solapur,5,173219.0,False,9.5
+Equipment Operation,Yavatmal,2,163275.0,False,2.4
+Excel,Ahmednagar,14,135720.35714285713,False,30.2
+Excel,Akola,13,133845.0,False,25.5
+Excel,Amravati,13,174968.0,False,38.7
+Excel,Aurangabad,19,73011.0,False,46.2
+Excel,Beed,27,130240.33333333333,False,74.3
+Excel,Bhiwandi,14,131451.2142857143,False,36.1
+Excel,Chandrapur,13,81004.69230769231,False,28.6
+Excel,Dhule,17,102837.29411764706,False,48.5
+Excel,Jalgaon,13,114933.30769230769,False,31.6
+Excel,Jalna,17,107300.35294117648,False,34.8
+Excel,Kolhapur,17,126999.23529411765,False,40.0
+Excel,Latur,12,226309.16666666666,False,28.2
+Excel,Mumbai,16,125537.9375,False,51.9
+Excel,Nagpur,22,139502.0,False,45.7
+Excel,Nanded,11,128207.54545454546,False,22.2
+Excel,Nashik,16,114134.5625,False,39.5
+Excel,Osmanabad,18,110607.55555555556,False,40.5
+Excel,Parbhani,21,199371.0,False,40.8
+Excel,Pune,23,116041.26086956522,False,61.1
+Excel,Raigad,12,167222.16666666666,False,31.4
+Excel,Sangli,25,141427.8,False,75.0
+Excel,Satara,22,98387.40909090909,False,52.5
+Excel,Solapur,13,112653.53846153847,False,28.6
+Excel,Yavatmal,19,118603.0,False,42.9
+Figma,Ahmednagar,7,124311.28571428571,True,14.0
+Figma,Akola,5,147699.2,True,8.5
+Figma,Amravati,4,176564.5,True,9.7
+Figma,Aurangabad,5,117769.8,True,10.3
+Figma,Beed,3,150519.0,True,5.7
+Figma,Bhiwandi,3,221427.33333333334,True,5.6
+Figma,Chandrapur,3,124275.0,True,4.8
+Figma,Dhule,5,92210.0,True,12.1
+Figma,Jalgaon,5,84694.0,True,10.5
+Figma,Jalna,1,168196.0,True,0.0
+Figma,Kolhapur,3,258218.33333333334,True,5.0
+Figma,Latur,6,146451.66666666666,True,12.8
+Figma,Mumbai,4,184373.25,True,7.4
+Figma,Nagpur,9,152643.33333333334,True,17.4
+Figma,Nanded,5,47262.8,True,8.9
+Figma,Nashik,6,116042.5,True,13.2
+Figma,Osmanabad,6,76156.33333333333,True,11.9
+Figma,Parbhani,5,43001.4,True,8.2
+Figma,Pune,3,49491.0,True,5.6
+Figma,Raigad,3,147682.33333333334,True,5.7
+Figma,Sangli,4,116602.25,True,9.4
+Figma,Satara,6,98520.83333333333,True,12.5
+Figma,Solapur,4,209120.25,True,7.1
+Figma,Yavatmal,3,248988.0,True,4.8
+Financial Reporting,Ahmednagar,2,117811.0,False,2.3
+Financial Reporting,Akola,6,111594.5,False,10.6
+Financial Reporting,Amravati,3,190463.0,False,6.5
+Financial Reporting,Aurangabad,4,32888.25,False,7.7
+Financial Reporting,Beed,5,132028.4,False,11.4
+Financial Reporting,Bhiwandi,2,238150.0,False,2.8
+Financial Reporting,Chandrapur,7,122981.28571428571,False,14.3
+Financial Reporting,Dhule,4,174012.25,False,9.1
+Financial Reporting,Jalgaon,4,222010.75,False,7.9
+Financial Reporting,Jalna,3,76634.33333333333,False,4.3
+Financial Reporting,Kolhapur,3,81908.66666666667,False,5.0
+Financial Reporting,Latur,5,191067.4,False,10.3
+Financial Reporting,Mumbai,3,92954.66666666667,False,3.7
+Financial Reporting,Nagpur,5,192947.8,False,8.7
+Financial Reporting,Nanded,5,168053.6,False,8.9
+Financial Reporting,Nashik,6,127828.66666666667,False,13.2
+Financial Reporting,Osmanabad,3,109483.0,False,4.8
+Financial Reporting,Parbhani,5,119621.6,False,8.2
+Financial Reporting,Pune,9,128672.22222222222,False,22.2
+Financial Reporting,Raigad,1,46233.0,False,0.0
+Financial Reporting,Sangli,7,48592.71428571428,False,18.7
+Financial Reporting,Satara,5,119550.2,False,10.0
+Financial Reporting,Yavatmal,4,208479.5,False,7.1
+Firewall,Ahmednagar,8,137474.375,False,16.3
+Firewall,Akola,5,133991.0,False,8.5
+Firewall,Amravati,4,115385.25,False,9.7
+Firewall,Aurangabad,8,174227.25,False,17.9
+Firewall,Beed,6,64602.5,False,14.3
+Firewall,Bhiwandi,6,146948.0,False,13.9
+Firewall,Chandrapur,8,104293.875,False,16.7
+Firewall,Dhule,2,116592.5,False,3.0
+Firewall,Jalgaon,5,130961.4,False,10.5
+Firewall,Jalna,6,100079.16666666667,False,10.9
+Firewall,Kolhapur,2,76816.5,False,2.5
+Firewall,Latur,3,103628.33333333333,False,5.1
+Firewall,Mumbai,4,154124.0,False,7.4
+Firewall,Nagpur,4,84057.75,False,6.5
+Firewall,Nanded,4,139503.5,False,6.7
+Firewall,Nashik,7,243161.7142857143,False,15.8
+Firewall,Osmanabad,7,114170.0,False,14.3
+Firewall,Parbhani,5,115302.6,False,8.2
+Firewall,Pune,8,182487.375,False,19.4
+Firewall,Raigad,5,120778.6,False,11.4
+Firewall,Sangli,11,113197.36363636363,False,31.2
+Firewall,Satara,4,55666.75,False,7.5
+Firewall,Solapur,1,27889.0,False,0.0
+Firewall,Yavatmal,3,95847.0,False,4.8
+Forecasting,Ahmednagar,7,166158.42857142858,False,14.0
+Forecasting,Akola,2,134216.5,False,2.1
+Forecasting,Amravati,5,213333.0,False,12.9
+Forecasting,Aurangabad,3,37650.666666666664,False,5.1
+Forecasting,Beed,9,117451.33333333333,False,22.9
+Forecasting,Bhiwandi,5,71372.8,False,11.1
+Forecasting,Chandrapur,2,168334.0,False,2.4
+Forecasting,Dhule,5,110767.8,False,12.1
+Forecasting,Jalgaon,5,145146.6,False,10.5
+Forecasting,Jalna,4,41625.5,False,6.5
+Forecasting,Kolhapur,7,150637.42857142858,False,15.0
+Forecasting,Latur,4,50650.5,False,7.7
+Forecasting,Mumbai,4,146697.75,False,7.4
+Forecasting,Nagpur,6,157615.83333333334,False,10.9
+Forecasting,Nanded,3,98094.33333333333,False,4.4
+Forecasting,Nashik,6,90142.16666666667,False,13.2
+Forecasting,Osmanabad,9,124498.22222222222,False,19.0
+Forecasting,Parbhani,12,196274.75,False,22.4
+Forecasting,Pune,12,178372.66666666666,False,30.6
+Forecasting,Raigad,1,241830.0,False,0.0
+Forecasting,Sangli,5,132881.2,False,12.5
+Forecasting,Satara,8,187173.875,False,17.5
+Forecasting,Solapur,7,114772.0,False,14.3
+Forecasting,Yavatmal,3,71243.0,False,4.8
+GCP,Ahmednagar,1,109793.0,True,0.0
+GCP,Akola,2,83390.5,True,2.1
+GCP,Amravati,7,115360.0,True,19.4
+GCP,Aurangabad,1,32417.0,True,0.0
+GCP,Beed,5,120406.8,True,11.4
+GCP,Bhiwandi,4,190460.5,True,8.3
+GCP,Chandrapur,4,55451.25,True,7.1
+GCP,Dhule,4,141706.75,True,9.1
+GCP,Jalgaon,1,53220.0,True,0.0
+GCP,Jalna,5,150648.6,True,8.7
+GCP,Kolhapur,4,65760.0,True,7.5
+GCP,Latur,1,174318.0,True,0.0
+GCP,Mumbai,5,203136.0,True,11.1
+GCP,Nagpur,5,274276.8,True,8.7
+GCP,Nanded,1,174734.0,True,0.0
+GCP,Nashik,9,66308.0,True,21.1
+GCP,Osmanabad,3,217705.66666666666,True,4.8
+GCP,Parbhani,4,198729.5,True,6.1
+GCP,Pune,3,189460.33333333334,True,5.6
+GCP,Raigad,4,119428.25,True,8.6
+GCP,Sangli,1,134126.0,True,0.0
+GCP,Satara,1,73310.0,True,0.0
+GCP,Solapur,6,101680.83333333333,True,11.9
+GCP,Yavatmal,2,123897.0,True,2.4
+GST,Ahmednagar,1,220422.0,False,0.0
+GST,Akola,5,131722.4,False,8.5
+GST,Amravati,6,167574.33333333334,False,16.1
+GST,Aurangabad,9,64508.666666666664,False,20.5
+GST,Beed,4,124613.75,False,8.6
+GST,Bhiwandi,3,222919.66666666666,False,5.6
+GST,Chandrapur,4,112101.75,False,7.1
+GST,Dhule,6,124713.0,False,15.2
+GST,Jalgaon,5,135588.8,False,10.5
+GST,Jalna,4,87691.0,False,6.5
+GST,Kolhapur,5,61855.4,False,10.0
+GST,Latur,3,273892.0,False,5.1
+GST,Mumbai,5,42871.4,False,11.1
+GST,Nagpur,6,132529.33333333334,False,10.9
+GST,Nanded,4,158406.75,False,6.7
+GST,Nashik,2,112340.5,False,2.6
+GST,Osmanabad,4,111479.0,False,7.1
+GST,Parbhani,4,108651.0,False,6.1
+GST,Pune,6,155012.83333333334,False,13.9
+GST,Raigad,2,238776.0,False,2.9
+GST,Sangli,7,70496.85714285714,False,18.7
+GST,Satara,3,132005.0,False,5.0
+GST,Yavatmal,2,262080.0,False,2.4
+Git,Ahmednagar,7,130474.0,False,14.0
+Git,Akola,8,73883.75,False,14.9
+Git,Amravati,10,137985.2,False,29.0
+Git,Aurangabad,9,166346.11111111112,False,20.5
+Git,Beed,11,66378.18181818182,False,28.6
+Git,Bhiwandi,6,214922.0,False,13.9
+Git,Chandrapur,7,101820.0,False,14.3
+Git,Dhule,10,219820.6,False,27.3
+Git,Jalgaon,11,119694.0,False,26.3
+Git,Jalna,5,194051.6,False,8.7
+Git,Kolhapur,11,138403.72727272726,False,25.0
+Git,Latur,5,158535.2,False,10.3
+Git,Mumbai,11,124429.90909090909,False,33.3
+Git,Nagpur,8,191743.25,False,15.2
+Git,Nanded,5,161383.2,False,8.9
+Git,Nashik,5,101973.8,False,10.5
+Git,Osmanabad,9,98322.22222222222,False,19.0
+Git,Parbhani,8,82541.75,False,14.3
+Git,Pune,4,213908.0,False,8.3
+Git,Raigad,5,225813.0,False,11.4
+Git,Sangli,7,280987.14285714284,False,18.7
+Git,Satara,12,135696.33333333334,False,27.5
+Git,Solapur,6,39771.0,False,11.9
+Git,Yavatmal,6,67425.83333333333,False,11.9
+Google Analytics,Ahmednagar,4,61033.25,True,7.0
+Google Analytics,Akola,3,200105.66666666666,True,4.3
+Google Analytics,Amravati,5,125658.6,True,12.9
+Google Analytics,Aurangabad,6,60762.333333333336,True,12.8
+Google Analytics,Beed,7,186745.85714285713,True,17.1
+Google Analytics,Bhiwandi,6,162550.0,True,13.9
+Google Analytics,Chandrapur,8,269929.5,True,16.7
+Google Analytics,Dhule,10,143345.8,True,27.3
+Google Analytics,Jalgaon,7,89382.28571428571,True,15.8
+Google Analytics,Jalna,2,33524.0,True,2.2
+Google Analytics,Kolhapur,6,151166.5,True,12.5
+Google Analytics,Latur,6,184102.5,True,12.8
+Google Analytics,Mumbai,3,44660.333333333336,True,3.7
+Google Analytics,Nagpur,3,43526.333333333336,True,4.3
+Google Analytics,Nanded,8,193746.875,True,15.6
+Google Analytics,Nashik,7,194333.0,True,15.8
+Google Analytics,Osmanabad,6,231955.5,True,11.9
+Google Analytics,Parbhani,2,361389.5,True,2.0
+Google Analytics,Pune,8,209087.25,True,19.4
+Google Analytics,Raigad,4,211339.5,True,8.6
+Google Analytics,Sangli,5,108647.2,True,12.5
+Google Analytics,Satara,6,114783.33333333333,True,12.5
+Google Analytics,Solapur,3,57659.666666666664,True,4.8
+Google Analytics,Yavatmal,5,190410.6,True,9.5
+HRMS,Ahmednagar,6,177384.0,False,11.6
+HRMS,Akola,5,168170.4,False,8.5
+HRMS,Amravati,5,132109.8,False,12.9
+HRMS,Aurangabad,1,396694.0,False,0.0
+HRMS,Beed,4,140591.75,False,8.6
+HRMS,Bhiwandi,1,20168.0,False,0.0
+HRMS,Chandrapur,3,284150.6666666667,False,4.8
+HRMS,Dhule,5,76445.8,False,12.1
+HRMS,Jalgaon,6,157074.66666666666,False,13.2
+HRMS,Jalna,7,92019.14285714286,False,13.0
+HRMS,Kolhapur,5,84270.4,False,10.0
+HRMS,Latur,8,121193.25,False,17.9
+HRMS,Mumbai,3,156803.66666666666,False,3.7
+HRMS,Nagpur,5,165224.6,False,8.7
+HRMS,Nanded,6,133763.33333333334,False,11.1
+HRMS,Nashik,7,123725.57142857143,False,15.8
+HRMS,Osmanabad,11,160347.81818181818,False,23.8
+HRMS,Parbhani,1,129069.0,False,0.0
+HRMS,Pune,7,218705.2857142857,False,16.7
+HRMS,Raigad,11,81536.45454545454,False,28.6
+HRMS,Sangli,4,37328.25,False,9.4
+HRMS,Satara,5,136837.0,False,10.0
+HRMS,Solapur,6,59999.333333333336,False,11.9
+HRMS,Yavatmal,1,31818.0,False,0.0
+HTML/CSS,Ahmednagar,12,148146.41666666666,True,25.6
+HTML/CSS,Akola,8,184127.5,True,14.9
+HTML/CSS,Amravati,8,153200.125,True,22.6
+HTML/CSS,Aurangabad,9,115775.0,True,20.5
+HTML/CSS,Beed,7,93833.85714285714,True,17.1
+HTML/CSS,Bhiwandi,7,158896.14285714287,True,16.7
+HTML/CSS,Chandrapur,5,101270.0,True,9.5
+HTML/CSS,Dhule,15,153618.53333333333,True,42.4
+HTML/CSS,Jalgaon,8,99030.5,True,18.4
+HTML/CSS,Jalna,3,210885.33333333334,True,4.3
+HTML/CSS,Kolhapur,6,197688.16666666666,True,12.5
+HTML/CSS,Latur,7,171333.57142857142,True,15.4
+HTML/CSS,Mumbai,12,123423.66666666667,True,37.0
+HTML/CSS,Nagpur,18,126404.94444444444,True,37.0
+HTML/CSS,Nanded,4,160464.25,True,6.7
+HTML/CSS,Nashik,4,157201.75,True,7.9
+HTML/CSS,Osmanabad,10,129330.1,True,21.4
+HTML/CSS,Parbhani,10,76854.8,True,18.4
+HTML/CSS,Pune,2,114063.0,True,2.8
+HTML/CSS,Raigad,7,116097.71428571429,True,17.1
+HTML/CSS,Sangli,9,107243.88888888889,True,25.0
+HTML/CSS,Satara,12,112605.5,True,27.5
+HTML/CSS,Solapur,9,115317.55555555556,True,19.0
+HTML/CSS,Yavatmal,8,112160.0,True,16.7
+Inventory Management,Ahmednagar,23,177089.04347826086,False,51.2
+Inventory Management,Akola,19,176850.31578947368,False,38.3
+Inventory Management,Amravati,22,169988.72727272726,False,67.7
+Inventory Management,Aurangabad,28,96050.03571428571,False,69.2
+Inventory Management,Beed,19,130525.1052631579,False,51.4
+Inventory Management,Bhiwandi,24,95244.5,False,63.9
+Inventory Management,Chandrapur,14,115634.64285714286,False,31.0
+Inventory Management,Dhule,21,73292.09523809524,False,60.6
+Inventory Management,Jalgaon,26,133531.23076923078,False,65.8
+Inventory Management,Jalna,20,80597.0,False,41.3
+Inventory Management,Kolhapur,23,180750.5652173913,False,55.0
+Inventory Management,Latur,22,161082.95454545456,False,53.8
+Inventory Management,Mumbai,19,160620.1052631579,False,63.0
+Inventory Management,Nagpur,22,183921.5909090909,False,45.7
+Inventory Management,Nanded,19,143769.31578947368,False,40.0
+Inventory Management,Nashik,22,116515.77272727272,False,55.3
+Inventory Management,Osmanabad,25,159876.96,False,57.1
+Inventory Management,Parbhani,31,144402.29032258064,False,61.2
+Inventory Management,Pune,28,123826.03571428571,False,75.0
+Inventory Management,Raigad,18,169649.27777777778,False,48.6
+Inventory Management,Sangli,19,135228.05263157896,False,56.2
+Inventory Management,Satara,14,95453.57142857143,False,32.5
+Inventory Management,Solapur,21,150077.52380952382,False,47.6
+Inventory Management,Yavatmal,19,172214.1052631579,False,42.9
+JIRA,Ahmednagar,7,156495.85714285713,False,14.0
+JIRA,Akola,9,166215.55555555556,False,17.0
+JIRA,Amravati,6,83846.16666666667,False,16.1
+JIRA,Aurangabad,6,157714.0,False,12.8
+JIRA,Beed,4,99047.25,False,8.6
+JIRA,Bhiwandi,10,139951.9,False,25.0
+JIRA,Chandrapur,8,69702.25,False,16.7
+JIRA,Dhule,6,63094.333333333336,False,15.2
+JIRA,Jalgaon,5,127350.0,False,10.5
+JIRA,Jalna,14,138156.42857142858,False,28.3
+JIRA,Kolhapur,6,142681.33333333334,False,12.5
+JIRA,Latur,2,185716.0,False,2.6
+JIRA,Mumbai,9,207029.88888888888,False,25.9
+JIRA,Nagpur,6,128276.66666666667,False,10.9
+JIRA,Nanded,5,241705.8,False,8.9
+JIRA,Nashik,7,91267.28571428571,False,15.8
+JIRA,Osmanabad,4,84164.75,False,7.1
+JIRA,Parbhani,13,150193.15384615384,False,24.5
+JIRA,Pune,9,89941.88888888889,False,22.2
+JIRA,Raigad,5,145084.0,False,11.4
+JIRA,Sangli,8,193679.875,False,21.9
+JIRA,Satara,15,64167.53333333333,False,35.0
+JIRA,Solapur,5,100514.2,False,9.5
+JIRA,Yavatmal,13,89164.53846153847,False,28.6
+Java,Ahmednagar,4,185210.75,True,7.0
+Java,Akola,1,81860.0,True,0.0
+Java,Amravati,4,198033.0,True,9.7
+Java,Aurangabad,6,170458.16666666666,True,12.8
+Java,Beed,4,115612.0,True,8.6
+Java,Bhiwandi,4,172569.25,True,8.3
+Java,Chandrapur,2,218845.5,True,2.4
+Java,Dhule,4,235903.25,True,9.1
+Java,Jalgaon,5,77989.6,True,10.5
+Java,Jalna,3,123003.33333333333,True,4.3
+Java,Kolhapur,4,152602.5,True,7.5
+Java,Latur,7,131035.14285714286,True,15.4
+Java,Mumbai,2,37805.5,True,0.0
+Java,Nagpur,6,167702.5,True,10.9
+Java,Nanded,2,184518.0,True,2.2
+Java,Osmanabad,6,64372.166666666664,True,11.9
+Java,Parbhani,4,106995.25,True,6.1
+Java,Pune,2,75531.0,True,2.8
+Java,Raigad,7,134770.7142857143,True,17.1
+Java,Sangli,3,344097.3333333333,True,6.2
+Java,Satara,7,83146.14285714286,True,15.0
+Java,Solapur,7,95212.0,True,14.3
+Java,Yavatmal,3,88044.33333333333,True,4.8
+JavaScript,Ahmednagar,11,153315.54545454544,True,23.3
+JavaScript,Akola,6,147642.5,True,10.6
+JavaScript,Amravati,15,134880.26666666666,True,45.2
+JavaScript,Aurangabad,6,144549.83333333334,True,12.8
+JavaScript,Beed,7,102832.42857142857,True,17.1
+JavaScript,Bhiwandi,12,160598.0,True,30.6
+JavaScript,Chandrapur,5,135573.2,True,9.5
+JavaScript,Dhule,10,112781.3,True,27.3
+JavaScript,Jalgaon,7,123291.85714285714,True,15.8
+JavaScript,Jalna,4,268426.0,True,6.5
+JavaScript,Kolhapur,9,97879.11111111111,True,20.0
+JavaScript,Latur,3,209519.0,True,5.1
+JavaScript,Mumbai,13,101681.07692307692,True,40.7
+JavaScript,Nagpur,9,182810.11111111112,True,17.4
+JavaScript,Nanded,7,109839.85714285714,True,13.3
+JavaScript,Nashik,8,127194.75,True,18.4
+JavaScript,Osmanabad,9,143734.22222222222,True,19.0
+JavaScript,Parbhani,5,139549.4,True,8.2
+JavaScript,Pune,7,100715.14285714286,True,16.7
+JavaScript,Raigad,9,179530.22222222222,True,22.9
+JavaScript,Sangli,10,209985.5,True,28.1
+JavaScript,Satara,14,112329.07142857143,True,32.5
+JavaScript,Solapur,8,90914.625,True,16.7
+JavaScript,Yavatmal,8,83663.25,True,16.7
+Jenkins,Ahmednagar,3,42978.666666666664,False,4.7
+Jenkins,Akola,3,123184.0,False,4.3
+Jenkins,Amravati,3,31807.0,False,6.5
+Jenkins,Aurangabad,3,154617.0,False,5.1
+Jenkins,Beed,1,120143.0,False,0.0
+Jenkins,Bhiwandi,3,166104.0,False,5.6
+Jenkins,Chandrapur,2,182458.0,False,2.4
+Jenkins,Dhule,2,62637.0,False,3.0
+Jenkins,Jalgaon,4,84280.75,False,7.9
+Jenkins,Jalna,3,189652.0,False,4.3
+Jenkins,Kolhapur,6,202580.33333333334,False,12.5
+Jenkins,Mumbai,4,118566.25,False,7.4
+Jenkins,Nagpur,3,59498.0,False,4.3
+Jenkins,Nanded,6,262769.8333333333,False,11.1
+Jenkins,Nashik,2,58537.5,False,2.6
+Jenkins,Osmanabad,4,85393.0,False,7.1
+Jenkins,Parbhani,7,161259.7142857143,False,12.2
+Jenkins,Pune,1,20132.0,False,0.0
+Jenkins,Raigad,5,68152.0,False,11.4
+Jenkins,Sangli,5,200811.8,False,12.5
+Jenkins,Satara,3,108223.0,False,5.0
+Jenkins,Solapur,3,75154.0,False,4.8
+Jenkins,Yavatmal,6,120570.83333333333,False,11.9
+Kubernetes,Ahmednagar,5,204550.4,True,9.3
+Kubernetes,Akola,8,203151.875,True,14.9
+Kubernetes,Amravati,9,128096.11111111111,True,25.8
+Kubernetes,Aurangabad,4,277032.25,True,7.7
+Kubernetes,Beed,7,141851.7142857143,True,17.1
+Kubernetes,Bhiwandi,9,180356.55555555556,True,22.2
+Kubernetes,Chandrapur,3,238780.33333333334,True,4.8
+Kubernetes,Dhule,4,123534.75,True,9.1
+Kubernetes,Jalgaon,9,62985.11111111111,True,21.1
+Kubernetes,Jalna,13,130942.84615384616,True,26.1
+Kubernetes,Kolhapur,8,119854.75,True,17.5
+Kubernetes,Latur,3,293697.0,True,5.1
+Kubernetes,Mumbai,13,147941.76923076922,True,40.7
+Kubernetes,Nagpur,9,210546.22222222222,True,17.4
+Kubernetes,Nanded,4,253080.0,True,6.7
+Kubernetes,Nashik,11,64417.36363636364,True,26.3
+Kubernetes,Osmanabad,4,188281.0,True,7.1
+Kubernetes,Parbhani,9,192176.33333333334,True,16.3
+Kubernetes,Pune,5,121878.6,True,11.1
+Kubernetes,Raigad,13,106599.84615384616,True,34.3
+Kubernetes,Sangli,6,149612.16666666666,True,15.6
+Kubernetes,Satara,7,117809.0,True,15.0
+Kubernetes,Solapur,15,91523.2,True,33.3
+Kubernetes,Yavatmal,7,77501.85714285714,True,14.3
+LMS,Ahmednagar,10,147383.1,False,20.9
+LMS,Akola,8,126555.0,False,14.9
+LMS,Amravati,4,262812.0,False,9.7
+LMS,Aurangabad,5,117264.2,False,10.3
+LMS,Beed,7,281122.85714285716,False,17.1
+LMS,Bhiwandi,12,115798.25,False,30.6
+LMS,Chandrapur,9,152483.0,False,19.0
+LMS,Dhule,7,202735.42857142858,False,18.2
+LMS,Jalgaon,4,219658.75,False,7.9
+LMS,Jalna,6,84504.33333333333,False,10.9
+LMS,Kolhapur,2,40811.0,False,2.5
+LMS,Latur,5,80470.2,False,10.3
+LMS,Mumbai,4,140198.75,False,7.4
+LMS,Nagpur,3,23735.333333333332,False,4.3
+LMS,Nanded,7,96592.0,False,13.3
+LMS,Nashik,7,144922.7142857143,False,15.8
+LMS,Osmanabad,1,342639.0,False,0.0
+LMS,Parbhani,7,211435.14285714287,False,12.2
+LMS,Pune,3,97567.66666666667,False,5.6
+LMS,Raigad,2,75489.5,False,2.9
+LMS,Sangli,2,73071.5,False,3.1
+LMS,Satara,6,129528.0,False,12.5
+LMS,Solapur,5,103007.0,False,9.5
+LMS,Yavatmal,7,139785.14285714287,False,14.3
+Lab Testing,Ahmednagar,5,151345.4,False,9.3
+Lab Testing,Akola,10,151804.2,False,19.1
+Lab Testing,Amravati,5,195677.4,False,12.9
+Lab Testing,Aurangabad,3,107737.0,False,5.1
+Lab Testing,Beed,3,146445.33333333334,False,5.7
+Lab Testing,Bhiwandi,3,64579.666666666664,False,5.6
+Lab Testing,Chandrapur,5,174213.8,False,9.5
+Lab Testing,Dhule,3,97679.66666666667,False,6.1
+Lab Testing,Jalgaon,5,106866.6,False,10.5
+Lab Testing,Jalna,6,102713.66666666667,False,10.9
+Lab Testing,Kolhapur,5,145464.6,False,10.0
+Lab Testing,Latur,6,266341.6666666667,False,12.8
+Lab Testing,Mumbai,9,104844.88888888889,False,25.9
+Lab Testing,Nagpur,6,51785.666666666664,False,10.9
+Lab Testing,Nanded,7,120681.85714285714,False,13.3
+Lab Testing,Nashik,6,211610.66666666666,False,13.2
+Lab Testing,Osmanabad,6,43876.833333333336,False,11.9
+Lab Testing,Parbhani,9,200227.55555555556,False,16.3
+Lab Testing,Pune,6,111165.66666666667,False,13.9
+Lab Testing,Raigad,4,157234.75,False,8.6
+Lab Testing,Sangli,4,88980.0,False,9.4
+Lab Testing,Satara,5,75013.4,False,10.0
+Lab Testing,Solapur,4,203113.25,False,7.1
+Lab Testing,Yavatmal,3,122532.0,False,4.8
+Lead Generation,Ahmednagar,5,49532.6,True,9.3
+Lead Generation,Akola,6,112918.16666666667,True,10.6
+Lead Generation,Amravati,3,171941.66666666666,True,6.5
+Lead Generation,Aurangabad,6,100602.0,True,12.8
+Lead Generation,Beed,4,67627.25,True,8.6
+Lead Generation,Bhiwandi,5,153535.2,True,11.1
+Lead Generation,Chandrapur,5,140012.8,True,9.5
+Lead Generation,Dhule,3,94396.33333333333,True,6.1
+Lead Generation,Jalgaon,5,124345.4,True,10.5
+Lead Generation,Jalna,4,157410.0,True,6.5
+Lead Generation,Kolhapur,5,147771.2,True,10.0
+Lead Generation,Latur,4,97940.5,True,7.7
+Lead Generation,Mumbai,2,199528.0,True,0.0
+Lead Generation,Nagpur,3,109019.33333333333,True,4.3
+Lead Generation,Nanded,1,115056.0,True,0.0
+Lead Generation,Nashik,4,152099.5,True,7.9
+Lead Generation,Osmanabad,7,97770.0,True,14.3
+Lead Generation,Parbhani,5,156383.0,True,8.2
+Lead Generation,Pune,5,89740.6,True,11.1
+Lead Generation,Raigad,5,76858.8,True,11.4
+Lead Generation,Sangli,2,256575.5,True,3.1
+Lead Generation,Satara,4,84878.0,True,7.5
+Lead Generation,Solapur,8,81853.25,True,16.7
+Lead Generation,Yavatmal,6,151750.83333333334,True,11.9
+Lesson Planning,Ahmednagar,6,98602.5,False,11.6
+Lesson Planning,Akola,4,87142.25,False,6.4
+Lesson Planning,Amravati,4,97171.0,False,9.7
+Lesson Planning,Aurangabad,8,246950.25,False,17.9
+Lesson Planning,Beed,6,134928.33333333334,False,14.3
+Lesson Planning,Bhiwandi,4,142050.5,False,8.3
+Lesson Planning,Chandrapur,3,94185.33333333333,False,4.8
+Lesson Planning,Dhule,2,111544.0,False,3.0
+Lesson Planning,Jalgaon,8,124790.75,False,18.4
+Lesson Planning,Jalna,7,171044.14285714287,False,13.0
+Lesson Planning,Kolhapur,4,192746.5,False,7.5
+Lesson Planning,Latur,8,147285.25,False,17.9
+Lesson Planning,Mumbai,2,211071.5,False,0.0
+Lesson Planning,Nagpur,7,205209.7142857143,False,13.0
+Lesson Planning,Nanded,7,201474.7142857143,False,13.3
+Lesson Planning,Nashik,7,106380.71428571429,False,15.8
+Lesson Planning,Osmanabad,1,40848.0,False,0.0
+Lesson Planning,Parbhani,4,46401.5,False,6.1
+Lesson Planning,Pune,2,160277.0,False,2.8
+Lesson Planning,Raigad,5,132700.4,False,11.4
+Lesson Planning,Sangli,9,134564.11111111112,False,25.0
+Lesson Planning,Satara,7,156684.2857142857,False,15.0
+Lesson Planning,Solapur,5,168396.6,False,9.5
+Lesson Planning,Yavatmal,7,89867.57142857143,False,14.3
+Linux,Ahmednagar,5,151668.8,True,9.3
+Linux,Akola,6,125837.83333333333,True,10.6
+Linux,Amravati,11,125351.45454545454,True,32.3
+Linux,Aurangabad,8,183757.0,True,17.9
+Linux,Beed,9,130353.22222222222,True,22.9
+Linux,Bhiwandi,6,264223.5,True,13.9
+Linux,Chandrapur,4,135500.75,True,7.1
+Linux,Dhule,6,147324.83333333334,True,15.2
+Linux,Jalgaon,9,59797.0,True,21.1
+Linux,Jalna,11,122292.72727272728,True,21.7
+Linux,Kolhapur,11,108950.36363636363,True,25.0
+Linux,Latur,3,293428.3333333333,True,5.1
+Linux,Mumbai,8,114994.25,True,22.2
+Linux,Nagpur,8,201918.0,True,15.2
+Linux,Nanded,4,381940.5,True,6.7
+Linux,Nashik,12,97613.75,True,28.9
+Linux,Osmanabad,5,126044.6,True,9.5
+Linux,Parbhani,14,165124.2857142857,True,26.5
+Linux,Pune,5,48610.2,True,11.1
+Linux,Raigad,12,93443.33333333333,True,31.4
+Linux,Sangli,6,175415.83333333334,True,15.6
+Linux,Satara,4,116748.25,True,7.5
+Linux,Solapur,11,111132.0,True,23.8
+Linux,Yavatmal,6,50253.0,True,11.9
+Logistics,Ahmednagar,14,166829.7857142857,False,30.2
+Logistics,Akola,7,164561.7142857143,False,12.8
+Logistics,Amravati,13,172995.15384615384,False,38.7
+Logistics,Aurangabad,10,55799.7,False,23.1
+Logistics,Beed,9,116588.88888888889,False,22.9
+Logistics,Bhiwandi,15,85542.46666666666,False,38.9
+Logistics,Chandrapur,3,126070.0,False,4.8
+Logistics,Dhule,12,102827.16666666667,False,33.3
+Logistics,Jalgaon,11,136972.0,False,26.3
+Logistics,Jalna,10,62247.7,False,19.6
+Logistics,Kolhapur,12,161100.25,False,27.5
+Logistics,Latur,15,135607.13333333333,False,35.9
+Logistics,Mumbai,11,187825.81818181818,False,33.3
+Logistics,Nagpur,8,223196.125,False,15.2
+Logistics,Nanded,9,143770.77777777778,False,17.8
+Logistics,Nashik,10,107384.5,False,23.7
+Logistics,Osmanabad,14,207747.42857142858,False,31.0
+Logistics,Parbhani,9,233671.22222222222,False,16.3
+Logistics,Pune,13,107816.23076923077,False,33.3
+Logistics,Raigad,8,163205.5,False,20.0
+Logistics,Sangli,14,148634.35714285713,False,40.6
+Logistics,Satara,10,172021.8,False,22.5
+Logistics,Solapur,14,138885.7142857143,False,31.0
+Logistics,Yavatmal,8,286880.375,False,16.7
+MIG Welding,Ahmednagar,6,90965.83333333333,False,11.6
+MIG Welding,Akola,2,192677.5,False,2.1
+MIG Welding,Amravati,7,109943.14285714286,False,19.4
+MIG Welding,Aurangabad,8,159968.0,False,17.9
+MIG Welding,Beed,3,40300.0,False,5.7
+MIG Welding,Bhiwandi,7,143973.85714285713,False,16.7
+MIG Welding,Chandrapur,5,105351.2,False,9.5
+MIG Welding,Dhule,7,105328.0,False,18.2
+MIG Welding,Jalgaon,6,236133.33333333334,False,13.2
+MIG Welding,Jalna,6,108424.33333333333,False,10.9
+MIG Welding,Kolhapur,6,234247.5,False,12.5
+MIG Welding,Latur,8,148808.125,False,17.9
+MIG Welding,Mumbai,2,31427.5,False,0.0
+MIG Welding,Nagpur,9,296895.8888888889,False,17.4
+MIG Welding,Nanded,4,44476.0,False,6.7
+MIG Welding,Nashik,10,191393.5,False,23.7
+MIG Welding,Osmanabad,6,67579.16666666667,False,11.9
+MIG Welding,Parbhani,6,217265.16666666666,False,10.2
+MIG Welding,Pune,9,203232.77777777778,False,22.2
+MIG Welding,Raigad,6,141379.83333333334,False,14.3
+MIG Welding,Sangli,2,41478.5,False,3.1
+MIG Welding,Satara,5,357524.0,False,10.0
+MIG Welding,Solapur,8,103223.375,False,16.7
+MIG Welding,Yavatmal,3,119991.33333333333,False,4.8
+MS Office,Ahmednagar,4,115535.0,False,7.0
+MS Office,Akola,7,118410.71428571429,False,12.8
+MS Office,Amravati,3,183857.0,False,6.5
+MS Office,Aurangabad,3,63538.666666666664,False,5.1
+MS Office,Beed,4,240514.75,False,8.6
+MS Office,Bhiwandi,4,103521.25,False,8.3
+MS Office,Chandrapur,11,155950.0909090909,False,23.8
+MS Office,Dhule,6,34542.5,False,15.2
+MS Office,Jalgaon,4,107635.5,False,7.9
+MS Office,Jalna,9,125112.55555555556,False,17.4
+MS Office,Kolhapur,2,30668.0,False,2.5
+MS Office,Latur,7,159096.0,False,15.4
+MS Office,Mumbai,4,80715.0,False,7.4
+MS Office,Nagpur,6,106985.66666666667,False,10.9
+MS Office,Nanded,4,196606.75,False,6.7
+MS Office,Nashik,1,33582.0,False,0.0
+MS Office,Osmanabad,8,165693.75,False,16.7
+MS Office,Parbhani,6,136082.16666666666,False,10.2
+MS Office,Pune,5,57995.0,False,11.1
+MS Office,Raigad,4,126112.25,False,8.6
+MS Office,Sangli,4,45240.0,False,9.4
+MS Office,Satara,4,136459.25,False,7.5
+MS Office,Solapur,5,176956.2,False,9.5
+MS Office,Yavatmal,4,113097.25,False,7.1
+Machine Maintenance,Ahmednagar,6,79857.66666666667,False,11.6
+Machine Maintenance,Akola,4,193554.75,False,6.4
+Machine Maintenance,Amravati,10,119722.1,False,29.0
+Machine Maintenance,Aurangabad,4,46499.0,False,7.7
+Machine Maintenance,Beed,11,142339.63636363635,False,28.6
+Machine Maintenance,Bhiwandi,3,169436.0,False,5.6
+Machine Maintenance,Chandrapur,7,136928.85714285713,False,14.3
+Machine Maintenance,Dhule,4,121040.5,False,9.1
+Machine Maintenance,Jalgaon,3,38534.0,False,5.3
+Machine Maintenance,Jalna,2,44234.0,False,2.2
+Machine Maintenance,Kolhapur,6,185562.66666666666,False,12.5
+Machine Maintenance,Latur,7,146520.7142857143,False,15.4
+Machine Maintenance,Mumbai,3,183137.0,False,3.7
+Machine Maintenance,Nagpur,8,71096.25,False,15.2
+Machine Maintenance,Nanded,1,26700.0,False,0.0
+Machine Maintenance,Nashik,5,133318.0,False,10.5
+Machine Maintenance,Osmanabad,4,81093.5,False,7.1
+Machine Maintenance,Parbhani,7,87106.57142857143,False,12.2
+Machine Maintenance,Pune,4,140863.5,False,8.3
+Machine Maintenance,Raigad,6,80624.0,False,14.3
+Machine Maintenance,Sangli,3,167923.0,False,6.2
+Machine Maintenance,Satara,6,110033.66666666667,False,12.5
+Machine Maintenance,Solapur,7,216705.2857142857,False,14.3
+Machine Maintenance,Yavatmal,8,126484.25,False,16.7
+Maintenance,Ahmednagar,5,219712.2,False,9.3
+Maintenance,Akola,5,54597.0,False,8.5
+Maintenance,Amravati,2,159593.5,False,3.2
+Maintenance,Aurangabad,11,170288.9090909091,False,25.6
+Maintenance,Beed,6,85276.16666666667,False,14.3
+Maintenance,Bhiwandi,6,110917.0,False,13.9
+Maintenance,Chandrapur,3,163103.0,False,4.8
+Maintenance,Dhule,6,226271.5,False,15.2
+Maintenance,Jalgaon,2,240003.0,False,2.6
+Maintenance,Jalna,4,252765.25,False,6.5
+Maintenance,Kolhapur,8,161649.625,False,17.5
+Maintenance,Latur,4,61841.75,False,7.7
+Maintenance,Mumbai,5,194122.6,False,11.1
+Maintenance,Nagpur,7,87337.0,False,13.0
+Maintenance,Nanded,7,153572.2857142857,False,13.3
+Maintenance,Nashik,6,86702.83333333333,False,13.2
+Maintenance,Osmanabad,5,181926.2,False,9.5
+Maintenance,Parbhani,4,32903.0,False,6.1
+Maintenance,Pune,8,136065.5,False,19.4
+Maintenance,Raigad,3,206327.33333333334,False,5.7
+Maintenance,Sangli,8,129076.625,False,21.9
+Maintenance,Satara,2,139405.5,False,2.5
+Maintenance,Solapur,5,221509.0,False,9.5
+Maintenance,Yavatmal,7,121874.28571428571,False,14.3
+Manual Testing,Ahmednagar,4,164754.0,False,7.0
+Manual Testing,Akola,6,178670.0,False,10.6
+Manual Testing,Amravati,1,23057.0,False,0.0
+Manual Testing,Aurangabad,8,95079.375,False,17.9
+Manual Testing,Beed,3,235767.33333333334,False,5.7
+Manual Testing,Bhiwandi,2,234918.5,False,2.8
+Manual Testing,Chandrapur,4,93344.75,False,7.1
+Manual Testing,Dhule,6,194218.33333333334,False,15.2
+Manual Testing,Jalgaon,9,113265.33333333333,False,21.1
+Manual Testing,Jalna,6,125061.16666666667,False,10.9
+Manual Testing,Kolhapur,5,162794.2,False,10.0
+Manual Testing,Latur,1,344727.0,False,0.0
+Manual Testing,Mumbai,6,150823.5,False,14.8
+Manual Testing,Nagpur,3,83822.33333333333,False,4.3
+Manual Testing,Nanded,7,168096.42857142858,False,13.3
+Manual Testing,Nashik,4,86365.25,False,7.9
+Manual Testing,Osmanabad,3,190432.0,False,4.8
+Manual Testing,Parbhani,5,77246.4,False,8.2
+Manual Testing,Pune,2,35085.0,False,2.8
+Manual Testing,Raigad,1,33805.0,False,0.0
+Manual Testing,Sangli,6,179982.16666666666,False,15.6
+Manual Testing,Satara,7,86367.28571428571,False,15.0
+Manual Testing,Solapur,3,247156.0,False,4.8
+Manual Testing,Yavatmal,9,78370.66666666667,False,19.0
+Mechanical Fitting,Ahmednagar,5,189510.0,False,9.3
+Mechanical Fitting,Akola,2,62669.0,False,2.1
+Mechanical Fitting,Amravati,5,162087.6,False,12.9
+Mechanical Fitting,Aurangabad,10,139667.2,False,23.1
+Mechanical Fitting,Beed,6,106583.83333333333,False,14.3
+Mechanical Fitting,Bhiwandi,8,143121.625,False,19.4
+Mechanical Fitting,Chandrapur,3,137340.33333333334,False,4.8
+Mechanical Fitting,Dhule,6,226271.5,False,15.2
+Mechanical Fitting,Jalgaon,5,122558.6,False,10.5
+Mechanical Fitting,Jalna,4,161915.5,False,6.5
+Mechanical Fitting,Kolhapur,9,169915.66666666666,False,20.0
+Mechanical Fitting,Latur,3,75087.33333333333,False,5.1
+Mechanical Fitting,Mumbai,4,176971.0,False,7.4
+Mechanical Fitting,Nagpur,8,101183.625,False,15.2
+Mechanical Fitting,Nanded,4,166554.0,False,6.7
+Mechanical Fitting,Nashik,8,86360.625,False,18.4
+Mechanical Fitting,Osmanabad,4,139047.25,False,7.1
+Mechanical Fitting,Parbhani,6,68744.5,False,10.2
+Mechanical Fitting,Pune,6,112376.0,False,13.9
+Mechanical Fitting,Raigad,3,245644.66666666666,False,5.7
+Mechanical Fitting,Sangli,6,168757.5,False,15.6
+Mechanical Fitting,Satara,3,215916.66666666666,False,5.0
+Mechanical Fitting,Solapur,4,233337.0,False,7.1
+Mechanical Fitting,Yavatmal,6,169775.83333333334,False,11.9
+Mechanical Systems,Ahmednagar,5,85017.2,False,9.3
+Mechanical Systems,Akola,7,160336.57142857142,False,12.8
+Mechanical Systems,Amravati,3,182194.0,False,6.5
+Mechanical Systems,Aurangabad,12,147216.75,False,28.2
+Mechanical Systems,Beed,7,152601.0,False,17.1
+Mechanical Systems,Bhiwandi,6,105446.83333333333,False,13.9
+Mechanical Systems,Chandrapur,7,82064.71428571429,False,14.3
+Mechanical Systems,Dhule,5,92196.2,False,12.1
+Mechanical Systems,Jalgaon,5,167888.0,False,10.5
+Mechanical Systems,Jalna,1,35795.0,False,0.0
+Mechanical Systems,Kolhapur,7,104229.57142857143,False,15.0
+Mechanical Systems,Latur,11,223159.81818181818,False,25.6
+Mechanical Systems,Mumbai,7,120882.42857142857,False,18.5
+Mechanical Systems,Nagpur,5,165760.6,False,8.7
+Mechanical Systems,Nanded,3,183510.33333333334,False,4.4
+Mechanical Systems,Nashik,6,103075.33333333333,False,13.2
+Mechanical Systems,Osmanabad,7,116341.14285714286,False,14.3
+Mechanical Systems,Parbhani,7,124983.71428571429,False,12.2
+Mechanical Systems,Pune,3,62049.0,False,5.6
+Mechanical Systems,Raigad,5,125498.6,False,11.4
+Mechanical Systems,Sangli,12,156437.16666666666,False,34.4
+Mechanical Systems,Satara,4,97072.5,False,7.5
+Mechanical Systems,Solapur,5,262652.2,False,9.5
+Mechanical Systems,Yavatmal,6,89592.0,False,11.9
+Medical Procedures,Ahmednagar,4,122036.0,False,7.0
+Medical Procedures,Akola,4,88704.75,False,6.4
+Medical Procedures,Amravati,5,149355.6,False,12.9
+Medical Procedures,Aurangabad,6,108725.66666666667,False,12.8
+Medical Procedures,Beed,4,81980.25,False,8.6
+Medical Procedures,Bhiwandi,6,166969.66666666666,False,13.9
+Medical Procedures,Chandrapur,6,176508.0,False,11.9
+Medical Procedures,Dhule,6,107566.66666666667,False,15.2
+Medical Procedures,Jalgaon,4,107416.0,False,7.9
+Medical Procedures,Jalna,1,17540.0,False,0.0
+Medical Procedures,Kolhapur,4,148422.5,False,7.5
+Medical Procedures,Latur,2,47639.0,False,2.6
+Medical Procedures,Mumbai,5,194693.8,False,11.1
+Medical Procedures,Nagpur,9,178920.66666666666,False,17.4
+Medical Procedures,Nanded,4,187304.25,False,6.7
+Medical Procedures,Nashik,5,120971.0,False,10.5
+Medical Procedures,Osmanabad,6,105188.33333333333,False,11.9
+Medical Procedures,Parbhani,10,149511.0,False,18.4
+Medical Procedures,Pune,4,112583.5,False,8.3
+Medical Procedures,Raigad,5,42677.2,False,11.4
+Medical Procedures,Sangli,7,129188.14285714286,False,18.7
+Medical Procedures,Satara,11,154874.18181818182,False,25.0
+Medical Procedures,Solapur,4,170481.25,False,7.1
+Medical Procedures,Yavatmal,8,136815.5,False,16.7
+Medication Administration,Ahmednagar,6,111035.33333333333,False,11.6
+Medication Administration,Akola,6,105057.5,False,10.6
+Medication Administration,Amravati,4,157995.75,False,9.7
+Medication Administration,Aurangabad,7,101324.14285714286,False,15.4
+Medication Administration,Beed,4,113993.5,False,8.6
+Medication Administration,Bhiwandi,3,307002.3333333333,False,5.6
+Medication Administration,Chandrapur,4,137877.0,False,7.1
+Medication Administration,Dhule,5,77154.8,False,12.1
+Medication Administration,Jalgaon,4,168884.25,False,7.9
+Medication Administration,Jalna,1,17540.0,False,0.0
+Medication Administration,Kolhapur,4,148422.5,False,7.5
+Medication Administration,Latur,2,47639.0,False,2.6
+Medication Administration,Mumbai,5,221906.0,False,11.1
+Medication Administration,Nagpur,7,88837.71428571429,False,13.0
+Medication Administration,Nanded,4,187304.25,False,6.7
+Medication Administration,Nashik,3,35246.0,False,5.3
+Medication Administration,Osmanabad,4,44817.0,False,7.1
+Medication Administration,Parbhani,8,142422.75,False,14.3
+Medication Administration,Pune,6,94796.16666666667,False,13.9
+Medication Administration,Raigad,6,50312.5,False,14.3
+Medication Administration,Sangli,8,119565.875,False,21.9
+Medication Administration,Satara,10,122622.3,False,22.5
+Medication Administration,Solapur,4,86259.0,False,7.1
+Medication Administration,Yavatmal,8,139421.125,False,16.7
+Medication Dispensing,Ahmednagar,6,124574.5,False,11.6
+Medication Dispensing,Akola,6,147889.83333333334,False,10.6
+Medication Dispensing,Amravati,3,237806.0,False,6.5
+Medication Dispensing,Aurangabad,9,108254.11111111111,False,20.5
+Medication Dispensing,Beed,3,130425.66666666667,False,5.7
+Medication Dispensing,Bhiwandi,2,31109.0,False,2.8
+Medication Dispensing,Chandrapur,7,157381.0,False,14.3
+Medication Dispensing,Dhule,7,74208.71428571429,False,18.2
+Medication Dispensing,Jalgaon,9,102182.44444444444,False,21.1
+Medication Dispensing,Jalna,8,70145.75,False,15.2
+Medication Dispensing,Kolhapur,5,207082.6,False,10.0
+Medication Dispensing,Latur,5,179544.4,False,10.3
+Medication Dispensing,Mumbai,4,76027.0,False,7.4
+Medication Dispensing,Nagpur,3,319528.0,False,4.3
+Medication Dispensing,Nanded,4,126551.5,False,6.7
+Medication Dispensing,Nashik,7,109917.28571428571,False,15.8
+Medication Dispensing,Osmanabad,5,141958.0,False,9.5
+Medication Dispensing,Parbhani,8,160572.0,False,14.3
+Medication Dispensing,Pune,7,117705.71428571429,False,16.7
+Medication Dispensing,Raigad,8,107128.375,False,20.0
+Medication Dispensing,Sangli,5,61199.6,False,12.5
+Medication Dispensing,Satara,3,29661.0,False,5.0
+Medication Dispensing,Solapur,5,145814.6,False,9.5
+Medication Dispensing,Yavatmal,6,72916.5,False,11.9
+Microservices,Ahmednagar,3,98690.66666666667,False,4.7
+Microservices,Akola,3,201405.66666666666,False,4.3
+Microservices,Amravati,7,196471.42857142858,False,19.4
+Microservices,Aurangabad,2,130700.5,False,2.6
+Microservices,Beed,5,66002.4,False,11.4
+Microservices,Bhiwandi,3,95239.33333333333,False,5.6
+Microservices,Chandrapur,2,115251.5,False,2.4
+Microservices,Dhule,3,265652.0,False,6.1
+Microservices,Jalgaon,3,46296.666666666664,False,5.3
+Microservices,Jalna,1,52189.0,False,0.0
+Microservices,Kolhapur,4,228279.5,False,7.5
+Microservices,Latur,4,97103.25,False,7.7
+Microservices,Mumbai,4,55222.75,False,7.4
+Microservices,Nagpur,5,118687.2,False,8.7
+Microservices,Nanded,4,137979.25,False,6.7
+Microservices,Nashik,2,217229.5,False,2.6
+Microservices,Osmanabad,3,114802.66666666667,False,4.8
+Microservices,Parbhani,3,160095.0,False,4.1
+Microservices,Pune,3,37826.666666666664,False,5.6
+Microservices,Raigad,4,66018.5,False,8.6
+Microservices,Sangli,5,320913.2,False,12.5
+Microservices,Satara,7,172818.42857142858,False,15.0
+Microservices,Solapur,5,134485.8,False,9.5
+Microservices,Yavatmal,3,156334.66666666666,False,4.8
+MongoDB,Ahmednagar,4,233610.75,True,7.0
+MongoDB,Akola,5,121348.6,True,8.5
+MongoDB,Amravati,5,132957.8,True,12.9
+MongoDB,Aurangabad,4,115228.75,True,7.7
+MongoDB,Beed,5,114526.6,True,11.4
+MongoDB,Bhiwandi,6,161328.16666666666,True,13.9
+MongoDB,Chandrapur,3,115604.66666666667,True,4.8
+MongoDB,Dhule,7,166813.57142857142,True,18.2
+MongoDB,Jalgaon,6,170099.33333333334,True,13.2
+MongoDB,Jalna,2,453612.5,True,2.2
+MongoDB,Kolhapur,2,290102.0,True,2.5
+MongoDB,Latur,2,148352.0,True,2.6
+MongoDB,Mumbai,8,121788.625,True,22.2
+MongoDB,Nagpur,4,219300.5,True,6.5
+MongoDB,Nanded,5,222767.2,True,8.9
+MongoDB,Nashik,4,189743.0,True,7.9
+MongoDB,Osmanabad,3,117363.0,True,4.8
+MongoDB,Parbhani,6,103466.16666666667,True,10.2
+MongoDB,Pune,3,276313.3333333333,True,5.6
+MongoDB,Raigad,6,163007.5,True,14.3
+MongoDB,Sangli,4,178018.25,True,9.4
+MongoDB,Satara,8,107656.0,True,17.5
+MongoDB,Solapur,4,54863.5,True,7.1
+MongoDB,Yavatmal,5,70718.8,True,9.5
+NLP,Ahmednagar,1,32027.0,True,0.0
+NLP,Akola,2,289987.0,True,2.1
+NLP,Amravati,1,489095.0,True,0.0
+NLP,Aurangabad,6,164052.5,True,12.8
+NLP,Beed,8,142672.25,True,20.0
+NLP,Bhiwandi,4,88778.0,True,8.3
+NLP,Chandrapur,11,187816.54545454544,True,23.8
+NLP,Dhule,5,149448.0,True,12.1
+NLP,Jalgaon,1,358411.0,True,0.0
+NLP,Jalna,6,71604.16666666667,True,10.9
+NLP,Kolhapur,3,116995.0,True,5.0
+NLP,Latur,8,60465.75,True,17.9
+NLP,Mumbai,10,119435.1,True,29.6
+NLP,Nagpur,4,56865.0,True,6.5
+NLP,Nanded,5,154254.8,True,8.9
+NLP,Nashik,5,203427.4,True,10.5
+NLP,Osmanabad,4,78945.5,True,7.1
+NLP,Parbhani,2,115514.0,True,2.0
+NLP,Pune,7,179547.7142857143,True,16.7
+NLP,Raigad,5,160106.8,True,11.4
+NLP,Sangli,5,96446.4,True,12.5
+NLP,Satara,6,119342.0,True,12.5
+NLP,Solapur,7,100929.0,True,14.3
+NLP,Yavatmal,4,85604.25,True,7.1
+Negotiation,Ahmednagar,5,40844.8,True,9.3
+Negotiation,Akola,4,38588.75,True,6.4
+Negotiation,Amravati,4,234199.0,True,9.7
+Negotiation,Aurangabad,7,99378.0,True,15.4
+Negotiation,Beed,5,80880.8,True,11.4
+Negotiation,Bhiwandi,6,167225.66666666666,True,13.9
+Negotiation,Chandrapur,5,104205.6,True,9.5
+Negotiation,Dhule,5,75559.4,True,12.1
+Negotiation,Jalgaon,8,141502.0,True,18.4
+Negotiation,Jalna,3,229439.0,True,4.3
+Negotiation,Kolhapur,5,149190.0,True,10.0
+Negotiation,Latur,3,118815.33333333333,True,5.1
+Negotiation,Mumbai,2,199528.0,True,0.0
+Negotiation,Nagpur,5,187895.4,True,8.7
+Negotiation,Nanded,1,115056.0,True,0.0
+Negotiation,Nashik,5,195515.2,True,10.5
+Negotiation,Osmanabad,10,87375.4,True,21.4
+Negotiation,Parbhani,6,123574.16666666667,True,10.2
+Negotiation,Pune,5,53588.0,True,11.1
+Negotiation,Raigad,4,63920.0,True,8.6
+Negotiation,Sangli,3,252361.0,True,6.2
+Negotiation,Satara,5,74343.2,True,10.0
+Negotiation,Solapur,9,99009.11111111111,True,19.0
+Negotiation,Yavatmal,8,126750.875,True,16.7
+Network Security,Ahmednagar,8,128883.625,True,16.3
+Network Security,Akola,4,85028.0,True,6.4
+Network Security,Amravati,4,113854.25,True,9.7
+Network Security,Aurangabad,9,177115.88888888888,True,20.5
+Network Security,Beed,8,64130.25,True,20.0
+Network Security,Bhiwandi,9,121533.77777777778,True,22.2
+Network Security,Chandrapur,7,138478.42857142858,True,14.3
+Network Security,Dhule,1,204272.0,True,0.0
+Network Security,Jalgaon,3,182080.66666666666,True,5.3
+Network Security,Jalna,7,132401.7142857143,True,13.0
+Network Security,Kolhapur,2,182181.0,True,2.5
+Network Security,Latur,3,90036.0,True,5.1
+Network Security,Mumbai,3,201908.66666666666,True,3.7
+Network Security,Nagpur,4,174072.25,True,6.5
+Network Security,Nanded,4,139503.5,True,6.7
+Network Security,Nashik,8,214820.125,True,18.4
+Network Security,Osmanabad,8,83099.625,True,16.7
+Network Security,Parbhani,5,157751.2,True,8.2
+Network Security,Pune,7,206339.57142857142,True,16.7
+Network Security,Raigad,5,120778.6,True,11.4
+Network Security,Sangli,9,119988.22222222222,True,25.0
+Network Security,Satara,4,55666.75,True,7.5
+Network Security,Solapur,2,85447.5,True,2.4
+Network Security,Yavatmal,3,111500.33333333333,True,4.8
+Networking,Ahmednagar,2,262564.5,False,2.3
+Networking,Akola,3,200793.33333333334,False,4.3
+Networking,Amravati,3,225134.0,False,6.5
+Networking,Aurangabad,3,60420.0,False,5.1
+Networking,Beed,7,184220.14285714287,False,17.1
+Networking,Bhiwandi,5,194059.6,False,11.1
+Networking,Chandrapur,2,48643.5,False,2.4
+Networking,Dhule,2,211144.0,False,3.0
+Networking,Jalgaon,4,51362.0,False,7.9
+Networking,Jalna,5,112204.6,False,8.7
+Networking,Kolhapur,4,143133.25,False,7.5
+Networking,Latur,4,198034.25,False,7.7
+Networking,Mumbai,4,76887.75,False,7.4
+Networking,Nagpur,4,143932.5,False,6.5
+Networking,Nashik,8,96657.375,False,18.4
+Networking,Osmanabad,3,240416.33333333334,False,4.8
+Networking,Parbhani,3,150697.33333333334,False,4.1
+Networking,Pune,2,46978.5,False,2.8
+Networking,Raigad,8,103377.5,False,20.0
+Networking,Sangli,2,157992.0,False,3.1
+Networking,Satara,2,87411.5,False,2.5
+Networking,Solapur,5,179482.2,False,9.5
+Networking,Yavatmal,2,83667.5,False,2.4
+Node.js,Ahmednagar,6,142081.66666666666,True,11.6
+Node.js,Akola,6,113832.33333333333,True,10.6
+Node.js,Amravati,6,125168.16666666667,True,16.1
+Node.js,Aurangabad,4,120923.75,True,7.7
+Node.js,Beed,5,104996.8,True,11.4
+Node.js,Bhiwandi,6,147577.33333333334,True,13.9
+Node.js,Chandrapur,3,236642.0,True,4.8
+Node.js,Dhule,4,235554.75,True,9.1
+Node.js,Jalgaon,3,87200.0,True,5.3
+Node.js,Jalna,1,411245.0,True,0.0
+Node.js,Kolhapur,1,87737.0,True,0.0
+Node.js,Latur,1,139767.0,True,0.0
+Node.js,Mumbai,8,127985.0,True,22.2
+Node.js,Nagpur,8,206286.5,True,15.2
+Node.js,Nanded,5,227581.0,True,8.9
+Node.js,Nashik,3,185687.0,True,5.3
+Node.js,Osmanabad,4,99231.25,True,7.1
+Node.js,Parbhani,4,113173.0,True,6.1
+Node.js,Pune,1,15830.0,True,0.0
+Node.js,Raigad,8,156409.375,True,20.0
+Node.js,Sangli,3,142998.66666666666,True,6.2
+Node.js,Satara,5,132900.4,True,10.0
+Node.js,Solapur,2,87611.5,True,2.4
+Node.js,Yavatmal,3,94844.33333333333,True,4.8
+NumPy,Ahmednagar,7,85599.85714285714,False,14.0
+NumPy,Akola,4,97767.0,False,6.4
+NumPy,Amravati,4,75588.5,False,9.7
+NumPy,Aurangabad,3,128646.0,False,5.1
+NumPy,Beed,7,220160.57142857142,False,17.1
+NumPy,Bhiwandi,1,45431.0,False,0.0
+NumPy,Chandrapur,4,109864.75,False,7.1
+NumPy,Dhule,4,98791.5,False,9.1
+NumPy,Jalgaon,2,133682.5,False,2.6
+NumPy,Jalna,3,68244.33333333333,False,4.3
+NumPy,Kolhapur,2,73417.0,False,2.5
+NumPy,Latur,4,326043.5,False,7.7
+NumPy,Mumbai,3,52206.333333333336,False,3.7
+NumPy,Nagpur,4,161244.5,False,6.5
+NumPy,Nanded,5,108882.4,False,8.9
+NumPy,Nashik,3,68969.0,False,5.3
+NumPy,Osmanabad,8,164699.5,False,16.7
+NumPy,Parbhani,2,109147.0,False,2.0
+NumPy,Pune,3,177175.0,False,5.6
+NumPy,Raigad,1,275835.0,False,0.0
+NumPy,Sangli,9,91045.22222222222,False,25.0
+NumPy,Satara,3,64276.666666666664,False,5.0
+NumPy,Solapur,6,47399.666666666664,False,11.9
+NumPy,Yavatmal,6,73783.66666666667,False,11.9
+Pandas,Ahmednagar,5,106753.6,False,9.3
+Pandas,Akola,6,149653.66666666666,False,10.6
+Pandas,Amravati,7,93803.57142857143,False,19.4
+Pandas,Aurangabad,2,188716.5,False,2.6
+Pandas,Beed,5,214510.6,False,11.4
+Pandas,Bhiwandi,2,45075.0,False,2.8
+Pandas,Chandrapur,1,45926.0,False,0.0
+Pandas,Dhule,5,76899.8,False,12.1
+Pandas,Jalgaon,3,103373.33333333333,False,5.3
+Pandas,Jalna,3,83395.33333333333,False,4.3
+Pandas,Kolhapur,5,150616.6,False,10.0
+Pandas,Latur,4,251653.75,False,7.7
+Pandas,Mumbai,5,84425.0,False,11.1
+Pandas,Nagpur,3,55423.333333333336,False,4.3
+Pandas,Nanded,5,108882.4,False,8.9
+Pandas,Nashik,3,60419.0,False,5.3
+Pandas,Osmanabad,6,144191.16666666666,False,11.9
+Pandas,Parbhani,1,23110.0,False,0.0
+Pandas,Pune,4,82576.75,False,8.3
+Pandas,Raigad,4,105827.25,False,8.6
+Pandas,Sangli,7,60681.42857142857,False,18.7
+Pandas,Satara,3,112449.66666666667,False,5.0
+Pandas,Solapur,6,72548.66666666667,False,11.9
+Pandas,Yavatmal,6,116414.33333333333,False,11.9
+Patient Care,Ahmednagar,5,101763.4,True,9.3
+Patient Care,Akola,5,87298.2,True,8.5
+Patient Care,Amravati,4,157995.75,True,9.7
+Patient Care,Aurangabad,6,137217.5,True,12.8
+Patient Care,Beed,5,108631.2,True,11.4
+Patient Care,Bhiwandi,5,194094.4,True,11.1
+Patient Care,Chandrapur,6,200982.5,True,11.9
+Patient Care,Dhule,7,109556.42857142857,True,18.2
+Patient Care,Jalgaon,5,97620.8,True,10.5
+Patient Care,Jalna,1,17540.0,True,0.0
+Patient Care,Kolhapur,5,123796.6,True,10.0
+Patient Care,Latur,2,47639.0,True,2.6
+Patient Care,Mumbai,4,220696.75,True,7.4
+Patient Care,Nagpur,10,187337.5,True,19.6
+Patient Care,Nanded,4,190716.25,True,6.7
+Patient Care,Nashik,5,120971.0,True,10.5
+Patient Care,Osmanabad,3,160246.33333333334,True,4.8
+Patient Care,Parbhani,8,164748.625,True,14.3
+Patient Care,Pune,6,87682.66666666667,True,13.9
+Patient Care,Raigad,5,78273.2,True,11.4
+Patient Care,Sangli,6,148142.0,True,15.6
+Patient Care,Satara,8,136920.5,True,17.5
+Patient Care,Solapur,3,56518.666666666664,True,4.8
+Patient Care,Yavatmal,7,188056.2857142857,True,14.3
+Payroll,Ahmednagar,4,175431.75,False,7.0
+Payroll,Akola,5,129548.4,False,8.5
+Payroll,Amravati,5,148367.4,False,12.9
+Payroll,Aurangabad,1,396694.0,False,0.0
+Payroll,Beed,3,161279.0,False,5.7
+Payroll,Bhiwandi,3,190554.0,False,5.6
+Payroll,Chandrapur,4,264224.0,False,7.1
+Payroll,Dhule,3,51492.0,False,6.1
+Payroll,Jalgaon,4,37420.5,False,7.9
+Payroll,Jalna,7,86874.85714285714,False,13.0
+Payroll,Kolhapur,5,114627.8,False,10.0
+Payroll,Latur,6,121796.66666666667,False,12.8
+Payroll,Mumbai,3,153971.33333333334,False,3.7
+Payroll,Nagpur,5,165823.6,False,8.7
+Payroll,Nanded,5,180422.2,False,8.9
+Payroll,Nashik,10,161453.3,False,23.7
+Payroll,Osmanabad,12,163992.58333333334,False,26.2
+Payroll,Parbhani,2,89701.0,False,2.0
+Payroll,Pune,7,140763.85714285713,False,16.7
+Payroll,Raigad,10,63727.8,False,25.7
+Payroll,Sangli,4,37328.25,False,9.4
+Payroll,Satara,7,116182.14285714286,False,15.0
+Payroll,Solapur,6,59999.333333333336,False,11.9
+Payroll,Yavatmal,1,31818.0,False,0.0
+Penetration Testing,Ahmednagar,7,135383.85714285713,True,14.0
+Penetration Testing,Akola,3,139999.66666666666,True,4.3
+Penetration Testing,Amravati,4,115385.25,True,9.7
+Penetration Testing,Aurangabad,8,169910.625,True,17.9
+Penetration Testing,Beed,6,76042.0,True,14.3
+Penetration Testing,Bhiwandi,5,109124.2,True,11.1
+Penetration Testing,Chandrapur,8,111305.5,True,16.7
+Penetration Testing,Dhule,2,114793.5,True,3.0
+Penetration Testing,Jalgaon,3,160516.0,True,5.3
+Penetration Testing,Jalna,6,100079.16666666667,True,10.9
+Penetration Testing,Kolhapur,1,30311.0,True,0.0
+Penetration Testing,Latur,4,81711.25,True,7.7
+Penetration Testing,Mumbai,4,208272.25,True,7.4
+Penetration Testing,Nagpur,5,152459.0,True,8.7
+Penetration Testing,Nanded,3,176914.66666666666,True,4.4
+Penetration Testing,Nashik,8,214820.125,True,18.4
+Penetration Testing,Osmanabad,7,90101.85714285714,True,14.3
+Penetration Testing,Parbhani,6,202064.33333333334,True,10.2
+Penetration Testing,Pune,9,157923.11111111112,True,22.2
+Penetration Testing,Raigad,2,174714.0,True,2.9
+Penetration Testing,Sangli,10,121867.4,True,28.1
+Penetration Testing,Satara,2,30285.5,True,2.5
+Penetration Testing,Solapur,1,27889.0,True,0.0
+Penetration Testing,Yavatmal,4,54918.75,True,7.1
+Pharmacy Software,Ahmednagar,7,146696.0,False,14.0
+Pharmacy Software,Akola,6,188099.5,False,10.6
+Pharmacy Software,Amravati,2,339344.5,False,3.2
+Pharmacy Software,Aurangabad,8,99208.75,False,17.9
+Pharmacy Software,Beed,2,160144.0,False,2.9
+Pharmacy Software,Bhiwandi,5,44823.6,False,11.1
+Pharmacy Software,Chandrapur,6,179740.0,False,11.9
+Pharmacy Software,Dhule,6,81540.0,False,15.2
+Pharmacy Software,Jalgaon,11,87520.63636363637,False,26.3
+Pharmacy Software,Jalna,7,76468.85714285714,False,13.0
+Pharmacy Software,Kolhapur,6,205911.33333333334,False,12.5
+Pharmacy Software,Latur,6,153798.33333333334,False,12.8
+Pharmacy Software,Mumbai,4,76027.0,False,7.4
+Pharmacy Software,Nagpur,3,319528.0,False,4.3
+Pharmacy Software,Nanded,3,254505.33333333334,False,4.4
+Pharmacy Software,Nashik,7,110146.28571428571,False,15.8
+Pharmacy Software,Osmanabad,4,98337.5,False,7.1
+Pharmacy Software,Parbhani,9,178204.66666666666,False,16.3
+Pharmacy Software,Pune,8,106602.625,False,19.4
+Pharmacy Software,Raigad,8,107128.375,False,20.0
+Pharmacy Software,Sangli,6,67000.83333333333,False,15.6
+Pharmacy Software,Satara,3,29661.0,False,5.0
+Pharmacy Software,Solapur,4,173186.0,False,7.1
+Pharmacy Software,Yavatmal,5,70163.6,False,9.5
+Power BI,Ahmednagar,10,165099.5,True,20.9
+Power BI,Akola,7,159472.85714285713,True,12.8
+Power BI,Amravati,14,126627.5,True,41.9
+Power BI,Aurangabad,5,268174.4,True,10.3
+Power BI,Beed,10,131340.6,True,25.7
+Power BI,Bhiwandi,6,97279.5,True,13.9
+Power BI,Chandrapur,7,46132.28571428572,True,14.3
+Power BI,Dhule,8,99055.875,True,21.2
+Power BI,Jalgaon,5,91272.2,True,10.5
+Power BI,Jalna,9,108992.22222222222,True,17.4
+Power BI,Kolhapur,8,102054.125,True,17.5
+Power BI,Latur,3,328915.6666666667,True,5.1
+Power BI,Mumbai,6,149416.0,True,14.8
+Power BI,Nagpur,10,131842.0,True,19.6
+Power BI,Nanded,5,100068.2,True,8.9
+Power BI,Nashik,6,122580.83333333333,True,13.2
+Power BI,Osmanabad,8,150914.125,True,16.7
+Power BI,Parbhani,7,74624.28571428571,True,12.2
+Power BI,Pune,9,119425.22222222222,True,22.2
+Power BI,Raigad,6,111098.0,True,14.3
+Power BI,Sangli,11,130721.63636363637,True,31.2
+Power BI,Satara,11,73271.90909090909,True,25.0
+Power BI,Solapur,7,104212.28571428571,True,14.3
+Power BI,Yavatmal,7,101018.85714285714,True,14.3
+Precision Tools,Ahmednagar,6,242817.66666666666,False,11.6
+Precision Tools,Akola,4,57679.0,False,6.4
+Precision Tools,Amravati,4,128346.25,False,9.7
+Precision Tools,Aurangabad,10,172801.1,False,23.1
+Precision Tools,Beed,4,113849.75,False,8.6
+Precision Tools,Bhiwandi,6,123809.66666666667,False,13.9
+Precision Tools,Chandrapur,4,163210.0,False,7.1
+Precision Tools,Dhule,6,226271.5,False,15.2
+Precision Tools,Jalgaon,3,95080.0,False,5.3
+Precision Tools,Jalna,3,202399.33333333334,False,4.3
+Precision Tools,Kolhapur,8,182062.125,False,17.5
+Precision Tools,Latur,2,97108.5,False,2.6
+Precision Tools,Mumbai,3,302282.0,False,3.7
+Precision Tools,Nagpur,7,107970.42857142857,False,13.0
+Precision Tools,Nanded,5,192110.2,False,8.9
+Precision Tools,Nashik,9,108086.33333333333,False,21.1
+Precision Tools,Osmanabad,6,193335.66666666666,False,11.9
+Precision Tools,Parbhani,6,68744.5,False,10.2
+Precision Tools,Pune,5,135814.0,False,11.1
+Precision Tools,Raigad,3,136987.0,False,5.7
+Precision Tools,Sangli,8,153829.0,False,21.9
+Precision Tools,Satara,3,215916.66666666666,False,5.0
+Precision Tools,Solapur,4,275151.5,False,7.1
+Precision Tools,Yavatmal,6,184472.83333333334,False,11.9
+Problem Solving,Ahmednagar,3,276500.6666666667,True,4.7
+Problem Solving,Akola,9,127411.22222222222,True,17.0
+Problem Solving,Amravati,5,169389.4,True,12.9
+Problem Solving,Aurangabad,7,163957.2857142857,True,15.4
+Problem Solving,Beed,3,42926.333333333336,True,5.7
+Problem Solving,Bhiwandi,4,220621.0,True,8.3
+Problem Solving,Chandrapur,4,178020.5,True,7.1
+Problem Solving,Dhule,4,122162.25,True,9.1
+Problem Solving,Jalgaon,5,79305.2,True,10.5
+Problem Solving,Jalna,3,50712.0,True,4.3
+Problem Solving,Kolhapur,5,102300.8,True,10.0
+Problem Solving,Latur,4,115080.25,True,7.7
+Problem Solving,Mumbai,3,56257.666666666664,True,3.7
+Problem Solving,Nagpur,5,54460.4,True,8.7
+Problem Solving,Nanded,9,138846.88888888888,True,17.8
+Problem Solving,Nashik,4,175677.0,True,7.9
+Problem Solving,Osmanabad,7,229384.85714285713,True,14.3
+Problem Solving,Parbhani,8,188873.75,True,14.3
+Problem Solving,Pune,3,161527.66666666666,True,5.6
+Problem Solving,Raigad,3,63403.333333333336,True,5.7
+Problem Solving,Sangli,4,66870.5,True,9.4
+Problem Solving,Satara,4,87428.5,True,7.5
+Problem Solving,Solapur,4,134388.25,True,7.1
+Problem Solving,Yavatmal,6,158010.83333333334,True,11.9
+Process Mapping,Ahmednagar,5,228039.0,False,9.3
+Process Mapping,Akola,1,21135.0,False,0.0
+Process Mapping,Amravati,7,131513.14285714287,False,19.4
+Process Mapping,Aurangabad,1,491962.0,False,0.0
+Process Mapping,Beed,4,191438.5,False,8.6
+Process Mapping,Bhiwandi,7,105399.85714285714,False,16.7
+Process Mapping,Chandrapur,5,46486.6,False,9.5
+Process Mapping,Dhule,2,40541.0,False,3.0
+Process Mapping,Jalgaon,4,99109.0,False,7.9
+Process Mapping,Jalna,7,139986.14285714287,False,13.0
+Process Mapping,Kolhapur,2,36761.5,False,2.5
+Process Mapping,Latur,2,223214.5,False,2.6
+Process Mapping,Mumbai,2,28964.5,False,0.0
+Process Mapping,Nagpur,4,107300.0,False,6.5
+Process Mapping,Nanded,4,115339.75,False,6.7
+Process Mapping,Nashik,2,220816.0,False,2.6
+Process Mapping,Osmanabad,2,73879.0,False,2.4
+Process Mapping,Parbhani,5,77939.4,False,8.2
+Process Mapping,Pune,7,106250.42857142857,False,16.7
+Process Mapping,Raigad,3,224061.66666666666,False,5.7
+Process Mapping,Sangli,4,209376.0,False,9.4
+Process Mapping,Satara,8,72562.75,False,17.5
+Process Mapping,Solapur,1,29836.0,False,0.0
+Process Mapping,Yavatmal,4,120246.5,False,7.1
+Production Planning,Ahmednagar,4,60962.25,False,7.0
+Production Planning,Akola,5,161247.2,False,8.5
+Production Planning,Amravati,9,127101.44444444444,False,25.8
+Production Planning,Aurangabad,4,46499.0,False,7.7
+Production Planning,Beed,12,138191.75,False,31.4
+Production Planning,Bhiwandi,5,130201.8,False,11.1
+Production Planning,Chandrapur,7,136727.0,False,14.3
+Production Planning,Dhule,2,177380.5,False,3.0
+Production Planning,Jalgaon,5,34326.4,False,10.5
+Production Planning,Jalna,3,150181.0,False,4.3
+Production Planning,Kolhapur,6,173970.33333333334,False,12.5
+Production Planning,Latur,7,146520.7142857143,False,15.4
+Production Planning,Mumbai,3,295467.0,False,3.7
+Production Planning,Nagpur,6,81974.16666666667,False,10.9
+Production Planning,Nanded,1,335721.0,False,0.0
+Production Planning,Nashik,4,134039.5,False,7.9
+Production Planning,Osmanabad,4,81093.5,False,7.1
+Production Planning,Parbhani,9,121776.55555555556,False,16.3
+Production Planning,Pune,5,123992.4,False,11.1
+Production Planning,Raigad,5,93407.6,False,11.4
+Production Planning,Sangli,4,133604.0,False,9.4
+Production Planning,Satara,4,140608.25,False,7.5
+Production Planning,Solapur,6,318182.6666666667,False,11.9
+Production Planning,Yavatmal,9,119990.11111111111,False,19.0
+Project Management,Ahmednagar,5,98511.2,True,9.3
+Project Management,Akola,6,129875.0,True,10.6
+Project Management,Amravati,4,248017.0,True,9.7
+Project Management,Aurangabad,4,120412.5,True,7.7
+Project Management,Beed,8,189801.875,True,20.0
+Project Management,Bhiwandi,4,183413.25,True,8.3
+Project Management,Chandrapur,9,121134.33333333333,True,19.0
+Project Management,Dhule,6,34542.5,True,15.2
+Project Management,Jalgaon,5,52888.4,True,10.5
+Project Management,Jalna,6,157227.33333333334,True,10.9
+Project Management,Kolhapur,4,150423.5,True,7.5
+Project Management,Latur,4,142657.25,True,7.7
+Project Management,Mumbai,4,80715.0,True,7.4
+Project Management,Nagpur,6,75375.33333333333,True,10.9
+Project Management,Nanded,3,180910.0,True,4.4
+Project Management,Nashik,1,33582.0,True,0.0
+Project Management,Osmanabad,9,127789.66666666667,True,19.0
+Project Management,Parbhani,6,71244.5,True,10.2
+Project Management,Pune,5,85900.6,True,11.1
+Project Management,Raigad,5,105438.2,True,11.4
+Project Management,Sangli,3,53417.666666666664,True,6.2
+Project Management,Satara,1,25781.0,True,0.0
+Project Management,Solapur,5,147844.6,True,9.5
+Project Management,Yavatmal,6,184717.5,True,11.9
+Prototyping,Ahmednagar,8,127887.5,False,16.3
+Prototyping,Akola,5,189529.6,False,8.5
+Prototyping,Amravati,3,77749.0,False,6.5
+Prototyping,Aurangabad,3,46012.666666666664,False,5.1
+Prototyping,Beed,4,88615.0,False,8.6
+Prototyping,Bhiwandi,6,203863.16666666666,False,13.9
+Prototyping,Chandrapur,3,118113.0,False,4.8
+Prototyping,Dhule,5,121724.0,False,12.1
+Prototyping,Jalgaon,5,88987.2,False,10.5
+Prototyping,Jalna,1,229008.0,False,0.0
+Prototyping,Kolhapur,3,277750.6666666667,False,5.0
+Prototyping,Latur,3,134226.0,False,5.1
+Prototyping,Mumbai,3,95960.33333333333,False,3.7
+Prototyping,Nagpur,10,174486.8,False,19.6
+Prototyping,Nanded,3,40450.666666666664,False,4.4
+Prototyping,Nashik,5,129108.4,False,10.5
+Prototyping,Osmanabad,6,104538.83333333333,False,11.9
+Prototyping,Parbhani,3,48856.333333333336,False,4.1
+Prototyping,Pune,3,55629.666666666664,False,5.6
+Prototyping,Raigad,3,147682.33333333334,False,5.7
+Prototyping,Sangli,3,79195.0,False,6.2
+Prototyping,Satara,8,124630.375,False,17.5
+Prototyping,Solapur,5,240298.4,False,9.5
+Prototyping,Yavatmal,4,97498.0,False,7.1
+PyTorch,Akola,2,87230.0,False,2.1
+PyTorch,Amravati,1,489095.0,False,0.0
+PyTorch,Aurangabad,8,168054.625,False,17.9
+PyTorch,Beed,6,157525.5,False,14.3
+PyTorch,Bhiwandi,4,88462.5,False,8.3
+PyTorch,Chandrapur,11,187816.54545454544,False,23.8
+PyTorch,Dhule,6,143475.66666666666,False,15.2
+PyTorch,Jalgaon,2,192872.5,False,2.6
+PyTorch,Jalna,5,53007.8,False,8.7
+PyTorch,Kolhapur,3,81369.33333333333,False,5.0
+PyTorch,Latur,5,86290.8,False,10.3
+PyTorch,Mumbai,8,145178.125,False,22.2
+PyTorch,Nagpur,4,83979.0,False,6.5
+PyTorch,Nanded,5,124309.2,False,8.9
+PyTorch,Nashik,7,195428.85714285713,False,15.8
+PyTorch,Osmanabad,9,172751.11111111112,False,19.0
+PyTorch,Parbhani,3,66981.0,False,4.1
+PyTorch,Pune,6,220841.5,False,13.9
+PyTorch,Raigad,5,158789.6,False,11.4
+PyTorch,Sangli,3,172445.66666666666,False,6.2
+PyTorch,Satara,4,158311.5,False,7.5
+PyTorch,Solapur,4,175930.5,False,7.1
+PyTorch,Yavatmal,2,196060.5,False,2.4
+Python,Ahmednagar,15,118871.33333333333,True,32.6
+Python,Akola,10,154271.1,True,19.1
+Python,Amravati,15,151103.8,True,45.2
+Python,Aurangabad,17,187311.82352941178,True,41.0
+Python,Beed,13,211761.46153846153,True,34.3
+Python,Bhiwandi,13,134774.07692307694,True,33.3
+Python,Chandrapur,15,222898.46666666667,True,33.3
+Python,Dhule,16,156308.4375,True,45.5
+Python,Jalgaon,11,107236.63636363637,True,26.3
+Python,Jalna,17,94240.35294117648,True,34.8
+Python,Kolhapur,20,86106.95,True,47.5
+Python,Latur,11,142280.36363636365,True,25.6
+Python,Mumbai,19,95897.21052631579,True,63.0
+Python,Nagpur,18,118661.77777777778,True,37.0
+Python,Nanded,12,125661.83333333333,True,24.4
+Python,Nashik,12,120091.91666666667,True,28.9
+Python,Osmanabad,18,153024.83333333334,True,40.5
+Python,Parbhani,14,151393.64285714287,True,26.5
+Python,Pune,15,180361.93333333332,True,38.9
+Python,Raigad,20,99676.1,True,54.3
+Python,Sangli,26,170737.5,True,78.1
+Python,Satara,26,121440.38461538461,True,62.5
+Python,Solapur,20,69897.8,True,45.2
+Python,Yavatmal,23,100762.43478260869,True,52.4
+Quality Control,Ahmednagar,7,115992.28571428571,True,14.0
+Quality Control,Akola,12,145120.75,True,23.4
+Quality Control,Amravati,14,129240.07142857143,True,41.9
+Quality Control,Aurangabad,10,68437.4,True,23.1
+Quality Control,Beed,15,135048.66666666666,True,40.0
+Quality Control,Bhiwandi,5,68721.4,True,11.1
+Quality Control,Chandrapur,12,138710.33333333334,True,26.2
+Quality Control,Dhule,8,113389.5,True,21.2
+Quality Control,Jalgaon,11,100872.09090909091,True,26.3
+Quality Control,Jalna,9,101382.55555555556,True,17.4
+Quality Control,Kolhapur,11,164481.9090909091,True,25.0
+Quality Control,Latur,9,179830.88888888888,True,20.5
+Quality Control,Mumbai,12,135869.41666666666,True,37.0
+Quality Control,Nagpur,10,85183.5,True,19.6
+Quality Control,Nanded,9,137606.0,True,17.8
+Quality Control,Nashik,12,186702.5,True,28.9
+Quality Control,Osmanabad,7,41004.142857142855,True,14.3
+Quality Control,Parbhani,18,145076.05555555556,True,34.7
+Quality Control,Pune,11,107781.45454545454,True,27.8
+Quality Control,Raigad,9,81408.77777777778,True,22.9
+Quality Control,Sangli,9,93574.77777777778,True,25.0
+Quality Control,Satara,11,127844.63636363637,True,25.0
+Quality Control,Solapur,11,230052.27272727274,True,23.8
+Quality Control,Yavatmal,10,101859.9,True,21.4
+QuickBooks,Ahmednagar,2,117811.0,False,2.3
+QuickBooks,Akola,4,112801.75,False,6.4
+QuickBooks,Amravati,4,166147.75,False,9.7
+QuickBooks,Aurangabad,5,37030.2,False,10.3
+QuickBooks,Beed,4,139613.75,False,8.6
+QuickBooks,Bhiwandi,3,238577.0,False,5.6
+QuickBooks,Chandrapur,8,91573.5,False,16.7
+QuickBooks,Dhule,7,109964.14285714286,False,18.2
+QuickBooks,Jalgaon,6,69903.16666666667,False,13.2
+QuickBooks,Jalna,1,52549.0,False,0.0
+QuickBooks,Kolhapur,3,37107.0,False,5.0
+QuickBooks,Latur,4,171648.75,False,7.7
+QuickBooks,Mumbai,5,161522.2,False,11.1
+QuickBooks,Nagpur,7,214792.42857142858,False,13.0
+QuickBooks,Nanded,7,142287.0,False,13.3
+QuickBooks,Nashik,2,233764.5,False,2.6
+QuickBooks,Osmanabad,3,36748.0,False,4.8
+QuickBooks,Parbhani,5,116718.4,False,8.2
+QuickBooks,Pune,6,97972.0,False,13.9
+QuickBooks,Raigad,4,139154.0,False,8.6
+QuickBooks,Sangli,8,80952.125,False,21.9
+QuickBooks,Satara,4,124115.75,False,7.5
+QuickBooks,Yavatmal,3,269048.3333333333,False,4.8
+REST API,Ahmednagar,11,166914.18181818182,True,23.3
+REST API,Akola,7,90311.71428571429,True,12.8
+REST API,Amravati,12,108675.25,True,35.5
+REST API,Aurangabad,8,87529.875,True,17.9
+REST API,Beed,11,107886.45454545454,True,28.6
+REST API,Bhiwandi,9,207921.88888888888,True,22.2
+REST API,Chandrapur,8,133077.125,True,16.7
+REST API,Dhule,9,191229.55555555556,True,24.2
+REST API,Jalgaon,8,97954.5,True,18.4
+REST API,Jalna,6,240600.66666666666,True,10.9
+REST API,Kolhapur,8,158204.5,True,17.5
+REST API,Latur,6,159585.0,True,12.8
+REST API,Mumbai,13,90868.84615384616,True,40.7
+REST API,Nagpur,11,175895.27272727274,True,21.7
+REST API,Nanded,6,200669.33333333334,True,11.1
+REST API,Nashik,7,177491.2857142857,True,15.8
+REST API,Osmanabad,8,120208.375,True,16.7
+REST API,Parbhani,9,90262.88888888889,True,16.3
+REST API,Pune,9,170700.88888888888,True,22.2
+REST API,Raigad,9,173356.55555555556,True,22.9
+REST API,Sangli,8,197587.25,True,21.9
+REST API,Satara,12,113266.91666666667,True,27.5
+REST API,Solapur,8,92071.5,True,16.7
+REST API,Yavatmal,10,54998.0,True,21.4
+React,Ahmednagar,9,164669.55555555556,True,18.6
+React,Akola,5,90487.4,True,8.5
+React,Amravati,8,155102.5,True,22.6
+React,Aurangabad,2,32203.5,True,2.6
+React,Beed,3,42529.333333333336,True,5.7
+React,Bhiwandi,2,407706.5,True,2.8
+React,Chandrapur,5,179655.6,True,9.5
+React,Dhule,2,269044.0,True,3.0
+React,Jalgaon,3,200483.33333333334,True,5.3
+React,Jalna,2,453612.5,True,2.2
+React,Kolhapur,2,196906.5,True,2.5
+React,Latur,1,139767.0,True,0.0
+React,Mumbai,8,107893.5,True,22.2
+React,Nagpur,7,146546.85714285713,True,13.0
+React,Nanded,4,219268.25,True,6.7
+React,Nashik,2,74018.5,True,2.6
+React,Osmanabad,2,130474.5,True,2.4
+React,Parbhani,5,83493.8,True,8.2
+React,Pune,5,136805.4,True,11.1
+React,Raigad,7,222089.0,True,17.1
+React,Sangli,3,213979.66666666666,True,6.2
+React,Satara,6,104198.83333333333,True,12.5
+React,Solapur,1,67188.0,True,0.0
+React,Yavatmal,2,41275.0,True,2.4
+Recruitment,Ahmednagar,3,134599.66666666666,False,4.7
+Recruitment,Akola,6,146302.83333333334,False,10.6
+Recruitment,Amravati,5,148367.4,False,12.9
+Recruitment,Aurangabad,2,255986.5,False,2.6
+Recruitment,Beed,4,140591.75,False,8.6
+Recruitment,Bhiwandi,4,152614.0,False,8.3
+Recruitment,Chandrapur,4,264224.0,False,7.1
+Recruitment,Dhule,3,83458.0,False,6.1
+Recruitment,Jalgaon,2,26140.0,False,2.6
+Recruitment,Jalna,7,86445.57142857143,False,13.0
+Recruitment,Kolhapur,6,113229.33333333333,False,12.5
+Recruitment,Latur,7,115821.42857142857,False,15.4
+Recruitment,Mumbai,4,158343.0,False,7.4
+Recruitment,Nagpur,3,252071.0,False,4.3
+Recruitment,Nanded,6,135092.0,False,11.1
+Recruitment,Nashik,9,153186.88888888888,False,21.1
+Recruitment,Osmanabad,13,163240.0,False,28.6
+Recruitment,Parbhani,2,89701.0,False,2.0
+Recruitment,Pune,6,172740.33333333334,False,13.9
+Recruitment,Raigad,11,71255.90909090909,False,28.6
+Recruitment,Sangli,3,38582.333333333336,False,6.2
+Recruitment,Satara,5,56395.4,False,10.0
+Recruitment,Solapur,6,59999.333333333336,False,11.9
+Recruitment,Yavatmal,3,98048.33333333333,False,4.8
+Requirements Gathering,Ahmednagar,4,133694.0,True,7.0
+Requirements Gathering,Akola,3,158174.66666666666,True,4.3
+Requirements Gathering,Amravati,6,84557.83333333333,True,16.1
+Requirements Gathering,Aurangabad,1,51482.0,True,0.0
+Requirements Gathering,Beed,4,59053.25,True,8.6
+Requirements Gathering,Bhiwandi,5,117432.8,True,11.1
+Requirements Gathering,Chandrapur,5,49956.8,True,9.5
+Requirements Gathering,Dhule,4,115009.0,True,9.1
+Requirements Gathering,Jalgaon,2,158536.0,True,2.6
+Requirements Gathering,Jalna,5,142647.8,True,8.7
+Requirements Gathering,Kolhapur,3,29590.333333333332,True,5.0
+Requirements Gathering,Latur,3,320773.3333333333,True,5.1
+Requirements Gathering,Mumbai,6,221824.83333333334,True,14.8
+Requirements Gathering,Nagpur,4,105030.25,True,6.5
+Requirements Gathering,Nanded,3,148230.0,True,4.4
+Requirements Gathering,Nashik,1,117052.0,True,0.0
+Requirements Gathering,Osmanabad,2,110741.0,True,2.4
+Requirements Gathering,Parbhani,6,147698.83333333334,True,10.2
+Requirements Gathering,Pune,4,63344.0,True,8.3
+Requirements Gathering,Raigad,2,97230.5,True,2.9
+Requirements Gathering,Sangli,7,181779.0,True,18.7
+Requirements Gathering,Satara,7,70057.42857142857,True,15.0
+Requirements Gathering,Solapur,1,29836.0,True,0.0
+Requirements Gathering,Yavatmal,6,89200.16666666667,True,11.9
+Research,Ahmednagar,7,220191.85714285713,False,14.0
+Research,Akola,7,221329.7142857143,False,12.8
+Research,Amravati,7,149945.2857142857,False,19.4
+Research,Aurangabad,3,55803.333333333336,False,5.1
+Research,Beed,8,239196.75,False,20.0
+Research,Bhiwandi,3,63247.666666666664,False,5.6
+Research,Chandrapur,11,127864.27272727272,False,23.8
+Research,Dhule,7,219026.42857142858,False,18.2
+Research,Jalgaon,6,66299.5,False,13.2
+Research,Jalna,4,27055.75,False,6.5
+Research,Kolhapur,6,175889.5,False,12.5
+Research,Latur,1,23543.0,False,0.0
+Research,Mumbai,5,106064.6,False,11.1
+Research,Nagpur,1,25975.0,False,0.0
+Research,Nanded,6,111941.33333333333,False,11.1
+Research,Nashik,6,85025.66666666667,False,13.2
+Research,Osmanabad,6,211355.83333333334,False,11.9
+Research,Parbhani,3,188380.0,False,4.1
+Research,Pune,7,196727.14285714287,False,16.7
+Research,Raigad,9,123096.22222222222,False,22.9
+Research,Sangli,6,102185.0,False,15.6
+Research,Satara,4,54561.0,False,7.5
+Research,Solapur,4,187166.25,False,7.1
+Research,Yavatmal,5,226181.4,False,9.5
+Risk Assessment,Ahmednagar,8,138183.75,True,16.3
+Risk Assessment,Akola,5,133991.0,True,8.5
+Risk Assessment,Amravati,5,97684.8,True,12.9
+Risk Assessment,Aurangabad,9,160098.66666666666,True,20.5
+Risk Assessment,Beed,7,89620.85714285714,True,17.1
+Risk Assessment,Bhiwandi,8,100026.125,True,19.4
+Risk Assessment,Chandrapur,7,148035.14285714287,True,14.3
+Risk Assessment,Dhule,3,83879.33333333333,True,6.1
+Risk Assessment,Jalgaon,4,124596.0,True,7.9
+Risk Assessment,Jalna,6,134204.0,True,10.9
+Risk Assessment,Kolhapur,2,76816.5,True,2.5
+Risk Assessment,Latur,4,81711.25,True,7.7
+Risk Assessment,Mumbai,5,218041.8,True,11.1
+Risk Assessment,Nagpur,4,84057.75,True,6.5
+Risk Assessment,Nanded,4,139503.5,True,6.7
+Risk Assessment,Nashik,8,215327.375,True,18.4
+Risk Assessment,Osmanabad,5,86843.0,True,9.5
+Risk Assessment,Parbhani,7,172551.0,True,12.2
+Risk Assessment,Pune,8,129626.0,True,19.4
+Risk Assessment,Raigad,3,179937.66666666666,True,5.7
+Risk Assessment,Sangli,10,107669.8,True,28.1
+Risk Assessment,Satara,3,56253.0,True,5.0
+Risk Assessment,Solapur,3,66261.33333333333,True,4.8
+Risk Assessment,Yavatmal,3,85364.33333333333,True,4.8
+SAP,Ahmednagar,3,107262.66666666667,False,4.7
+SAP,Akola,4,156058.5,False,6.4
+SAP,Amravati,4,211260.5,False,9.7
+SAP,Aurangabad,5,28927.6,False,10.3
+SAP,Beed,9,167164.55555555556,False,22.9
+SAP,Bhiwandi,4,111835.75,False,8.3
+SAP,Chandrapur,2,168334.0,False,2.4
+SAP,Dhule,5,112134.0,False,12.1
+SAP,Jalgaon,3,48853.333333333336,False,5.3
+SAP,Jalna,6,40138.5,False,10.9
+SAP,Kolhapur,8,164386.25,False,17.5
+SAP,Latur,5,52481.6,False,10.3
+SAP,Mumbai,7,117082.28571428571,False,18.5
+SAP,Nagpur,8,217169.0,False,15.2
+SAP,Nanded,4,185064.25,False,6.7
+SAP,Nashik,7,137554.2857142857,False,15.8
+SAP,Osmanabad,9,109777.33333333333,False,19.0
+SAP,Parbhani,9,200211.44444444444,False,16.3
+SAP,Pune,10,172387.7,False,25.0
+SAP,Sangli,8,187763.625,False,21.9
+SAP,Satara,4,248077.25,False,7.5
+SAP,Solapur,7,146126.85714285713,False,14.3
+SAP,Yavatmal,1,19188.0,False,0.0
+SEM,Ahmednagar,5,56940.6,True,9.3
+SEM,Akola,3,200105.66666666666,True,4.3
+SEM,Amravati,6,252484.66666666666,True,16.1
+SEM,Aurangabad,6,126094.33333333333,True,12.8
+SEM,Beed,5,157542.4,True,11.4
+SEM,Bhiwandi,6,177123.0,True,13.9
+SEM,Chandrapur,10,261604.6,True,21.4
+SEM,Dhule,8,132779.375,True,21.2
+SEM,Jalgaon,8,124012.75,True,18.4
+SEM,Jalna,4,82642.5,True,6.5
+SEM,Kolhapur,6,151166.5,True,12.5
+SEM,Latur,7,165250.0,True,15.4
+SEM,Mumbai,2,41882.5,True,0.0
+SEM,Nagpur,4,51352.75,True,6.5
+SEM,Nanded,6,270002.0,True,11.1
+SEM,Nashik,7,160156.2857142857,True,15.8
+SEM,Osmanabad,8,188785.0,True,16.7
+SEM,Parbhani,2,361389.5,True,2.0
+SEM,Pune,5,191308.6,True,11.1
+SEM,Raigad,5,191564.6,True,11.4
+SEM,Sangli,4,175239.25,True,9.4
+SEM,Satara,7,150511.57142857142,True,15.0
+SEM,Solapur,5,65421.2,True,9.5
+SEM,Yavatmal,5,174300.8,True,9.5
+SEO,Ahmednagar,11,117644.90909090909,True,23.3
+SEO,Akola,10,200578.1,True,19.1
+SEO,Amravati,13,133025.15384615384,True,38.7
+SEO,Aurangabad,10,104922.0,True,23.1
+SEO,Beed,11,165267.0909090909,True,28.6
+SEO,Bhiwandi,9,173117.11111111112,True,22.2
+SEO,Chandrapur,20,213349.75,True,45.2
+SEO,Dhule,16,164756.9375,True,45.5
+SEO,Jalgaon,13,77590.84615384616,True,31.6
+SEO,Jalna,7,89888.28571428571,True,13.0
+SEO,Kolhapur,10,194807.9,True,22.5
+SEO,Latur,8,154175.125,True,17.9
+SEO,Mumbai,10,98300.8,True,29.6
+SEO,Nagpur,4,54388.0,True,6.5
+SEO,Nanded,11,126024.72727272728,True,22.2
+SEO,Nashik,12,132334.16666666666,True,28.9
+SEO,Osmanabad,16,193160.9375,True,35.7
+SEO,Parbhani,7,149410.7142857143,True,12.2
+SEO,Pune,11,193813.18181818182,True,27.8
+SEO,Raigad,10,209444.2,True,25.7
+SEO,Sangli,13,145646.61538461538,True,37.5
+SEO,Satara,13,111321.53846153847,True,30.0
+SEO,Solapur,5,173228.4,True,9.5
+SEO,Yavatmal,14,156101.0,True,31.0
+SIEM,Ahmednagar,6,108032.0,True,11.6
+SIEM,Akola,1,208792.0,True,0.0
+SIEM,Amravati,5,97684.8,True,12.9
+SIEM,Aurangabad,8,169910.625,True,17.9
+SIEM,Beed,6,91842.0,True,14.3
+SIEM,Bhiwandi,6,67853.16666666667,True,13.9
+SIEM,Chandrapur,7,120609.14285714286,True,14.3
+SIEM,Dhule,3,148106.33333333334,True,6.1
+SIEM,Jalgaon,4,140769.5,True,7.9
+SIEM,Jalna,6,138144.33333333334,True,10.9
+SIEM,Kolhapur,3,131557.66666666666,True,5.0
+SIEM,Latur,3,90036.0,True,5.1
+SIEM,Mumbai,4,215711.5,True,7.4
+SIEM,Nagpur,5,152459.0,True,8.7
+SIEM,Nanded,4,139503.5,True,6.7
+SIEM,Nashik,8,215327.375,True,18.4
+SIEM,Osmanabad,9,110258.66666666667,True,19.0
+SIEM,Parbhani,7,98591.71428571429,True,12.2
+SIEM,Pune,10,153199.6,True,25.0
+SIEM,Raigad,4,122968.0,True,8.6
+SIEM,Sangli,8,109962.875,True,21.9
+SIEM,Satara,4,55666.75,True,7.5
+SIEM,Solapur,1,76440.0,True,0.0
+SIEM,Yavatmal,3,115435.33333333333,True,4.8
+SQL,Ahmednagar,27,121099.0,True,60.5
+SQL,Akola,20,119047.7,True,40.4
+SQL,Amravati,22,154967.5909090909,True,67.7
+SQL,Aurangabad,24,122730.95833333333,True,59.0
+SQL,Beed,22,156725.4090909091,True,60.0
+SQL,Bhiwandi,21,142869.38095238095,True,55.6
+SQL,Chandrapur,23,138518.52173913043,True,52.4
+SQL,Dhule,28,155992.57142857142,True,81.8
+SQL,Jalgaon,19,124769.94736842105,True,47.4
+SQL,Jalna,33,146644.15151515152,True,69.6
+SQL,Kolhapur,26,132209.07692307694,True,62.5
+SQL,Latur,23,206903.8260869565,True,56.4
+SQL,Mumbai,29,123662.6551724138,True,100.0
+SQL,Nagpur,20,99491.3,True,41.3
+SQL,Nanded,22,137106.81818181818,True,46.7
+SQL,Nashik,23,123849.65217391304,True,57.9
+SQL,Osmanabad,25,165636.64,True,57.1
+SQL,Parbhani,26,110248.42307692308,True,51.0
+SQL,Pune,26,127124.84615384616,True,69.4
+SQL,Raigad,20,168228.0,True,54.3
+SQL,Sangli,33,155883.24242424243,True,100.0
+SQL,Satara,30,104963.9,True,72.5
+SQL,Solapur,21,103973.76190476191,True,47.6
+SQL,Yavatmal,29,108315.10344827586,True,66.7
+Safety,Ahmednagar,11,116060.0,False,23.3
+Safety,Akola,15,102922.33333333333,False,29.8
+Safety,Amravati,9,171844.0,False,25.8
+Safety,Aurangabad,13,151543.84615384616,False,30.8
+Safety,Beed,10,171342.7,False,25.7
+Safety,Bhiwandi,9,116496.88888888889,False,22.2
+Safety,Chandrapur,13,77685.92307692308,False,28.6
+Safety,Dhule,10,89842.1,False,27.3
+Safety,Jalgaon,12,180385.0,False,28.9
+Safety,Jalna,6,130587.16666666667,False,10.9
+Safety,Kolhapur,10,117507.2,False,22.5
+Safety,Latur,14,183011.7857142857,False,33.3
+Safety,Mumbai,17,159222.0588235294,False,55.6
+Safety,Nagpur,14,115910.21428571429,False,28.3
+Safety,Nanded,7,172270.85714285713,False,13.3
+Safety,Nashik,11,147648.54545454544,False,26.3
+Safety,Osmanabad,11,128544.72727272728,False,23.8
+Safety,Parbhani,11,131624.72727272726,False,20.4
+Safety,Pune,12,92363.25,False,30.6
+Safety,Raigad,7,152821.2857142857,False,17.1
+Safety,Sangli,15,152434.13333333333,False,43.7
+Safety,Satara,11,110269.18181818182,False,25.0
+Safety,Solapur,10,220415.0,False,21.4
+Safety,Yavatmal,6,157482.83333333334,False,11.9
+Safety Standards,Ahmednagar,23,121984.69565217392,False,51.2
+Safety Standards,Akola,19,136077.2105263158,False,38.3
+Safety Standards,Amravati,32,145357.78125,False,100.0
+Safety Standards,Aurangabad,27,127205.77777777778,False,66.7
+Safety Standards,Beed,24,107309.16666666667,False,65.7
+Safety Standards,Bhiwandi,23,95047.21739130435,False,61.1
+Safety Standards,Chandrapur,15,124464.53333333334,False,33.3
+Safety Standards,Dhule,22,113224.22727272728,False,63.6
+Safety Standards,Jalgaon,20,152727.75,False,50.0
+Safety Standards,Jalna,24,124906.29166666667,False,50.0
+Safety Standards,Kolhapur,20,186969.45,False,47.5
+Safety Standards,Latur,19,161424.26315789475,False,46.2
+Safety Standards,Mumbai,16,166218.5625,False,51.9
+Safety Standards,Nagpur,21,238973.2857142857,False,43.5
+Safety Standards,Nanded,16,129299.6875,False,33.3
+Safety Standards,Nashik,27,170546.1851851852,False,68.4
+Safety Standards,Osmanabad,20,165731.55,False,45.2
+Safety Standards,Parbhani,18,153592.0,False,34.7
+Safety Standards,Pune,23,146669.86956521738,False,61.1
+Safety Standards,Raigad,19,94176.68421052632,False,51.4
+Safety Standards,Sangli,19,125335.84210526316,False,56.2
+Safety Standards,Satara,13,199359.61538461538,False,30.0
+Safety Standards,Solapur,28,131972.82142857142,False,64.3
+Safety Standards,Yavatmal,20,172351.85,False,45.2
+Sales,Ahmednagar,5,248620.8,False,9.3
+Sales,Akola,6,185565.33333333334,False,10.6
+Sales,Amravati,6,67798.0,False,16.1
+Sales,Aurangabad,7,148686.42857142858,False,15.4
+Sales,Beed,4,112778.5,False,8.6
+Sales,Bhiwandi,6,227991.16666666666,False,13.9
+Sales,Chandrapur,3,38087.333333333336,False,4.8
+Sales,Dhule,3,27346.333333333332,False,6.1
+Sales,Jalgaon,4,221616.75,False,7.9
+Sales,Jalna,5,192848.0,False,8.7
+Sales,Kolhapur,6,216547.5,False,12.5
+Sales,Latur,4,146928.5,False,7.7
+Sales,Mumbai,9,159311.66666666666,False,25.9
+Sales,Nagpur,7,198159.42857142858,False,13.0
+Sales,Nanded,2,60038.5,False,2.2
+Sales,Nashik,6,160318.33333333334,False,13.2
+Sales,Osmanabad,5,83968.0,False,9.5
+Sales,Parbhani,6,67229.5,False,10.2
+Sales,Pune,5,116885.4,False,11.1
+Sales,Raigad,2,297586.5,False,2.9
+Sales,Sangli,1,41864.0,False,0.0
+Sales,Satara,4,159190.75,False,7.5
+Sales,Solapur,6,181659.33333333334,False,11.9
+Sales,Yavatmal,3,149463.33333333334,False,4.8
+Sample Collection,Ahmednagar,8,133782.25,False,16.3
+Sample Collection,Akola,7,194103.85714285713,False,12.8
+Sample Collection,Amravati,5,186212.4,False,12.9
+Sample Collection,Aurangabad,4,87224.5,False,7.7
+Sample Collection,Beed,4,122398.5,False,8.6
+Sample Collection,Bhiwandi,1,51355.0,False,0.0
+Sample Collection,Chandrapur,6,148017.0,False,11.9
+Sample Collection,Dhule,4,182073.5,False,9.1
+Sample Collection,Jalgaon,5,181301.6,False,10.5
+Sample Collection,Jalna,6,102713.66666666667,False,10.9
+Sample Collection,Kolhapur,4,74037.5,False,7.5
+Sample Collection,Latur,3,256185.66666666666,False,5.1
+Sample Collection,Mumbai,9,124684.22222222222,False,25.9
+Sample Collection,Nagpur,7,93648.85714285714,False,13.0
+Sample Collection,Nanded,6,136633.0,False,11.1
+Sample Collection,Nashik,6,211610.66666666666,False,13.2
+Sample Collection,Osmanabad,5,41018.8,False,9.5
+Sample Collection,Parbhani,9,180838.11111111112,False,16.3
+Sample Collection,Pune,9,107441.77777777778,False,22.2
+Sample Collection,Raigad,3,164541.66666666666,False,5.7
+Sample Collection,Sangli,4,44854.75,False,9.4
+Sample Collection,Satara,3,224228.0,False,5.0
+Sample Collection,Solapur,3,195403.0,False,4.8
+Sample Collection,Yavatmal,3,226067.33333333334,False,4.8
+Scikit-learn,Ahmednagar,3,72375.33333333333,False,4.7
+Scikit-learn,Akola,5,176354.4,False,8.5
+Scikit-learn,Amravati,1,489095.0,False,0.0
+Scikit-learn,Aurangabad,3,196588.33333333334,False,5.1
+Scikit-learn,Beed,7,143390.14285714287,False,17.1
+Scikit-learn,Bhiwandi,3,45223.0,False,5.6
+Scikit-learn,Chandrapur,6,103441.16666666667,False,11.9
+Scikit-learn,Dhule,7,134961.0,False,18.2
+Scikit-learn,Jalgaon,2,192872.5,False,2.6
+Scikit-learn,Jalna,6,94085.33333333333,False,10.9
+Scikit-learn,Kolhapur,5,74467.0,False,10.0
+Scikit-learn,Latur,4,79651.0,False,7.7
+Scikit-learn,Mumbai,10,113028.2,False,29.6
+Scikit-learn,Nagpur,4,139332.0,False,6.5
+Scikit-learn,Nanded,3,141569.66666666666,False,4.4
+Scikit-learn,Nashik,5,207210.4,False,10.5
+Scikit-learn,Osmanabad,8,179850.25,False,16.7
+Scikit-learn,Parbhani,3,93250.0,False,4.1
+Scikit-learn,Pune,5,188619.4,False,11.1
+Scikit-learn,Raigad,3,72170.33333333333,False,5.7
+Scikit-learn,Sangli,4,218443.25,False,9.4
+Scikit-learn,Satara,3,199447.33333333334,False,5.0
+Scikit-learn,Solapur,6,52821.666666666664,False,11.9
+Scikit-learn,Yavatmal,5,141637.4,False,9.5
+Selenium,Ahmednagar,4,142487.5,False,7.0
+Selenium,Akola,5,208702.2,False,8.5
+Selenium,Aurangabad,2,90105.5,False,2.6
+Selenium,Beed,3,249267.33333333334,False,5.7
+Selenium,Bhiwandi,7,158607.85714285713,False,16.7
+Selenium,Chandrapur,5,78705.2,False,9.5
+Selenium,Dhule,6,192450.0,False,15.2
+Selenium,Jalgaon,7,112850.14285714286,False,15.8
+Selenium,Jalna,3,134027.33333333334,False,4.3
+Selenium,Kolhapur,3,155942.66666666666,False,5.0
+Selenium,Latur,3,288326.3333333333,False,5.1
+Selenium,Mumbai,8,121818.75,False,22.2
+Selenium,Nagpur,3,142311.66666666666,False,4.3
+Selenium,Nanded,6,126358.83333333333,False,11.1
+Selenium,Nashik,5,75455.8,False,10.5
+Selenium,Osmanabad,5,199665.6,False,9.5
+Selenium,Parbhani,4,82709.0,False,6.1
+Selenium,Pune,2,119299.5,False,2.8
+Selenium,Sangli,4,261745.25,False,9.4
+Selenium,Satara,5,64131.8,False,10.0
+Selenium,Solapur,3,261263.66666666666,False,4.8
+Selenium,Yavatmal,7,78744.42857142857,False,14.3
+Sketch,Ahmednagar,7,131459.14285714287,False,14.0
+Sketch,Akola,5,144467.2,False,8.5
+Sketch,Amravati,1,15413.0,False,0.0
+Sketch,Aurangabad,5,112588.2,False,10.3
+Sketch,Beed,5,66868.2,False,11.4
+Sketch,Bhiwandi,6,228843.33333333334,False,13.9
+Sketch,Chandrapur,4,116835.0,False,7.1
+Sketch,Dhule,5,100302.6,False,12.1
+Sketch,Jalgaon,3,125299.0,False,5.3
+Sketch,Jalna,3,146740.33333333334,False,4.3
+Sketch,Kolhapur,2,221896.5,False,2.5
+Sketch,Latur,5,99390.8,False,10.3
+Sketch,Mumbai,2,138591.5,False,0.0
+Sketch,Nagpur,7,192184.0,False,13.0
+Sketch,Nanded,2,268587.5,False,2.2
+Sketch,Nashik,2,176395.0,False,2.6
+Sketch,Osmanabad,7,56959.0,False,14.3
+Sketch,Parbhani,4,59988.5,False,6.1
+Sketch,Pune,4,65304.25,False,8.3
+Sketch,Raigad,3,166860.66666666666,False,5.7
+Sketch,Sangli,4,113896.75,False,9.4
+Sketch,Satara,8,88544.75,False,17.5
+Sketch,Solapur,5,154350.2,False,9.5
+Sketch,Yavatmal,4,184216.5,False,7.1
+Social Media Marketing,Ahmednagar,4,61033.25,True,7.0
+Social Media Marketing,Akola,3,200105.66666666666,True,4.3
+Social Media Marketing,Amravati,7,115920.14285714286,True,19.4
+Social Media Marketing,Aurangabad,7,58598.71428571428,True,15.4
+Social Media Marketing,Beed,8,170162.125,True,20.0
+Social Media Marketing,Bhiwandi,7,185975.85714285713,True,16.7
+Social Media Marketing,Chandrapur,9,285265.55555555556,True,19.0
+Social Media Marketing,Dhule,10,159258.3,True,27.3
+Social Media Marketing,Jalgaon,7,109578.42857142857,True,15.8
+Social Media Marketing,Jalna,3,27853.333333333332,True,4.3
+Social Media Marketing,Kolhapur,4,135340.0,True,7.5
+Social Media Marketing,Latur,7,165250.0,True,15.4
+Social Media Marketing,Mumbai,5,126626.8,True,11.1
+Social Media Marketing,Nagpur,3,62135.333333333336,True,4.3
+Social Media Marketing,Nanded,8,216508.875,True,15.6
+Social Media Marketing,Nashik,8,173563.0,True,18.4
+Social Media Marketing,Osmanabad,7,164436.14285714287,True,14.3
+Social Media Marketing,Parbhani,1,476024.0,True,0.0
+Social Media Marketing,Pune,8,209087.25,True,19.4
+Social Media Marketing,Raigad,5,279742.2,True,11.4
+Social Media Marketing,Sangli,5,164443.4,True,12.5
+Social Media Marketing,Satara,8,193805.5,True,17.5
+Social Media Marketing,Solapur,2,72311.0,True,2.4
+Social Media Marketing,Yavatmal,5,190410.6,True,9.5
+Statistics,Ahmednagar,3,45779.666666666664,False,4.7
+Statistics,Akola,3,250348.0,False,4.3
+Statistics,Amravati,7,165846.57142857142,False,19.4
+Statistics,Aurangabad,7,157843.85714285713,False,15.4
+Statistics,Beed,6,261595.33333333334,False,14.3
+Statistics,Chandrapur,1,187068.0,False,0.0
+Statistics,Dhule,5,96536.0,False,12.1
+Statistics,Jalgaon,1,55770.0,False,0.0
+Statistics,Jalna,4,89356.5,False,6.5
+Statistics,Kolhapur,2,31593.5,False,2.5
+Statistics,Latur,6,232400.16666666666,False,12.8
+Statistics,Mumbai,3,42983.666666666664,False,3.7
+Statistics,Nagpur,4,149934.5,False,6.5
+Statistics,Nanded,5,108882.4,False,8.9
+Statistics,Nashik,2,36115.0,False,2.6
+Statistics,Osmanabad,2,79954.0,False,2.4
+Statistics,Parbhani,2,109147.0,False,2.0
+Statistics,Pune,4,82607.75,False,8.3
+Statistics,Raigad,4,111403.25,False,8.6
+Statistics,Sangli,7,73059.0,False,18.7
+Statistics,Satara,5,75050.4,False,10.0
+Statistics,Solapur,4,67480.5,False,7.1
+Statistics,Yavatmal,4,125784.75,False,7.1
+TIG Welding,Ahmednagar,5,104341.2,False,9.3
+TIG Welding,Akola,2,78948.5,False,2.1
+TIG Welding,Amravati,7,109943.14285714286,False,19.4
+TIG Welding,Aurangabad,8,167780.25,False,17.9
+TIG Welding,Beed,2,39819.0,False,2.9
+TIG Welding,Bhiwandi,8,129819.875,False,19.4
+TIG Welding,Chandrapur,3,76734.66666666667,False,4.8
+TIG Welding,Dhule,8,136627.25,False,21.2
+TIG Welding,Jalgaon,3,219668.0,False,5.3
+TIG Welding,Jalna,7,145670.2857142857,False,13.0
+TIG Welding,Kolhapur,3,176600.33333333334,False,5.0
+TIG Welding,Latur,10,145359.7,False,23.1
+TIG Welding,Mumbai,4,68585.0,False,7.4
+TIG Welding,Nagpur,5,283808.2,False,8.7
+TIG Welding,Nanded,4,44558.75,False,6.7
+TIG Welding,Nashik,10,190794.1,False,23.7
+TIG Welding,Osmanabad,4,94346.25,False,7.1
+TIG Welding,Parbhani,7,192212.85714285713,False,12.2
+TIG Welding,Pune,9,196434.55555555556,False,22.2
+TIG Welding,Raigad,6,156593.16666666666,False,14.3
+TIG Welding,Sangli,2,109601.0,False,3.1
+TIG Welding,Satara,3,433085.0,False,5.0
+TIG Welding,Solapur,6,88768.83333333333,False,11.9
+TIG Welding,Yavatmal,5,142796.4,False,9.5
+Tableau,Ahmednagar,2,77898.0,True,2.3
+Tableau,Akola,5,176293.4,True,8.5
+Tableau,Amravati,5,221282.0,True,12.9
+Tableau,Aurangabad,4,181709.0,True,7.7
+Tableau,Beed,5,264541.2,True,11.4
+Tableau,Bhiwandi,2,70081.0,True,2.8
+Tableau,Chandrapur,5,130387.2,True,9.5
+Tableau,Dhule,4,133177.0,True,9.1
+Tableau,Jalgaon,3,103373.33333333333,True,5.3
+Tableau,Jalna,2,85181.5,True,2.2
+Tableau,Kolhapur,6,130897.83333333333,True,12.5
+Tableau,Latur,5,298463.0,True,10.3
+Tableau,Mumbai,4,80516.5,True,7.4
+Tableau,Nagpur,6,93028.5,True,10.9
+Tableau,Nanded,2,41165.0,True,2.2
+Tableau,Nashik,3,58933.666666666664,True,5.3
+Tableau,Osmanabad,3,170933.33333333334,True,4.8
+Tableau,Parbhani,1,23110.0,True,0.0
+Tableau,Pune,4,189434.0,True,8.3
+Tableau,Raigad,3,134753.66666666666,True,5.7
+Tableau,Sangli,5,69873.2,True,12.5
+Tableau,Satara,4,79924.0,True,7.5
+Tableau,Solapur,3,89788.66666666667,True,4.8
+Tableau,Yavatmal,5,45935.6,True,9.5
+Tally,Ahmednagar,1,15200.0,False,0.0
+Tally,Akola,5,73653.8,False,8.5
+Tally,Amravati,5,154773.0,False,12.9
+Tally,Aurangabad,5,65825.0,False,10.3
+Tally,Beed,5,122048.8,False,11.4
+Tally,Bhiwandi,2,180094.5,False,2.8
+Tally,Chandrapur,9,87947.0,False,19.0
+Tally,Dhule,6,134445.83333333334,False,15.2
+Tally,Jalgaon,6,127394.16666666667,False,13.2
+Tally,Jalna,4,87691.0,False,6.5
+Tally,Kolhapur,5,68947.4,False,10.0
+Tally,Latur,4,114117.75,False,7.7
+Tally,Mumbai,7,146690.7142857143,False,18.5
+Tally,Nagpur,7,127863.71428571429,False,13.0
+Tally,Nanded,5,123243.2,False,8.9
+Tally,Nashik,2,37381.0,False,2.6
+Tally,Osmanabad,3,138704.66666666666,False,4.8
+Tally,Parbhani,6,225294.16666666666,False,10.2
+Tally,Pune,8,112865.125,False,19.4
+Tally,Raigad,3,170127.66666666666,False,5.7
+Tally,Sangli,5,111961.6,False,12.5
+Tally,Satara,3,106114.33333333333,False,5.0
+Tally,Yavatmal,2,41291.5,False,2.4
+Taxation,Ahmednagar,2,117811.0,False,2.3
+Taxation,Akola,4,100696.0,False,6.4
+Taxation,Amravati,5,226607.4,False,12.9
+Taxation,Aurangabad,8,47047.875,False,17.9
+Taxation,Beed,4,109302.0,False,8.6
+Taxation,Bhiwandi,3,144658.33333333334,False,5.6
+Taxation,Chandrapur,11,90321.54545454546,False,23.8
+Taxation,Dhule,7,193501.14285714287,False,18.2
+Taxation,Jalgaon,6,117558.5,False,13.2
+Taxation,Kolhapur,6,60276.0,False,12.5
+Taxation,Latur,4,215982.0,False,7.7
+Taxation,Mumbai,4,169794.0,False,7.4
+Taxation,Nagpur,8,200551.875,False,15.2
+Taxation,Nanded,5,151180.0,False,8.9
+Taxation,Nashik,3,163392.0,False,5.3
+Taxation,Osmanabad,5,101222.8,False,9.5
+Taxation,Parbhani,6,77720.33333333333,False,10.2
+Taxation,Pune,9,127956.88888888889,False,22.2
+Taxation,Raigad,1,30403.0,False,0.0
+Taxation,Sangli,5,55358.0,False,12.5
+Taxation,Satara,4,124362.0,False,7.5
+Taxation,Yavatmal,5,173682.4,False,9.5
+Team Leadership,Ahmednagar,7,128375.14285714286,False,14.0
+Team Leadership,Akola,3,231725.0,False,4.3
+Team Leadership,Amravati,8,180019.75,False,22.6
+Team Leadership,Aurangabad,4,85245.5,False,7.7
+Team Leadership,Beed,4,98000.0,False,8.6
+Team Leadership,Bhiwandi,11,96773.36363636363,False,27.8
+Team Leadership,Chandrapur,1,41542.0,False,0.0
+Team Leadership,Dhule,8,72946.875,False,21.2
+Team Leadership,Jalgaon,5,88831.0,False,10.5
+Team Leadership,Jalna,4,54801.75,False,6.5
+Team Leadership,Kolhapur,5,162405.4,False,10.0
+Team Leadership,Latur,9,195027.44444444444,False,20.5
+Team Leadership,Mumbai,5,239875.2,False,11.1
+Team Leadership,Nagpur,4,208079.75,False,6.5
+Team Leadership,Nanded,4,144393.0,False,6.7
+Team Leadership,Nashik,6,87501.33333333333,False,13.2
+Team Leadership,Osmanabad,7,224268.14285714287,False,14.3
+Team Leadership,Parbhani,2,42044.0,False,2.0
+Team Leadership,Pune,6,147968.5,False,13.9
+Team Leadership,Raigad,4,96336.75,False,8.6
+Team Leadership,Sangli,6,213893.16666666666,False,15.6
+Team Leadership,Satara,1,37159.0,False,0.0
+Team Leadership,Solapur,7,165286.7142857143,False,14.3
+Team Leadership,Yavatmal,5,256183.4,False,9.5
+TensorFlow,Ahmednagar,2,89268.0,False,2.3
+TensorFlow,Akola,3,122544.0,False,4.3
+TensorFlow,Amravati,1,489095.0,False,0.0
+TensorFlow,Aurangabad,4,216267.0,False,7.7
+TensorFlow,Beed,7,163056.85714285713,False,17.1
+TensorFlow,Bhiwandi,6,52933.833333333336,False,13.9
+TensorFlow,Chandrapur,5,313831.4,False,9.5
+TensorFlow,Dhule,6,128323.83333333333,False,15.2
+TensorFlow,Jalgaon,1,358411.0,False,0.0
+TensorFlow,Jalna,6,53328.5,False,10.9
+TensorFlow,Kolhapur,4,71192.75,False,7.5
+TensorFlow,Latur,8,102687.25,False,17.9
+TensorFlow,Mumbai,7,112852.85714285714,False,18.5
+TensorFlow,Nagpur,5,81367.4,False,8.7
+TensorFlow,Nanded,6,150922.83333333334,False,11.1
+TensorFlow,Nashik,6,194256.83333333334,False,13.2
+TensorFlow,Osmanabad,7,215274.42857142858,False,14.3
+TensorFlow,Parbhani,3,66981.0,False,4.1
+TensorFlow,Pune,9,187340.66666666666,False,22.2
+TensorFlow,Raigad,4,174531.25,False,8.6
+TensorFlow,Sangli,6,156478.0,False,15.6
+TensorFlow,Satara,3,75043.33333333333,False,5.0
+TensorFlow,Solapur,7,112517.14285714286,False,14.3
+TensorFlow,Yavatmal,4,170459.0,False,7.1
+Terraform,Ahmednagar,1,109793.0,True,0.0
+Terraform,Akola,4,236512.5,True,6.4
+Terraform,Amravati,7,151753.7142857143,True,19.4
+Terraform,Aurangabad,2,31941.0,True,2.6
+Terraform,Beed,6,156035.66666666666,True,14.3
+Terraform,Bhiwandi,4,199562.0,True,8.3
+Terraform,Chandrapur,4,103469.75,True,7.1
+Terraform,Dhule,3,66148.0,True,6.1
+Terraform,Jalgaon,2,105129.0,True,2.6
+Terraform,Jalna,1,44004.0,True,0.0
+Terraform,Kolhapur,4,64277.25,True,7.5
+Terraform,Latur,4,263852.25,True,7.7
+Terraform,Mumbai,5,99496.6,True,11.1
+Terraform,Nagpur,7,203521.7142857143,True,13.0
+Terraform,Nanded,1,174734.0,True,0.0
+Terraform,Nashik,11,97742.54545454546,True,26.3
+Terraform,Osmanabad,2,119299.5,True,2.4
+Terraform,Parbhani,5,159925.4,True,8.2
+Terraform,Pune,4,70562.25,True,8.3
+Terraform,Raigad,6,139153.16666666666,True,14.3
+Terraform,Sangli,2,157992.0,True,3.1
+Terraform,Satara,2,88070.0,True,2.5
+Terraform,Solapur,5,130678.8,True,9.5
+Terraform,Yavatmal,1,202258.0,True,0.0
+Testing,Ahmednagar,3,155248.66666666666,False,4.7
+Testing,Akola,5,134309.6,False,8.5
+Testing,Aurangabad,5,112799.2,False,10.3
+Testing,Beed,3,173187.66666666666,False,5.7
+Testing,Bhiwandi,4,137962.0,False,8.3
+Testing,Chandrapur,3,34915.333333333336,False,4.8
+Testing,Dhule,7,144697.85714285713,False,18.2
+Testing,Jalgaon,8,133256.0,False,18.4
+Testing,Jalna,3,28414.0,False,4.3
+Testing,Kolhapur,4,172058.75,False,7.5
+Testing,Latur,2,415800.0,False,2.6
+Testing,Mumbai,5,118674.8,False,11.1
+Testing,Nagpur,4,136522.5,False,6.5
+Testing,Nanded,6,152250.16666666666,False,11.1
+Testing,Nashik,5,76976.2,False,10.5
+Testing,Osmanabad,1,259190.0,False,0.0
+Testing,Parbhani,6,121392.5,False,10.2
+Testing,Pune,3,71018.66666666667,False,5.6
+Testing,Raigad,1,19430.0,False,0.0
+Testing,Sangli,5,229363.4,False,12.5
+Testing,Satara,9,128653.11111111111,False,20.0
+Testing,Solapur,5,165967.8,False,9.5
+Testing,Yavatmal,5,87281.4,False,9.5
+Tracking Systems,Ahmednagar,2,91451.0,False,2.3
+Tracking Systems,Akola,9,72537.33333333333,False,17.0
+Tracking Systems,Amravati,5,144530.8,False,12.9
+Tracking Systems,Aurangabad,2,119788.5,False,2.6
+Tracking Systems,Beed,3,62538.666666666664,False,5.7
+Tracking Systems,Bhiwandi,3,115198.33333333333,False,5.6
+Tracking Systems,Chandrapur,7,64657.71428571428,False,14.3
+Tracking Systems,Dhule,3,206876.33333333334,False,6.1
+Tracking Systems,Jalgaon,4,48378.25,False,7.9
+Tracking Systems,Jalna,5,251773.0,False,8.7
+Tracking Systems,Kolhapur,8,131811.0,False,17.5
+Tracking Systems,Latur,1,57764.0,False,0.0
+Tracking Systems,Mumbai,3,215921.0,False,3.7
+Tracking Systems,Nagpur,4,126228.75,False,6.5
+Tracking Systems,Nanded,8,82913.5,False,15.6
+Tracking Systems,Nashik,9,150845.11111111112,False,21.1
+Tracking Systems,Osmanabad,5,68390.6,False,9.5
+Tracking Systems,Parbhani,5,107215.4,False,8.2
+Tracking Systems,Pune,5,117762.8,False,11.1
+Tracking Systems,Raigad,6,88894.16666666667,False,14.3
+Tracking Systems,Sangli,5,97351.6,False,12.5
+Tracking Systems,Satara,5,136092.4,False,10.0
+Tracking Systems,Solapur,5,174075.2,False,9.5
+Tracking Systems,Yavatmal,2,25701.5,False,2.4
+Training Delivery,Ahmednagar,9,124672.55555555556,False,18.6
+Training Delivery,Akola,7,136775.2857142857,False,12.8
+Training Delivery,Amravati,4,223877.5,False,9.7
+Training Delivery,Aurangabad,6,149366.33333333334,False,12.8
+Training Delivery,Beed,8,297037.125,False,20.0
+Training Delivery,Bhiwandi,9,98619.44444444444,False,22.2
+Training Delivery,Chandrapur,7,165703.0,False,14.3
+Training Delivery,Dhule,6,186965.66666666666,False,15.2
+Training Delivery,Jalgaon,4,163071.25,False,7.9
+Training Delivery,Jalna,5,55929.8,False,8.7
+Training Delivery,Kolhapur,3,61431.0,False,5.0
+Training Delivery,Latur,4,45403.25,False,7.7
+Training Delivery,Mumbai,5,123917.6,False,11.1
+Training Delivery,Nagpur,5,62461.2,False,8.7
+Training Delivery,Nanded,7,115754.28571428571,False,13.3
+Training Delivery,Nashik,6,93082.33333333333,False,13.2
+Training Delivery,Osmanabad,1,342639.0,False,0.0
+Training Delivery,Parbhani,9,184830.66666666666,False,16.3
+Training Delivery,Pune,4,47387.5,False,8.3
+Training Delivery,Raigad,2,75489.5,False,2.9
+Training Delivery,Sangli,2,73071.5,False,3.1
+Training Delivery,Satara,7,129529.57142857143,False,15.0
+Training Delivery,Solapur,7,88337.14285714286,False,14.3
+Training Delivery,Yavatmal,6,162927.33333333334,False,11.9
+Transportation Management,Ahmednagar,5,105347.4,False,9.3
+Transportation Management,Akola,9,82737.55555555556,False,17.0
+Transportation Management,Amravati,5,123407.8,False,12.9
+Transportation Management,Aurangabad,2,119788.5,False,2.6
+Transportation Management,Beed,2,31076.0,False,2.9
+Transportation Management,Bhiwandi,2,137945.0,False,2.8
+Transportation Management,Chandrapur,4,116109.25,False,7.1
+Transportation Management,Dhule,5,140914.0,False,12.1
+Transportation Management,Jalgaon,5,94617.6,False,10.5
+Transportation Management,Jalna,3,189539.0,False,4.3
+Transportation Management,Kolhapur,8,99980.25,False,17.5
+Transportation Management,Latur,3,36932.333333333336,False,5.1
+Transportation Management,Mumbai,2,86855.5,False,0.0
+Transportation Management,Nagpur,5,107030.8,False,8.7
+Transportation Management,Nanded,8,83850.375,False,15.6
+Transportation Management,Nashik,10,168519.1,False,23.7
+Transportation Management,Osmanabad,6,59773.666666666664,False,11.9
+Transportation Management,Parbhani,5,117077.6,False,8.2
+Transportation Management,Pune,5,136806.4,False,11.1
+Transportation Management,Raigad,7,138958.14285714287,False,17.1
+Transportation Management,Sangli,4,121611.75,False,9.4
+Transportation Management,Satara,3,132787.0,False,5.0
+Transportation Management,Solapur,5,131550.8,False,9.5
+Transportation Management,Yavatmal,3,28793.0,False,4.8
+Troubleshooting,Ahmednagar,11,82918.18181818182,False,23.3
+Troubleshooting,Akola,15,126227.2,False,29.8
+Troubleshooting,Amravati,10,178354.6,False,29.0
+Troubleshooting,Aurangabad,19,158960.68421052632,False,46.2
+Troubleshooting,Beed,17,121137.4705882353,False,45.7
+Troubleshooting,Bhiwandi,9,129421.88888888889,False,22.2
+Troubleshooting,Chandrapur,11,153341.45454545456,False,23.8
+Troubleshooting,Dhule,13,107610.76923076923,False,36.4
+Troubleshooting,Jalgaon,8,255552.75,False,18.4
+Troubleshooting,Jalna,8,140835.625,False,15.2
+Troubleshooting,Kolhapur,13,129730.46153846153,False,30.0
+Troubleshooting,Latur,12,200954.5,False,28.2
+Troubleshooting,Mumbai,13,208272.0,False,40.7
+Troubleshooting,Nagpur,7,180338.2857142857,False,13.0
+Troubleshooting,Nanded,5,235563.4,False,8.9
+Troubleshooting,Nashik,11,137210.0,False,26.3
+Troubleshooting,Osmanabad,15,136369.13333333333,False,33.3
+Troubleshooting,Parbhani,13,128850.38461538461,False,24.5
+Troubleshooting,Pune,7,107229.85714285714,False,16.7
+Troubleshooting,Raigad,8,95541.625,False,20.0
+Troubleshooting,Sangli,16,132390.4375,False,46.9
+Troubleshooting,Satara,5,166323.2,False,10.0
+Troubleshooting,Solapur,13,173016.6923076923,False,28.6
+Troubleshooting,Yavatmal,10,110949.5,False,21.4
+User Research,Ahmednagar,6,134490.16666666666,False,11.6
+User Research,Akola,6,131787.83333333334,False,10.6
+User Research,Amravati,2,317494.5,False,3.2
+User Research,Aurangabad,6,110457.16666666667,False,12.8
+User Research,Beed,4,124088.25,False,8.6
+User Research,Bhiwandi,4,236050.25,False,8.3
+User Research,Chandrapur,5,115564.4,False,9.5
+User Research,Dhule,7,121803.28571428571,False,18.2
+User Research,Jalgaon,4,144713.75,False,7.9
+User Research,Jalna,2,136012.5,False,2.2
+User Research,Kolhapur,1,337494.0,False,0.0
+User Research,Latur,7,139028.85714285713,False,15.4
+User Research,Mumbai,2,312732.5,False,0.0
+User Research,Nagpur,4,119750.0,False,6.5
+User Research,Nanded,4,157750.5,False,6.7
+User Research,Nashik,4,149454.5,False,7.9
+User Research,Osmanabad,8,79390.875,False,16.7
+User Research,Parbhani,2,85758.0,False,2.0
+User Research,Pune,2,103536.0,False,2.8
+User Research,Raigad,2,60970.5,False,2.9
+User Research,Sangli,4,82522.75,False,9.4
+User Research,Satara,6,145510.83333333334,False,12.5
+User Research,Solapur,3,238986.0,False,4.8
+User Research,Yavatmal,3,151147.66666666666,False,4.8
+Vital Signs,Ahmednagar,5,122307.4,False,9.3
+Vital Signs,Akola,4,106930.0,False,6.4
+Vital Signs,Amravati,4,179508.5,False,9.7
+Vital Signs,Aurangabad,7,106314.85714285714,False,15.4
+Vital Signs,Beed,5,108631.2,False,11.4
+Vital Signs,Bhiwandi,6,96798.16666666667,False,13.9
+Vital Signs,Chandrapur,5,189763.6,False,9.5
+Vital Signs,Dhule,7,109556.42857142857,False,18.2
+Vital Signs,Jalgaon,5,126323.8,False,10.5
+Vital Signs,Jalna,1,17540.0,False,0.0
+Vital Signs,Kolhapur,4,148175.0,False,7.5
+Vital Signs,Latur,2,47639.0,False,2.6
+Vital Signs,Mumbai,6,191885.5,False,14.8
+Vital Signs,Nagpur,10,181096.0,False,19.6
+Vital Signs,Nanded,4,190716.25,False,6.7
+Vital Signs,Nashik,4,144161.0,False,7.9
+Vital Signs,Osmanabad,5,110012.8,False,9.5
+Vital Signs,Parbhani,10,149511.0,False,18.4
+Vital Signs,Pune,5,59305.4,False,11.1
+Vital Signs,Raigad,7,74290.71428571429,False,17.1
+Vital Signs,Sangli,6,152013.0,False,15.6
+Vital Signs,Satara,8,136893.75,False,17.5
+Vital Signs,Solapur,5,156898.0,False,9.5
+Vital Signs,Yavatmal,9,173738.0,False,19.0
+WMS,Ahmednagar,7,63513.142857142855,False,14.0
+WMS,Akola,4,179114.25,False,6.4
+WMS,Amravati,11,158125.54545454544,False,32.3
+WMS,Aurangabad,7,91881.85714285714,False,15.4
+WMS,Beed,5,93357.0,False,11.4
+WMS,Bhiwandi,11,105982.27272727272,False,27.8
+WMS,Chandrapur,1,41542.0,False,0.0
+WMS,Dhule,7,93679.14285714286,False,18.2
+WMS,Jalgaon,5,149834.2,False,10.5
+WMS,Jalna,5,68363.2,False,8.7
+WMS,Kolhapur,5,160566.4,False,10.0
+WMS,Latur,10,177169.9,False,23.1
+WMS,Mumbai,3,224758.33333333334,False,3.7
+WMS,Nagpur,4,152482.5,False,6.5
+WMS,Nanded,6,136602.0,False,11.1
+WMS,Nashik,7,77156.14285714286,False,15.8
+WMS,Osmanabad,8,259938.5,False,16.7
+WMS,Parbhani,2,147802.5,False,2.0
+WMS,Pune,7,159881.0,False,16.7
+WMS,Raigad,6,159094.0,False,14.3
+WMS,Sangli,6,213893.16666666666,False,15.6
+WMS,Satara,3,46074.333333333336,False,5.0
+WMS,Solapur,5,125400.8,False,9.5
+WMS,Yavatmal,7,299602.4285714286,False,14.3
+Wireframing,Ahmednagar,10,114819.6,False,20.9
+Wireframing,Akola,3,47749.666666666664,False,4.3
+Wireframing,Amravati,1,28599.0,False,0.0
+Wireframing,Aurangabad,2,84436.5,False,2.6
+Wireframing,Beed,3,73215.66666666667,False,5.7
+Wireframing,Bhiwandi,3,132606.33333333334,False,5.6
+Wireframing,Chandrapur,3,124275.0,False,4.8
+Wireframing,Dhule,6,119605.83333333333,False,15.2
+Wireframing,Jalgaon,4,147198.0,False,7.9
+Wireframing,Jalna,1,229008.0,False,0.0
+Wireframing,Kolhapur,4,220238.5,False,7.5
+Wireframing,Latur,5,165449.2,False,10.3
+Wireframing,Mumbai,3,230377.0,False,3.7
+Wireframing,Nagpur,7,113688.85714285714,False,13.0
+Wireframing,Nanded,3,56094.0,False,4.4
+Wireframing,Nashik,3,119176.33333333333,False,5.3
+Wireframing,Osmanabad,5,106117.0,False,9.5
+Wireframing,Parbhani,4,70862.5,False,6.1
+Wireframing,Pune,1,94328.0,False,0.0
+Wireframing,Sangli,2,43176.0,False,3.1
+Wireframing,Satara,6,90106.5,False,12.5
+Wireframing,Solapur,3,209155.0,False,4.8
+Wireframing,Yavatmal,4,148967.5,False,7.1
+WordPress,Ahmednagar,7,267882.4285714286,False,14.0
+WordPress,Akola,6,209784.83333333334,False,10.6
+WordPress,Amravati,8,134086.875,False,22.6
+WordPress,Aurangabad,1,28939.0,False,0.0
+WordPress,Beed,7,221773.2857142857,False,17.1
+WordPress,Bhiwandi,4,76977.75,False,8.3
+WordPress,Chandrapur,11,135644.72727272726,False,23.8
+WordPress,Dhule,3,214408.0,False,6.1
+WordPress,Jalgaon,5,53084.4,False,10.5
+WordPress,Jalna,4,81716.25,False,6.5
+WordPress,Kolhapur,6,175889.5,False,12.5
+WordPress,Latur,2,75015.5,False,2.6
+WordPress,Mumbai,6,123756.83333333333,False,14.8
+WordPress,Nagpur,1,25975.0,False,0.0
+WordPress,Nanded,5,149132.8,False,8.9
+WordPress,Nashik,4,102462.75,False,7.9
+WordPress,Osmanabad,7,190975.57142857142,False,14.3
+WordPress,Parbhani,4,152420.75,False,6.1
+WordPress,Pune,9,213469.88888888888,False,22.2
+WordPress,Raigad,9,134315.44444444444,False,22.9
+WordPress,Sangli,7,148896.0,False,18.7
+WordPress,Satara,6,71374.5,False,12.5
+WordPress,Solapur,1,33195.0,False,0.0
+WordPress,Yavatmal,7,180270.0,False,14.3
+Zendesk,Ahmednagar,3,259071.0,False,4.7
+Zendesk,Akola,6,129804.66666666667,False,10.6
+Zendesk,Amravati,4,71124.75,False,9.7
+Zendesk,Aurangabad,5,132543.2,False,10.3
+Zendesk,Beed,5,65845.4,False,11.4
+Zendesk,Bhiwandi,4,240979.25,False,8.3
+Zendesk,Chandrapur,3,287826.3333333333,False,4.8
+Zendesk,Dhule,3,145522.66666666666,False,6.1
+Zendesk,Jalgaon,4,124782.25,False,7.9
+Zendesk,Jalna,2,31510.0,False,2.2
+Zendesk,Kolhapur,4,56254.5,False,7.5
+Zendesk,Latur,4,96811.75,False,7.7
+Zendesk,Mumbai,3,106278.0,False,3.7
+Zendesk,Nagpur,6,48360.333333333336,False,10.9
+Zendesk,Nanded,12,116191.5,False,24.4
+Zendesk,Nashik,5,147450.2,False,10.5
+Zendesk,Osmanabad,5,243980.4,False,9.5
+Zendesk,Parbhani,8,200960.375,False,14.3
+Zendesk,Pune,4,128379.25,False,8.3
+Zendesk,Raigad,4,172906.75,False,8.6
+Zendesk,Sangli,3,83844.66666666667,False,6.2
+Zendesk,Satara,4,87428.5,False,7.5
+Zendesk,Solapur,5,115613.6,False,9.5
+Zendesk,Yavatmal,7,139280.2857142857,False,14.3

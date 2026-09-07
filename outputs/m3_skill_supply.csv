@@ -1,0 +1,534 @@
+skill_name,district,total_capacity,available_seats,total_trainers,avg_placement_rate,course_count
+AWS,Jalgaon,268,47,8,23.53,1
+AWS,Kolhapur,196,127,5,44.93,1
+AWS,Osmanabad,133,37,4,3.12,1
+AWS Basics,Ahmednagar,260,170,14,32.22,1
+AWS Basics,Gondia,148,90,15,25.86,1
+AWS Basics,Nanded,134,84,11,80.0,1
+AWS Basics,Nashik,293,2,7,68.73,1
+AWS Basics,Parbhani,234,88,11,16.44,1
+AWS Basics,Wardha,172,116,6,71.43,1
+Active Listening,Akola,60,8,2,73.08,1
+Active Listening,Bhiwandi,153,19,10,38.81,1
+Active Listening,Latur,70,30,10,52.5,1
+Active Listening,Osmanabad,140,24,7,19.83,1
+Active Listening,Ratnagiri,174,89,3,45.88,1
+Active Listening,Solapur,167,64,15,39.285,1
+Advanced Materials,Aurangabad,199,25,7,10.34,1
+Advanced Materials,Beed,149,46,8,77.67,1
+Advanced Materials,Bhandara,207,115,13,65.22,1
+Advanced Materials,Bhiwandi,243,156,6,28.74,1
+Advanced Materials,Nashik,272,170,9,51.96,1
+Advanced Materials,Parbhani,112,15,10,18.56,1
+Advanced Materials,Pune,71,24,14,42.55,1
+Advanced Materials,Sangli,151,61,14,73.33,1
+Arc Welding,Aurangabad,199,25,7,10.34,1
+Arc Welding,Beed,149,46,8,77.67,1
+Arc Welding,Bhandara,207,115,13,65.22,1
+Arc Welding,Bhiwandi,243,156,6,28.74,1
+Arc Welding,Nashik,272,170,9,51.96,1
+Arc Welding,Parbhani,112,15,10,18.56,1
+Arc Welding,Pune,71,24,14,42.55,1
+Arc Welding,Sangli,151,61,14,73.33,1
+Automation Basics,Gondia,54,3,6,49.02,1
+Automation Basics,Jalna,107,57,5,62.0,1
+Automation Basics,Mumbai,230,144,12,76.74,1
+Automation Basics,Ratnagiri,64,16,4,66.67,1
+Automation Basics,Satara,173,105,10,13.24,1
+Automation Basics,Sindhudurg,389,123,23,36.455,1
+Automation Systems,Gadchiroli,289,156,12,63.16,1
+Automation Systems,Gondia,94,57,13,32.43,1
+Automation Systems,Jalna,179,34,4,28.97,1
+Automation Systems,Osmanabad,139,46,9,63.44,1
+Automation Systems,Raigad,190,85,8,78.1,1
+Automation Systems,Sangli,286,112,12,72.41,1
+Automation Systems,Solapur,154,59,9,7.37,1
+Automation Systems,Washim,277,62,9,67.91,1
+Automation in Labs,Aurangabad,291,66,5,29.33,1
+Automation in Labs,Jalgaon,256,108,10,27.03,1
+Automation in Labs,Satara,67,47,9,60.0,1
+Automation in Labs,Thane,65,16,8,61.22,1
+Automation in Processing,Ahmednagar,92,41,5,72.55,1
+Automation in Processing,Osmanabad,223,143,12,67.5,1
+Automation in Processing,Parbhani,254,142,12,37.5,1
+Automation in Processing,Pune,132,68,14,45.31,1
+Automation in Processing,Wardha,190,93,8,23.71,1
+Big Data Basics,Latur,218,102,8,14.66,1
+Big Data Basics,Parbhani,78,10,15,66.18,1
+Big Data Basics,Pune,193,46,14,48.44,1
+Blueprint Reading,Aurangabad,199,25,7,10.34,1
+Blueprint Reading,Beed,149,46,8,77.67,1
+Blueprint Reading,Bhandara,207,115,13,65.22,1
+Blueprint Reading,Bhiwandi,243,156,6,28.74,1
+Blueprint Reading,Gondia,54,3,6,49.02,1
+Blueprint Reading,Jalna,107,57,5,62.0,1
+Blueprint Reading,Mumbai,230,144,12,76.74,1
+Blueprint Reading,Nashik,272,170,9,51.96,1
+Blueprint Reading,Parbhani,112,15,10,18.56,1
+Blueprint Reading,Pune,71,24,14,42.55,1
+Blueprint Reading,Ratnagiri,64,16,4,66.67,1
+Blueprint Reading,Sangli,151,61,14,73.33,1
+Blueprint Reading,Satara,173,105,10,13.24,1
+Blueprint Reading,Sindhudurg,389,123,23,36.455,1
+CAD/CAM,Gondia,54,3,6,49.02,1
+CAD/CAM,Jalna,107,57,5,62.0,1
+CAD/CAM,Mumbai,230,144,12,76.74,1
+CAD/CAM,Ratnagiri,64,16,4,66.67,1
+CAD/CAM,Satara,173,105,10,13.24,1
+CAD/CAM,Sindhudurg,389,123,23,36.455,1
+CNC Programming,Gondia,54,3,6,49.02,1
+CNC Programming,Jalna,107,57,5,62.0,1
+CNC Programming,Mumbai,230,144,12,76.74,1
+CNC Programming,Ratnagiri,64,16,4,66.67,1
+CNC Programming,Satara,173,105,10,13.24,1
+CNC Programming,Sindhudurg,389,123,23,36.455,1
+CRM Software,Akola,60,8,2,73.08,1
+CRM Software,Bhiwandi,153,19,10,38.81,1
+CRM Software,Latur,70,30,10,52.5,1
+CRM Software,Osmanabad,140,24,7,19.83,1
+CRM Software,Ratnagiri,174,89,3,45.88,1
+CRM Software,Solapur,167,64,15,39.285,1
+Cash Handling,Aurangabad,161,69,7,1.09,1
+Cash Handling,Osmanabad,254,9,12,42.86,1
+Cash Handling,Raigad,249,167,5,59.76,1
+Cash Handling,Solapur,256,44,4,11.79,1
+Cash Handling,Washim,196,34,11,64.2,1
+Chatbot Management,Akola,60,8,2,73.08,1
+Chatbot Management,Bhiwandi,153,19,10,38.81,1
+Chatbot Management,Latur,70,30,10,52.5,1
+Chatbot Management,Osmanabad,140,24,7,19.83,1
+Chatbot Management,Ratnagiri,174,89,3,45.88,1
+Chatbot Management,Solapur,167,64,15,39.285,1
+Cloud Security,Jalgaon,268,47,8,23.53,1
+Cloud Security,Kolhapur,196,127,5,44.93,1
+Cloud Security,Osmanabad,133,37,4,3.12,1
+Cold Chain Management,Ahmednagar,92,41,5,72.55,1
+Cold Chain Management,Osmanabad,223,143,12,67.5,1
+Cold Chain Management,Parbhani,254,142,12,37.5,1
+Cold Chain Management,Pune,132,68,14,45.31,1
+Cold Chain Management,Wardha,190,93,8,23.71,1
+Communication,Akola,60,8,2,73.08,1
+Communication,Bhiwandi,153,19,10,38.81,1
+Communication,Latur,70,30,10,52.5,1
+Communication,Osmanabad,140,24,7,19.83,1
+Communication,Ratnagiri,174,89,3,45.88,1
+Communication,Solapur,167,64,15,39.285,1
+Component Replacement,Beed,121,12,11,76.15,1
+Component Replacement,Bhandara,63,19,9,6.82,1
+Component Replacement,Chandrapur,124,66,5,65.52,1
+Component Replacement,Nagpur,214,37,13,38.42,1
+Component Replacement,Sangli,154,5,9,63.09,1
+Component Replacement,Sindhudurg,254,50,10,46.08,1
+Component Replacement,Wardha,100,45,8,3.64,1
+Conflict Resolution,Akola,60,8,2,73.08,1
+Conflict Resolution,Bhiwandi,153,19,10,38.81,1
+Conflict Resolution,Latur,70,30,10,52.5,1
+Conflict Resolution,Osmanabad,140,24,7,19.83,1
+Conflict Resolution,Ratnagiri,174,89,3,45.88,1
+Conflict Resolution,Solapur,167,64,15,39.285,1
+Content Marketing,Dhule,203,27,2,72.73,1
+Content Marketing,Kolhapur,217,65,3,74.34,1
+Content Marketing,Washim,287,124,2,46.01,1
+Customer Service,Aurangabad,161,69,7,1.09,1
+Customer Service,Beed,121,12,11,76.15,1
+Customer Service,Bhandara,63,19,9,6.82,1
+Customer Service,Chandrapur,124,66,5,65.52,1
+Customer Service,Nagpur,214,37,13,38.42,1
+Customer Service,Osmanabad,254,9,12,42.86,1
+Customer Service,Raigad,249,167,5,59.76,1
+Customer Service,Sangli,154,5,9,63.09,1
+Customer Service,Sindhudurg,254,50,10,46.08,1
+Customer Service,Solapur,256,44,4,11.79,1
+Customer Service,Wardha,100,45,8,3.64,1
+Customer Service,Washim,196,34,11,64.2,1
+Data Visualization,Latur,218,102,8,14.66,1
+Data Visualization,Parbhani,78,10,15,66.18,1
+Data Visualization,Pune,193,46,14,48.44,1
+Digital Pathology Basics,Aurangabad,291,66,5,29.33,1
+Digital Pathology Basics,Jalgaon,256,108,10,27.03,1
+Digital Pathology Basics,Satara,67,47,9,60.0,1
+Digital Pathology Basics,Thane,65,16,8,61.22,1
+Docker,Ahmednagar,260,170,14,32.22,1
+Docker,Gondia,148,90,15,25.86,1
+Docker,Jalgaon,268,47,8,23.53,1
+Docker,Kolhapur,196,127,5,44.93,1
+Docker,Nanded,134,84,11,80.0,1
+Docker,Nashik,293,2,7,68.73,1
+Docker,Osmanabad,133,37,4,3.12,1
+Docker,Parbhani,234,88,11,16.44,1
+Docker,Wardha,172,116,6,71.43,1
+E-commerce Basics,Aurangabad,161,69,7,1.09,1
+E-commerce Basics,Osmanabad,254,9,12,42.86,1
+E-commerce Basics,Raigad,249,167,5,59.76,1
+E-commerce Basics,Solapur,256,44,4,11.79,1
+E-commerce Basics,Washim,196,34,11,64.2,1
+Equipment Operation,Aurangabad,291,66,5,29.33,1
+Equipment Operation,Jalgaon,256,108,10,27.03,1
+Equipment Operation,Satara,67,47,9,60.0,1
+Equipment Operation,Thane,65,16,8,61.22,1
+Excel,Latur,218,102,8,14.66,1
+Excel,Parbhani,78,10,15,66.18,1
+Excel,Pune,193,46,14,48.44,1
+Export Standards,Ahmednagar,92,41,5,72.55,1
+Export Standards,Osmanabad,223,143,12,67.5,1
+Export Standards,Parbhani,254,142,12,37.5,1
+Export Standards,Pune,132,68,14,45.31,1
+Export Standards,Wardha,190,93,8,23.71,1
+Food Safety,Ahmednagar,92,41,5,72.55,1
+Food Safety,Osmanabad,223,143,12,67.5,1
+Food Safety,Parbhani,254,142,12,37.5,1
+Food Safety,Pune,132,68,14,45.31,1
+Food Safety,Wardha,190,93,8,23.71,1
+Forklift Operation,Gadchiroli,289,156,12,63.16,1
+Forklift Operation,Gondia,94,57,13,32.43,1
+Forklift Operation,Jalna,179,34,4,28.97,1
+Forklift Operation,Osmanabad,139,46,9,63.44,1
+Forklift Operation,Raigad,190,85,8,78.1,1
+Forklift Operation,Sangli,286,112,12,72.41,1
+Forklift Operation,Solapur,154,59,9,7.37,1
+Forklift Operation,Washim,277,62,9,67.91,1
+Git,Ahmednagar,260,170,14,32.22,1
+Git,Gondia,148,90,15,25.86,1
+Git,Nanded,134,84,11,80.0,1
+Git,Nashik,293,2,7,68.73,1
+Git,Parbhani,234,88,11,16.44,1
+Git,Wardha,172,116,6,71.43,1
+Google Analytics,Dhule,203,27,2,72.73,1
+Google Analytics,Kolhapur,217,65,3,74.34,1
+Google Analytics,Washim,287,124,2,46.01,1
+GraphQL,Ahmednagar,260,170,14,32.22,1
+GraphQL,Gondia,148,90,15,25.86,1
+GraphQL,Nanded,134,84,11,80.0,1
+GraphQL,Nashik,293,2,7,68.73,1
+GraphQL,Parbhani,234,88,11,16.44,1
+GraphQL,Wardha,172,116,6,71.43,1
+HTML/CSS,Ahmednagar,260,170,14,32.22,1
+HTML/CSS,Gondia,148,90,15,25.86,1
+HTML/CSS,Nanded,134,84,11,80.0,1
+HTML/CSS,Nashik,293,2,7,68.73,1
+HTML/CSS,Parbhani,234,88,11,16.44,1
+HTML/CSS,Wardha,172,116,6,71.43,1
+Hygiene Standards,Ahmednagar,92,41,5,72.55,1
+Hygiene Standards,Osmanabad,223,143,12,67.5,1
+Hygiene Standards,Parbhani,254,142,12,37.5,1
+Hygiene Standards,Pune,132,68,14,45.31,1
+Hygiene Standards,Wardha,190,93,8,23.71,1
+Influencer Marketing,Dhule,203,27,2,72.73,1
+Influencer Marketing,Kolhapur,217,65,3,74.34,1
+Influencer Marketing,Washim,287,124,2,46.01,1
+Inventory Management,Aurangabad,161,69,7,1.09,1
+Inventory Management,Gadchiroli,289,156,12,63.16,1
+Inventory Management,Gondia,94,57,13,32.43,1
+Inventory Management,Jalna,179,34,4,28.97,1
+Inventory Management,Osmanabad,393,55,21,53.15,2
+Inventory Management,Raigad,439,252,13,68.92999999999999,2
+Inventory Management,Sangli,286,112,12,72.41,1
+Inventory Management,Solapur,410,103,13,9.58,2
+Inventory Management,Washim,473,96,20,66.055,2
+JavaScript,Ahmednagar,260,170,14,32.22,1
+JavaScript,Gondia,148,90,15,25.86,1
+JavaScript,Nanded,134,84,11,80.0,1
+JavaScript,Nashik,293,2,7,68.73,1
+JavaScript,Parbhani,234,88,11,16.44,1
+JavaScript,Wardha,172,116,6,71.43,1
+Kubernetes,Jalgaon,268,47,8,23.53,1
+Kubernetes,Kolhapur,196,127,5,44.93,1
+Kubernetes,Osmanabad,133,37,4,3.12,1
+LIS Software,Aurangabad,291,66,5,29.33,1
+LIS Software,Jalgaon,256,108,10,27.03,1
+LIS Software,Satara,67,47,9,60.0,1
+LIS Software,Thane,65,16,8,61.22,1
+Lab Testing,Aurangabad,291,66,5,29.33,1
+Lab Testing,Jalgaon,256,108,10,27.03,1
+Lab Testing,Satara,67,47,9,60.0,1
+Lab Testing,Thane,65,16,8,61.22,1
+Linux,Jalgaon,268,47,8,23.53,1
+Linux,Kolhapur,196,127,5,44.93,1
+Linux,Osmanabad,133,37,4,3.12,1
+MIG Welding,Aurangabad,199,25,7,10.34,1
+MIG Welding,Beed,149,46,8,77.67,1
+MIG Welding,Bhandara,207,115,13,65.22,1
+MIG Welding,Bhiwandi,243,156,6,28.74,1
+MIG Welding,Nashik,272,170,9,51.96,1
+MIG Welding,Parbhani,112,15,10,18.56,1
+MIG Welding,Pune,71,24,14,42.55,1
+MIG Welding,Sangli,151,61,14,73.33,1
+Machine Learning Basics,Latur,218,102,8,14.66,1
+Machine Learning Basics,Parbhani,78,10,15,66.18,1
+Machine Learning Basics,Pune,193,46,14,48.44,1
+Machine Setup,Gondia,54,3,6,49.02,1
+Machine Setup,Jalna,107,57,5,62.0,1
+Machine Setup,Mumbai,230,144,12,76.74,1
+Machine Setup,Ratnagiri,64,16,4,66.67,1
+Machine Setup,Satara,173,105,10,13.24,1
+Machine Setup,Sindhudurg,389,123,23,36.455,1
+Marketing Automation,Dhule,203,27,2,72.73,1
+Marketing Automation,Kolhapur,217,65,3,74.34,1
+Marketing Automation,Washim,287,124,2,46.01,1
+Merchandising,Aurangabad,161,69,7,1.09,1
+Merchandising,Osmanabad,254,9,12,42.86,1
+Merchandising,Raigad,249,167,5,59.76,1
+Merchandising,Solapur,256,44,4,11.79,1
+Merchandising,Washim,196,34,11,64.2,1
+Mobile Hardware,Beed,121,12,11,76.15,1
+Mobile Hardware,Bhandara,63,19,9,6.82,1
+Mobile Hardware,Chandrapur,124,66,5,65.52,1
+Mobile Hardware,Nagpur,214,37,13,38.42,1
+Mobile Hardware,Sangli,154,5,9,63.09,1
+Mobile Hardware,Sindhudurg,254,50,10,46.08,1
+Mobile Hardware,Wardha,100,45,8,3.64,1
+MongoDB,Ahmednagar,260,170,14,32.22,1
+MongoDB,Gondia,148,90,15,25.86,1
+MongoDB,Nanded,134,84,11,80.0,1
+MongoDB,Nashik,293,2,7,68.73,1
+MongoDB,Parbhani,234,88,11,16.44,1
+MongoDB,Wardha,172,116,6,71.43,1
+Networking Basics,Jalgaon,268,47,8,23.53,1
+Networking Basics,Kolhapur,196,127,5,44.93,1
+Networking Basics,Osmanabad,133,37,4,3.12,1
+Node.js,Ahmednagar,260,170,14,32.22,1
+Node.js,Gondia,148,90,15,25.86,1
+Node.js,Nanded,134,84,11,80.0,1
+Node.js,Nashik,293,2,7,68.73,1
+Node.js,Parbhani,234,88,11,16.44,1
+Node.js,Wardha,172,116,6,71.43,1
+Omnichannel Retail,Aurangabad,161,69,7,1.09,1
+Omnichannel Retail,Osmanabad,254,9,12,42.86,1
+Omnichannel Retail,Raigad,249,167,5,59.76,1
+Omnichannel Retail,Solapur,256,44,4,11.79,1
+Omnichannel Retail,Washim,196,34,11,64.2,1
+POS Systems,Aurangabad,161,69,7,1.09,1
+POS Systems,Osmanabad,254,9,12,42.86,1
+POS Systems,Raigad,249,167,5,59.76,1
+POS Systems,Solapur,256,44,4,11.79,1
+POS Systems,Washim,196,34,11,64.2,1
+Packaging,Ahmednagar,92,41,5,72.55,1
+Packaging,Osmanabad,223,143,12,67.5,1
+Packaging,Parbhani,254,142,12,37.5,1
+Packaging,Pune,132,68,14,45.31,1
+Packaging,Wardha,190,93,8,23.71,1
+Pandas,Latur,218,102,8,14.66,1
+Pandas,Parbhani,78,10,15,66.18,1
+Pandas,Pune,193,46,14,48.44,1
+Power BI,Latur,218,102,8,14.66,1
+Power BI,Parbhani,78,10,15,66.18,1
+Power BI,Pune,193,46,14,48.44,1
+Precision Measurement,Gondia,54,3,6,49.02,1
+Precision Measurement,Jalna,107,57,5,62.0,1
+Precision Measurement,Mumbai,230,144,12,76.74,1
+Precision Measurement,Ratnagiri,64,16,4,66.67,1
+Precision Measurement,Satara,173,105,10,13.24,1
+Precision Measurement,Sindhudurg,389,123,23,36.455,1
+Problem Solving,Akola,60,8,2,73.08,1
+Problem Solving,Bhiwandi,153,19,10,38.81,1
+Problem Solving,Latur,70,30,10,52.5,1
+Problem Solving,Osmanabad,140,24,7,19.83,1
+Problem Solving,Ratnagiri,174,89,3,45.88,1
+Problem Solving,Solapur,167,64,15,39.285,1
+Processing Operations,Ahmednagar,92,41,5,72.55,1
+Processing Operations,Osmanabad,223,143,12,67.5,1
+Processing Operations,Parbhani,254,142,12,37.5,1
+Processing Operations,Pune,132,68,14,45.31,1
+Processing Operations,Wardha,190,93,8,23.71,1
+Python,Latur,218,102,8,14.66,1
+Python,Parbhani,78,10,15,66.18,1
+Python,Pune,193,46,14,48.44,1
+Quality Control,Aurangabad,291,66,5,29.33,1
+Quality Control,Jalgaon,256,108,10,27.03,1
+Quality Control,Satara,67,47,9,60.0,1
+Quality Control,Thane,65,16,8,61.22,1
+Quality Control Software,Gondia,54,3,6,49.02,1
+Quality Control Software,Jalna,107,57,5,62.0,1
+Quality Control Software,Mumbai,230,144,12,76.74,1
+Quality Control Software,Ratnagiri,64,16,4,66.67,1
+Quality Control Software,Satara,173,105,10,13.24,1
+Quality Control Software,Sindhudurg,389,123,23,36.455,1
+Quality Testing,Ahmednagar,92,41,5,72.55,1
+Quality Testing,Osmanabad,223,143,12,67.5,1
+Quality Testing,Parbhani,254,142,12,37.5,1
+Quality Testing,Pune,132,68,14,45.31,1
+Quality Testing,Wardha,190,93,8,23.71,1
+REST API,Ahmednagar,260,170,14,32.22,1
+REST API,Gondia,148,90,15,25.86,1
+REST API,Nanded,134,84,11,80.0,1
+REST API,Nashik,293,2,7,68.73,1
+REST API,Parbhani,234,88,11,16.44,1
+REST API,Wardha,172,116,6,71.43,1
+RFID Technology,Gadchiroli,289,156,12,63.16,1
+RFID Technology,Gondia,94,57,13,32.43,1
+RFID Technology,Jalna,179,34,4,28.97,1
+RFID Technology,Osmanabad,139,46,9,63.44,1
+RFID Technology,Raigad,190,85,8,78.1,1
+RFID Technology,Sangli,286,112,12,72.41,1
+RFID Technology,Solapur,154,59,9,7.37,1
+RFID Technology,Washim,277,62,9,67.91,1
+React,Ahmednagar,260,170,14,32.22,1
+React,Gondia,148,90,15,25.86,1
+React,Nanded,134,84,11,80.0,1
+React,Nashik,293,2,7,68.73,1
+React,Parbhani,234,88,11,16.44,1
+React,Wardha,172,116,6,71.43,1
+Remote Support Tools,Akola,60,8,2,73.08,1
+Remote Support Tools,Bhiwandi,153,19,10,38.81,1
+Remote Support Tools,Latur,70,30,10,52.5,1
+Remote Support Tools,Osmanabad,140,24,7,19.83,1
+Remote Support Tools,Ratnagiri,174,89,3,45.88,1
+Remote Support Tools,Solapur,167,64,15,39.285,1
+Robotic Welding Basics,Aurangabad,199,25,7,10.34,1
+Robotic Welding Basics,Beed,149,46,8,77.67,1
+Robotic Welding Basics,Bhandara,207,115,13,65.22,1
+Robotic Welding Basics,Bhiwandi,243,156,6,28.74,1
+Robotic Welding Basics,Nashik,272,170,9,51.96,1
+Robotic Welding Basics,Parbhani,112,15,10,18.56,1
+Robotic Welding Basics,Pune,71,24,14,42.55,1
+Robotic Welding Basics,Sangli,151,61,14,73.33,1
+SEM,Dhule,203,27,2,72.73,1
+SEM,Kolhapur,217,65,3,74.34,1
+SEM,Washim,287,124,2,46.01,1
+SEO,Dhule,203,27,2,72.73,1
+SEO,Kolhapur,217,65,3,74.34,1
+SEO,Washim,287,124,2,46.01,1
+SQL,Latur,218,102,8,14.66,1
+SQL,Parbhani,78,10,15,66.18,1
+SQL,Pune,193,46,14,48.44,1
+Safety,Aurangabad,291,66,5,29.33,1
+Safety,Gondia,54,3,6,49.02,1
+Safety,Jalgaon,256,108,10,27.03,1
+Safety,Jalna,107,57,5,62.0,1
+Safety,Mumbai,230,144,12,76.74,1
+Safety,Ratnagiri,64,16,4,66.67,1
+Safety,Satara,240,152,19,36.62,2
+Safety,Sindhudurg,389,123,23,36.455,1
+Safety,Thane,65,16,8,61.22,1
+Safety Standards,Aurangabad,199,25,7,10.34,1
+Safety Standards,Beed,149,46,8,77.67,1
+Safety Standards,Bhandara,207,115,13,65.22,1
+Safety Standards,Bhiwandi,243,156,6,28.74,1
+Safety Standards,Gadchiroli,289,156,12,63.16,1
+Safety Standards,Gondia,94,57,13,32.43,1
+Safety Standards,Jalna,179,34,4,28.97,1
+Safety Standards,Nashik,272,170,9,51.96,1
+Safety Standards,Osmanabad,139,46,9,63.44,1
+Safety Standards,Parbhani,112,15,10,18.56,1
+Safety Standards,Pune,71,24,14,42.55,1
+Safety Standards,Raigad,190,85,8,78.1,1
+Safety Standards,Sangli,437,173,26,72.87,2
+Safety Standards,Solapur,154,59,9,7.37,1
+Safety Standards,Washim,277,62,9,67.91,1
+Sales Techniques,Aurangabad,161,69,7,1.09,1
+Sales Techniques,Osmanabad,254,9,12,42.86,1
+Sales Techniques,Raigad,249,167,5,59.76,1
+Sales Techniques,Solapur,256,44,4,11.79,1
+Sales Techniques,Washim,196,34,11,64.2,1
+Sample Collection,Aurangabad,291,66,5,29.33,1
+Sample Collection,Jalgaon,256,108,10,27.03,1
+Sample Collection,Satara,67,47,9,60.0,1
+Sample Collection,Thane,65,16,8,61.22,1
+Screen Replacement Advanced,Beed,121,12,11,76.15,1
+Screen Replacement Advanced,Bhandara,63,19,9,6.82,1
+Screen Replacement Advanced,Chandrapur,124,66,5,65.52,1
+Screen Replacement Advanced,Nagpur,214,37,13,38.42,1
+Screen Replacement Advanced,Sangli,154,5,9,63.09,1
+Screen Replacement Advanced,Sindhudurg,254,50,10,46.08,1
+Screen Replacement Advanced,Wardha,100,45,8,3.64,1
+Serverless,Jalgaon,268,47,8,23.53,1
+Serverless,Kolhapur,196,127,5,44.93,1
+Serverless,Osmanabad,133,37,4,3.12,1
+Smartphone Diagnostics,Beed,121,12,11,76.15,1
+Smartphone Diagnostics,Bhandara,63,19,9,6.82,1
+Smartphone Diagnostics,Chandrapur,124,66,5,65.52,1
+Smartphone Diagnostics,Nagpur,214,37,13,38.42,1
+Smartphone Diagnostics,Sangli,154,5,9,63.09,1
+Smartphone Diagnostics,Sindhudurg,254,50,10,46.08,1
+Smartphone Diagnostics,Wardha,100,45,8,3.64,1
+Social Media Marketing,Dhule,203,27,2,72.73,1
+Social Media Marketing,Kolhapur,217,65,3,74.34,1
+Social Media Marketing,Washim,287,124,2,46.01,1
+Social Media Support,Akola,60,8,2,73.08,1
+Social Media Support,Bhiwandi,153,19,10,38.81,1
+Social Media Support,Latur,70,30,10,52.5,1
+Social Media Support,Osmanabad,140,24,7,19.83,1
+Social Media Support,Ratnagiri,174,89,3,45.88,1
+Social Media Support,Solapur,167,64,15,39.285,1
+Software Flashing,Beed,121,12,11,76.15,1
+Software Flashing,Bhandara,63,19,9,6.82,1
+Software Flashing,Chandrapur,124,66,5,65.52,1
+Software Flashing,Nagpur,214,37,13,38.42,1
+Software Flashing,Sangli,154,5,9,63.09,1
+Software Flashing,Sindhudurg,254,50,10,46.08,1
+Software Flashing,Wardha,100,45,8,3.64,1
+Statistics,Latur,218,102,8,14.66,1
+Statistics,Parbhani,78,10,15,66.18,1
+Statistics,Pune,193,46,14,48.44,1
+Supply Chain Analytics,Gadchiroli,289,156,12,63.16,1
+Supply Chain Analytics,Gondia,94,57,13,32.43,1
+Supply Chain Analytics,Jalna,179,34,4,28.97,1
+Supply Chain Analytics,Osmanabad,139,46,9,63.44,1
+Supply Chain Analytics,Raigad,190,85,8,78.1,1
+Supply Chain Analytics,Sangli,286,112,12,72.41,1
+Supply Chain Analytics,Solapur,154,59,9,7.37,1
+Supply Chain Analytics,Washim,277,62,9,67.91,1
+TIG Welding,Aurangabad,199,25,7,10.34,1
+TIG Welding,Beed,149,46,8,77.67,1
+TIG Welding,Bhandara,207,115,13,65.22,1
+TIG Welding,Bhiwandi,243,156,6,28.74,1
+TIG Welding,Nashik,272,170,9,51.96,1
+TIG Welding,Parbhani,112,15,10,18.56,1
+TIG Welding,Pune,71,24,14,42.55,1
+TIG Welding,Sangli,151,61,14,73.33,1
+Tableau,Latur,218,102,8,14.66,1
+Tableau,Parbhani,78,10,15,66.18,1
+Tableau,Pune,193,46,14,48.44,1
+Team Coordination,Gadchiroli,289,156,12,63.16,1
+Team Coordination,Gondia,94,57,13,32.43,1
+Team Coordination,Jalna,179,34,4,28.97,1
+Team Coordination,Osmanabad,139,46,9,63.44,1
+Team Coordination,Raigad,190,85,8,78.1,1
+Team Coordination,Sangli,286,112,12,72.41,1
+Team Coordination,Solapur,154,59,9,7.37,1
+Team Coordination,Washim,277,62,9,67.91,1
+Terraform,Jalgaon,268,47,8,23.53,1
+Terraform,Kolhapur,196,127,5,44.93,1
+Terraform,Osmanabad,133,37,4,3.12,1
+Troubleshooting,Beed,121,12,11,76.15,1
+Troubleshooting,Bhandara,63,19,9,6.82,1
+Troubleshooting,Chandrapur,124,66,5,65.52,1
+Troubleshooting,Nagpur,214,37,13,38.42,1
+Troubleshooting,Sangli,154,5,9,63.09,1
+Troubleshooting,Sindhudurg,254,50,10,46.08,1
+Troubleshooting,Wardha,100,45,8,3.64,1
+TypeScript,Ahmednagar,260,170,14,32.22,1
+TypeScript,Gondia,148,90,15,25.86,1
+TypeScript,Nanded,134,84,11,80.0,1
+TypeScript,Nashik,293,2,7,68.73,1
+TypeScript,Parbhani,234,88,11,16.44,1
+TypeScript,Wardha,172,116,6,71.43,1
+Video Marketing,Dhule,203,27,2,72.73,1
+Video Marketing,Kolhapur,217,65,3,74.34,1
+Video Marketing,Washim,287,124,2,46.01,1
+Virtualization,Jalgaon,268,47,8,23.53,1
+Virtualization,Kolhapur,196,127,5,44.93,1
+Virtualization,Osmanabad,133,37,4,3.12,1
+WMS,Gadchiroli,289,156,12,63.16,1
+WMS,Gondia,94,57,13,32.43,1
+WMS,Jalna,179,34,4,28.97,1
+WMS,Osmanabad,139,46,9,63.44,1
+WMS,Raigad,190,85,8,78.1,1
+WMS,Sangli,286,112,12,72.41,1
+WMS,Solapur,154,59,9,7.37,1
+WMS,Washim,277,62,9,67.91,1
+Water Damage Repair,Beed,121,12,11,76.15,1
+Water Damage Repair,Bhandara,63,19,9,6.82,1
+Water Damage Repair,Chandrapur,124,66,5,65.52,1
+Water Damage Repair,Nagpur,214,37,13,38.42,1
+Water Damage Repair,Sangli,154,5,9,63.09,1
+Water Damage Repair,Sindhudurg,254,50,10,46.08,1
+Water Damage Repair,Wardha,100,45,8,3.64,1
+Weld Inspection,Aurangabad,199,25,7,10.34,1
+Weld Inspection,Beed,149,46,8,77.67,1
+Weld Inspection,Bhandara,207,115,13,65.22,1
+Weld Inspection,Bhiwandi,243,156,6,28.74,1
+Weld Inspection,Nashik,272,170,9,51.96,1
+Weld Inspection,Parbhani,112,15,10,18.56,1
+Weld Inspection,Pune,71,24,14,42.55,1
+Weld Inspection,Sangli,151,61,14,73.33,1

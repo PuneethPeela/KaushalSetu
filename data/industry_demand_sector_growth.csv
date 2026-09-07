@@ -1,0 +1,681 @@
+sector,district,current_employment,projected_employment_2yr,growth_rate_percent,key_roles_in_demand,skills_gap_percent,avg_salary_offered,training_alignment_score,employer_satisfaction_score,hiring_intent_next_quarter,technology_adoption_level,automation_risk,green_jobs_potential,last_survey_date
+IT & Software Services,Mumbai,11778,13357,13.41,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,43.21,118924,77.53,40.35,Low,Emerging,Low,High,2026-06-16
+IT & Software Services,Pune,15049,18463,22.69,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,52.19,125389,71.43,48.43,Low,Moderate,Medium,Medium,2026-08-15
+IT & Software Services,Nagpur,39204,47135,20.23,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,29.67,36958,48.61,80.64,High,Moderate,Medium,High,2026-08-31
+IT & Software Services,Thane,23837,29749,24.8,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,35.78,66443,55.09,54.26,High,Emerging,High,Medium,2026-08-11
+IT & Software Services,Nashik,39108,46025,17.69,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,32.11,95088,34.01,81.68,Low,Basic,Low,Medium,2026-04-03
+IT & Software Services,Aurangabad,49965,57312,14.71,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,46.77,69743,45.78,80.05,No Change,Emerging,High,Medium,2026-07-06
+IT & Software Services,Solapur,18357,21045,14.65,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,26.54,146756,45.89,53.41,Medium,Moderate,Low,High,2026-03-12
+IT & Software Services,Amravati,36377,41371,13.73,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,36.9,96277,49.35,60.71,No Change,Moderate,Medium,Low,2026-04-17
+IT & Software Services,Kolhapur,19528,22259,13.99,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,21.01,97030,64.22,83.43,High,Moderate,Medium,High,2026-07-10
+IT & Software Services,Sangli,12907,15977,23.79,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,30.7,95375,66.99,67.31,Low,Moderate,Medium,Medium,2026-06-02
+IT & Software Services,Jalgaon,34229,40401,18.03,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,26.79,110162,50.72,47.43,Medium,Moderate,Medium,Low,2026-04-18
+IT & Software Services,Akola,28686,33029,15.14,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,53.05,106568,75.74,54.67,Low,Advanced,Low,High,2026-04-13
+IT & Software Services,Latur,44937,51645,14.93,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,43.47,149181,66.35,63.03,Medium,Emerging,High,High,2026-05-09
+IT & Software Services,Dhule,32946,40576,23.16,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,23.45,72110,46.51,75.09,High,Emerging,High,Low,2026-03-15
+IT & Software Services,Ahmednagar,3753,4567,21.69,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,31.03,45932,36.86,87.81,No Change,Emerging,Medium,High,2026-08-30
+IT & Software Services,Chandrapur,3494,3954,13.17,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,26.26,43544,58.07,81.57,High,Moderate,High,Low,2026-09-02
+IT & Software Services,Parbhani,1595,1944,21.9,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,48.11,100235,64.99,51.18,Low,Emerging,High,High,2026-05-25
+IT & Software Services,Jalna,42697,48926,14.59,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,24.55,92876,71.53,63.01,Low,Advanced,High,High,2026-04-09
+IT & Software Services,Bhiwandi,43661,51313,17.53,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,37.21,127255,55.81,79.13,Low,Emerging,Medium,High,2026-03-17
+IT & Software Services,Nanded,28254,33259,17.71,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,24.83,45215,64.82,52.78,No Change,Moderate,Medium,High,2026-07-02
+IT & Software Services,Satara,2036,2497,22.65,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,43.26,136082,38.97,52.98,No Change,Basic,High,Medium,2026-07-07
+IT & Software Services,Beed,15078,17563,16.49,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,46.16,70802,81.35,54.7,Low,Advanced,High,Low,2026-04-14
+IT & Software Services,Yavatmal,17048,20490,20.2,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,19.04,115237,75.9,63.96,High,Advanced,Low,Medium,2026-07-20
+IT & Software Services,Osmanabad,30457,36794,20.81,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,51.97,91738,79.91,67.05,Low,Emerging,Medium,Medium,2026-07-14
+IT & Software Services,Raigad,2326,2889,24.25,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,42.71,130397,32.8,62.1,No Change,Advanced,Low,Medium,2026-05-05
+IT & Software Services,Ratnagiri,44137,50144,13.61,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,39.12,132203,50.14,41.59,No Change,Moderate,Medium,Low,2026-08-22
+IT & Software Services,Sindhudurg,21479,24438,13.78,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,17.13,85207,38.71,76.8,Medium,Emerging,High,Medium,2026-04-23
+IT & Software Services,Wardha,1869,2181,16.72,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,30.03,112716,43.9,55.4,Low,Basic,Medium,High,2026-05-12
+IT & Software Services,Washim,14056,16093,14.5,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,23.92,47257,37.72,81.35,Low,Advanced,High,Low,2026-04-20
+IT & Software Services,Gondia,32265,39267,21.7,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,48.7,141703,80.05,76.69,Medium,Basic,Medium,Medium,2026-06-25
+IT & Software Services,Bhandara,20721,24577,18.61,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,46.6,123389,31.71,87.4,Medium,Advanced,Low,Low,2026-05-02
+IT & Software Services,Gadchiroli,8808,10406,18.15,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,47.03,116577,56.62,81.03,High,Basic,Low,High,2026-03-19
+IT & Software Services,Hingoli,7078,7995,12.97,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,58.59,54290,74.48,64.26,High,Emerging,High,Low,2026-06-03
+IT & Software Services,Nandurbar,7178,8462,17.9,Software Developer; Data Analyst; Cloud Engineer; DevOps Engineer; Cybersecurity Analyst,27.92,143876,39.77,65.24,High,Advanced,Low,Medium,2026-03-15
+Manufacturing,Mumbai,26496,29599,11.71,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,53.87,21873,64.12,89.25,High,Basic,High,High,2026-08-24
+Manufacturing,Pune,46241,49318,6.65,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,33.4,34343,71.57,70.4,Low,Emerging,Low,Medium,2026-08-23
+Manufacturing,Nagpur,33938,38363,13.04,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,58.8,18729,55.03,76.43,No Change,Basic,Low,Low,2026-06-15
+Manufacturing,Thane,1051,1134,7.97,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,57.6,22095,55.1,78.3,No Change,Basic,Low,High,2026-06-22
+Manufacturing,Nashik,20795,23218,11.66,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,53.9,40179,70.41,47.56,No Change,Emerging,Medium,Medium,2026-06-30
+Manufacturing,Aurangabad,46293,50203,8.45,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,19.48,48417,42.09,85.06,Medium,Emerging,Medium,High,2026-07-19
+Manufacturing,Solapur,45039,50393,11.89,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,40.73,31898,58.6,87.9,Low,Basic,Medium,Low,2026-07-29
+Manufacturing,Amravati,24370,27275,11.92,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,30.97,28641,49.01,56.04,Medium,Basic,High,High,2026-06-04
+Manufacturing,Kolhapur,1502,1714,14.17,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,55.23,40841,65.31,52.18,No Change,Moderate,High,Low,2026-04-24
+Manufacturing,Sangli,9852,10724,8.85,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,18.79,19630,48.61,60.71,High,Basic,High,Medium,2026-06-30
+Manufacturing,Jalgaon,18756,20189,7.64,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,35.51,30851,75.99,73.6,Medium,Advanced,Medium,High,2026-07-26
+Manufacturing,Akola,10256,10907,6.35,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,25.74,19604,43.1,41.26,Low,Emerging,Low,Low,2026-04-15
+Manufacturing,Latur,12290,13843,12.64,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,33.39,27628,77.77,47.34,Medium,Advanced,Medium,High,2026-05-26
+Manufacturing,Dhule,12615,13834,9.67,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,17.17,18612,31.03,67.54,No Change,Advanced,High,Low,2026-03-13
+Manufacturing,Ahmednagar,40428,42561,5.28,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,44.29,29283,55.78,75.62,Low,Moderate,High,High,2026-07-21
+Manufacturing,Chandrapur,23572,26262,11.41,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,42.3,20283,45.25,56.3,Low,Moderate,Medium,Medium,2026-07-26
+Manufacturing,Parbhani,18472,20500,10.98,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,57.06,16161,42.17,51.66,Medium,Moderate,Low,High,2026-06-27
+Manufacturing,Jalna,33837,35592,5.19,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,29.9,22499,83.85,52.7,High,Emerging,Medium,Low,2026-08-18
+Manufacturing,Bhiwandi,47010,50504,7.43,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,28.1,15869,46.61,78.02,Medium,Basic,High,Low,2026-04-29
+Manufacturing,Nanded,49020,53443,9.02,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,39.98,41696,57.45,52.47,Low,Basic,High,Low,2026-08-22
+Manufacturing,Satara,21133,23613,11.74,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,34.91,31968,35.16,76.68,Low,Emerging,Medium,Low,2026-05-01
+Manufacturing,Beed,13887,14676,5.68,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,42.44,21483,50.35,41.61,No Change,Emerging,Low,High,2026-03-29
+Manufacturing,Yavatmal,25110,27952,11.32,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,26.21,44349,55.96,63.0,Medium,Moderate,Low,High,2026-05-22
+Manufacturing,Osmanabad,17790,19890,11.81,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,42.71,49220,78.42,84.77,Medium,Advanced,Low,Low,2026-04-28
+Manufacturing,Raigad,1632,1769,8.45,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,31.91,43941,38.38,41.9,High,Advanced,High,Low,2026-08-07
+Manufacturing,Ratnagiri,13421,14355,6.96,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,35.62,27511,83.02,68.23,Low,Moderate,High,High,2026-03-22
+Manufacturing,Sindhudurg,35003,37100,5.99,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,35.22,43813,30.11,53.11,Low,Basic,Low,Low,2026-05-19
+Manufacturing,Wardha,13025,14543,11.66,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,26.14,28254,59.29,53.61,High,Moderate,High,High,2026-08-12
+Manufacturing,Washim,20758,22561,8.69,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,49.74,23647,48.71,43.27,Low,Moderate,Low,High,2026-04-16
+Manufacturing,Gondia,5242,5625,7.32,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,29.16,26569,45.32,41.84,High,Basic,Low,Low,2026-08-23
+Manufacturing,Bhandara,43182,48368,12.01,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,57.35,27248,58.87,84.24,Low,Emerging,Low,Low,2026-06-17
+Manufacturing,Gadchiroli,39986,42271,5.71,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,36.67,24131,77.22,77.51,High,Moderate,High,Low,2026-05-26
+Manufacturing,Hingoli,26285,29322,11.56,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,33.94,22791,39.52,78.37,No Change,Emerging,Medium,Low,2026-04-04
+Manufacturing,Nandurbar,35986,39745,10.45,Machine Operator; Quality Analyst; Fitter; Welder; Production Supervisor,21.9,25296,64.17,80.17,High,Emerging,Low,Low,2026-08-23
+Healthcare,Mumbai,30003,35649,18.82,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,32.44,55298,54.01,86.77,Low,Emerging,Medium,High,2026-04-02
+Healthcare,Pune,4850,5813,19.87,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,38.18,41625,83.82,67.43,Medium,Emerging,Low,High,2026-06-22
+Healthcare,Nagpur,45945,52762,14.84,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,25.22,58617,46.37,42.5,High,Moderate,Low,Low,2026-05-06
+Healthcare,Thane,21469,25416,18.39,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,29.54,49066,61.78,72.61,Medium,Emerging,Low,High,2026-07-06
+Healthcare,Nashik,43997,49388,12.26,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,47.37,32417,42.2,51.35,No Change,Advanced,High,Low,2026-08-15
+Healthcare,Aurangabad,43988,52846,20.14,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,36.13,76640,49.39,50.75,No Change,Moderate,Low,Low,2026-04-09
+Healthcare,Solapur,38662,46750,20.92,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,48.12,20488,65.73,48.75,No Change,Basic,Low,High,2026-07-19
+Healthcare,Amravati,33786,40022,18.46,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,47.48,24395,68.14,72.9,Low,Moderate,High,Low,2026-04-26
+Healthcare,Kolhapur,22329,27582,23.53,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,43.46,79550,33.01,64.64,High,Moderate,High,High,2026-04-10
+Healthcare,Sangli,7637,9316,21.99,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,21.38,25452,32.38,43.65,No Change,Advanced,Low,Medium,2026-08-04
+Healthcare,Jalgaon,39759,48350,21.61,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,57.91,51208,65.8,63.08,High,Basic,Low,Low,2026-05-18
+Healthcare,Akola,5450,6568,20.52,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,31.85,69893,84.38,76.35,Low,Basic,High,Medium,2026-03-29
+Healthcare,Latur,21784,27198,24.85,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,29.09,21774,34.96,62.67,Low,Emerging,Low,Low,2026-06-22
+Healthcare,Dhule,25872,31105,20.23,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,49.28,58631,61.9,69.29,Medium,Emerging,Low,Medium,2026-07-24
+Healthcare,Ahmednagar,30621,38242,24.89,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,52.47,76740,65.07,81.33,Low,Emerging,Medium,High,2026-03-18
+Healthcare,Chandrapur,33062,40254,21.76,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,18.57,55421,61.23,40.32,No Change,Emerging,Medium,Medium,2026-05-04
+Healthcare,Parbhani,4872,6082,24.84,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,49.75,47120,83.55,55.69,Medium,Moderate,Medium,Low,2026-06-27
+Healthcare,Jalna,32571,39977,22.74,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,31.86,63861,39.37,56.42,Medium,Emerging,Medium,High,2026-03-16
+Healthcare,Bhiwandi,34558,42461,22.87,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,55.87,53627,56.57,82.79,Medium,Moderate,Medium,Medium,2026-07-15
+Healthcare,Nanded,20314,23692,16.63,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,52.07,25554,74.43,51.93,High,Basic,High,Low,2026-08-11
+Healthcare,Satara,26829,30688,14.39,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,25.11,65379,42.67,52.62,No Change,Advanced,Low,Medium,2026-07-20
+Healthcare,Beed,37483,45124,20.39,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,42.66,32392,34.51,80.79,High,Advanced,High,High,2026-07-13
+Healthcare,Yavatmal,24191,28707,18.67,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,42.32,72093,76.03,61.23,Low,Basic,Low,Low,2026-08-17
+Healthcare,Osmanabad,40662,46168,13.54,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,17.83,78654,73.4,41.7,Medium,Emerging,Low,Low,2026-06-06
+Healthcare,Raigad,27453,32815,19.53,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,16.85,38752,82.2,58.06,Medium,Basic,High,High,2026-05-14
+Healthcare,Ratnagiri,4774,5797,21.44,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,20.94,68187,45.28,81.4,Medium,Basic,Medium,High,2026-06-13
+Healthcare,Sindhudurg,40440,45825,13.32,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,18.62,67738,55.53,68.58,Medium,Advanced,Low,Low,2026-07-05
+Healthcare,Wardha,48313,59732,23.64,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,57.6,58580,31.27,42.24,High,Advanced,Low,High,2026-05-18
+Healthcare,Washim,5546,6662,20.14,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,47.92,77530,50.27,68.57,Medium,Moderate,High,High,2026-07-20
+Healthcare,Gondia,35139,40268,14.6,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,53.75,36096,30.26,54.58,High,Advanced,Medium,Medium,2026-07-12
+Healthcare,Bhandara,35397,40881,15.49,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,43.35,62720,44.35,70.86,Low,Basic,High,Low,2026-04-27
+Healthcare,Gadchiroli,7280,8159,12.08,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,30.4,38147,33.7,89.98,High,Basic,Medium,Low,2026-06-27
+Healthcare,Hingoli,42800,49566,15.81,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,20.04,49919,68.18,85.92,Medium,Advanced,Medium,Low,2026-05-30
+Healthcare,Nandurbar,30127,37254,23.66,Nurse; Medical Lab Technician; Pharmacy Assistant; Patient Care Assistant; Medical Equipment Technician,31.77,48914,55.38,71.86,No Change,Moderate,High,High,2026-04-13
+Retail & E-commerce,Mumbai,4571,4721,3.29,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,26.02,45795,59.71,84.45,Medium,Emerging,Medium,Low,2026-05-28
+Retail & E-commerce,Pune,38086,40184,5.51,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,53.39,52314,57.17,47.31,Low,Emerging,High,Low,2026-03-25
+Retail & E-commerce,Nagpur,14381,16033,11.49,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,55.15,52197,43.91,53.15,No Change,Moderate,Medium,Medium,2026-05-30
+Retail & E-commerce,Thane,49769,53697,7.89,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,53.82,43378,79.78,71.18,High,Moderate,High,Medium,2026-03-21
+Retail & E-commerce,Nashik,19661,22004,11.92,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,35.55,42178,38.88,42.82,No Change,Basic,Low,Medium,2026-08-22
+Retail & E-commerce,Aurangabad,19307,20293,5.11,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,20.69,36465,69.43,53.97,No Change,Emerging,Low,Low,2026-05-31
+Retail & E-commerce,Solapur,27291,28794,5.51,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,52.77,31974,51.8,86.65,Low,Advanced,Medium,High,2026-07-21
+Retail & E-commerce,Amravati,29742,31328,5.33,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,31.97,40348,82.11,57.33,Medium,Advanced,Low,High,2026-06-01
+Retail & E-commerce,Kolhapur,18809,20570,9.36,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,56.72,21949,45.43,50.2,No Change,Basic,High,High,2026-05-15
+Retail & E-commerce,Sangli,17895,19073,6.59,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,42.91,52163,66.9,60.17,No Change,Emerging,Medium,Low,2026-06-04
+Retail & E-commerce,Jalgaon,24407,27087,10.98,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,49.72,30831,51.36,74.65,Medium,Basic,High,Medium,2026-04-22
+Retail & E-commerce,Akola,48740,53085,8.92,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,31.38,27554,53.52,43.7,Low,Moderate,Low,High,2026-04-04
+Retail & E-commerce,Latur,21338,22880,7.23,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,31.79,61177,63.58,60.17,No Change,Emerging,Low,Low,2026-03-11
+Retail & E-commerce,Dhule,35477,36973,4.22,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,58.3,48402,42.52,52.72,High,Advanced,Low,Medium,2026-06-07
+Retail & E-commerce,Ahmednagar,24727,25625,3.63,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,17.59,24567,42.01,78.01,Medium,Advanced,Low,High,2026-07-17
+Retail & E-commerce,Chandrapur,42167,46913,11.26,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,16.06,36192,51.22,56.9,Medium,Moderate,Medium,Low,2026-06-07
+Retail & E-commerce,Parbhani,29171,31265,7.18,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,45.65,39468,56.39,56.42,No Change,Basic,Low,Medium,2026-08-25
+Retail & E-commerce,Jalna,35582,36887,3.67,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,30.1,34287,69.97,81.98,No Change,Moderate,Medium,Medium,2026-07-12
+Retail & E-commerce,Bhiwandi,32926,35271,7.12,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,29.47,47961,41.19,57.63,No Change,Basic,High,Low,2026-05-03
+Retail & E-commerce,Nanded,2405,2650,10.21,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,42.43,19276,59.75,58.87,No Change,Basic,Medium,High,2026-06-22
+Retail & E-commerce,Satara,16806,18512,10.16,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,42.32,28339,54.57,71.07,Low,Moderate,High,Low,2026-05-15
+Retail & E-commerce,Beed,11521,12849,11.54,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,32.63,55709,44.83,59.81,No Change,Advanced,Medium,Medium,2026-07-03
+Retail & E-commerce,Yavatmal,3253,3482,7.05,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,35.5,61712,42.11,43.43,High,Emerging,High,Low,2026-08-01
+Retail & E-commerce,Osmanabad,38998,40219,3.13,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,56.65,52896,62.37,52.6,Medium,Emerging,Medium,Medium,2026-04-17
+Retail & E-commerce,Raigad,7662,8339,8.85,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,36.08,63423,57.37,75.05,Medium,Moderate,Low,Low,2026-07-06
+Retail & E-commerce,Ratnagiri,34266,37077,8.21,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,15.3,21892,45.0,79.42,High,Basic,Low,Low,2026-08-20
+Retail & E-commerce,Sindhudurg,14138,15800,11.76,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,51.32,65852,53.88,55.59,No Change,Emerging,Medium,Low,2026-07-25
+Retail & E-commerce,Wardha,23284,24138,3.67,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,43.81,28025,61.8,56.59,Medium,Advanced,Medium,High,2026-08-15
+Retail & E-commerce,Washim,11527,12403,7.61,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,19.28,52934,66.94,46.16,Low,Basic,Low,Low,2026-07-30
+Retail & E-commerce,Gondia,48381,52685,8.9,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,51.63,44850,69.66,42.37,High,Emerging,Medium,High,2026-06-08
+Retail & E-commerce,Bhandara,14878,16145,8.52,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,51.09,57350,46.79,64.63,Low,Emerging,High,Low,2026-05-04
+Retail & E-commerce,Gadchiroli,19608,21953,11.96,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,16.96,52162,37.14,60.91,Low,Basic,Medium,Medium,2026-05-22
+Retail & E-commerce,Hingoli,5692,6025,5.87,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,28.46,51497,37.88,65.49,No Change,Basic,Low,Medium,2026-03-11
+Retail & E-commerce,Nandurbar,13730,15307,11.49,Retail Associate; Warehouse Supervisor; Delivery Executive; Customer Support; Inventory Manager,47.41,35748,46.41,85.38,High,Moderate,Medium,Medium,2026-05-11
+Banking & Financial Services,Mumbai,7022,7622,8.56,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,40.4,106470,73.19,62.02,High,Emerging,Medium,Low,2026-08-21
+Banking & Financial Services,Pune,22384,23405,4.56,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,40.65,139629,56.1,42.35,No Change,Basic,High,Low,2026-06-14
+Banking & Financial Services,Nagpur,43598,48575,11.42,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,50.21,139762,60.17,74.6,Low,Advanced,Low,High,2026-06-29
+Banking & Financial Services,Thane,8857,9686,9.37,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,37.48,125718,33.97,49.22,Low,Moderate,Low,High,2026-03-25
+Banking & Financial Services,Nashik,17389,18348,5.52,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,20.96,40839,53.51,53.12,High,Emerging,High,Medium,2026-07-07
+Banking & Financial Services,Aurangabad,45321,47580,4.98,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,17.93,47679,52.14,62.9,Low,Moderate,Medium,High,2026-03-24
+Banking & Financial Services,Solapur,20523,21352,4.04,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,15.16,42002,73.46,64.67,Low,Emerging,High,Low,2026-07-28
+Banking & Financial Services,Amravati,45136,49791,10.31,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,34.61,99087,63.04,62.02,No Change,Basic,Low,Low,2026-04-26
+Banking & Financial Services,Kolhapur,9196,9807,6.65,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,22.47,44771,37.63,70.67,Medium,Emerging,Medium,Medium,2026-05-22
+Banking & Financial Services,Sangli,40010,43621,9.03,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,46.7,88320,41.04,59.39,Medium,Emerging,Low,High,2026-06-30
+Banking & Financial Services,Jalgaon,11867,12278,3.47,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,58.56,87367,57.79,78.09,High,Basic,Medium,Medium,2026-03-22
+Banking & Financial Services,Akola,22511,24490,8.79,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,58.5,78059,52.98,50.44,Medium,Basic,High,Low,2026-08-19
+Banking & Financial Services,Latur,15733,16531,5.07,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,32.1,63671,39.41,42.47,No Change,Moderate,Medium,High,2026-03-28
+Banking & Financial Services,Dhule,37862,40367,6.62,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,49.13,89850,52.24,86.53,No Change,Emerging,High,Low,2026-08-05
+Banking & Financial Services,Ahmednagar,30160,33268,10.31,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,50.44,41792,79.08,56.97,High,Advanced,Low,Low,2026-04-14
+Banking & Financial Services,Chandrapur,41112,44231,7.59,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,35.18,86375,82.44,70.25,High,Emerging,High,Low,2026-06-20
+Banking & Financial Services,Parbhani,12896,13555,5.11,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,37.92,89166,77.89,89.61,No Change,Emerging,Medium,High,2026-06-14
+Banking & Financial Services,Jalna,46247,50558,9.32,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,15.08,107877,38.57,44.49,High,Advanced,Low,High,2026-03-20
+Banking & Financial Services,Bhiwandi,40650,43908,8.02,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,27.65,63604,40.29,50.03,No Change,Emerging,High,Medium,2026-07-30
+Banking & Financial Services,Nanded,22332,24872,11.38,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,28.8,95036,32.85,86.8,No Change,Emerging,Medium,High,2026-04-14
+Banking & Financial Services,Satara,35773,38548,7.76,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,16.2,43468,78.28,43.29,High,Emerging,High,Medium,2026-04-09
+Banking & Financial Services,Beed,18176,19726,8.53,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,41.37,39208,38.63,56.53,No Change,Moderate,Low,Medium,2026-07-25
+Banking & Financial Services,Yavatmal,39191,42251,7.81,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,31.83,60721,72.39,46.63,Medium,Advanced,Medium,Low,2026-04-22
+Banking & Financial Services,Osmanabad,5172,5358,3.6,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,44.74,68294,62.75,46.51,Medium,Basic,High,Low,2026-03-30
+Banking & Financial Services,Raigad,6077,6542,7.67,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,56.83,112187,44.91,44.23,Low,Emerging,High,High,2026-05-19
+Banking & Financial Services,Ratnagiri,19016,19834,4.31,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,44.76,76379,34.8,64.08,Low,Basic,Low,Medium,2026-07-05
+Banking & Financial Services,Sindhudurg,42479,45368,6.8,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,41.38,53058,44.58,55.52,Medium,Emerging,Medium,Low,2026-04-14
+Banking & Financial Services,Wardha,23200,25913,11.7,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,30.29,120638,75.17,51.03,Low,Moderate,High,Medium,2026-07-06
+Banking & Financial Services,Washim,17999,18824,4.58,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,18.06,99678,57.93,89.15,High,Basic,Low,High,2026-06-19
+Banking & Financial Services,Gondia,18119,19602,8.19,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,24.53,149873,66.4,89.9,No Change,Moderate,Low,Low,2026-05-30
+Banking & Financial Services,Bhandara,42615,47505,11.48,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,50.77,76042,56.98,75.89,Low,Moderate,Low,Low,2026-04-18
+Banking & Financial Services,Gadchiroli,45428,46883,3.2,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,26.59,101803,72.12,50.0,Medium,Moderate,Low,High,2026-04-13
+Banking & Financial Services,Hingoli,43000,44469,3.42,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,36.62,43664,41.25,65.4,No Change,Advanced,Low,High,2026-08-04
+Banking & Financial Services,Nandurbar,48787,51117,4.78,Banking Officer; Accountant; Financial Advisor; Insurance Agent; Loan Officer,44.63,132886,36.6,81.48,Medium,Basic,High,Medium,2026-03-25
+Automotive,Mumbai,6115,6895,12.76,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,40.05,17959,70.59,54.81,Low,Emerging,Medium,High,2026-04-23
+Automotive,Pune,29150,32883,12.81,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,45.6,25723,31.88,73.39,Low,Advanced,Low,Low,2026-07-19
+Automotive,Nagpur,26518,28191,6.31,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,56.56,48860,31.46,85.42,Low,Basic,High,Medium,2026-05-30
+Automotive,Thane,34551,36358,5.23,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,32.32,26708,42.78,71.57,Medium,Moderate,High,Low,2026-06-16
+Automotive,Nashik,26338,29020,10.19,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,32.73,42352,45.75,49.86,Low,Advanced,Low,High,2026-04-10
+Automotive,Aurangabad,48470,52466,8.25,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,39.63,43369,51.3,64.42,No Change,Emerging,Medium,High,2026-07-08
+Automotive,Solapur,32600,35565,9.1,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,48.91,42308,68.52,87.35,Medium,Moderate,Medium,High,2026-06-27
+Automotive,Amravati,45521,47978,5.4,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,59.66,40009,48.05,74.44,Low,Emerging,Low,Medium,2026-08-02
+Automotive,Kolhapur,38259,41883,9.47,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,18.87,26542,81.28,46.38,Low,Basic,High,Low,2026-08-27
+Automotive,Sangli,33939,37649,10.93,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,38.29,30361,55.56,64.98,Low,Basic,Medium,Low,2026-06-03
+Automotive,Jalgaon,10742,11300,5.2,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,22.35,28145,31.83,71.87,Medium,Emerging,High,Medium,2026-08-10
+Automotive,Akola,45722,51812,13.32,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,28.07,34885,84.23,68.95,Medium,Advanced,High,Medium,2026-07-08
+Automotive,Latur,32058,36033,12.4,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,25.34,25523,65.2,51.17,No Change,Moderate,Low,High,2026-07-26
+Automotive,Dhule,12666,13953,10.17,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,39.66,36142,59.41,51.14,Low,Basic,High,High,2026-06-16
+Automotive,Ahmednagar,29032,30910,6.47,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,33.87,20473,45.58,63.18,High,Advanced,Low,High,2026-03-15
+Automotive,Chandrapur,25815,29261,13.35,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,59.32,41249,76.0,56.36,Medium,Basic,Low,Medium,2026-03-21
+Automotive,Parbhani,48347,54118,11.94,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,47.91,34892,43.25,70.69,No Change,Moderate,Low,High,2026-06-15
+Automotive,Jalna,28893,31432,8.79,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,39.42,32926,32.34,77.11,No Change,Advanced,Medium,High,2026-03-09
+Automotive,Bhiwandi,48445,54298,12.08,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,37.38,16363,57.49,80.01,Low,Emerging,High,High,2026-07-16
+Automotive,Nanded,34770,38877,11.81,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,39.05,47280,77.22,83.44,High,Emerging,High,High,2026-03-11
+Automotive,Satara,40055,42691,6.58,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,47.45,26760,76.6,64.57,No Change,Emerging,Low,Medium,2026-05-16
+Automotive,Beed,48537,55396,14.13,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,56.49,46708,66.56,49.45,No Change,Advanced,Medium,High,2026-06-01
+Automotive,Yavatmal,48395,52676,8.85,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,33.55,41912,65.8,87.67,Low,Advanced,Medium,High,2026-05-18
+Automotive,Osmanabad,42178,45772,8.52,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,58.92,16652,46.24,85.01,No Change,Advanced,Medium,Medium,2026-07-26
+Automotive,Raigad,4695,5083,8.26,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,50.92,43740,36.26,54.57,No Change,Emerging,Low,Low,2026-05-05
+Automotive,Ratnagiri,9590,10636,10.91,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,41.67,39944,34.29,86.78,Medium,Emerging,High,High,2026-04-12
+Automotive,Sindhudurg,4348,4920,13.16,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,56.45,36243,50.75,71.77,Low,Moderate,Medium,Medium,2026-08-26
+Automotive,Wardha,39397,42010,6.63,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,60.0,46570,31.85,40.14,Low,Moderate,Medium,Low,2026-07-11
+Automotive,Washim,21106,22725,7.67,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,45.25,43569,47.17,47.76,Medium,Advanced,Medium,Medium,2026-07-16
+Automotive,Gondia,13730,14737,7.34,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,17.19,36932,57.05,56.48,High,Moderate,Low,Low,2026-05-07
+Automotive,Bhandara,3369,3549,5.36,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,51.93,29375,84.63,88.71,Medium,Advanced,Low,High,2026-08-12
+Automotive,Gadchiroli,1368,1550,13.34,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,28.18,35340,30.63,89.42,Low,Advanced,High,Medium,2026-05-26
+Automotive,Hingoli,44151,49661,12.48,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,30.58,41636,34.77,41.13,No Change,Moderate,High,High,2026-03-11
+Automotive,Nandurbar,30375,32093,5.66,Auto Mechanic; Auto Electrician; Vehicle Painter; Service Advisor; Parts Manager,58.64,16837,80.9,60.56,Low,Emerging,Medium,Medium,2026-08-08
+Construction,Mumbai,32936,37784,14.72,Mason; Carpenter; Electrician; Plumber; Site Supervisor,58.89,23941,39.62,62.92,High,Basic,Medium,Low,2026-06-18
+Construction,Pune,4628,4912,6.15,Mason; Carpenter; Electrician; Plumber; Site Supervisor,55.25,15770,37.7,51.54,Medium,Basic,Low,Low,2026-07-27
+Construction,Nagpur,37063,41454,11.85,Mason; Carpenter; Electrician; Plumber; Site Supervisor,45.73,22500,64.14,46.19,Low,Advanced,Low,High,2026-06-08
+Construction,Thane,39138,41300,5.52,Mason; Carpenter; Electrician; Plumber; Site Supervisor,54.44,21279,56.93,58.09,No Change,Basic,High,Medium,2026-07-04
+Construction,Nashik,11860,12867,8.49,Mason; Carpenter; Electrician; Plumber; Site Supervisor,35.89,39163,55.82,77.11,High,Advanced,High,Low,2026-06-15
+Construction,Aurangabad,2950,3193,8.25,Mason; Carpenter; Electrician; Plumber; Site Supervisor,24.47,33828,63.61,89.27,High,Basic,Medium,Medium,2026-07-15
+Construction,Solapur,43688,47730,9.25,Mason; Carpenter; Electrician; Plumber; Site Supervisor,34.33,46329,35.01,68.74,High,Basic,High,Medium,2026-03-28
+Construction,Amravati,1933,2105,8.93,Mason; Carpenter; Electrician; Plumber; Site Supervisor,32.5,20663,67.22,84.08,Medium,Emerging,Medium,Low,2026-03-17
+Construction,Kolhapur,12474,13943,11.78,Mason; Carpenter; Electrician; Plumber; Site Supervisor,45.23,33687,41.84,87.39,High,Moderate,Low,Low,2026-08-04
+Construction,Sangli,2085,2377,14.02,Mason; Carpenter; Electrician; Plumber; Site Supervisor,46.55,25129,45.11,40.0,Low,Moderate,Low,Medium,2026-07-09
+Construction,Jalgaon,32856,36269,10.39,Mason; Carpenter; Electrician; Plumber; Site Supervisor,44.01,30994,55.58,86.21,High,Basic,Medium,Medium,2026-07-30
+Construction,Akola,6691,7656,14.42,Mason; Carpenter; Electrician; Plumber; Site Supervisor,16.24,20226,84.95,71.12,High,Advanced,Low,Low,2026-08-31
+Construction,Latur,25636,28728,12.06,Mason; Carpenter; Electrician; Plumber; Site Supervisor,51.77,15045,80.6,80.94,No Change,Advanced,Low,Low,2026-07-01
+Construction,Dhule,13149,13950,6.09,Mason; Carpenter; Electrician; Plumber; Site Supervisor,44.04,39733,35.39,57.78,High,Moderate,Low,High,2026-07-28
+Construction,Ahmednagar,3070,3520,14.67,Mason; Carpenter; Electrician; Plumber; Site Supervisor,19.39,37367,36.71,65.74,High,Basic,Medium,Medium,2026-04-11
+Construction,Chandrapur,21402,23277,8.77,Mason; Carpenter; Electrician; Plumber; Site Supervisor,17.78,28666,57.1,67.14,Low,Moderate,Medium,High,2026-05-04
+Construction,Parbhani,32969,35895,8.88,Mason; Carpenter; Electrician; Plumber; Site Supervisor,22.07,20117,74.03,59.67,Low,Basic,High,Medium,2026-07-22
+Construction,Jalna,19040,21814,14.57,Mason; Carpenter; Electrician; Plumber; Site Supervisor,36.3,32999,78.05,41.41,High,Advanced,High,High,2026-04-07
+Construction,Bhiwandi,17860,20519,14.89,Mason; Carpenter; Electrician; Plumber; Site Supervisor,50.15,29791,84.84,50.75,Low,Advanced,Low,Medium,2026-05-17
+Construction,Nanded,15820,17486,10.53,Mason; Carpenter; Electrician; Plumber; Site Supervisor,55.1,39154,67.98,42.18,Low,Advanced,Medium,Medium,2026-07-16
+Construction,Satara,22297,25461,14.19,Mason; Carpenter; Electrician; Plumber; Site Supervisor,28.7,37857,78.93,62.27,High,Advanced,Medium,Medium,2026-03-30
+Construction,Beed,30205,34180,13.16,Mason; Carpenter; Electrician; Plumber; Site Supervisor,40.61,36947,80.62,72.27,Medium,Basic,Low,Medium,2026-06-04
+Construction,Yavatmal,8805,10071,14.39,Mason; Carpenter; Electrician; Plumber; Site Supervisor,40.36,39968,51.14,75.4,High,Advanced,High,Medium,2026-04-14
+Construction,Osmanabad,29131,30794,5.71,Mason; Carpenter; Electrician; Plumber; Site Supervisor,15.46,38436,65.07,83.25,Low,Emerging,Medium,Medium,2026-06-15
+Construction,Raigad,48479,55098,13.65,Mason; Carpenter; Electrician; Plumber; Site Supervisor,56.32,40191,54.95,69.02,No Change,Basic,Low,High,2026-06-28
+Construction,Ratnagiri,44222,49026,10.86,Mason; Carpenter; Electrician; Plumber; Site Supervisor,23.0,44978,75.38,47.13,High,Basic,Low,High,2026-06-23
+Construction,Sindhudurg,21441,23743,10.74,Mason; Carpenter; Electrician; Plumber; Site Supervisor,49.75,26325,39.31,66.93,No Change,Basic,High,Low,2026-05-20
+Construction,Wardha,26659,30563,14.65,Mason; Carpenter; Electrician; Plumber; Site Supervisor,35.26,28343,54.1,84.26,Medium,Basic,Medium,Low,2026-04-09
+Construction,Washim,32543,34980,7.49,Mason; Carpenter; Electrician; Plumber; Site Supervisor,15.85,15599,75.42,40.04,Low,Advanced,High,Medium,2026-08-07
+Construction,Gondia,34838,37117,6.54,Mason; Carpenter; Electrician; Plumber; Site Supervisor,17.13,36579,78.73,66.15,Medium,Advanced,Medium,Low,2026-05-09
+Construction,Bhandara,44218,48962,10.73,Mason; Carpenter; Electrician; Plumber; Site Supervisor,21.1,31180,30.28,64.92,Medium,Emerging,Medium,Low,2026-08-01
+Construction,Gadchiroli,43457,48793,12.28,Mason; Carpenter; Electrician; Plumber; Site Supervisor,38.42,42934,68.84,83.62,Medium,Advanced,Medium,High,2026-07-03
+Construction,Hingoli,28946,33275,14.96,Mason; Carpenter; Electrician; Plumber; Site Supervisor,56.36,24190,35.62,70.49,Low,Advanced,Medium,Low,2026-04-17
+Construction,Nandurbar,34300,38845,13.25,Mason; Carpenter; Electrician; Plumber; Site Supervisor,54.81,37667,36.89,41.2,No Change,Emerging,Low,Medium,2026-07-20
+Telecommunications,Mumbai,2870,3177,10.71,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,25.16,24243,45.42,52.48,Low,Basic,Medium,High,2026-03-31
+Telecommunications,Pune,8839,9551,8.06,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,17.83,59370,53.31,84.42,Medium,Emerging,High,Low,2026-07-28
+Telecommunications,Nagpur,4261,4689,10.06,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,57.04,29198,47.2,64.26,No Change,Advanced,Low,High,2026-04-07
+Telecommunications,Thane,27985,30154,7.75,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,44.24,57257,79.11,74.24,No Change,Moderate,Low,Low,2026-07-29
+Telecommunications,Nashik,47327,52296,10.5,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,53.76,20825,39.16,60.71,No Change,Moderate,High,Low,2026-05-14
+Telecommunications,Aurangabad,10741,11446,6.57,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,57.61,62261,50.7,56.14,Low,Advanced,Medium,Medium,2026-03-09
+Telecommunications,Solapur,10606,11719,10.5,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,56.89,66338,44.33,60.11,No Change,Moderate,Low,Medium,2026-06-27
+Telecommunications,Amravati,32624,35792,9.71,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,48.23,34238,39.93,73.59,Low,Advanced,Medium,Medium,2026-07-17
+Telecommunications,Kolhapur,20624,21353,3.53,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,51.85,54350,57.18,60.89,No Change,Basic,Medium,Medium,2026-06-18
+Telecommunications,Sangli,38157,42647,11.77,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,15.58,50237,47.18,71.33,Low,Moderate,High,Low,2026-07-12
+Telecommunications,Jalgaon,46054,48378,5.05,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,26.32,60844,81.68,69.56,Medium,Emerging,High,High,2026-09-03
+Telecommunications,Akola,1136,1205,6.1,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,18.75,20630,84.06,85.93,High,Moderate,Low,Low,2026-06-11
+Telecommunications,Latur,25194,28204,11.95,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,40.72,48078,58.67,44.84,No Change,Basic,Medium,High,2026-08-24
+Telecommunications,Dhule,5527,6138,11.06,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,35.63,26299,37.47,48.4,Medium,Advanced,Medium,Low,2026-05-31
+Telecommunications,Ahmednagar,31455,33863,7.66,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,28.63,31237,73.04,46.93,High,Moderate,Low,High,2026-08-09
+Telecommunications,Chandrapur,17796,19642,10.38,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,28.33,42965,74.23,68.34,Low,Moderate,Medium,Low,2026-07-20
+Telecommunications,Parbhani,25316,26361,4.13,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,28.9,48638,77.05,74.2,High,Advanced,Low,Medium,2026-08-15
+Telecommunications,Jalna,8095,8555,5.68,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,36.04,25768,71.41,72.56,Low,Moderate,High,Low,2026-04-03
+Telecommunications,Bhiwandi,45604,48130,5.54,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,39.94,51640,43.87,67.75,Medium,Advanced,Low,High,2026-07-13
+Telecommunications,Nanded,13606,14451,6.22,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,17.26,53621,39.61,63.99,Medium,Moderate,Medium,Medium,2026-04-18
+Telecommunications,Satara,37704,40642,7.79,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,44.63,42841,66.3,86.81,Medium,Advanced,Low,High,2026-08-13
+Telecommunications,Beed,11049,11504,4.12,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,36.82,48834,81.37,70.67,No Change,Moderate,Low,Medium,2026-05-26
+Telecommunications,Yavatmal,43593,47702,9.43,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,47.05,36738,61.3,74.58,Medium,Moderate,Low,Low,2026-03-29
+Telecommunications,Osmanabad,36194,37471,3.53,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,30.29,34539,45.34,41.67,High,Basic,Low,Medium,2026-08-20
+Telecommunications,Raigad,12073,12992,7.62,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,29.97,42228,49.75,88.99,Low,Basic,High,Low,2026-08-25
+Telecommunications,Ratnagiri,23005,25356,10.22,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,22.83,37897,80.41,47.3,Low,Advanced,Low,High,2026-04-26
+Telecommunications,Sindhudurg,43165,47353,9.7,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,30.88,36502,75.55,51.37,Low,Emerging,High,Low,2026-07-31
+Telecommunications,Wardha,39080,41950,7.34,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,42.46,41657,76.41,46.87,Medium,Basic,Low,Medium,2026-04-01
+Telecommunications,Washim,31077,32989,6.16,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,48.97,34250,38.69,56.37,High,Emerging,Medium,High,2026-07-27
+Telecommunications,Gondia,11350,12002,5.75,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,28.28,65759,64.41,68.33,Low,Moderate,High,Low,2026-04-03
+Telecommunications,Bhandara,11180,12252,9.59,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,29.65,50640,84.96,76.98,Low,Moderate,Medium,High,2026-07-13
+Telecommunications,Gadchiroli,6253,6809,8.9,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,48.02,42050,62.22,67.82,No Change,Emerging,Medium,Medium,2026-07-02
+Telecommunications,Hingoli,4899,5238,6.92,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,40.52,45505,80.82,49.86,No Change,Moderate,High,Low,2026-04-27
+Telecommunications,Nandurbar,26551,28552,7.54,Network Technician; Fiber Optic Technician; Tower Technician; Customer Support; Field Engineer,21.94,50790,46.82,73.06,Medium,Moderate,Medium,High,2026-06-17
+Logistics & Supply Chain,Mumbai,9480,10477,10.52,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,22.25,55868,72.38,44.91,No Change,Moderate,Medium,Medium,2026-08-29
+Logistics & Supply Chain,Pune,18050,18702,3.61,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,55.0,50693,38.26,47.12,Medium,Moderate,Low,Medium,2026-04-10
+Logistics & Supply Chain,Nagpur,1482,1556,5.0,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,29.01,38990,62.68,67.5,High,Advanced,Medium,High,2026-06-21
+Logistics & Supply Chain,Thane,39326,42828,8.91,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,36.41,52890,35.23,53.39,High,Basic,Medium,High,2026-06-24
+Logistics & Supply Chain,Nashik,29172,31419,7.7,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,22.82,58878,60.74,63.07,Low,Moderate,High,High,2026-05-23
+Logistics & Supply Chain,Aurangabad,24076,25322,5.18,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,41.39,68203,35.46,82.72,High,Emerging,Medium,High,2026-03-13
+Logistics & Supply Chain,Solapur,6341,7101,11.99,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,32.8,61364,78.13,79.3,No Change,Emerging,Medium,Low,2026-03-30
+Logistics & Supply Chain,Amravati,23720,25903,9.2,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,19.28,21976,55.13,82.2,No Change,Advanced,Medium,Medium,2026-05-14
+Logistics & Supply Chain,Kolhapur,1371,1529,11.55,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,23.62,22212,45.7,75.87,No Change,Moderate,Low,Low,2026-06-05
+Logistics & Supply Chain,Sangli,8448,9400,11.27,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,40.95,49198,78.47,56.46,Low,Basic,Low,Medium,2026-04-18
+Logistics & Supply Chain,Jalgaon,45648,47853,4.83,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,40.76,58130,75.04,53.36,Medium,Advanced,Low,Medium,2026-06-10
+Logistics & Supply Chain,Akola,31452,32963,4.81,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,15.41,28440,52.59,65.15,Medium,Basic,Low,Medium,2026-07-18
+Logistics & Supply Chain,Latur,1529,1616,5.7,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,45.16,45892,54.15,81.62,High,Emerging,Low,Medium,2026-05-17
+Logistics & Supply Chain,Dhule,36609,40919,11.78,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,51.09,45480,33.0,64.75,Low,Advanced,Medium,Medium,2026-06-30
+Logistics & Supply Chain,Ahmednagar,8626,8984,4.16,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,29.88,46322,54.45,82.49,Low,Moderate,Medium,High,2026-04-20
+Logistics & Supply Chain,Chandrapur,2201,2300,4.51,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,46.06,48826,46.55,59.26,Medium,Moderate,Medium,Medium,2026-09-02
+Logistics & Supply Chain,Parbhani,7601,8300,9.21,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,28.72,26455,76.62,47.45,Low,Emerging,Medium,Medium,2026-08-10
+Logistics & Supply Chain,Jalna,36451,40187,10.25,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,58.99,65144,37.65,48.39,Medium,Emerging,High,Medium,2026-03-25
+Logistics & Supply Chain,Bhiwandi,28211,30872,9.43,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,41.47,19753,45.73,85.61,Low,Moderate,High,Medium,2026-06-30
+Logistics & Supply Chain,Nanded,41719,43365,3.95,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,16.29,56557,72.83,73.48,High,Basic,High,Low,2026-07-30
+Logistics & Supply Chain,Satara,31966,33632,5.21,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,58.22,30234,76.73,73.98,Medium,Advanced,Low,Medium,2026-07-16
+Logistics & Supply Chain,Beed,7413,8258,11.4,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,42.92,61822,39.66,45.04,High,Emerging,Low,Medium,2026-07-19
+Logistics & Supply Chain,Yavatmal,28655,31903,11.34,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,30.25,22910,67.33,62.56,No Change,Emerging,Low,Low,2026-08-25
+Logistics & Supply Chain,Osmanabad,14557,15473,6.29,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,17.04,33189,80.84,89.6,Low,Advanced,High,Low,2026-03-26
+Logistics & Supply Chain,Raigad,40282,42677,5.95,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,30.31,52564,31.38,56.21,No Change,Emerging,Medium,Low,2026-05-02
+Logistics & Supply Chain,Ratnagiri,3729,4139,11.02,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,24.3,61394,75.32,55.29,No Change,Emerging,Low,Medium,2026-08-02
+Logistics & Supply Chain,Sindhudurg,5546,6117,10.31,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,36.24,19413,56.4,78.72,No Change,Advanced,Low,High,2026-05-14
+Logistics & Supply Chain,Wardha,6015,6264,4.14,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,16.82,28970,75.68,65.5,No Change,Moderate,High,Medium,2026-08-10
+Logistics & Supply Chain,Washim,27188,28570,5.09,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,39.24,39814,58.57,42.86,High,Basic,High,Medium,2026-03-09
+Logistics & Supply Chain,Gondia,25837,28216,9.21,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,35.34,29273,32.32,71.45,Medium,Advanced,High,High,2026-05-05
+Logistics & Supply Chain,Bhandara,21072,22437,6.48,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,58.33,42605,80.08,44.25,No Change,Emerging,Medium,Medium,2026-05-17
+Logistics & Supply Chain,Gadchiroli,1376,1443,4.88,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,27.05,50798,81.47,72.1,Low,Emerging,High,High,2026-08-08
+Logistics & Supply Chain,Hingoli,45894,50107,9.18,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,51.81,34944,58.6,41.12,High,Basic,Medium,Medium,2026-04-17
+Logistics & Supply Chain,Nandurbar,4458,4615,3.53,Warehouse Manager; Logistics Coordinator; Forklift Operator; Supply Chain Analyst; Transportation Manager,23.52,38012,38.2,41.48,Low,Emerging,Medium,Low,2026-04-15
+Education & EdTech,Mumbai,17977,19756,9.9,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,49.37,19440,82.25,52.94,Low,Moderate,High,Low,2026-07-29
+Education & EdTech,Pune,46678,49307,5.63,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,23.26,51973,84.62,75.68,Low,Moderate,Medium,Medium,2026-06-08
+Education & EdTech,Nagpur,49847,52264,4.85,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,28.99,67587,64.85,85.85,High,Emerging,High,High,2026-07-03
+Education & EdTech,Thane,19978,22036,10.3,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,57.55,54820,54.39,44.56,High,Emerging,High,Low,2026-08-29
+Education & EdTech,Nashik,38539,41225,6.97,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,34.6,62830,35.27,53.82,Low,Moderate,Medium,Medium,2026-06-10
+Education & EdTech,Aurangabad,29989,31755,5.89,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,46.98,66458,38.75,80.12,High,Emerging,Medium,High,2026-05-10
+Education & EdTech,Solapur,8980,9422,4.93,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,35.79,33111,61.54,80.32,High,Advanced,Low,High,2026-06-17
+Education & EdTech,Amravati,2640,2733,3.56,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,43.06,32106,35.35,43.37,High,Basic,Low,Low,2026-06-17
+Education & EdTech,Kolhapur,17423,19123,9.76,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,32.48,68478,62.09,43.79,High,Moderate,Low,High,2026-07-12
+Education & EdTech,Sangli,49224,54712,11.15,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,44.99,37813,34.9,42.34,No Change,Basic,High,High,2026-07-17
+Education & EdTech,Jalgaon,42838,47237,10.27,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,58.27,52109,83.85,86.48,No Change,Basic,High,High,2026-09-04
+Education & EdTech,Akola,23913,25890,8.27,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,20.63,43083,63.22,46.75,No Change,Moderate,Medium,Medium,2026-07-05
+Education & EdTech,Latur,8011,8438,5.34,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,24.41,37714,70.71,54.71,Low,Basic,Low,Medium,2026-06-07
+Education & EdTech,Dhule,2212,2445,10.55,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,45.32,42270,70.37,63.38,No Change,Emerging,Low,Low,2026-08-29
+Education & EdTech,Ahmednagar,18706,19426,3.85,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,31.95,22330,46.54,58.04,No Change,Advanced,Medium,Low,2026-03-27
+Education & EdTech,Chandrapur,5717,6183,8.16,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,27.88,18152,46.61,80.46,Medium,Emerging,Low,Medium,2026-03-14
+Education & EdTech,Parbhani,3143,3398,8.13,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,17.73,28594,49.5,57.19,Low,Moderate,High,High,2026-08-19
+Education & EdTech,Jalna,5601,6042,7.87,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,41.06,59271,51.68,49.94,No Change,Advanced,High,Low,2026-08-11
+Education & EdTech,Bhiwandi,49070,52208,6.4,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,52.67,21988,46.86,54.79,Low,Moderate,High,Low,2026-04-27
+Education & EdTech,Nanded,18151,18890,4.07,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,32.12,61241,54.51,54.84,Low,Basic,High,High,2026-05-05
+Education & EdTech,Satara,36721,39122,6.54,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,33.35,21022,58.74,88.18,No Change,Advanced,Medium,Low,2026-05-31
+Education & EdTech,Beed,28284,30831,9.01,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,44.38,28824,32.25,59.38,Low,Emerging,Low,High,2026-05-31
+Education & EdTech,Yavatmal,11051,11746,6.3,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,36.63,39984,42.37,50.78,Medium,Basic,Medium,Low,2026-03-31
+Education & EdTech,Osmanabad,36309,40633,11.91,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,15.04,63722,51.43,75.4,No Change,Moderate,Medium,Low,2026-08-12
+Education & EdTech,Raigad,1104,1208,9.48,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,16.09,24061,55.78,46.26,High,Emerging,Medium,Low,2026-09-03
+Education & EdTech,Ratnagiri,33401,35864,7.38,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,50.88,39871,69.26,64.94,Low,Moderate,Low,Low,2026-08-30
+Education & EdTech,Sindhudurg,13231,13997,5.8,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,41.75,36457,71.26,43.94,Low,Advanced,Low,Low,2026-06-28
+Education & EdTech,Wardha,26104,27184,4.14,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,58.41,24858,62.39,87.76,Medium,Basic,Medium,High,2026-05-28
+Education & EdTech,Washim,32321,35269,9.12,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,48.8,62129,75.12,81.62,Medium,Moderate,Medium,Medium,2026-03-21
+Education & EdTech,Gondia,16398,16996,3.65,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,18.85,47746,68.25,41.74,High,Advanced,High,Low,2026-05-25
+Education & EdTech,Bhandara,22332,23070,3.31,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,16.62,59025,40.2,61.6,Low,Moderate,High,High,2026-07-18
+Education & EdTech,Gadchiroli,22732,23793,4.67,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,55.04,47705,31.02,76.46,Low,Advanced,Low,Low,2026-06-21
+Education & EdTech,Hingoli,926,1025,10.7,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,42.94,38124,65.68,70.46,Low,Emerging,Low,High,2026-03-21
+Education & EdTech,Nandurbar,26458,29404,11.14,Teacher; Training Coordinator; Content Developer; EdTech Support; Academic Counselor,29.05,59990,58.43,51.35,Medium,Advanced,High,High,2026-05-27
+Media & Entertainment,Mumbai,43061,44713,3.84,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,47.09,57271,39.56,43.96,High,Emerging,Medium,Medium,2026-06-29
+Media & Entertainment,Pune,42457,46318,9.1,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,19.63,44652,37.18,53.82,Medium,Moderate,Low,Low,2026-07-27
+Media & Entertainment,Nagpur,15031,15862,5.53,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,16.24,65305,83.22,51.17,Medium,Moderate,Medium,Medium,2026-06-20
+Media & Entertainment,Thane,49565,53599,8.14,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,56.22,57986,63.74,50.95,Medium,Basic,Low,Low,2026-04-28
+Media & Entertainment,Nashik,45300,48528,7.13,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,52.33,19226,36.45,40.08,No Change,Moderate,Low,Low,2026-05-12
+Media & Entertainment,Aurangabad,43325,47612,9.9,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,59.94,18206,61.86,76.51,No Change,Advanced,High,Low,2026-08-05
+Media & Entertainment,Solapur,18145,19426,7.06,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,36.84,55030,34.09,65.91,No Change,Advanced,High,Medium,2026-08-16
+Media & Entertainment,Amravati,20293,21971,8.27,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,33.61,47154,72.8,47.75,No Change,Emerging,Low,Medium,2026-05-22
+Media & Entertainment,Kolhapur,45449,50783,11.74,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,45.94,34960,61.96,79.66,Medium,Emerging,Low,High,2026-03-18
+Media & Entertainment,Sangli,16525,17464,5.69,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,58.84,60261,48.92,68.6,Low,Basic,Medium,High,2026-07-29
+Media & Entertainment,Jalgaon,30789,33140,7.64,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,54.91,60574,58.18,40.16,High,Basic,Medium,Low,2026-03-22
+Media & Entertainment,Akola,28586,30640,7.19,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,22.4,29473,43.6,45.63,Medium,Emerging,Low,Medium,2026-06-05
+Media & Entertainment,Latur,34535,35622,3.15,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,52.01,63250,58.79,78.63,Low,Basic,Medium,Low,2026-08-27
+Media & Entertainment,Dhule,15824,17165,8.48,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,44.28,56328,51.46,47.87,Low,Basic,High,Medium,2026-05-07
+Media & Entertainment,Ahmednagar,10258,11067,7.9,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,52.27,60114,79.58,87.83,No Change,Moderate,Low,Medium,2026-07-19
+Media & Entertainment,Chandrapur,41933,44859,6.98,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,27.79,32472,79.31,64.23,Medium,Basic,Medium,Medium,2026-03-26
+Media & Entertainment,Parbhani,48475,50087,3.33,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,25.99,18517,36.98,66.57,Low,Emerging,Low,High,2026-08-01
+Media & Entertainment,Jalna,13955,15033,7.73,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,27.16,25208,54.74,55.26,Low,Advanced,High,Low,2026-04-28
+Media & Entertainment,Bhiwandi,19188,20384,6.24,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,50.58,44965,69.74,66.31,High,Basic,Medium,High,2026-05-08
+Media & Entertainment,Nanded,26102,28380,8.73,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,20.56,43199,81.52,75.58,Low,Basic,High,Low,2026-06-15
+Media & Entertainment,Satara,2122,2322,9.43,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,49.53,46405,32.72,51.96,No Change,Moderate,Low,High,2026-08-08
+Media & Entertainment,Beed,29843,33404,11.94,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,51.66,23806,56.07,48.07,High,Moderate,High,Medium,2026-04-10
+Media & Entertainment,Yavatmal,27036,30014,11.02,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,50.09,41035,83.12,68.45,Medium,Basic,Low,Low,2026-05-27
+Media & Entertainment,Osmanabad,29271,32524,11.12,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,59.72,36898,77.27,74.78,High,Advanced,Medium,Medium,2026-05-01
+Media & Entertainment,Raigad,45816,49619,8.3,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,54.83,22103,51.7,88.59,No Change,Emerging,Medium,Medium,2026-04-20
+Media & Entertainment,Ratnagiri,31569,32858,4.08,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,34.38,34593,63.4,73.52,No Change,Emerging,Medium,Low,2026-03-29
+Media & Entertainment,Sindhudurg,33629,36070,7.26,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,19.71,38152,68.59,59.68,No Change,Moderate,Medium,High,2026-07-17
+Media & Entertainment,Wardha,19271,20245,5.06,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,18.47,53406,60.95,41.19,High,Basic,Low,Medium,2026-04-18
+Media & Entertainment,Washim,25829,28104,8.81,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,31.8,52443,68.44,45.69,Low,Advanced,High,High,2026-08-03
+Media & Entertainment,Gondia,21196,22676,6.98,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,28.84,68361,71.76,83.94,No Change,Moderate,High,Low,2026-06-11
+Media & Entertainment,Bhandara,41909,44561,6.33,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,40.14,62829,53.41,72.4,Low,Moderate,Low,Medium,2026-06-04
+Media & Entertainment,Gadchiroli,37341,38813,3.94,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,27.9,25941,70.81,68.5,Low,Advanced,Low,Medium,2026-08-10
+Media & Entertainment,Hingoli,9224,9885,7.17,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,15.0,69784,41.12,86.29,High,Advanced,Low,Medium,2026-08-11
+Media & Entertainment,Nandurbar,16394,17251,5.23,Video Editor; Content Creator; Graphic Designer; Social Media Manager; Photographer,15.49,55341,45.45,70.39,No Change,Emerging,High,High,2026-08-05
+Pharmaceuticals,Mumbai,9178,10113,10.19,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,15.48,54919,74.87,57.85,High,Basic,Low,Low,2026-09-04
+Pharmaceuticals,Pune,40062,42390,5.81,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,42.67,67893,50.95,62.52,Medium,Emerging,Medium,High,2026-09-03
+Pharmaceuticals,Nagpur,47277,50389,6.58,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,49.16,70690,49.62,47.12,No Change,Emerging,Low,High,2026-07-21
+Pharmaceuticals,Thane,15721,16906,7.54,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,29.53,47220,66.05,71.46,Low,Advanced,Medium,Medium,2026-05-23
+Pharmaceuticals,Nashik,47682,51323,7.64,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,47.1,79289,39.37,58.97,Medium,Moderate,Medium,Medium,2026-06-04
+Pharmaceuticals,Aurangabad,16765,17825,6.32,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,54.85,43107,40.94,60.17,No Change,Emerging,High,High,2026-07-24
+Pharmaceuticals,Solapur,25947,28576,10.14,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,28.34,55199,66.89,65.62,Medium,Basic,Low,Medium,2026-03-12
+Pharmaceuticals,Amravati,2245,2320,3.34,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,20.64,41286,40.73,52.72,No Change,Basic,Low,Low,2026-05-20
+Pharmaceuticals,Kolhapur,3717,4113,10.65,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,59.73,61360,80.05,66.93,Low,Moderate,Low,Medium,2026-05-15
+Pharmaceuticals,Sangli,20897,21842,4.52,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,22.84,55596,58.69,77.33,Low,Advanced,Medium,High,2026-04-29
+Pharmaceuticals,Jalgaon,8663,9676,11.7,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,32.01,53671,83.69,72.11,High,Basic,High,Medium,2026-07-27
+Pharmaceuticals,Akola,40610,43189,6.35,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,57.52,52377,56.34,78.39,High,Basic,Low,High,2026-04-07
+Pharmaceuticals,Latur,37207,40781,9.61,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,27.42,50262,33.06,44.55,High,Moderate,High,Low,2026-03-19
+Pharmaceuticals,Dhule,36579,40590,10.97,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,27.35,68511,70.71,43.52,Medium,Advanced,Low,Low,2026-08-18
+Pharmaceuticals,Ahmednagar,35220,36802,4.49,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,53.62,60030,39.08,65.8,No Change,Advanced,Medium,Medium,2026-07-08
+Pharmaceuticals,Chandrapur,3651,3870,6.02,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,57.56,76320,79.32,73.48,High,Basic,High,Medium,2026-03-10
+Pharmaceuticals,Parbhani,5746,6354,10.59,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,36.97,56353,67.58,48.03,No Change,Advanced,High,Medium,2026-03-30
+Pharmaceuticals,Jalna,26398,29155,10.45,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,25.08,67936,70.19,63.14,Medium,Emerging,Medium,Medium,2026-04-25
+Pharmaceuticals,Bhiwandi,44667,47111,5.47,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,54.59,29201,55.9,59.84,High,Advanced,Medium,Low,2026-04-27
+Pharmaceuticals,Nanded,698,766,9.88,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,22.48,67362,36.42,72.24,Low,Basic,Low,Low,2026-07-18
+Pharmaceuticals,Satara,24067,26191,8.83,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,41.69,64609,48.8,72.73,No Change,Moderate,High,Low,2026-04-08
+Pharmaceuticals,Beed,47326,50141,5.95,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,39.88,24306,78.78,80.33,Low,Advanced,Medium,Medium,2026-07-23
+Pharmaceuticals,Yavatmal,2583,2664,3.14,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,24.11,21297,31.26,87.79,Low,Basic,Low,High,2026-03-09
+Pharmaceuticals,Osmanabad,16351,16907,3.4,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,50.21,23381,77.94,89.39,Medium,Moderate,High,Medium,2026-07-15
+Pharmaceuticals,Raigad,19630,20852,6.23,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,52.19,76852,46.69,51.92,No Change,Emerging,High,High,2026-08-09
+Pharmaceuticals,Ratnagiri,23257,25220,8.44,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,45.86,39383,34.13,85.54,Low,Advanced,High,Medium,2026-07-06
+Pharmaceuticals,Sindhudurg,5663,6232,10.06,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,20.95,41377,69.78,72.74,Low,Emerging,Low,Medium,2026-03-11
+Pharmaceuticals,Wardha,38712,42330,9.35,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,25.84,48925,80.4,74.49,High,Emerging,Low,Medium,2026-05-17
+Pharmaceuticals,Washim,41290,42902,3.91,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,39.73,49089,61.46,67.81,Low,Moderate,High,Low,2026-06-04
+Pharmaceuticals,Gondia,23915,25184,5.31,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,40.9,61400,75.9,74.05,Low,Basic,Low,Medium,2026-04-05
+Pharmaceuticals,Bhandara,42377,45269,6.83,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,52.43,24614,46.24,54.52,No Change,Advanced,High,High,2026-06-29
+Pharmaceuticals,Gadchiroli,29817,31867,6.88,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,28.77,50643,57.35,70.12,High,Moderate,High,Low,2026-07-15
+Pharmaceuticals,Hingoli,44153,49281,11.61,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,38.94,38769,75.67,66.59,No Change,Emerging,High,Low,2026-03-11
+Pharmaceuticals,Nandurbar,34839,37899,8.78,Pharmacist; Medical Representative; Quality Control Analyst; Production Operator; Lab Technician,56.27,56839,58.55,55.95,Medium,Emerging,Low,Medium,2026-04-17
+Agriculture & Food Processing,Mumbai,15838,16771,5.89,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,48.8,35470,82.01,54.65,High,Advanced,Medium,Medium,2026-05-16
+Agriculture & Food Processing,Pune,20465,21835,6.7,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,58.88,27633,37.75,63.07,High,Emerging,Medium,Low,2026-07-20
+Agriculture & Food Processing,Nagpur,36058,37229,3.25,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,17.99,64325,80.91,89.95,Low,Emerging,Low,Medium,2026-06-18
+Agriculture & Food Processing,Thane,8974,9358,4.28,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,27.91,29498,49.58,43.99,Medium,Basic,Low,Low,2026-05-05
+Agriculture & Food Processing,Nashik,45711,48756,6.66,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,46.45,28378,37.57,58.96,Low,Moderate,High,Medium,2026-08-06
+Agriculture & Food Processing,Aurangabad,42661,44872,5.18,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,54.97,50675,79.25,62.19,Low,Advanced,High,Low,2026-09-02
+Agriculture & Food Processing,Solapur,21720,24102,10.97,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,44.23,25694,83.62,41.2,High,Basic,Low,Low,2026-05-04
+Agriculture & Food Processing,Amravati,25036,26778,6.96,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,28.62,21594,37.88,82.67,Medium,Moderate,Low,Low,2026-07-23
+Agriculture & Food Processing,Kolhapur,16543,18239,10.25,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,22.6,36721,82.32,87.95,Low,Advanced,High,High,2026-05-13
+Agriculture & Food Processing,Sangli,35808,40084,11.94,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,43.35,58569,56.55,46.33,Low,Moderate,Medium,High,2026-05-31
+Agriculture & Food Processing,Jalgaon,28951,31416,8.52,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,20.71,58546,78.26,41.29,No Change,Moderate,High,High,2026-08-29
+Agriculture & Food Processing,Akola,38159,41569,8.94,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,38.58,46991,59.4,85.0,Medium,Emerging,Low,Low,2026-08-02
+Agriculture & Food Processing,Latur,10848,12082,11.38,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,51.15,30487,31.71,43.62,No Change,Moderate,High,Medium,2026-03-23
+Agriculture & Food Processing,Dhule,40555,42632,5.12,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,27.35,36979,64.64,45.18,Medium,Advanced,Medium,High,2026-03-25
+Agriculture & Food Processing,Ahmednagar,23510,24889,5.87,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,22.89,67193,31.13,79.02,Medium,Moderate,Medium,High,2026-03-09
+Agriculture & Food Processing,Chandrapur,46108,47747,3.56,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,16.05,38732,70.79,75.12,Low,Advanced,Medium,High,2026-07-18
+Agriculture & Food Processing,Parbhani,37370,40852,9.32,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,38.31,47995,46.95,62.81,High,Basic,High,Low,2026-07-10
+Agriculture & Food Processing,Jalna,16623,18304,10.12,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,57.01,21988,41.82,53.05,No Change,Emerging,High,Low,2026-04-18
+Agriculture & Food Processing,Bhiwandi,26709,28681,7.39,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,32.49,29712,48.38,57.56,High,Advanced,High,High,2026-06-14
+Agriculture & Food Processing,Nanded,44621,48175,7.97,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,52.95,57810,33.37,86.17,Medium,Emerging,Low,Low,2026-07-03
+Agriculture & Food Processing,Satara,43902,48940,11.48,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,54.27,61782,59.73,46.09,No Change,Advanced,High,Low,2026-06-23
+Agriculture & Food Processing,Beed,48934,53771,9.89,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,26.91,49812,45.11,80.88,High,Emerging,Low,Medium,2026-04-08
+Agriculture & Food Processing,Yavatmal,26373,28824,9.3,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,30.97,66773,46.87,87.69,Medium,Emerging,Medium,Medium,2026-03-09
+Agriculture & Food Processing,Osmanabad,14301,15680,9.65,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,28.01,45336,54.12,41.46,High,Moderate,Medium,High,2026-04-14
+Agriculture & Food Processing,Raigad,11812,13011,10.16,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,59.48,29694,35.89,79.71,No Change,Advanced,High,High,2026-07-03
+Agriculture & Food Processing,Ratnagiri,44797,48181,7.56,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,35.49,45443,80.5,70.64,High,Advanced,High,Low,2026-05-03
+Agriculture & Food Processing,Sindhudurg,38560,40597,5.28,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,26.1,35362,41.39,56.38,Medium,Basic,Low,Low,2026-05-26
+Agriculture & Food Processing,Wardha,42131,44096,4.66,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,42.69,66764,55.68,89.27,Low,Emerging,Medium,Low,2026-07-24
+Agriculture & Food Processing,Washim,24307,26172,7.67,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,15.11,31521,53.58,81.12,Medium,Moderate,High,Medium,2026-07-12
+Agriculture & Food Processing,Gondia,29065,30413,4.64,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,31.07,69238,78.76,62.5,No Change,Advanced,Medium,Low,2026-05-17
+Agriculture & Food Processing,Bhandara,35342,39233,11.01,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,58.43,30977,77.22,49.91,Medium,Advanced,Low,High,2026-04-27
+Agriculture & Food Processing,Gadchiroli,19975,21678,8.53,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,18.5,55999,44.7,67.91,No Change,Advanced,High,Low,2026-05-18
+Agriculture & Food Processing,Hingoli,43275,46525,7.51,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,47.88,41613,57.0,70.74,High,Emerging,Medium,Low,2026-08-19
+Agriculture & Food Processing,Nandurbar,25391,27614,8.76,Farm Supervisor; Food Processing Operator; Quality Inspector; Cold Chain Manager; Agriculture Technician,17.97,59919,33.01,52.71,High,Moderate,Low,Medium,2026-07-26
+Textiles,Mumbai,23523,24853,5.66,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,28.26,51832,63.89,48.6,High,Emerging,High,High,2026-03-11
+Textiles,Pune,15054,16009,6.34,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,21.7,21576,54.82,50.3,High,Basic,Low,Medium,2026-06-03
+Textiles,Nagpur,20671,23137,11.93,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,34.12,48796,76.62,87.69,No Change,Moderate,Medium,Low,2026-05-15
+Textiles,Thane,34912,38364,9.89,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,37.3,20127,52.47,80.34,No Change,Advanced,Medium,High,2026-07-08
+Textiles,Nashik,40842,44953,10.07,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,25.46,46090,69.2,47.8,No Change,Basic,Low,Medium,2026-05-21
+Textiles,Aurangabad,31803,34247,7.69,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,28.2,23476,65.49,83.59,High,Moderate,High,Low,2026-05-29
+Textiles,Solapur,34976,36292,3.76,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,25.72,34066,61.42,62.04,Medium,Basic,High,High,2026-08-20
+Textiles,Amravati,48451,50730,4.71,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,25.44,28594,78.46,64.41,Low,Advanced,Low,High,2026-07-30
+Textiles,Kolhapur,15214,16206,6.52,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,39.63,19003,30.38,73.67,High,Moderate,Medium,High,2026-04-14
+Textiles,Sangli,38302,39589,3.36,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,43.45,51994,33.9,72.39,High,Advanced,High,Medium,2026-07-28
+Textiles,Jalgaon,16767,17684,5.47,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,19.17,32572,44.52,67.98,High,Emerging,Medium,Medium,2026-03-30
+Textiles,Akola,8341,9244,10.83,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,37.73,48674,64.5,71.86,Medium,Advanced,Medium,Medium,2026-06-28
+Textiles,Latur,47666,52191,9.49,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,37.61,23271,37.18,65.71,Low,Moderate,Low,Medium,2026-07-24
+Textiles,Dhule,3771,4219,11.9,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,57.59,18740,67.03,71.18,High,Basic,High,High,2026-07-09
+Textiles,Ahmednagar,7268,7763,6.82,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,31.95,69334,77.44,61.26,Medium,Basic,High,Medium,2026-07-04
+Textiles,Chandrapur,47876,51127,6.79,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,55.82,29355,40.05,45.02,Low,Moderate,Low,High,2026-03-09
+Textiles,Parbhani,42677,47670,11.7,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,22.99,37415,73.54,65.75,High,Basic,Medium,High,2026-09-02
+Textiles,Jalna,31699,34380,8.46,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,38.15,61781,50.36,79.16,Low,Basic,High,Medium,2026-04-26
+Textiles,Bhiwandi,9753,10281,5.42,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,53.64,48727,83.27,65.54,Low,Advanced,High,Medium,2026-08-16
+Textiles,Nanded,41671,44112,5.86,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,41.29,52343,58.47,59.9,No Change,Emerging,High,Medium,2026-03-19
+Textiles,Satara,14059,14963,6.44,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,39.65,33379,80.15,54.99,Medium,Advanced,Low,Medium,2026-03-22
+Textiles,Beed,28324,29786,5.16,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,24.58,39511,30.5,46.47,No Change,Advanced,Medium,Low,2026-04-16
+Textiles,Yavatmal,29671,31000,4.48,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,27.87,31604,41.45,44.92,Low,Moderate,High,Low,2026-08-13
+Textiles,Osmanabad,3162,3358,6.22,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,39.24,37256,59.96,82.83,Medium,Advanced,High,Low,2026-05-30
+Textiles,Raigad,33423,36273,8.53,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,28.95,45059,31.15,41.82,Medium,Advanced,High,High,2026-07-16
+Textiles,Ratnagiri,23958,26166,9.22,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,57.73,47238,47.99,74.34,High,Emerging,Medium,Low,2026-07-03
+Textiles,Sindhudurg,38674,42618,10.2,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,25.77,65553,70.04,79.42,No Change,Basic,Low,Low,2026-07-23
+Textiles,Wardha,16859,17671,4.82,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,45.33,18896,59.93,62.98,Medium,Advanced,Low,High,2026-04-27
+Textiles,Washim,10122,10467,3.41,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,52.27,23698,72.55,86.04,Medium,Basic,High,High,2026-03-29
+Textiles,Gondia,31155,34468,10.64,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,17.95,50615,34.79,54.15,Low,Basic,Low,Low,2026-06-13
+Textiles,Bhandara,46181,50874,10.16,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,47.95,19438,67.74,60.0,High,Emerging,High,Medium,2026-03-14
+Textiles,Gadchiroli,41523,45783,10.26,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,45.27,45481,77.19,88.87,No Change,Moderate,Low,Low,2026-05-31
+Textiles,Hingoli,2692,3008,11.77,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,17.46,43066,78.24,60.98,Medium,Basic,Medium,High,2026-08-11
+Textiles,Nandurbar,1460,1613,10.53,Machine Operator; Quality Inspector; Textile Designer; Production Supervisor; Merchandiser,40.52,64416,53.87,88.31,No Change,Emerging,Medium,High,2026-07-30
+Tourism & Hospitality,Mumbai,18084,19090,5.57,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,50.72,40955,82.21,52.73,No Change,Emerging,Low,Low,2026-03-25
+Tourism & Hospitality,Pune,5961,6380,7.03,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,56.06,24934,60.52,57.61,High,Emerging,Medium,Medium,2026-04-05
+Tourism & Hospitality,Nagpur,23704,25815,8.91,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,19.22,30492,40.7,53.02,Low,Moderate,Low,Low,2026-06-13
+Tourism & Hospitality,Thane,14700,15407,4.81,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,46.57,28709,34.95,70.8,High,Advanced,High,Low,2026-06-10
+Tourism & Hospitality,Nashik,24696,25738,4.22,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,18.18,22435,74.35,73.73,High,Emerging,Low,Medium,2026-07-01
+Tourism & Hospitality,Aurangabad,29858,32039,7.31,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,23.51,26257,80.23,59.81,Low,Advanced,Low,Medium,2026-08-14
+Tourism & Hospitality,Solapur,39562,42219,6.72,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,45.21,18151,36.58,53.81,High,Moderate,High,High,2026-06-27
+Tourism & Hospitality,Amravati,33147,36799,11.02,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,32.14,53659,79.94,66.3,High,Basic,Low,High,2026-04-09
+Tourism & Hospitality,Kolhapur,15677,17332,10.56,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,25.23,67547,75.49,46.69,High,Advanced,Medium,High,2026-04-06
+Tourism & Hospitality,Sangli,35543,36747,3.39,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,42.28,26070,55.14,50.15,Low,Emerging,Low,Low,2026-07-28
+Tourism & Hospitality,Jalgaon,19887,21360,7.41,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,22.21,61212,41.26,84.19,No Change,Moderate,High,Medium,2026-06-30
+Tourism & Hospitality,Akola,4238,4645,9.62,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,27.77,59219,76.13,58.38,High,Moderate,High,Low,2026-05-10
+Tourism & Hospitality,Latur,23825,24619,3.33,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,47.24,29502,43.94,54.78,High,Emerging,Medium,Medium,2026-03-30
+Tourism & Hospitality,Dhule,45394,50254,10.71,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,53.73,54480,75.8,53.12,High,Advanced,Low,Medium,2026-08-28
+Tourism & Hospitality,Ahmednagar,49346,52942,7.29,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,23.31,66879,62.27,52.6,No Change,Basic,High,High,2026-05-19
+Tourism & Hospitality,Chandrapur,25122,27485,9.41,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,25.7,60942,46.19,59.53,Medium,Basic,Low,High,2026-03-09
+Tourism & Hospitality,Parbhani,31341,33004,5.31,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,29.84,67335,51.28,82.44,High,Moderate,Medium,Low,2026-06-19
+Tourism & Hospitality,Jalna,27030,28416,5.13,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,17.34,31935,45.32,46.97,Medium,Emerging,High,Medium,2026-04-06
+Tourism & Hospitality,Bhiwandi,5197,5430,4.5,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,44.07,68819,54.21,57.63,No Change,Emerging,High,Low,2026-03-25
+Tourism & Hospitality,Nanded,47622,51199,7.51,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,56.3,64137,78.48,43.02,No Change,Advanced,High,High,2026-04-30
+Tourism & Hospitality,Satara,13772,14455,4.96,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,33.49,27531,69.4,87.32,Low,Emerging,Low,Medium,2026-08-24
+Tourism & Hospitality,Beed,7014,7377,5.19,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,51.29,21140,63.16,75.46,Low,Basic,High,High,2026-05-30
+Tourism & Hospitality,Yavatmal,44189,48071,8.79,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,38.23,24699,61.12,51.6,Medium,Basic,Medium,Low,2026-03-25
+Tourism & Hospitality,Osmanabad,44542,46847,5.18,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,40.84,20176,69.89,88.63,Low,Moderate,Medium,High,2026-03-13
+Tourism & Hospitality,Raigad,33101,34761,5.02,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,37.16,68923,48.27,56.26,Medium,Moderate,Medium,Medium,2026-05-25
+Tourism & Hospitality,Ratnagiri,35403,37469,5.84,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,58.67,36017,45.07,72.29,No Change,Moderate,Low,High,2026-06-10
+Tourism & Hospitality,Sindhudurg,16710,18656,11.65,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,56.05,39941,42.44,55.4,No Change,Advanced,High,Low,2026-05-13
+Tourism & Hospitality,Wardha,11833,12945,9.4,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,24.04,58990,40.53,69.47,Medium,Advanced,Low,Medium,2026-07-11
+Tourism & Hospitality,Washim,3025,3244,7.24,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,26.12,49934,46.39,47.83,Medium,Moderate,Low,Low,2026-08-31
+Tourism & Hospitality,Gondia,27005,29286,8.45,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,51.12,52760,69.76,42.23,Low,Moderate,Low,High,2026-03-31
+Tourism & Hospitality,Bhandara,14114,14697,4.13,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,23.25,39797,30.67,86.84,No Change,Moderate,Medium,Medium,2026-08-30
+Tourism & Hospitality,Gadchiroli,40783,44228,8.45,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,37.55,69764,30.62,54.34,Low,Moderate,High,Medium,2026-05-09
+Tourism & Hospitality,Hingoli,29045,30418,4.73,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,27.16,49527,55.93,44.22,High,Moderate,Medium,High,2026-07-23
+Tourism & Hospitality,Nandurbar,11094,12251,10.43,Hotel Staff; Tour Guide; Travel Agent; Housekeeping Supervisor; Food Service Worker,26.67,21082,69.11,83.7,Low,Advanced,High,Low,2026-06-05
+Energy & Renewables,Mumbai,34704,38104,9.8,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,30.96,30083,77.67,84.28,Medium,Basic,Medium,Low,2026-04-15
+Energy & Renewables,Pune,37058,41314,11.49,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,26.56,54321,78.9,77.22,Medium,Emerging,Low,Low,2026-04-27
+Energy & Renewables,Nagpur,30199,31677,4.9,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,34.31,45971,78.1,88.32,High,Emerging,Medium,Medium,2026-04-01
+Energy & Renewables,Thane,32773,34392,4.94,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,51.02,28145,72.06,50.92,High,Moderate,Medium,High,2026-04-08
+Energy & Renewables,Nashik,16886,18787,11.26,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,38.53,64673,68.94,81.65,Low,Basic,Low,Medium,2026-08-08
+Energy & Renewables,Aurangabad,7576,7982,5.37,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,19.57,51178,62.65,64.41,Medium,Advanced,Medium,High,2026-06-29
+Energy & Renewables,Solapur,23595,25659,8.75,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,49.12,40650,76.77,50.17,High,Moderate,Low,High,2026-05-11
+Energy & Renewables,Amravati,14418,15888,10.2,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,16.37,27495,62.95,57.11,Low,Moderate,High,Low,2026-03-29
+Energy & Renewables,Kolhapur,11050,11655,5.48,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,53.03,65719,51.47,68.61,High,Basic,Low,High,2026-04-05
+Energy & Renewables,Sangli,2582,2801,8.49,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,15.75,59402,66.7,84.75,High,Advanced,Low,Low,2026-05-07
+Energy & Renewables,Jalgaon,25839,27655,7.03,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,30.73,46769,36.23,71.14,No Change,Basic,Medium,Low,2026-07-25
+Energy & Renewables,Akola,39339,43724,11.15,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,27.08,69155,61.01,44.18,No Change,Basic,Low,High,2026-07-14
+Energy & Renewables,Latur,3257,3560,9.31,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,20.56,53200,74.48,83.64,High,Moderate,Low,Low,2026-06-23
+Energy & Renewables,Dhule,48518,53227,9.71,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,29.41,66625,42.0,74.06,Medium,Moderate,Medium,High,2026-05-05
+Energy & Renewables,Ahmednagar,32847,36415,10.86,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,24.92,33716,32.39,81.0,Low,Basic,Medium,Medium,2026-07-15
+Energy & Renewables,Chandrapur,23027,24738,7.43,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,47.29,64468,72.69,54.11,Medium,Emerging,High,Medium,2026-04-11
+Energy & Renewables,Parbhani,42116,46251,9.82,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,53.2,41014,78.1,75.71,No Change,Advanced,High,Medium,2026-06-18
+Energy & Renewables,Jalna,43409,47150,8.62,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,41.9,18756,30.29,40.11,High,Moderate,High,Medium,2026-04-16
+Energy & Renewables,Bhiwandi,28183,29900,6.09,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,26.97,44946,31.05,49.58,No Change,Emerging,High,Medium,2026-03-12
+Energy & Renewables,Nanded,19284,20583,6.74,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,45.09,27054,64.08,58.75,No Change,Moderate,Medium,Low,2026-04-19
+Energy & Renewables,Satara,43754,48780,11.49,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,25.93,53101,76.38,44.28,No Change,Basic,High,Low,2026-08-22
+Energy & Renewables,Beed,16635,17823,7.14,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,50.0,39066,70.57,44.81,High,Moderate,Medium,Medium,2026-07-31
+Energy & Renewables,Yavatmal,3318,3537,6.6,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,38.84,41238,64.26,74.56,Low,Basic,High,Low,2026-05-06
+Energy & Renewables,Osmanabad,39053,40726,4.28,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,26.44,69345,60.32,85.88,Low,Moderate,Low,High,2026-08-20
+Energy & Renewables,Raigad,3663,4073,11.21,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,29.56,46564,60.24,47.68,High,Emerging,High,Medium,2026-04-02
+Energy & Renewables,Ratnagiri,12573,13228,5.22,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,37.35,65408,57.48,56.13,No Change,Moderate,Medium,Low,2026-09-03
+Energy & Renewables,Sindhudurg,32119,33277,3.61,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,52.12,63263,76.19,44.64,No Change,Advanced,High,Low,2026-06-11
+Energy & Renewables,Wardha,45070,48314,7.2,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,41.99,58479,51.18,40.43,High,Emerging,High,High,2026-06-03
+Energy & Renewables,Washim,36425,38740,6.36,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,31.4,33042,72.4,68.86,Low,Advanced,High,Medium,2026-08-13
+Energy & Renewables,Gondia,3730,4147,11.18,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,21.65,35921,59.59,66.21,No Change,Basic,High,High,2026-05-12
+Energy & Renewables,Bhandara,23332,24211,3.77,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,51.55,63217,65.31,59.39,High,Basic,Low,Low,2026-05-02
+Energy & Renewables,Gadchiroli,7718,8627,11.79,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,57.8,63096,44.37,85.05,No Change,Basic,Medium,High,2026-06-19
+Energy & Renewables,Hingoli,6681,7018,5.06,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,58.97,30885,30.89,78.66,Medium,Advanced,Medium,High,2026-05-10
+Energy & Renewables,Nandurbar,8159,9109,11.65,Solar Technician; Wind Turbine Technician; Electrical Engineer; Project Coordinator; Maintenance Technician,25.89,56187,37.48,84.37,No Change,Advanced,High,High,2026-04-09
+Electronics & Hardware,Mumbai,8716,9231,5.91,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,16.07,56567,67.65,76.74,No Change,Basic,High,Low,2026-03-31
+Electronics & Hardware,Pune,43381,47945,10.52,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,26.26,50023,61.84,85.25,Low,Basic,Medium,Low,2026-06-21
+Electronics & Hardware,Nagpur,8183,9119,11.44,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,25.62,43475,36.08,71.21,High,Advanced,Medium,Medium,2026-05-06
+Electronics & Hardware,Thane,25422,28303,11.33,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,24.66,43151,48.49,63.22,Medium,Moderate,Low,Low,2026-05-18
+Electronics & Hardware,Nashik,37590,39025,3.82,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,37.63,20739,51.81,51.64,No Change,Emerging,Low,High,2026-07-20
+Electronics & Hardware,Aurangabad,39695,42354,6.7,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,51.99,26492,71.31,41.47,Medium,Moderate,High,Low,2026-04-14
+Electronics & Hardware,Solapur,10982,11940,8.73,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,58.01,69917,45.57,87.78,Low,Basic,High,Medium,2026-07-08
+Electronics & Hardware,Amravati,16445,18268,11.09,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,45.46,21341,43.85,85.71,Low,Basic,Medium,Medium,2026-07-03
+Electronics & Hardware,Kolhapur,15257,16537,8.39,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,40.17,35522,71.61,84.31,No Change,Basic,Medium,High,2026-08-18
+Electronics & Hardware,Sangli,12941,13555,4.75,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,42.48,47161,40.84,69.03,High,Emerging,Low,Medium,2026-06-02
+Electronics & Hardware,Jalgaon,48894,52408,7.19,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,26.78,22437,54.94,71.67,High,Emerging,Low,Medium,2026-06-24
+Electronics & Hardware,Akola,16585,17134,3.31,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,29.67,63820,66.89,42.21,No Change,Emerging,High,Low,2026-07-28
+Electronics & Hardware,Latur,20665,22977,11.19,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,49.26,46908,80.15,58.68,Low,Moderate,Low,Medium,2026-07-17
+Electronics & Hardware,Dhule,27541,30444,10.54,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,24.61,23438,50.26,71.63,Medium,Advanced,High,High,2026-04-01
+Electronics & Hardware,Ahmednagar,16835,18207,8.15,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,50.66,66090,55.57,45.71,No Change,Basic,Low,Low,2026-04-24
+Electronics & Hardware,Chandrapur,9867,10779,9.25,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,29.47,58506,80.39,81.17,No Change,Moderate,High,Low,2026-09-01
+Electronics & Hardware,Parbhani,10431,11093,6.35,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,30.59,59916,54.28,86.15,Medium,Basic,High,High,2026-07-29
+Electronics & Hardware,Jalna,40351,43514,7.84,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,41.47,67304,69.22,52.07,Medium,Emerging,Low,Medium,2026-08-03
+Electronics & Hardware,Bhiwandi,30790,33108,7.53,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,46.58,29113,66.06,63.98,No Change,Moderate,High,High,2026-07-16
+Electronics & Hardware,Nanded,25519,26684,4.57,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,48.56,53353,84.47,77.65,No Change,Emerging,Low,Low,2026-03-14
+Electronics & Hardware,Satara,11416,12543,9.87,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,51.55,61255,30.57,53.44,Low,Basic,High,Medium,2026-07-03
+Electronics & Hardware,Beed,24823,27558,11.02,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,53.3,26085,68.28,74.63,Low,Emerging,High,Low,2026-05-04
+Electronics & Hardware,Yavatmal,2110,2198,4.19,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,56.28,61401,61.96,84.05,High,Advanced,Medium,Medium,2026-04-28
+Electronics & Hardware,Osmanabad,12163,13373,9.95,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,52.65,23056,70.08,79.2,Low,Emerging,Medium,High,2026-04-16
+Electronics & Hardware,Raigad,29893,31449,5.21,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,24.65,51817,72.2,63.22,Low,Basic,Low,Low,2026-08-24
+Electronics & Hardware,Ratnagiri,35426,37828,6.78,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,20.78,27135,60.4,47.83,Medium,Basic,High,Low,2026-07-27
+Electronics & Hardware,Sindhudurg,8432,9411,11.62,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,29.76,69610,60.8,82.18,High,Advanced,Medium,Medium,2026-07-27
+Electronics & Hardware,Wardha,37030,38940,5.16,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,30.88,32435,81.32,45.23,Low,Advanced,Medium,Medium,2026-03-25
+Electronics & Hardware,Washim,49876,54044,8.36,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,24.08,67020,76.99,54.14,No Change,Emerging,High,High,2026-03-17
+Electronics & Hardware,Gondia,20286,21218,4.6,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,39.07,60894,61.73,63.24,High,Advanced,Medium,High,2026-06-22
+Electronics & Hardware,Bhandara,35822,39754,10.98,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,30.49,50628,33.97,89.55,No Change,Basic,Low,Low,2026-06-22
+Electronics & Hardware,Gadchiroli,8096,8828,9.05,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,21.39,19407,46.91,44.38,High,Moderate,Medium,Medium,2026-03-19
+Electronics & Hardware,Hingoli,22233,23984,7.88,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,31.21,33453,80.55,72.96,No Change,Moderate,Medium,High,2026-03-25
+Electronics & Hardware,Nandurbar,4031,4502,11.7,Electronics Technician; PCB Designer; Assembly Operator; Quality Tester; Field Service Engineer,21.43,36405,84.31,46.98,High,Moderate,Medium,High,2026-07-09
+Real Estate,Mumbai,12276,13565,10.5,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,19.68,31904,66.78,44.67,High,Moderate,Low,Low,2026-06-04
+Real Estate,Pune,43479,46205,6.27,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,49.74,45123,49.84,48.55,Low,Advanced,Low,Medium,2026-03-15
+Real Estate,Nagpur,16669,17388,4.31,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,41.91,65532,46.08,59.15,No Change,Moderate,High,High,2026-08-15
+Real Estate,Thane,9206,9620,4.5,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,41.16,29415,68.76,57.86,No Change,Basic,Medium,Medium,2026-03-25
+Real Estate,Nashik,24703,25788,4.39,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,54.96,55890,54.92,81.58,Low,Basic,Medium,High,2026-04-15
+Real Estate,Aurangabad,29228,31134,6.52,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,50.9,47058,64.1,70.86,Low,Advanced,High,High,2026-04-05
+Real Estate,Solapur,38266,42116,10.06,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,59.93,51821,35.21,50.24,High,Moderate,High,High,2026-05-10
+Real Estate,Amravati,18394,20280,10.25,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,50.26,69339,40.96,78.28,High,Advanced,Medium,High,2026-03-15
+Real Estate,Kolhapur,20241,21437,5.91,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,42.02,34441,39.19,47.75,High,Advanced,Low,Low,2026-08-04
+Real Estate,Sangli,47100,49153,4.36,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,50.54,19959,56.5,68.73,High,Emerging,Low,High,2026-06-28
+Real Estate,Jalgaon,15227,16789,10.26,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,33.5,35691,52.57,57.49,No Change,Emerging,Low,High,2026-03-13
+Real Estate,Akola,10334,10817,4.68,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,51.5,18823,54.17,42.75,Medium,Moderate,Medium,Low,2026-05-22
+Real Estate,Latur,10139,10761,6.14,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,33.51,25791,41.57,49.32,No Change,Emerging,Low,Medium,2026-04-19
+Real Estate,Dhule,33337,35470,6.4,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,51.17,63744,45.31,57.2,Medium,Basic,Low,Medium,2026-08-22
+Real Estate,Ahmednagar,23669,24407,3.12,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,41.2,46289,54.07,75.41,Medium,Advanced,High,Low,2026-07-08
+Real Estate,Chandrapur,48709,51636,6.01,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,43.04,26964,81.01,86.1,Low,Moderate,High,Low,2026-03-10
+Real Estate,Parbhani,7213,7555,4.74,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,41.77,45172,59.87,89.47,Low,Basic,Medium,Low,2026-04-10
+Real Estate,Jalna,13152,13667,3.92,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,27.43,34060,49.18,62.52,No Change,Advanced,Low,High,2026-07-22
+Real Estate,Bhiwandi,24403,26171,7.25,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,18.07,68894,70.03,55.89,Low,Advanced,Medium,Low,2026-07-28
+Real Estate,Nanded,25126,26167,4.15,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,18.44,42384,49.88,40.45,No Change,Emerging,Low,High,2026-07-22
+Real Estate,Satara,36056,39565,9.73,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,53.74,35977,80.34,52.47,No Change,Moderate,High,High,2026-06-16
+Real Estate,Beed,4662,5002,7.29,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,33.44,26173,53.56,70.72,Medium,Moderate,Low,Medium,2026-08-24
+Real Estate,Yavatmal,17497,18832,7.64,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,46.17,32595,35.78,75.47,Medium,Basic,Medium,Medium,2026-06-15
+Real Estate,Osmanabad,626,684,9.33,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,23.29,44080,70.49,63.56,Medium,Emerging,High,Medium,2026-08-10
+Real Estate,Raigad,10562,11555,9.4,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,46.1,69348,42.98,70.35,High,Moderate,High,Medium,2026-07-04
+Real Estate,Ratnagiri,5345,5541,3.67,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,58.65,26318,38.67,78.31,High,Basic,Medium,Medium,2026-03-26
+Real Estate,Sindhudurg,16769,18085,7.85,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,34.85,41479,74.68,56.3,Medium,Emerging,Medium,Medium,2026-08-19
+Real Estate,Wardha,13435,14923,11.08,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,56.21,23357,51.52,53.64,No Change,Basic,Medium,Low,2026-04-20
+Real Estate,Washim,49002,54315,10.84,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,21.69,64444,82.88,40.27,High,Moderate,Medium,Low,2026-04-16
+Real Estate,Gondia,26629,28931,8.65,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,19.77,32841,51.65,84.5,Low,Basic,High,Medium,2026-06-06
+Real Estate,Bhandara,43754,48484,10.81,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,33.64,68661,80.22,82.06,Medium,Emerging,High,Medium,2026-07-11
+Real Estate,Gadchiroli,12182,13419,10.16,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,37.78,27571,50.45,89.15,High,Moderate,High,Low,2026-05-19
+Real Estate,Hingoli,46658,50535,8.31,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,22.6,53889,47.77,69.61,No Change,Emerging,High,Low,2026-04-05
+Real Estate,Nandurbar,38783,43194,11.37,Sales Executive; Property Manager; Site Engineer; Architect; Legal Advisor,38.33,68730,80.52,76.94,No Change,Moderate,Low,High,2026-05-04
+Insurance,Mumbai,5099,5316,4.26,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,18.09,22147,44.31,82.55,High,Basic,Low,High,2026-05-25
+Insurance,Pune,37051,38933,5.08,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,55.32,37794,81.57,44.94,High,Moderate,Medium,Low,2026-07-09
+Insurance,Nagpur,18657,19611,5.11,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,49.78,24384,65.68,88.07,Medium,Advanced,Low,Low,2026-04-12
+Insurance,Thane,26228,28909,10.22,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,29.01,61681,66.81,65.97,Medium,Advanced,High,High,2026-07-17
+Insurance,Nashik,37790,39658,4.95,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,25.18,27511,32.17,42.27,No Change,Basic,High,High,2026-07-08
+Insurance,Aurangabad,20584,21417,4.05,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,16.96,26730,61.69,42.71,High,Basic,Medium,Low,2026-05-28
+Insurance,Solapur,19716,21528,9.19,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,38.53,66100,62.43,71.59,Medium,Basic,Low,Low,2026-08-10
+Insurance,Amravati,34274,36611,6.82,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,58.37,42956,36.26,56.49,High,Advanced,High,Low,2026-07-24
+Insurance,Kolhapur,2867,3043,6.15,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,48.92,42555,60.13,75.44,No Change,Moderate,High,Medium,2026-07-25
+Insurance,Sangli,943,1015,7.73,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,27.07,42613,50.19,73.33,Low,Moderate,High,Low,2026-04-01
+Insurance,Jalgaon,45761,49953,9.16,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,42.97,31788,76.74,53.39,Medium,Advanced,Low,Medium,2026-06-01
+Insurance,Akola,49300,51503,4.47,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,17.46,48783,60.08,77.37,High,Advanced,Low,High,2026-05-02
+Insurance,Latur,35727,39229,9.8,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,59.16,42335,76.41,41.97,High,Advanced,Medium,Low,2026-05-24
+Insurance,Dhule,26657,29719,11.49,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,31.85,54476,63.24,41.67,No Change,Moderate,Medium,Medium,2026-05-21
+Insurance,Ahmednagar,34778,36491,4.93,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,47.79,31303,53.65,51.62,Medium,Basic,Medium,High,2026-04-14
+Insurance,Chandrapur,20473,21728,6.13,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,45.28,63725,40.8,71.25,Low,Basic,Low,High,2026-03-12
+Insurance,Parbhani,29044,30466,4.9,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,52.7,45374,38.9,55.36,Medium,Basic,High,High,2026-03-10
+Insurance,Jalna,33292,34307,3.05,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,20.7,37970,65.45,84.2,High,Basic,Low,High,2026-07-20
+Insurance,Bhiwandi,42117,44679,6.08,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,37.72,23084,32.7,76.88,No Change,Moderate,Medium,Low,2026-06-13
+Insurance,Nanded,12743,13959,9.55,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,27.49,69624,43.88,85.14,High,Advanced,Medium,Low,2026-04-12
+Insurance,Satara,47216,50711,7.4,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,40.6,69125,77.03,47.85,Low,Moderate,Medium,High,2026-08-13
+Insurance,Beed,38992,41329,6.0,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,43.02,45699,40.15,54.16,No Change,Moderate,Medium,High,2026-04-30
+Insurance,Yavatmal,41591,46406,11.58,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,45.4,54381,45.43,84.55,High,Advanced,High,Medium,2026-08-09
+Insurance,Osmanabad,44433,48279,8.66,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,18.95,53996,83.29,84.2,High,Emerging,Medium,Low,2026-07-11
+Insurance,Raigad,35096,38548,9.84,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,41.51,62408,40.98,68.1,Medium,Advanced,Medium,Low,2026-09-04
+Insurance,Ratnagiri,19377,20340,4.97,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,40.04,59768,52.74,60.56,Low,Emerging,High,High,2026-03-17
+Insurance,Sindhudurg,33375,34503,3.38,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,45.55,20183,76.21,81.0,Low,Basic,Medium,Low,2026-06-23
+Insurance,Wardha,33580,36904,9.9,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,53.01,62211,61.03,61.1,Low,Basic,Medium,Medium,2026-07-19
+Insurance,Washim,12751,14136,10.86,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,58.78,27365,72.59,55.12,No Change,Basic,High,Medium,2026-04-26
+Insurance,Gondia,8522,8782,3.06,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,43.2,40321,36.81,79.65,High,Moderate,Low,High,2026-05-25
+Insurance,Bhandara,7515,8004,6.51,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,29.13,20730,32.98,60.19,High,Advanced,High,Low,2026-08-06
+Insurance,Gadchiroli,33052,34485,4.34,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,44.93,56618,75.56,62.79,Medium,Moderate,Medium,Medium,2026-04-20
+Insurance,Hingoli,38644,40341,4.39,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,36.87,63445,52.92,77.69,Medium,Moderate,Low,Low,2026-06-23
+Insurance,Nandurbar,24724,25525,3.24,Insurance Agent; Claims Processor; Underwriter; Customer Support; Sales Manager,38.75,33005,39.23,56.3,Low,Basic,Medium,Medium,2026-05-24
+Gig Economy,Mumbai,25551,27932,9.32,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,47.38,24130,73.94,85.37,Medium,Advanced,High,Medium,2026-07-06
+Gig Economy,Pune,14382,15785,9.76,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,45.45,33364,49.96,70.64,No Change,Moderate,Low,Medium,2026-06-12
+Gig Economy,Nagpur,33942,37730,11.16,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,51.97,63307,72.59,82.96,High,Moderate,Medium,Low,2026-04-08
+Gig Economy,Thane,43613,45384,4.06,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,28.78,18755,55.81,58.55,High,Basic,High,Low,2026-03-12
+Gig Economy,Nashik,5718,6214,8.68,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,41.99,60131,46.63,88.38,Medium,Basic,Low,Medium,2026-08-29
+Gig Economy,Aurangabad,45326,47789,5.43,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,57.75,28780,33.45,41.45,Low,Advanced,Low,Medium,2026-06-03
+Gig Economy,Solapur,4019,4152,3.33,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,54.2,33346,30.77,79.9,High,Moderate,High,High,2026-06-17
+Gig Economy,Amravati,12627,13717,8.64,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,56.5,61610,84.08,85.13,Low,Basic,High,Low,2026-06-17
+Gig Economy,Kolhapur,47493,49657,4.56,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,56.35,41653,81.03,57.96,No Change,Basic,Medium,High,2026-07-11
+Gig Economy,Sangli,28493,30415,6.75,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,50.2,46776,51.39,82.08,No Change,Advanced,High,Medium,2026-04-01
+Gig Economy,Jalgaon,34718,36715,5.75,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,50.11,61153,42.5,66.86,No Change,Advanced,Medium,Medium,2026-06-25
+Gig Economy,Akola,19093,20394,6.82,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,51.05,58376,51.37,64.8,Medium,Emerging,High,High,2026-05-07
+Gig Economy,Latur,19102,20908,9.46,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,53.8,23070,69.7,82.9,Medium,Advanced,Medium,Low,2026-03-27
+Gig Economy,Dhule,39671,41409,4.38,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,35.63,47223,61.1,54.1,High,Advanced,Low,Low,2026-04-21
+Gig Economy,Ahmednagar,32546,34877,7.16,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,43.75,29964,35.08,49.31,High,Advanced,Low,Low,2026-03-13
+Gig Economy,Chandrapur,34417,35722,3.79,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,46.02,42287,66.94,69.01,Medium,Advanced,Medium,High,2026-07-05
+Gig Economy,Parbhani,32714,35105,7.31,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,51.1,37437,78.99,50.27,High,Advanced,Medium,High,2026-08-26
+Gig Economy,Jalna,9053,9446,4.34,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,21.55,41523,71.39,76.91,High,Advanced,Medium,Medium,2026-04-11
+Gig Economy,Bhiwandi,5754,6365,10.62,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,38.89,34368,38.44,76.01,Medium,Moderate,Medium,Medium,2026-08-04
+Gig Economy,Nanded,44634,47422,6.25,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,31.01,41763,37.65,83.27,Medium,Emerging,High,Medium,2026-06-15
+Gig Economy,Satara,35971,39910,10.95,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,48.36,66378,45.89,74.42,High,Basic,High,Medium,2026-08-01
+Gig Economy,Beed,35109,37881,7.9,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,47.78,45406,64.18,65.28,Medium,Advanced,Medium,High,2026-05-03
+Gig Economy,Yavatmal,40081,41728,4.11,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,51.95,65006,46.47,53.53,Low,Basic,High,Medium,2026-08-13
+Gig Economy,Osmanabad,11867,12408,4.56,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,59.53,33759,61.08,70.36,High,Emerging,Low,Low,2026-06-06
+Gig Economy,Raigad,2868,3172,10.62,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,46.98,23843,52.81,75.7,No Change,Basic,Low,Medium,2026-05-25
+Gig Economy,Ratnagiri,31013,33659,8.53,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,21.07,39601,70.69,63.5,Medium,Advanced,High,High,2026-04-24
+Gig Economy,Sindhudurg,42469,45792,7.83,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,18.6,46439,40.13,86.22,Low,Moderate,Medium,High,2026-05-04
+Gig Economy,Wardha,44343,46368,4.57,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,31.79,54573,68.92,81.1,Low,Emerging,High,Low,2026-03-18
+Gig Economy,Washim,31325,34994,11.71,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,51.91,66760,33.85,89.31,No Change,Advanced,Medium,Medium,2026-04-23
+Gig Economy,Gondia,9170,9519,3.81,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,15.42,20278,77.61,45.96,High,Advanced,High,High,2026-09-04
+Gig Economy,Bhandara,49163,54182,10.21,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,21.69,39865,74.33,64.15,No Change,Advanced,High,High,2026-06-02
+Gig Economy,Gadchiroli,11376,11737,3.18,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,59.82,58843,57.32,65.5,No Change,Moderate,Low,Low,2026-06-30
+Gig Economy,Hingoli,29898,32472,8.61,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,23.47,43753,42.26,45.65,Medium,Emerging,High,High,2026-05-24
+Gig Economy,Nandurbar,49233,51581,4.77,Delivery Partner; Ride Share Driver; Freelancer; Task Worker; Content Creator,52.01,31537,35.24,77.74,Low,Advanced,High,High,2026-05-31

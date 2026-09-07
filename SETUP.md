@@ -55,15 +55,16 @@ python3 build_and_launch.py
 - **A red error mentioning a missing CSV file** → make sure all 8 CSVs are still inside the `data/` folder with their original names.
 - **Anything else** → copy the exact error text and send it back in this chat — that's the fastest way for me to fix it for you.
 
-## What's inside this folder, if you're curious
-
 | Folder / file | What it is |
 |---|---|
 | `data/` | Your 8 datasets |
-| `src/` | The actual pipeline code (Modules 1–6) |
-| `frontend/dashboard_template.html` | The website design, without data filled in yet |
-| `build_and_launch.py` | The one script that connects everything and opens the website |
+| `src/` | The actual pipeline code (Modules 1–6 + API + Gemini insights + database models) |
+| `frontend/dashboard_template.html` | The website design, with live API fetching + Gemini AI briefing |
+| `src/api.py` | FastAPI server for live cloud deployment |
+| `init_db.py` | Initializes and seeds database tables on Neon Postgres |
+| `DEPLOYMENT.md` | Step-by-step guide for deploying on Render + Neon |
+| `build_and_launch.py` | The offline script that connects everything and opens the local website |
 | `outputs/` | Where all the calculated results get saved as CSVs, if you want to open them in Excel |
-| `kaushalsetu-dashboard.html` | The finished website — created after you run setup |
+| `kaushalsetu-dashboard.html` | The finished offline website — created after you run setup |
 
 You never need to edit anything to just *see* the dashboard. Only open `src/` files if you want to change how something is calculated.

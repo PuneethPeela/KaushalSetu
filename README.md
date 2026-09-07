@@ -147,11 +147,27 @@ browser (no server, same thresholds as `config.py`).
 - **Axis labels added** to both the hero timeline and the Future Prediction chart (Y = relative demand score 0–100+, X = time, with a note on what solid vs. dashed means).
 - **A "why this is different" strip** added to the Overview tab, summarizing the four things a generic reporting dashboard doesn't do (predicts forward, explains itself, reaches curriculum-level detail, and simulates decisions live).
 
-## Possible next step: a live server instead of a static file
+## Live Web App & API Architecture (New)
 
-Right now `build_and_launch.py` bakes results into a static HTML file —
-simple and zero-setup, but you re-run the script any time data changes. A
-small FastAPI server would let the dashboard fetch fresh results on demand
-instead, at the cost of needing a server running in the background. Worth
-doing if you want a live "Refresh" button in the UI itself; not necessary
-for a static demo or judging round.
+KaushalSetu is equipped with a live **FastAPI** backend, **Neon Postgres** database integration, and **Google Gemini Flash** narrative intelligence:
+
+### Running the Live Server Locally
+```bash
+# Start the live FastAPI server
+uvicorn src.api:app --reload --port 8000
+```
+Open `http://localhost:8000` to interact with the live dashboard, trigger in-process pipeline re-runs, and query real-time Gemini policy narratives.
+
+### API Endpoints
+- `GET /` — Serves the live interactive dashboard web app.
+- `GET /api/health` — Service health check, database status, and Gemini API readiness.
+- `GET /api/dashboard-data` — Full aggregated JSON data.
+- `POST /api/pipeline/run` — Executes pipeline end-to-end and updates tables.
+- `GET /api/skills/{skill}/insight` — Gemini Flash explainability & policy rationale.
+- `GET /api/districts/{district}/insight` — District workforce strategy brief.
+- `POST /api/simulate` — Server-side What-If policy scenario simulator.
+
+### Cloud Deployment (Render + Neon)
+- See `DEPLOYMENT.md` for instructions on deploying the free-tier Docker web service on **Render** paired with serverless PostgreSQL on **Neon**.
+- Render Free Tier note: Instances sleep after 15 minutes of inactivity; allow ~30–50s on initial cold start.
+

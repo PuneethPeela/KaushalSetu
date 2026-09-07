@@ -303,6 +303,39 @@
   }
   .top-skill-line:last-child{border-bottom:none;}
 
+  /* ---------- AI NARRATIVE & ACTION CARDS ---------- */
+  .ai-card{
+    background:linear-gradient(135deg, rgba(47,191,159,0.06), rgba(242,169,59,0.06));
+    border:1px solid rgba(47,191,159,0.3);
+    border-radius:var(--radius-lg);
+    padding:22px; margin-top:18px;
+    position:relative;
+  }
+  .ai-badge{
+    display:inline-flex; align-items:center; gap:6px;
+    background:rgba(47,191,159,0.14); color:var(--teal);
+    border:1px solid rgba(47,191,159,0.4);
+    font-size:11px; font-weight:700; text-transform:uppercase; letter-spacing:0.04em;
+    padding:3px 9px; border-radius:999px;
+  }
+  .ai-btn{
+    background:var(--surface-2); border:1px solid var(--line);
+    color:var(--paper); font-family:'Inter'; font-size:12.5px; font-weight:600;
+    padding:7px 14px; border-radius:8px; cursor:pointer;
+    display:inline-flex; align-items:center; gap:8px;
+    transition:all .15s ease;
+  }
+  .ai-btn:hover{
+    border-color:var(--amber); color:var(--amber); background:var(--surface);
+  }
+  .pipeline-refresh-btn{
+    background:var(--amber); color:#20150a; font-family:'Inter'; font-size:12px;
+    font-weight:700; border:none; padding:7px 14px; border-radius:999px; cursor:pointer;
+    display:inline-flex; align-items:center; gap:6px; transition:transform .1s ease, opacity .1s ease;
+  }
+  .pipeline-refresh-btn:hover{opacity:0.9; transform:scale(1.02);}
+  .pipeline-refresh-btn:disabled{opacity:0.6; cursor:not-allowed;}
+
   footer.note{
     margin-top:40px; padding-top:18px; border-top:1px solid var(--line-soft);
     color:var(--muted-2); font-size:12px; line-height:1.6;
@@ -356,6 +389,12 @@
         <div>
           <h1>Demand overview</h1>
           <div class="sub">What the market is asking for right now, and where it's heading. Every number below is drawn from extracted job-posting skills, not a static list.</div>
+        </div>
+        <div style="display:flex; align-items:center; gap:12px;">
+          <button class="pipeline-refresh-btn" id="btn-run-pipeline" onclick="triggerPipelineRun()">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+            <span id="btn-run-pipeline-text">Re-run Pipeline</span>
+          </button>
         </div>
       </div>
 
@@ -531,6 +570,26 @@
         </div>
         <div class="tl-labels" id="traj-labels" style="margin-top:8px;"></div>
       </div>
+
+      <!-- GEMINI AI POLICY INSIGHT CARD -->
+      <div class="ai-card" id="fc-ai-card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:14px; flex-wrap:wrap; gap:10px;">
+          <div style="display:flex; align-items:center; gap:10px;">
+            <span class="ai-badge">Google Gemini Flash AI</span>
+            <span style="font-weight:600; font-size:14px;">Real-Time Labor Market Narrative &amp; Policy Rationale</span>
+          </div>
+          <button class="ai-btn" id="btn-fc-ai" onclick="fetchSkillAIInsight()">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+            Generate AI Rationale
+          </button>
+        </div>
+        <div id="fc-ai-content" style="font-size:13.5px; line-height:1.7; color:var(--paper); white-space:pre-line;">
+          Click "Generate AI Rationale" to ask Gemini Flash to narrate the explainability signals (growth momentum, sector indicators, obsolescence risk, and capacity expansion actions) for the selected skill.
+        </div>
+        <div id="fc-ai-meta" style="font-size:11px; color:var(--muted-2); margin-top:12px; border-top:1px dashed var(--line-soft); padding-top:8px;">
+          Powered by Gemini 2.5 Flash API · Grounded purely on pre-computed pipeline metrics.
+        </div>
+      </div>
     </div>
 
     <!-- ============ GAP ============ -->
@@ -573,6 +632,16 @@
           <div class="col">
             <div class="h">CURRICULUM STATUS</div>
             <div id="rec-curriculum" style="font-size:13.5px; color:var(--muted); line-height:1.6;"></div>
+          </div>
+        </div>
+        <!-- GEMINI AI ACTION PLAN -->
+        <div class="ai-card" style="margin-top:20px; background:rgba(255,255,255,0.02); border-color:rgba(242,169,59,0.3);">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+            <span class="ai-badge" style="background:rgba(242,169,59,0.15); color:var(--amber); border-color:rgba(242,169,59,0.4);">AI Policy Briefing</span>
+            <button class="ai-btn" onclick="fetchRecommendationAIInsight()">Refresh AI Action Brief</button>
+          </div>
+          <div id="rec-ai-content" style="font-size:13px; line-height:1.65; color:var(--paper); white-space:pre-line;">
+            Loading policy brief for headline recommendation...
           </div>
         </div>
       </div>
@@ -624,6 +693,20 @@
       </div>
       <div class="district-grid" id="district-grid"></div>
       <div class="card detail-panel" id="district-detail"></div>
+
+      <!-- GEMINI AI DISTRICT STRATEGY CARD -->
+      <div class="ai-card" id="district-ai-card">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+          <div style="display:flex; align-items:center; gap:8px;">
+            <span class="ai-badge">District Strategy AI</span>
+            <span style="font-weight:600; font-size:13.5px;" id="district-ai-title">District Workforce Allocation Brief</span>
+          </div>
+          <button class="ai-btn" onclick="fetchDistrictAIInsight()">Update District AI Strategy</button>
+        </div>
+        <div id="district-ai-content" style="font-size:13px; line-height:1.65; color:var(--paper); white-space:pre-line;">
+          Select a district to review automated workforce allocation and training seat recommendations.
+        </div>
+      </div>
 
       <footer class="note">
         Every number on this screen is computed from your 8 uploaded datasets by the KaushalSetu pipeline (M1–M4) — nothing here is placeholder. To refresh with new data: run <code>python run_pipeline.py</code>, then re-generate this dashboard from the new outputs.
@@ -1092,6 +1175,132 @@ renderCurriculum();
 renderDistricts();
 populateSimSelect();
 renderRailFooter();
+
+// ---------------- LIVE API & GEMINI AI INTEGRATIONS ----------------
+async function triggerPipelineRun(){
+  const btn = document.getElementById('btn-run-pipeline');
+  const txt = document.getElementById('btn-run-pipeline-text');
+  btn.disabled = true;
+  txt.textContent = 'Running Pipeline...';
+  try {
+    const res = await fetch('/api/pipeline/run?sync=true', { method: 'POST' });
+    if (res.ok) {
+      txt.textContent = 'Updating...';
+      const freshRes = await fetch('/api/dashboard-data');
+      if (freshRes.ok) {
+        const freshData = await freshRes.json();
+        Object.assign(DATA, freshData);
+        renderPipelineStats();
+        populateHeroSkillSelect();
+        renderHero();
+        renderRankList();
+        renderGrowthOverview();
+        populateSkillSearch();
+        renderForecastChart();
+        renderGapList();
+        renderRecommendation();
+        renderCurriculum();
+        renderDistricts();
+        populateSimSelect();
+        renderRailFooter();
+        txt.textContent = 'Updated!';
+      }
+    } else {
+      txt.textContent = 'Run Failed';
+    }
+  } catch (err) {
+    console.log('Local/offline mode or API unreachable:', err);
+    txt.textContent = 'Offline Mode';
+  }
+  setTimeout(() => {
+    btn.disabled = false;
+    txt.textContent = 'Re-run Pipeline';
+  }, 2500);
+}
+
+async function fetchSkillAIInsight(){
+  const s = DATA.forecast_skills[selectedSkillIdx];
+  const card = document.getElementById('fc-ai-content');
+  const meta = document.getElementById('fc-ai-meta');
+  const btn = document.getElementById('btn-fc-ai');
+  btn.disabled = true;
+  card.innerHTML = `<span style="color:var(--amber);">Querying Gemini Flash for ${s.name} narrative...</span>`;
+  try {
+    const res = await fetch(`/api/skills/${encodeURIComponent(s.name)}/insight`);
+    if (res.ok) {
+      const insight = await res.json();
+      card.innerHTML = insight.narrative;
+      meta.innerHTML = `Model: <b>${insight.model_used}</b> · Status: ${insight.is_fallback ? 'Rule-Based Fallback' : 'Live GenAI Narrative'}`;
+    } else {
+      card.innerHTML = `<span style="color:var(--coral);">Insight service temporarily unavailable.</span>`;
+    }
+  } catch (e) {
+    card.innerHTML = `• <b>Demand Signal:</b> ${s.name} shows projected demand score of <b>${s['fut'+selectedHorizon]}</b> (${s.confidence}% confidence).<br>• <b>Infrastructure Recommendation:</b> Prioritize trainer allocations and equipment upgrades in local vocational centers.`;
+    meta.innerHTML = `Offline local mode. Deploy to Render with GEMINI_API_KEY for live real-time narration.`;
+  }
+  btn.disabled = false;
+}
+
+async function fetchRecommendationAIInsight(){
+  const r = DATA.recommendation;
+  const card = document.getElementById('rec-ai-content');
+  card.innerHTML = `<span style="color:var(--amber);">Generating policy brief for ${r.skill}...</span>`;
+  try {
+    const res = await fetch(`/api/skills/${encodeURIComponent(r.skill)}/insight?district=${encodeURIComponent(r.district)}`);
+    if (res.ok) {
+      const insight = await res.json();
+      card.innerHTML = insight.narrative;
+    } else {
+      card.innerHTML = `Expand +${r.seats} seats in ${r.district} with +${r.trainers} certified instructors and +${r.labs} lab facilities.`;
+    }
+  } catch (e) {
+    card.innerHTML = `Policy Action: Expand +${r.seats} training seats in ${r.district} to resolve critical shortage status.`;
+  }
+}
+
+async function fetchDistrictAIInsight(){
+  const d = DATA.districts[selectedDistrict];
+  const card = document.getElementById('district-ai-content');
+  const title = document.getElementById('district-ai-title');
+  title.textContent = `${d.name} — AI Workforce Strategy`;
+  card.innerHTML = `<span style="color:var(--amber);">Analyzing ${d.name} district labor capacity...</span>`;
+  try {
+    const res = await fetch(`/api/districts/${encodeURIComponent(d.name)}/insight`);
+    if (res.ok) {
+      const insight = await res.json();
+      card.innerHTML = insight.narrative;
+    } else {
+      card.innerHTML = `Target seat gap across ${d.name}: +${d.gapSeats} seats with focus on ${d.topSkill}.`;
+    }
+  } catch (e) {
+    card.innerHTML = `Across ${d.name}, expand +${d.gapSeats} training seats and +${d.trainers} instructors focusing on ${d.topSkill}.`;
+  }
+}
+
+// Auto-fetch dynamic JSON if served over HTTP/HTTPS live server
+if (window.location.protocol.startsWith('http')) {
+  fetch('/api/dashboard-data')
+    .then(r => r.ok ? r.json() : null)
+    .then(freshData => {
+      if (freshData) {
+        Object.assign(DATA, freshData);
+        renderPipelineStats();
+        populateHeroSkillSelect();
+        renderHero();
+        renderRankList();
+        renderGrowthOverview();
+        populateSkillSearch();
+        renderForecastChart();
+        renderGapList();
+        renderRecommendation();
+        renderCurriculum();
+        renderDistricts();
+        populateSimSelect();
+        renderRailFooter();
+      }
+    })
+    .catch(() => {});
+}
 </script>
 </body>
 </html>

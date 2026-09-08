@@ -3,8 +3,8 @@
 
 🌐 **Live Deployment Link:** [https://261d432402c9cce0-122-179-43-162.serveousercontent.com](https://261d432402c9cce0-122-179-43-162.serveousercontent.com) temporary
 
-🌐 **Live Deployment Link:** [https://kaushalsetu-app.onrender.com/](https://kaushalsetu-app.onrender.com/)
-
+🌐 **Live Deployment Link:** [https://kaushalsetu-app.onrender.com/](https://kaushalsetu-app.onrender.com/) permanent
+ 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PuneethPeela/KaushalSetu)
 
 **New here / not a programmer? Read `SETUP.md` instead of this file — it's the plain-language version.**
